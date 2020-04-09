@@ -1,3 +1,20 @@
+\chapter{Basics and general information}%
+\label{cha:Basics and general information}
 
+\\section{Building the Linux distribution}%
+\label{sec:Building the Linux distribution}
 
-\chapter{Grundlage}%
+\begin{description}
+    \item[To build the Linux distribution] the framework \textit{PTXdist} is
+        used. Refer to \cite{PTXdist} to get an introduction to PTXdist.
+    \item[How to install PTXdist] and get the framework running, refer to
+        \cite{install_ptxdist}. This describes how to install the
+        \textbf{right cross compiler version} as well as how to configure
+        PTXdist and the BSP, provided by TQ \cite[TQ BSP]{BSP_119}. Its
+        important that the cross compiler is compatible to the used Linux kernel
+        as well as the other sources provided by the BSP and PTXdist
+        \textit{rules} (some kind of medadata describing how and were to
+        download and install some sources and packets).
+    \item[How to use PTXdist] refer to \cite[PTXdist manual]{ptxdist_manual}
+\end{description}
+\\

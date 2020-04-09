@@ -1,1 +1,30 @@
-\chapter{Einleitung} \label{chp:einleitung}
+\chapter{Introduction} \label{chp:einleitung}
+
+The XXX is a client-server system communicating over an CAN interface. The XXX
+is the client which gets input from buttons and switches, displays the action
+on an LCD and sends information over to the server.
+
+\section{About the Hardware}%
+\label{sec:About the Hardware}
+
+The hardware is based on an tqma335x module which uses an TI am335x
+microcontroller. Refer to \cite[TQ product website]{tqam335x} and
+\cite[TI am335x manual]{tiam335x} to get more information.
+
+
+\section{About the Linux Kernel}%
+\label{sec:About the Linux Kernel}
+
+A mainline Linux kernel version 4.4.39 is running on this hardware. This kernel
+version is compatible to the last release of BSP packed version 119 supporting
+the last revision 2.2.3 of the tqma335x module. The used \ac{BSP} was released
+in Dezember 2019. To be compatible to this BSP was the reason choosing this
+kernel version and not a Linux kernel 5.x.
+\\
+Some changes were made to the Linux mainline Kernel like replacing the DRM video
+drivers to get the LCD running according to the TI errata \cite{am335_errata} as
+well as changes in the Kernel configuration.
+\\
+The howl changes made to mainline kernel provided by the TQ BSP packet Version
+119 \cite{tq_bsp119} are described during the following chapters inside this
+document.
