@@ -1,0 +1,135 @@
+\documentclass[
+	12pt,
+	a4paper,
+	bibtotoc,
+	cleardoubleempty,
+	idxtotoc,
+	ngerman,
+	openright,
+	final,
+	listof=nochaptergap,
+	]{scrbook}
+
+
+
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[printonlyused]{acronym}
+\usepackage{tabularx}
+\usepackage{listings}
+\usepackage{quoting}
+
+\include{configs/preamble}
+
+\begin{document}
+
+% ##################################################
+% Definitionen neuer Befehle
+% ##################################################
+\newcommand{\bb}{$\backslash$} %Backshlash
+
+
+\setcounter{secnumdepth}{3}
+
+% ##################################################
+% Titelblatt
+% ##################################################
+\include{configs/title}
+\cleardoubleemptypage
+
+\frontmatter
+
+
+% ##################################################
+% Abstract
+% ##################################################
+%\include{content/abstract}
+\cleardoubleemptypage
+
+
+% ##################################################
+% Inhaltsverzeichnis
+% ##################################################
+\tableofcontents
+\addcontentsline{toc}{chapter}{Inhaltsverzeichnis}
+\cleardoubleemptypage
+
+
+% ##################################################
+% Abbildungsverzeichnis einbinden und ins Inhaltsverzeichnis
+% ##################################################
+% WORKAROUND: tocloft und KOMA funktionieren zusammen nicht
+% korrekt\phantomsection
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures
+\cleardoubleemptypage
+
+
+% ##################################################
+% Tabellenverzeichnis einbinden und ins Inhaltsverzeichnis
+% WORKAROUND: tocloft und KOMA funktionieren zusammen nicht
+% korrekt\phantomsection
+% ##################################################
+%\phantomsection
+%\addcontentsline{toc}{chapter}{\listtablename}
+%\listoftables
+%\cleardoubleemptypa
+%\usepackage[printonlyused]{acronym}ge
+
+
+% ##################################################
+% Abkürzungsverzeichnis
+% ##################################################
+\include{content/abbreviations}
+
+
+
+
+% ##################################################
+% Content
+% ##################################################
+
+\mainmatter
+\include{content/einleitung}
+\include{content/grundlagen}
+\include{content/ausbilck}
+%
+
+
+% ##################################################
+% %Gossary
+% ##################################################
+\printglossaries
+\addcontentsline{toc}{chapter}{Glossar}
+\cleardoubleemptypage
+
+
+% ##################################################
+% Schalgwortverzeichnis (Index)
+% ##################################################
+\printindex
+
+
+
+% ##################################################
+% Literaturverzeichnis
+% ##################################################
+\doublespacing
+
+\printbibheading
+\printbibliography[heading=subbibliography,type=book,title={Books}]
+\printbibliography[heading=subbibliography,type=article,title={Articles}]
+\printbibliography[heading=subbibliography,type=online,title={Online resorces}]
+\printbibliography[heading=subbibliography,type=Webpage,title={Online Webpages}]
+\printglossary[type=\acronymtype,title=Abbreviations]
+
+% ##################################################
+% Eidesstattliche Erklärung
+% ##################################################
+% \include{content/affirmation}
+
+\appendix
+% Hier können Anhaenge angefuegt werden
+
+\end{document}

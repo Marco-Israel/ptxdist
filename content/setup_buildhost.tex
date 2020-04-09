@@ -1,0 +1,222 @@
+\chapter{Setup build host and environment }%
+\label{cha:Setup}
+
+\section{Setup the toolchain}%
+\label{sec:Setup the toolchain}
+How to setup the toolchain for ptx you can find here: \cite{todo}
+
+
+\section{Setup PTXdist}%
+\label{sec:Setup PTXdist}
+\subsection{Install PTXdist}%
+\label{sub:Install PTXdist}
+How to get and install ptxdist you can find here: \cite{todo}
+
+
+\subsection{Configure PTXdist}%
+\label{sub:Configure PTXdist}
+
+
+\subsubsection{Select default preconfigurations}%
+\label{ssub:default configuration}
+You can call the script:
+\begin{listing}[{language=bash, caption={Q-Systems enviroment setup script}]
+    \$tools/config-tqma335x.qt4
+\end{listing}
+
+Afterwards run a clean default build:
+        \begin{listing}[language=bash]
+            \$  ptxdist go --git
+				[...downloading and build default packes, kernel bootloader...]
+            \$  ptxdist images
+				[...building all selected imagetypes in the  kernelconfig...]
+        \end{listing}
+
+You also can manual select a needed configurations as follows:
+
+\begin{description}
+    \item[Select a Software configuration]
+        \begin{listing}[language=bash]
+            \$  ptxdist select 'configs/platforms/tqma335x/mba335x/platformconfig'
+        \end{listing}
+        \newline
+        \cite[Selecting a Userland Configuration]{PTXdist:User_Manual}
+    \item[Select a Hardware configuration]
+        \begin{listing}[language=bash]
+            \$ ptxdist platform 'configs/systems/qt/ptxconfig'
+        \end{listing}
+        You can take al look at:
+        \cite[Selecting a Hardware Platform]{PTXdist:User_Manual}
+    \item[Select a toolchain]
+        The toolchain should be autoselected. If not. take do it manual
+        \begin{listing}[language=bash]
+            \$ ptxdist toolchain '/opt/<path-to-your-toolchain/bin'
+        \end{listing}
+        You can take al look at:
+        \cite[Selecting a Toolchain]{PTXdist:User_Manual}
+\end{description}
+
+Afterwards run a clean default build:
+        \begin{listing}[language=bash]
+            \$ ./p images --git
+        \end{listing}
+
+
+\subsubsection{Modify default configuration}%
+\label{ssub:Modify default configuration}
+
+It is recommended to change at least the following settings:
+
+\begin{description}
+
+
+	\item[ptxdist setup]
+
+		\begin{itemize} \textbf{de}activate:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} activate:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} change:
+		        \begin{lstlisting}[caption={}]
+ 					Source Directories  --->
+						<path to a global folder aviable for all project
+						with write and read access>
+
+				\end{lstlisting}
+		\end{itemize}
+
+
+	\item[ptxdist boardsetup]
+
+		\begin{itemize} \textbf{de}activate:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} activate:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} change:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+
+    \item[ptxdist menuconfig]
+
+		\begin{itemize} \textbf{de}activate:
+		        \begin{lstlisting}[caption={}]
+		 < > tq-systems-media
+		 < > collection of small examples (Qt)
+		 < > collection of small examples  ----
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} activate:
+		        \begin{lstlisting}[caption={}]
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} change:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+
+	\item[ptxdist platformconfig]
+
+		\begin{itemize} \textbf{de}activate:
+		        \begin{lstlisting}[caption={extra kernel imges to generate}]
+                    extra kernel   --->
+                        [ ] Linux kernel (rt)  --->
+                        [ ] Linux kernel (Texas Instruments)
+				\end{lstlisting}
+
+		        \begin{lstlisting}[caption={Images NOT to create #1}]
+                    image creation options    --->
+                        [ ] Generate images/boot-mlo-ab.vfat
+                        [ ] Generate images/root.cpio
+                        [ ] Generate images/root.cpio.gz
+                        [ ] Generate images/root.ext2
+                        [ ] Generate images/hd.img
+                        [ ] Generate images/hd.vdi
+                        [ ] Generate images/root.jffs2
+				\end{lstlisting}
+
+
+		        \begin{lstlisting}[caption={Images NOT to create #2}]
+                    new image creation options    --->
+                        [ ] Generate images/boot-mlo-ab.vfat
+                        [ ] Generate images/boot-mlo-uboot.vfat
+                        [ ] Generate images/boot-mlo-ab-uboot.vfat
+                        [ ] Generate images/boot-mlo.vfat
+                        [ ] Generate images/root.ext2
+                        [ ] Generate images/sd-ab.hdimg
+                        [ ] Generate images/sd-uboot.hdimg
+                        [ ] Generate images/sd-ab-uboot.hdimg
+                        [ ] Generate images/sd.hdimg
+				\end{lstlisting}
+
+
+		\end{itemize}
+
+		\begin{itemize} activate:
+		        \begin{lstlisting}[caption={Images TO create #1}]
+                    image creation options    --->
+                        -*- Generate images/linuximage    --->
+                                [ ]   include root filesystem as initramfs in kernel
+                                [ ]   Generate a lzop compressed kernel image
+                        [*] Generate images/root.tgz
+				\end{lstlisting}
+
+
+		        \begin{lstlisting}[caption={Images TO create #2}]
+                    new image creation options    --->
+                            [*] Generate images/root.tgz
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} change:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}[caption={}]
+		\end{itemize}
+
+
+	\item[ptxdist kernelconfig]
+
+		\begin{itemize} \textbf{de}activate:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} activate:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+		\begin{itemize} change:
+		        \begin{lstlisting}[caption={}]
+
+				\end{lstlisting}
+		\end{itemize}
+
+
+\end{description}
+

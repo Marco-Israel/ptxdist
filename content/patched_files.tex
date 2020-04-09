@@ -1,0 +1,78 @@
+
+
+\chapter{Patched and modified files}%
+\label{cha:Patched and modified files}
+
+Patched and modified files are mostly unter GIT version control. Not unpatched
+or not manual modified files are in the .gitignore list.
+
+\section{Patching files}%
+\label{sec:Pached files}
+
+\subsection{How to patch files}%
+\label{sub:How to pach files}
+\begin{description}
+    \item[Patching process in PTX dist]
+        To learn how patching process work in PTXdist refer to \cite{todo}
+    \item[GNU-Tools \textit{diff},  \textit{patch} \textit{merge}] To get an
+        introduction of the general Linux patching process using
+        standard GNU-Tools, take a look at
+        \cite[GNU Diff and Patch]{GNUPatchTools:Patch_Diff_Exaples} and
+        \cite[GNU Merge]{GNUPatchTools:Merge_Examples}. Also take a look at the
+        Linux manual pages in section 1:
+        \begin{itemize}
+            \item man 1 patch
+            \item man 1 diff
+            \item man 1 merge
+        \end{itemize}
+\end{description}
+
+\subsection{Patched files}%
+\label{sub:Patched fiels}
+The following files gets influenced (patched) during due to .patch files.
+
+\begin{itemize}
+    \item --- currently none ---
+\end{itemize}
+
+
+\section{Manuel modified files}%
+\label{sec:Manuel modified files}
+
+The following files are manual modified in the way described below:.
+
+\begin{description}
+    \item[rules/mmc-utils.make]
+        \begin{itemize}
+            \item Original part
+                \begin{lstlisting}[caption={rules/mmc-utils}]
+ 19 #<<<< OLD VERSION
+ 20 ## No tags: use a fake descriptive commit-ish to include the date
+ 21 #MMC_UTILS_VERSION  := 2016-06-07-g0ca049f25191
+ 24 #MMC_UTILS_SUFFIX   := tar.gz
+ 25 #MMC_UTILS_URL      := git://git.kernel.org/pub/scm/linux/kernel/   	\
+								git/cjb/mmc-utils.git;tag=$(MMC_UTILS_VERSION)
+ 26 #MMC_UTILS_SOURCE   := $(SRCDIR)/$(MMC_UTILS).$(MMC_UTILS_SUFFIX)
+ 27 #MMC_UTILS_DIR      := $(BUILDDIR)/$(MMC_UTILS)
+ 28 #MMC_UTILS_LICENSE  := GPL-2.0 AND BSD-3-Clause
+ 29 #======
+                \end{lstlisting}
+            \item Modified part
+
+                \begin{lstlisting}[caption={rules/mmc-utils}]
+30 #>>>> NEW VERSION
+ 31 # No tags: use a fake descriptive commit-ish to include the date
+ 32 MMC_UTILS_VERSION   := 37c86e60c0442fef570b75cd81aeb1db4d0cbaf
+ 33 #MMC_UTILS_MD5      := da395e908be7e11bd8417cc02485be3
+ 34 MMC_UTILS_MD5       := 1223011c75169739b73c01caab281e1
+ 35 MMC_UTILS           := mmc-utils-$(MMC_UTILS_VERSION)
+ 36 MMC_UTILS_SUFFIX    := tar.gz
+ 37 MMC_UTILS_URL       := http://sources.buildroot.net/mmc-utils/mmc-utils-$(MMC_UTILS_URL).$(MMC_UTILS_SUFFIX)
+ 38 MMC_UTILS_SOURCE    := $(SRCDIR)/$(MMC_UTILS).$(MMC_UTILS_SUFFIX)
+ 39 MMC_UTILS_DIR       := $(BUILDDIR)/$(MMC_UTILS)
+ 40 MMC_UTILS_LICENSE   := GPL-2.0 AND BSD-3-Clause
+                \end{lstlisting}
+
+        \end{itemize}
+\end{description}
+

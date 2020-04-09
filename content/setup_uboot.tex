@@ -1,0 +1,13 @@
+
+configuration of U-Boot Environment
+
+The bootloader environment needs to be modified to work with your tftp-server and your nfs-server.
+
+    setenv autoload no
+    setenv serverip <serverip> (e.g.: setenv serverip 192.168.100.1)
+    setenv ipaddr <ipaddr> (e.g.: setenv ipaddr 192.168.0.10)
+    setenv netmask <netmask> (e.g.: setenv netmask 255.255.255.0)
+    setenv rootpath <rootpath> (NFS share has to set in /etc/exports on the Computer that runs the NFS server first)
+    setenv dtb <dtb> (name of devicetree file to be downloaded from the tftp server)
+    setenv kernel <kernel> (name of the Linux kernel image to be downloaded from the tftp server)
+
