@@ -1,0 +1,313 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+usb.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/usb.tex	1;"	kind:file	line:1
+glossary.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	1;"	kind:file	line:1
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=BSP,$/;"	kind:macro	line:5
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={A board suppord packet holds \\gls{metadata} how to build software$/;"	kind:macro	line:6
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=NFS,$/;"	kind:macro	line:13
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={ Das \\acrfull{NFSacr}, (auch Network File Service) ist ein$/;"	kind:macro	line:14
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=TFTP,$/;"	kind:macro	line:25
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Das \\acrfull{TFTPacr} ist ein im$/;"	kind:macro	line:26
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=GIT,$/;"	kind:macro	line:32
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={ Git ist eine freie Software zur verteilten Versionsverwaltung von$/;"	kind:macro	line:33
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Dockerfile,$/;"	kind:macro	line:40
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Ein Dockerfile beschreibt wie ein \\gls{Docker} Container (Image)$/;"	kind:macro	line:41
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=CVS,$/;"	kind:macro	line:47
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={$/;"	kind:macro	line:48
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=VCS,$/;"	kind:macro	line:58
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={$/;"	kind:macro	line:59
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Yocto,$/;"	kind:macro	line:70
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={$/;"	kind:macro	line:71
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=QEMU,$/;"	kind:macro	line:84
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={QEMU ist (von englisch „Quick Emulator“) ist eine freie$/;"	kind:macro	line:85
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Wrapper,$/;"	kind:macro	line:92
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={ Ein Wrapper ist ein Sofwareinterface das Interaktion mit einem$/;"	kind:macro	line:93
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=OpenEmbedded,$/;"	kind:macro	line:101
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={ Eine Community Gruppe welche eine Softwareware Buildumgebung$/;"	kind:macro	line:102
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Recipies,$/;"	kind:macro	line:108
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Rezepte oder Anleitungen}$/;"	kind:macro	line:109
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Metadaten,$/;"	kind:macro	line:114
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Metadaten oder Metainformationen sind Informationen über andere$/;"	kind:macro	line:115
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Docker,$/;"	kind:macro	line:120
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Docker ist eine Software zur virtualisierung von einzelnen$/;"	kind:macro	line:121
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    name=SDK,$/;"	kind:macro	line:126
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    description={Ein \\acrfull{SDKacr} ist eine gekapselte bzw.$/;"	kind:macro	line:127
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    name=rootfs,$/;"	kind:macro	line:135
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    description={Unter Linux wird das urspüngliche  \\textit{rootfs} als der Ort$/;"	kind:macro	line:136
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    name=Workflow,$/;"	kind:macro	line:143
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    description={Ein Wokflow ist ein Arbeitsablauf und beschreibt Schritte in$/;"	kind:macro	line:144
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    name=dummy,$/;"	kind:macro	line:151
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    description=dummy{$/;"	kind:macro	line:152
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    name=Poky,$/;"	kind:macro	line:156
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    description={Minimalistisches Betriebssystem der \\gls{Yocto} Community das$/;"	kind:macro	line:157
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    name=Distribution,$/;"	kind:macro	line:163
+plural	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    plural=Distributionen,$/;"	kind:macro	line:164
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^    description={Als Distribution bezeichnet man eine Zusammenstellung von$/;"	kind:macro	line:165
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Feature,$/;"	kind:macro	line:301
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Merkmal oder Eigenschaft, wie eine besondere Funktionalität}$/;"	kind:macro	line:302
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Root,$/;"	kind:macro	line:341
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Wurzel, Ursprung von dem etwas ausgeht. Im Unix Betriebssystem$/;"	kind:macro	line:342
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Root File System,$/;"	kind:macro	line:353
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Wurzel (\\gls{Root}) des Linux Datei Systems unter welchem weitere$/;"	kind:macro	line:354
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=metadata,$/;"	kind:macro	line:524
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Metadata are information about a file. Like the fileformat, the$/;"	kind:macro	line:525
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=metadata files,$/;"	kind:macro	line:530
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Metadata files are files holding only \\gls{metadata} about one ore$/;"	kind:macro	line:531
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Metadaten,$/;"	kind:macro	line:535
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Metadaten oder Metainformationen sind Informationen über andere Daten}$/;"	kind:macro	line:536
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Metadatendatei,$/;"	kind:macro	line:540
+description	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^description={Eine Datei, welche \\glspl{Meta} (Informationen zu anderen Daten) über ndere Daten enthält.}$/;"	kind:macro	line:541
+name	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex	/^name=Tool, description={Ein Tool (Informationstechnik, zu Deutsch$/;"	kind:macro	line:604
+final_images.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/final_images.tex	1;"	kind:file	line:1
+overview.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/overview.tex	1;"	kind:file	line:1
+setup_uboot.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/setup_uboot.tex	1;"	kind:file	line:1
+einleitung.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/einleitung.tex	1;"	kind:file	line:1
+setup_buildhost.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/setup_buildhost.tex	1;"	kind:file	line:1
+locations.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/locations.tex	1;"	kind:file	line:1
+abbreviations.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/abbreviations.tex	1;"	kind:file	line:1
+patches.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	1;"	kind:file	line:1
+MMC_UTILS_VERSION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 21 #MMC_UTILS_VERSION  := 2016-06-07-g0ca049f25191$/;"	kind:macro	line:112
+MMC_UTILS_SUFFIX	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 24 #MMC_UTILS_SUFFIX   := tar.gz$/;"	kind:macro	line:113
+MMC_UTILS_URL	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 25 #MMC_UTILS_URL      := git:\/\/git.kernel.org\/pub\/scm\/linux\/kernel\/   	\\$/;"	kind:macro	line:114
+MMC_UTILS_SOURCE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 26 #MMC_UTILS_SOURCE   := $(SRCDIR)\/$(MMC_UTILS).$(MMC_UTILS_SUFFIX)$/;"	kind:macro	line:116
+MMC_UTILS_DIR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 27 #MMC_UTILS_DIR      := $(BUILDDIR)\/$(MMC_UTILS)$/;"	kind:macro	line:117
+MMC_UTILS_LICENSE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 28 #MMC_UTILS_LICENSE  := GPL-2.0 AND BSD-3-Clause$/;"	kind:macro	line:118
+MC_UTILS_VERSION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 32 MMC_UTILS_VERSION   := 37c86e60c0442fef570b75cd81aeb1db4d0cbaf$/;"	kind:macro	line:126
+MMC_UTILS_MD5	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 33 #MMC_UTILS_MD5      := da395e908be7e11bd8417cc02485be3$/;"	kind:macro	line:127
+MC_UTILS_MD5	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 34 MMC_UTILS_MD5       := 1223011c75169739b73c01caab281e1$/;"	kind:macro	line:128
+MC_UTILS	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 35 MMC_UTILS           := mmc-utils-$(MMC_UTILS_VERSION)$/;"	kind:macro	line:129
+MC_UTILS_SUFFIX	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 36 MMC_UTILS_SUFFIX    := tar.gz$/;"	kind:macro	line:130
+MC_UTILS_URL	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 37 MMC_UTILS_URL       := http:\/\/sources.buildroot.net\/mmc-utils\/mmc-utils-$(MMC_UTILS_URL).$(MMC_UTILS_SUFFIX)$/;"	kind:macro	line:131
+MC_UTILS_SOURCE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 38 MMC_UTILS_SOURCE    := $(SRCDIR)\/$(MMC_UTILS).$(MMC_UTILS_SUFFIX)$/;"	kind:macro	line:132
+MC_UTILS_DIR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 39 MMC_UTILS_DIR       := $(BUILDDIR)\/$(MMC_UTILS)$/;"	kind:macro	line:133
+MC_UTILS_LICENSE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex	/^ 40 MMC_UTILS_LICENSE   := GPL-2.0 AND BSD-3-Clause$/;"	kind:macro	line:134
+scripts.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/scripts.tex	1;"	kind:file	line:1
+grundlagen.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/grundlagen.tex	1;"	kind:file	line:1
+ausbilck.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/ausbilck.tex	1;"	kind:file	line:1
+main.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex	1;"	kind:file	line:1
+listof	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex	/^	listof=nochaptergap,$/;"	kind:macro	line:10
+heading	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex	/^\\printbibliography[heading=subbibliography,type=book,title={Books}]$/;"	kind:macro	line:127
+heading	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex	/^\\printbibliography[heading=subbibliography,type=article,title={Articles}]$/;"	kind:macro	line:128
+heading	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex	/^\\printbibliography[heading=subbibliography,type=online,title={Online resorces}]$/;"	kind:macro	line:129
+heading	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex	/^\\printbibliography[heading=subbibliography,type=Webpage,title={Online Webpages}]$/;"	kind:macro	line:130
+title.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/title.tex	1;"	kind:file	line:1
+height	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/title.tex	/^\\includegraphics[height=3cm]{pictures\/logo.jpg}$/;"	kind:macro	line:10
+preamble.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	1;"	kind:file	line:1
+german	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^\\usepackage[babel, german=quotes]{csquotes}$/;"	kind:macro	line:51
+bindingoffset	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^	bindingoffset=1.5cm,$/;"	kind:macro	line:68
+inner	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^	inner=2.5cm,$/;"	kind:macro	line:69
+outer	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^	outer=2.5cm,$/;"	kind:macro	line:70
+top	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^	top=3cm,$/;"	kind:macro	line:71
+bottom	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^	bottom=2cm,$/;"	kind:macro	line:72
+backend	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^\\usepackage[backend=biber, %% Hilfsprogramm "biber" (statt "biblatex" oder "bibtex")$/;"	kind:macro	line:245
+style	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^style=alphabetic,$/;"	kind:macro	line:247
+natbib	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^natbib=true, %% Bereitstellen von natbib-kompatiblen Zitierkommandos$/;"	kind:macro	line:250
+hyperref	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen$/;"	kind:macro	line:251
+colorlinks	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^	colorlinks=false,$/;"	kind:macro	line:261
+linkcolor	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^   	linkcolor=red,$/;"	kind:macro	line:262
+citecolor	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^   	citecolor=green,$/;"	kind:macro	line:263
+filecolor	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^  	filecolor=magenta,$/;"	kind:macro	line:264
+urlcolor	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^	urlcolor=cyan,$/;"	kind:macro	line:265
+bookmarks	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    bookmarks=true,$/;"	kind:macro	line:266
+bookmarksopen	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    bookmarksopen=true,$/;"	kind:macro	line:267
+bookmarksopenlevel	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    bookmarksopenlevel=3,$/;"	kind:macro	line:268
+plainpages	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    plainpages=false,$/;"	kind:macro	line:270
+pdfpagelabels	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    pdfpagelabels=true,$/;"	kind:macro	line:271
+pdftitle	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    pdftitle ={\\docTitle},$/;"	kind:macro	line:273
+pdfauthor	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    pdfauthor={\\docVorname~\\docNachname},$/;"	kind:macro	line:274
+pdfcreator	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex	/^    pdfcreator={\\docVorname~\\docNachname}]{hyperref}$/;"	kind:macro	line:275
+bibtex.tex	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	1;"	kind:file	line:1
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Git documentation},$/;"	kind:macro	line:4
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:5
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/git-scm.com\/docs},$/;"	kind:macro	line:6
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:7
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Referance to all comands}$/;"	kind:macro	line:8
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {tqam335x BSP Overview},$/;"	kind:macro	line:14
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:15
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/support.tq-group.com\/en\/arm\/tqma335x\/linux\/bsp_overview},$/;"	kind:macro	line:16
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:17
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Overview over alle released BSP. You find a changelog there also}$/;"	kind:macro	line:18
+YEAR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	YEAR = {2014},$/;"	kind:macro	line:25
+TITLE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	TITLE = {Pro Git - },$/;"	kind:macro	line:26
+EDITION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	EDITION = {},$/;"	kind:macro	line:27
+ISBN	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ISBN = {978-1-484-20077-3},$/;"	kind:macro	line:28
+PUBLISHER	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	PUBLISHER = {Apress},$/;"	kind:macro	line:29
+ADDRESS	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ADDRESS = {New York},$/;"	kind:macro	line:30
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Git reposetory workflow picture},$/;"	kind:macro	line:35
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:36
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url =$/;"	kind:macro	line:37
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:39
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Picture showing the wokrflows and commands of local and remote$/;"	kind:macro	line:40
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Git documentation},$/;"	kind:macro	line:46
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:47
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/git-scm.com\/docs},$/;"	kind:macro	line:48
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:49
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Referance to all comands}$/;"	kind:macro	line:50
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Git Fundamentals Command-Line video tutorial series},$/;"	kind:macro	line:55
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:56
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.youtube.com\/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx},$/;"	kind:macro	line:57
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:58
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Engish speaker gives exampels out of the book \\cite{Chacon2014}}$/;"	kind:macro	line:59
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Git and Github video tutorial},$/;"	kind:macro	line:65
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:66
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.youtube.com\/watch?v=_OZVJpLHUaI&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN&index=1},$/;"	kind:macro	line:67
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:68
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {German speaker gives the basic usage in a video tutorial}$/;"	kind:macro	line:69
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {GIT cheat sheet},$/;"	kind:macro	line:75
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:76
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.jrebel.com\/blog\/git-cheat-sheet},$/;"	kind:macro	line:77
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:78
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Includes also some practical examples}$/;"	kind:macro	line:79
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Am335x Silicon Errata 2.1},$/;"	kind:macro	line:85
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:86
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {http:\/\/www.ti.com\/lit\/er\/sprz360i\/sprz360i.pdf},$/;"	kind:macro	line:87
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:88
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Users an programmers referance like processor register description.}$/;"	kind:macro	line:89
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {am335x Sitara Processor user und programmers manual},$/;"	kind:macro	line:94
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:95
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {http:\/\/www.ti.com\/lit\/ug\/spruh73q\/spruh73q.pdf},$/;"	kind:macro	line:96
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:97
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Users an programmers referance like processor register description.}$/;"	kind:macro	line:98
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {am335x Sitara Processor technical datasheet},$/;"	kind:macro	line:104
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2020,$/;"	kind:macro	line:105
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {http:\/\/www.ti.com\/lit\/ds\/symlink\/am3352.pdf},$/;"	kind:macro	line:106
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2020-04-09},$/;"	kind:macro	line:107
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Technical referance like timings.}$/;"	kind:macro	line:108
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {{PhyTec Mira} Downloads},$/;"	kind:macro	line:116
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:117
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.phytec.de\/produkt\/system-on-modules\/phycore-imx-6-phyboard-mira-download\/},$/;"	kind:macro	line:118
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01},$/;"	kind:macro	line:119
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Downloads Mira6 Board}$/;"	kind:macro	line:120
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {{PhyTec Mira} Downloads},$/;"	kind:macro	line:128
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:129
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.phytec.de\/produkt\/system-on-modules\/phycore-imx-6-phyboard-mira-download\/},$/;"	kind:macro	line:130
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01},$/;"	kind:macro	line:131
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Downloads Mira6 Board}$/;"	kind:macro	line:132
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Making Embedded Linux Easy},$/;"	kind:macro	line:137
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:138
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url =  {https:\/\/buildroot.org\/},$/;"	kind:macro	line:139
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-23},$/;"	kind:macro	line:140
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Alternative to Bitbake}$/;"	kind:macro	line:141
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    title = {Professional Embedded Linux Made Easy},$/;"	kind:macro	line:146
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    year = 2019,$/;"	kind:macro	line:147
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    url = {https:\/\/www.ptxdist.org\/},$/;"	kind:macro	line:148
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    urldate = {2019-12-23},$/;"	kind:macro	line:149
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    note = { Alternative to Bitbake. Very simliar, easier but less flexible}$/;"	kind:macro	line:150
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    title = {Welcome to the PTXdist Universe},$/;"	kind:macro	line:155
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    year = 2019,$/;"	kind:macro	line:156
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    url = {https:\/\/www.ptxdist.org\/doc},$/;"	kind:macro	line:157
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    urldate = {2020-05-16},$/;"	kind:macro	line:158
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^    note = {Online Documentation}$/;"	kind:macro	line:159
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {{PhyTec Mira} BSP Manual},$/;"	kind:macro	line:165
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:166
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.phytec.de\/documents\/?title=l-814e-4-imx6-bsp-manual},$/;"	kind:macro	line:167
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01},$/;"	kind:macro	line:168
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Device Booting \\& Flashing, Pheripherals Mira6}$/;"	kind:macro	line:169
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {{PhyTec Mira} Development Guide},$/;"	kind:macro	line:174
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:175
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.phytec.de\/documents\/?title=l-833e-8-development-environment-guide},$/;"	kind:macro	line:176
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01},$/;"	kind:macro	line:177
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Host \\& Tool Setup}$/;"	kind:macro	line:178
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {{PhyTec Mira} Yocto Manual},$/;"	kind:macro	line:184
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:185
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.phytec.de\/documents\/?title=l-813e-7-yocto-reference-manual},$/;"	kind:macro	line:186
+note	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^note = {Conclusion Yocto Mega Manual},$/;"	kind:macro	line:187
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:188
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {{Yocto} Download Page},$/;"	kind:macro	line:195
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:196
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {http:\/\/downloads.yoctoproject.org\/releases\/eclipse-plugin\/},$/;"	kind:macro	line:197
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:198
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {The Yocto Project Application Development Toolkit (ADT) User's Guide},$/;"	kind:macro	line:204
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:205
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.yoctoproject.org\/docs\/1.1.2\/adt-manual\/adt-manual.html},$/;"	kind:macro	line:206
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:207
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Yocto Project Reference Manual},$/;"	kind:macro	line:213
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:214
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url= {https:\/\/www.yoctoproject.org\/docs\/3.0\/ref-manual\/ref-manual.html},$/;"	kind:macro	line:215
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:216
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Yocto Mega Manual},$/;"	kind:macro	line:222
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:223
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.yoctoproject.org\/docs\/current\/mega-manual\/mega-manual.html},$/;"	kind:macro	line:224
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:225
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {BitBake User Manual},$/;"	kind:macro	line:231
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:232
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.yoctoproject.org\/docs\/3.0\/bitbake-user-manual\/bitbake-user-manual.html},$/;"	kind:macro	line:233
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:234
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Yocto Project Linux Kernel Development Manual},$/;"	kind:macro	line:239
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:240
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.yoctoproject.org\/docs\/3.0\/kernel-dev\/kernel-dev.html},$/;"	kind:macro	line:241
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:242
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Yocto Project Board Support Package (BSP) Developer's Guide },$/;"	kind:macro	line:248
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:249
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.yoctoproject.org\/docs\/3.0\/bsp-guide\/bsp-guide.html},$/;"	kind:macro	line:250
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:251
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Yocto Project Application Development and the Extensible Software Development Kit (eSDK)},$/;"	kind:macro	line:257
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:258
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/www.yoctoproject.org\/docs\/3.0\/sdk-manual\/sdk-manual.html},$/;"	kind:macro	line:259
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:260
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Yocto Programming with Eclipse},$/;"	kind:macro	line:268
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:269
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {http:\/\/variwiki.com\/index.php?title=Yocto_Programming_with_Eclipse},$/;"	kind:macro	line:270
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:271
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Variwiki Yocto wikis},$/;"	kind:macro	line:277
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:278
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {http:\/\/variwiki.com\/index.php?title=Category:Yocto},$/;"	kind:macro	line:279
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:280
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Open Embedded Recipe Indexer},$/;"	kind:macro	line:286
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:287
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/layers.openembedded.org\/layerindex\/branch\/master\/recipes\/},$/;"	kind:macro	line:288
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:289
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Open Embedded Layer Indexer },$/;"	kind:macro	line:295
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:296
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/layers.openembedded.org\/layerindex\/branch\/master\/layers\/},$/;"	kind:macro	line:297
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:298
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Open Embedded Machine Indexer },$/;"	kind:macro	line:304
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:305
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/layers.openembedded.org\/layerindex\/branch\/master\/machines\/},$/;"	kind:macro	line:306
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:307
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Open Embedded Classes Indexer },$/;"	kind:macro	line:312
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:313
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/layers.openembedded.org\/layerindex\/branch\/master\/classes\/},$/;"	kind:macro	line:314
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:315
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Open Embedded Distro Indexer },$/;"	kind:macro	line:320
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:321
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/layers.openembedded.org\/layerindex\/branch\/master\/distros\/},$/;"	kind:macro	line:322
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:323
+title	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^title = {Live Coding with the Yocto Project},$/;"	kind:macro	line:328
+year	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^year = 2019,$/;"	kind:macro	line:329
+url	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^url = {https:\/\/youtube.com\/channel\/UC2_mG3h-AxxK2oz08j2bz2g},$/;"	kind:macro	line:330
+urldate	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^urldate = {2019-12-01}$/;"	kind:macro	line:331
+YEAR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	YEAR = {2013},$/;"	kind:macro	line:336
+TITLE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	TITLE = {Advanced Programming in the UNIX Environment - },$/;"	kind:macro	line:337
+EDITION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	EDITION = {3rd edition},$/;"	kind:macro	line:338
+ISBN	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ISBN = {978-0-321-63773-4},$/;"	kind:macro	line:339
+PUBLISHER	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	PUBLISHER = {Addison-Wesley},$/;"	kind:macro	line:340
+ADDRESS	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ADDRESS = {Amsterdam},$/;"	kind:macro	line:341
+YEAR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	YEAR = {2018},$/;"	kind:macro	line:347
+TITLE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	TITLE = {Embedded Linux Development Using Yocto Project Cookbook - },$/;"	kind:macro	line:348
+EDITION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	EDITION = {2nd Revised edition},$/;"	kind:macro	line:349
+ISBN	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ISBN = {978-1-788-39921-0},$/;"	kind:macro	line:350
+PUBLISHER	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	PUBLISHER = {Packt Publishing},$/;"	kind:macro	line:351
+ADDRESS	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ADDRESS = {Birmingham},$/;"	kind:macro	line:352
+YEAR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	YEAR = {2015},$/;"	kind:macro	line:358
+TITLE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	TITLE = {Linux-Treiber entwickeln - Eine systematische Einführung in die Gerätetreiber- und Kernelprogrammierung - jetzt auch für Raspberry Pi},$/;"	kind:macro	line:359
+EDITION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	EDITION = {4. akt. und erw. Aufl.},$/;"	kind:macro	line:360
+ISBN	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ISBN = {978-3-864-90288-8},$/;"	kind:macro	line:361
+PUBLISHER	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	PUBLISHER = {Dpunkt.Verlag GmbH},$/;"	kind:macro	line:362
+ADDRESS	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ADDRESS = {Heidelberg},$/;"	kind:macro	line:363
+YEAR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	YEAR = {2005},$/;"	kind:macro	line:369
+TITLE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	TITLE = {Linux Device Drivers - },$/;"	kind:macro	line:370
+EDITION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	EDITION = {3. Aufl.},$/;"	kind:macro	line:371
+ISBN	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ISBN = {978-0-596-00590-0},$/;"	kind:macro	line:372
+PUBLISHER	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	PUBLISHER = {"O'Reilly Media, Inc."},$/;"	kind:macro	line:373
+ADDRESS	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ADDRESS = {Sebastopol},$/;"	kind:macro	line:374
+YEAR	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	YEAR = {2010},$/;"	kind:macro	line:379
+TITLE	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	TITLE = {The Linux Programming Interface - },$/;"	kind:macro	line:380
+EDITION	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	EDITION = {1. Aufl.},$/;"	kind:macro	line:381
+ISBN	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ISBN = {978-1-593-27220-3},$/;"	kind:macro	line:382
+PUBLISHER	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	PUBLISHER = {No Starch Press},$/;"	kind:macro	line:383
+ADDRESS	/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex	/^	ADDRESS = {München},$/;"	kind:macro	line:384

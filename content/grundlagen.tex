@@ -1,34 +1,67 @@
 \chapter{Basics and general information}%
-\label{cha:Basics and general information}
+\label{cha:Basics_and_general_information}
 
 
-\section{Install PTXdist and how to use it - Building the Linux distribution. }%
-\label{sec:Building the Linux distribution}
+\section{About PTXdist}%
+\label{sec:linux_distribution_build}
+
+How to install PTXdist, how to use it and how to to build the final Linux
+distribution configured by use use of PTXdist is in detail descried  online on
+websites. This section provides the information where to find online
+descriptions compatible to the tqma335x chip.
 
 \begin{description}
     \item[To build the Linux distribution] the framework \textit{PTXdist} is
-        used. Refer to \cite{PTXdist} to get an introduction to PTXdist.
-    \item[How to install PTXdist] and get the framework running, refer to
-        \cite{install_ptxdist}. This describes how to install the
-        \textbf{right cross compiler version} as well as how to configure
-        PTXdist and the BSP, provided by TQ \cite[TQ BSP]{BSP_119}. Its
-        important that the cross compiler is compatible to the used Linux kernel
-        as well as the other sources provided by the BSP and PTXdist
-        \textit{rules} (some kind of \gls{metadaten} describing how and were to
-        download and install some sources and packets).
-    \item[How to use PTXdist] refer to \cite[PTXdist manual]{ptxdist_manual}
+        used. Refer to \textbf{\cite{ptxdist} } to get an introduction to
+        PTXdist.
+
+    \item[How to install PTXdist] and get this framework running, is descried in
+        \textbf{\cite{tq_bsp119_install}}. You find here how to setup your
+        build host (requirements to the building host) and how to install the
+        \textbf{right} (compatible) \textbf{cross compiler version}.
+
+        \textbf{ATTENTION:} You should read the \textbf{WARNINGS} from TQ
+        carefully to get the right ordering of installation and setup.
+
+        \textbf{ADDITIONALLY} you should take a look into the
+        \textbf{\cite[PTXdist general installation guide]{ptxdist_install} }
+        to get information not described by TQ and to realize what is spacial
+        to TQ.
+
+    \item[How to setup TQ Systms BSP] for the base chip (like tqma335x)
+        is described in short by TQ systems. Refer to
+        \textbf{\cite{tq_bsp119_configurationi}} and follow the instructions to
+        setup the project environment.
+
+    \item[How to use PTXdist] you find in the
+        \textbf{\cite[PTXdist user manual]{ptxdist_manual}}. Here the chapter
+        \textbf{\#first-steps-with-ptxdist} is for you of interest. You can also
+        take a look into \cite{ptxdist_developer} if you have more special
+        questions, e.g. \textit{like how to reconfigure and recompile the linux
+        kernel via PTXdist} or into the \cite[PTXdist FAQ list]{ptxdist_faq}
+        (which of course is very short).
+
+    \item[How to extend PTXdist] is descried motley in the
+        \textbf{\cite[developer guide]{ptxdist_developer}}. Some extend
+        information and \gls{FAQacr} are descried in
+        \textbf{\cite{ptxdist_workflows}}, by other websites in the internet
+        or if you write your supplier or like TQ Pengutronix an e-mail.
+
+    \item[Background how PTXdist works] is described in the \cite[PTXdist Users
+        Manual]{ptxdist_manual} in the chapter \textbf{\#how-does-it-work}.
 \end{description}
 
 
 \section{Git}%
-\label{sec:Building the Linux distribution}
+\label{sec:git}
 Git is a distributed as well as central version control system which only saves
 changes to a file instead of copies. Switching between development versions is
 easily this way. Additional Git has a lot of other features compared to other
 \glspl{VCS} systems. Git was developed 2005 by Linus Torvalds.
-\\
-Following are links to tutorials and description which
-descries what git is, what its benefits are  and how you can use it.
+
+Following are links to tutorials and description which descries what git is,
+what its benefits are  and how you can use it.  \\
+
 
 
 \begin{description}

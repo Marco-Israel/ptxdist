@@ -18,7 +18,7 @@ all: main.pdf
 # missing file reference and interactively asking you for an alternative.
 
 main.pdf: main.tex  latexmkrc
-	latexmk  -bibtex -f -pdf -pdflatex="pdflatex -interactive=nonstopmode" -use-make main.tex
+	latexmk  -bibtex -f -pdf -pdflatex="pdflatex -interactive=nonstopmode -halt-on-error" -use-make main.tex
 
 clean:
 	latexmk -CA

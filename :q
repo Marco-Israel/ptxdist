@@ -2,7 +2,7 @@
 % Unterstuetzung fuer die deutsche Sprache
 % ##################################################
 %\usepackage{ngerman}
-%\usepackage[ngerman]{babel}
+\usepackage[ngerman]{babel}
 
 % ##################################################
 % Dokumentvariablen
@@ -58,6 +58,14 @@
 % Ipsum Lorem
 % Paket wird nur für das Beispiel gebraucht und kann gelöscht werden
 \usepackage{lipsum}
+
+
+% ##################################################
+% New commands
+% ##################################################
+\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} {on page} \pageref*{#1}{;}
+\nameref*{#1} }}
+%\newcommand*{\namepageref}[1]{\hyperref[{#1}]{\nameref*{#1} \pageref*{#1} }}
 
 
 % ##################################################
@@ -279,24 +287,8 @@ hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen
 % ##################################################
 % Glossrry
 % ##################################################
-    \usepackage[acronym]{glossaries}
+    \usepackage[,acronym]{glossaries}
     \setglossarystyle{listhypergroup}
     \makeglossaries
     \loadglsentries{content/glossary} %Glossary in externer Datei...
 
-
-% ##################################################
-% New commands
-% ##################################################
-\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} {on page} \pageref*{#1}{;}
-\nameref*{#1} }}
-%\newcommand*{\namepageref}[1]{\hyperref[{#1}]{\nameref*{#1} \pageref*{#1} }}
-
-\renewcommand\descriptionlabel[1]{$\bullet $\textit{\textbf{#1}}}
-\renewcommand\descriptionlabel[1]{\textit{\textbf{#1}}}
-%\renewcommand\descriptionlabel[1]{$\bullet $\textit{\textbf{#1}}}
-
-
-
-
-% ### EOF ##########################################

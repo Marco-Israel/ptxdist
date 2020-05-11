@@ -1,21 +1,54 @@
 \chapter{Patched and modified files}%
 \label{cha:Patched and modified files}
 There are a lot of patches to the Linux kernel, bootloader and other software
-consonances which are already provided and integrated into PTXdist by the
-used BSP \cite{BSP_119}. This should work out of the box. No chances are needed
-here so this patches are not described here.
+components which are already provided and integrated into PTXdist by TQ Systems
+in the used BSP \cite{BSP_119}. This should work out of the box. No chances are
+needed here so this patches are not described here.
 \\
 Nevertheless some additional patches are needed to get the software and the
 hardware running used by the Telair International GmbH. This is what this
-chapter describes - the patches added by Telair additionally to the TQ patches.
+chapter describes - the patches added by Telair International GmbH
+additionally to the TQ systems patches.
+
 
 \section{Where are the patches located in PTXdist?}%
 \label{sec:Where are the patches located in PTXdist}
+\begin{itemize}
+    \item Navigate to <your projectroot>/patches.
+\end{itemize}
+
+\begin{lstlisting}[language=bash]
+    $ user@machine: cd /ptxdist/projects/cp790760/patches
+\end{lstlisting}
+
+There you find folders corresponding to the software packets to patch. Patches
+done by Telair International GmbH are located inside this packets to patch in a
+separated folder called \textit{telair}. They are activated and included into
+the build process via the \textit{series.<platform>} file activating both TQ
+and Telair patches.
+\\
+For example patches corresponding to the Linux kernel:
+\begin{lstlisting}[language=bash]
+    $ user@machine: ls -la /ptxdist/projects/cp790760/patches/linux-4.4/telair
+    $ user@machine: cat /ptxdist/projects/cp790760/patches/linux-4.4/series.MBa335x
+\end{lstlisting}
+\\
+To generate the Telair pataches a \textit{new} (the modified version)
+and a \textit{old} (the original) version of a (source) file is needed. Both
+versions can be found in (see \fullref{howto_patch})
+\begin{itemize}
+    \item <your projectroot>/local_sources/telair-patches/<sw-packet>/
+\end{itemize}
+
+Her you find the mentioned new and old folder holding the tree in the project
+to the files. This is importent when using the tools \textit{diff} and
+\textit{patch}. Navigate to \fullref{howto_patch} to learn how to use both
+tools.
 
 
 
 \section{How to create a patch and integrate it into PTXdist?}%
-\label{sec:How to create a patch and integrate it into PTXdist?}
+\label{sec:?}
 
 Patches and modified files by Telair International GmbH are unter GIT version
 control in an local repository. This documents what is done additionally
@@ -38,7 +71,7 @@ use it, refer to \cite[GIT Homepage]{git_homepage}.
 \label{sec:Pached files}
 
 \subsection{How to patch files}%
-\label{sub:How to pach files}
+\label{sub:howto_patch}
 \begin{description}
     \item[Patching process in PTX dist]
         To learn how patching process work in PTXdist refer to \cite{todo}

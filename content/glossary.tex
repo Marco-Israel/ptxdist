@@ -1,24 +1,30 @@
 % % % % % % % % % % % % % % % % %Glossar
-%\usepackage{ngerman}
-%\usepackage[ngerman]{babel}
+\glsresetall
 
+\newglossaryentry{BSP}{
+name=BSP,
+description={A board suppord packet holds \gls{metadata} how to build software
+    for a hardware divice. So it descripts whre to download (and which) needed
+    software packetes, how to build and install tham as also configuration files
+    and settings. Often it includes necassary compiler packedets and other
+    stuff nedded to sugessfull build software for a divice aka hardware board.
+}}
 \newglossaryentry{NFS}{
 name=NFS,
-description={ Das \acf{NFS}, (auch Network File Service) ist ein
-    Netzwerkprotokoll, das den Zugriff auf Dateien über ein Netzwerk ermöglicht.
-    Dabei werden die Dateien nicht wie z. B. bei \ac{FTP} oder \ac{TFTP}
-    übertragen, sondern die Benutzer können auf Dateien, die sich auf einem
-    entfernten Rechner befinden, so zugreifen, als ob sie auf ihrer lokalen
-    Festplatte abgespeichert wären. Unter Unix Betriebssystemen lassen sich
-    diese Netzwerkfreigaben direkt in das Dateisystem einhängen entsprechend wie
-z.B. Festplatten. }
+description={ Das \acrfull{NFSacr}, (auch Network File Service) ist ein
+    Übertragungsservice. Dabei werden die Dateien nicht wie z. B. bei
+    \acrfull{FTPacr} oder \acrfull{TFTPacr} übertragen, sondern die Benutzer können
+    auf Dateien, die sich auf einem entfernten Rechner befinden, so zugreifen,
+    als ob sie auf ihrer lokalen Festplatte abgespeichert wären. Unter Unix
+    Betriebssystemen lassen sich diese Netzwerkfreigaben direkt in das
+    Dateisystem einhängen entsprechend wie z.B. Festplatten. }
 }
 
 
 \newglossaryentry{TFTP}{
 name=TFTP,
-description={Das \acf{TFTP} ist ein im
-    Fumktionsumfang stark vereinfachtes \acl{FTP} und reduziertes Protokoll, das
+description={Das \acrfull{TFTPacr} ist ein im
+    Fumktionsumfang stark vereinfachtes \acrfull{FTPacr} und reduziertes Protokoll, das
 lediglich das senden und das empfangen von Dateien ermöglicht.}
 }
 
@@ -37,6 +43,28 @@ description={Ein Dockerfile beschreibt wie ein \gls{Docker} Container (Image)
     Container enthalten soll.}
 }
 
+\newglossaryentry{CVS}{
+name=CVS,
+description={
+The \acrfull{CVSacr}, also known as the Concurrent Versioning
+System, is a free client-server revision control system in the field of software
+development. A version control system keeps track of all work and all changes in
+a set of files, and allows several developers (potentially widely separated in
+space and time) to collaborate. It was intial released 1990 under the GNU General
+Public Licinse. Development and support stops with a last release in 2008.
+} }
+
+\newglossaryentry{VCS}{
+name=VCS,
+description={
+A \acrfull{VCSacr} is a component of software configuration management and
+version controling to track changes on plain text (ASCII) files. Most systems
+like \gls{GIT} provide mechanismen to deal with such changes like toggling
+between ons or compare them. \acrlong{VCSacr} are also known as \textit{revision
+    control systems} or \textit{source control systems}.
+} }
+
+
 
 \newglossaryentry{Yocto}{
 name=Yocto,
@@ -45,7 +73,7 @@ Das Yocto Project bezeichnet eine Community Gruppe, welche
 sich zur Aufgabe gemacht hat, dass erstellen von Linux Distributionen für
 eingebettet System zu vereinfachen. Die Yocto community stellt Meta-Daten (Recipes) bereit, um ein minimalistisches
 Betriebssystem mit grundlegenden  Linux \glspl{Tool} unter der Virtualisierungsumgebung
-\textit{\gls{QEMU}} für verschiedene Architekturen starten zu können.
+\textit{\gls{QEMU}} für verschiedene acrhitekturen starten zu können.
 Das Minimalisten Betriebssystem der Yocto Community wird \textit{\gls{Poky}}
 genannt. Zudem Pflegt es zusammen mit der \gls{OpenEmbedded} community das Buildsystem
 \textit{bitbake}.  }
@@ -96,7 +124,7 @@ description={Docker ist eine Software zur virtualisierung von einzelnen
 
 \newglossaryentry{SDK}{
     name=SDK,
-    description={Ein \ac{SDK} ist eine gekapselte bzw.
+    description={Ein \acrfull{SDKacr} ist eine gekapselte bzw.
 vordefinierte Umgebung zur Entwicklung von Software\-komponenten. Die Umgebung
 stellt (vorkonfigurierte) Sammlungen von ausgewählten Programmier\-werkzeugen
 oder auch Liberias bereit, die zur Entwicklung für eine Zielplattform benötigt
@@ -143,10 +171,6 @@ werden.}
         } }
 
 
-\newacronym{DTB}{DTB}{Device Tree Blob} \newacronym{BSP}{BSP}{Board Support
-    Packed}
-
-
 %
 %
 %\newglossaryentry{Mircosoft Office}{
@@ -158,18 +182,18 @@ werden.}
 %\newglossaryentry{Portables Job Definition Format}{
 %name=Portables Job Definition Format,
 %description={
-%\ac{PJDF} ist ein von Adobe entwickeltes Format zur Speicherung technischer Produktions- und Auftragsdaten auf Basis der PDF Format Syntax. \cite{pjdf1}}
+%\acrfull{PJDF} ist ein von Adobe entwickeltes Format zur Speicherung technischer Produktions- und Auftragsdaten auf Basis der PDF Format Syntax. \cite{pjdf1}}
 %}
 %
-%\newglossaryentry{32-Bit Architektur}{
-%name=32-Bit Architektur,
-%plural=32-Bit Architekturen,
-%description={32-Bit kennzeichnet eine PC bzw. Prozessor oder Platinen Architektur. Sie kennzeichnet die Breite des Adressbusses und gibt somit vor, wie viel Speicher (adressierbare Blöcke oder Einheiten mit jeweils einem Byte) eine Architektur ansprechen und verarbeiten kann. Mit einem 32-Bit-Adressbus lassen sich maximal 2e32 Byte adressieren. Dies sind 232 Speicherstellen mit jeweils einem Byte. Oder umgerechnet 4 GiB. Die Architekturform hat vor allem Einfluss auf die Prozessor- und Busarchitektur. Diese hängen unmittelbar zusammen und sind in Bezug auf Ihre Geschwindigkeit abhängig von der Architekturform (in diesem Fall beschränkt auf 32 Bit). Hieraus ergibt sich auch der Begriff \glqq 32-Bit Betriebssystem\grqq\, welches auf die Prozessor- und Busarchitektur aufsetzt. Einem 32-Bit Betriebssystem ist es somit auch nur möglich, Max. 4 GB (bzw. GiB) Arbeitsspeicher anzusprechen und zu verarbeiten (teilweise sogar weniger).  }}
+%\newglossaryentry{32-Bit acrhitektur}{
+%name=32-Bit acrhitektur,
+%plural=32-Bit acrhitekturen,
+%description={32-Bit kennzeichnet eine PC bzw. Prozessor oder Platinen acrhitektur. Sie kennzeichnet die Breite des Adressbusses und gibt somit vor, wie viel Speicher (adressierbare Blöcke oder Einheiten mit jeweils einem Byte) eine acrhitektur ansprechen und verarbeiten kann. Mit einem 32-Bit-Adressbus lassen sich maximal 2e32 Byte adressieren. Dies sind 232 Speicherstellen mit jeweils einem Byte. Oder umgerechnet 4 GiB. Die acrhitekturform hat vor allem Einfluss auf die Prozessor- und Busacrhitektur. Diese hängen unmittelbar zusammen und sind in Bezug auf Ihre Geschwindigkeit abhängig von der acrhitekturform (in diesem Fall beschränkt auf 32 Bit). Hieraus ergibt sich auch der Begriff \glqq 32-Bit Betriebssystem\grqq\, welches auf die Prozessor- und Busacrhitektur aufsetzt. Einem 32-Bit Betriebssystem ist es somit auch nur möglich, Max. 4 GB (bzw. GiB) Arbeitsspeicher anzusprechen und zu verarbeiten (teilweise sogar weniger).  }}
 %
 %\newglossaryentry{32-Bit Betriebssystem}{
 %name=32-Bit Betriebssystem,
 %plural=32-Bit Betriebssysteme,
-%description={Siehe \gls{32-Bit Architektur}}
+%description={Siehe \gls{32-Bit acrhitektur}}
 %}
 %
 %\newglossaryentry{Datentyp}{
@@ -191,7 +215,7 @@ werden.}
 %}
 %\newglossaryentry{Forms Data Format}{
 %name=Forms Data Format,
-%description={\ac{FDF} ist ein Format zur (Serverseitigen-) Verarbeitung der Formulardaten innerhalb eines PDF Dokumenten \cite{fdf1} \cite{fdf3} \cite{fdf2}}
+%description={\acrfull{FDF} ist ein Format zur (Serverseitigen-) Verarbeitung der Formulardaten innerhalb eines PDF Dokumenten \cite{fdf1} \cite{fdf3} \cite{fdf2}}
 %}
 %\newglossaryentry{String}{
 %name=String,
@@ -228,7 +252,7 @@ werden.}
 %}
 %\newglossaryentry{Adobe Reader}{
 %name=Adobe Reader,
-%description={Software zu Anzeigen von PDF Dateien. Es stammt vom Hersteller Adobe, welcher auch das \ac{PDF} Format entworfen hat.}
+%description={Software zu Anzeigen von PDF Dateien. Es stammt vom Hersteller Adobe, welcher auch das \acrfull{PDF} Format entworfen hat.}
 %}
 %\newglossaryentry{Layout}{
 %name=Layout,
@@ -238,7 +262,7 @@ werden.}
 %\newglossaryentry{virtuelle Maschine}{
 %name=virtuelle Maschine,
 %plural=virtuelle Maschinen,
-%description={Eine virtuelle Maschine (VM) bildet die Rechnerarchitektur (Hardware) eines realen Rechners in einer abstrahierende Schicht virtuell nach. So wird es möglich, die Hardwareperformance eines realen Rechners auf mehre virtuelle Maschinen aufzuteilen und so einen realen Rechner in mehrere virtuelle, eigenständige und unabhängige virtuelle Rechner aufzuteilen.}
+%description={Eine virtuelle Maschine (VM) bildet die Rechneracrhitektur (Hardware) eines realen Rechners in einer abstrahierende Schicht virtuell nach. So wird es möglich, die Hardwareperformance eines realen Rechners auf mehre virtuelle Maschinen aufzuteilen und so einen realen Rechner in mehrere virtuelle, eigenständige und unabhängige virtuelle Rechner aufzuteilen.}
 %}
 %\newglossaryentry{PDF-Viewer}{
 %name=PDF-Viewer,
@@ -354,11 +378,11 @@ description={Wurzel (\gls{Root}) des Linux Datei Systems unter welchem weitere
 %}
 %\newglossaryentry{AES}{
 %name=AES,
-%description={Der \ac{AES} ist eine symmetrische Blockchiffre mit 128-256 Bit Schlüssellänge}
+%description={Der \acrfull{AES} ist eine symmetrische Blockchiffre mit 128-256 Bit Schlüssellänge}
 %}
 %\newglossaryentry{RC4}{
 %name=RC4,
-%description={\ac{RC4} ist eine symmetrische Stromverschlüsselung. Der Klartext wird Bit für Bit per XOR mit der Zufallsfolge verknüpft}
+%description={\acrfull{RC4} ist eine symmetrische Stromverschlüsselung. Der Klartext wird Bit für Bit per XOR mit der Zufallsfolge verknüpft}
 %}
 %\newglossaryentry{Flag}{
 %name=Flag,
@@ -366,7 +390,7 @@ description={Wurzel (\gls{Root}) des Linux Datei Systems unter welchem weitere
 %}
 %\newglossaryentry{ASCII}{
 %name=ASCII,
-%description={\ac{ASCII} ist eine Hexadezimale Zeichencodierung auf ursprünglich 7 Bit Ebene. Dies entspricht 128 druckbare Zeichen die durch einen individuellen Hexadezimalen Wert dargestellt werden können.}
+%description={\acrfull{ASCII} ist eine Hexadezimale Zeichencodierung auf ursprünglich 7 Bit Ebene. Dies entspricht 128 druckbare Zeichen die durch einen individuellen Hexadezimalen Wert dargestellt werden können.}
 %}
 %
 %\newglossaryentry{Plugin}{
@@ -396,7 +420,7 @@ description={Wurzel (\gls{Root}) des Linux Datei Systems unter welchem weitere
 %}
 %\newglossaryentry{PostScript}{
 %name=PostScript,
-%description={PostScript ist eine Programmiersprache, spezialisiert auf Bilder, Texte oder andere Grafische Formen. Diese können z.B. auf einer digitalen Seite dargestellt, oder an einen Drucker weitergeleitet werden. PostScript ist unter \cite{post3} von Adobe spezifiziert. Weitere Informationen sind auch unter \cite{post1} und \cite{post2} zu finden. PostScript ist Grundlage, auf welche das \ac{PDF} aufsetzt.}
+%description={PostScript ist eine Programmiersprache, spezialisiert auf Bilder, Texte oder andere Grafische Formen. Diese können z.B. auf einer digitalen Seite dargestellt, oder an einen Drucker weitergeleitet werden. PostScript ist unter \cite{post3} von Adobe spezifiziert. Weitere Informationen sind auch unter \cite{post1} und \cite{post2} zu finden. PostScript ist Grundlage, auf welche das \acrfull{PDF} aufsetzt.}
 %}
 %
 %\newglossaryentry{Hexadezimal}{
@@ -496,7 +520,17 @@ description={Wurzel (\gls{Root}) des Linux Datei Systems unter welchem weitere
 %name=PDF Drucker,
 %description={Ein virtueller Drucker (oder vielmer Druckertreiber), welcher empfangene Daten in PDF Syntax umwandelt und das Ergebniss als PDF Dateien abspeichert. Es wird somit ein PDF Dokument erzeugt, anstatt Inhalte Physikalisch auszudrucken.}
 %}
+\newglossaryentry{metadata}{
+name=metadata,
+description={Metadata are information about a file. Like the fileformat, the
+    author or how to use the file.}
+}
 
+\newglossaryentry{metadatafiles}{
+name=metadata files,
+description={Metadata files are files holding only \gls{metadata} about one ore
+    more other files.
+}}
 \newglossaryentry{Meta}{
 name=Metadaten,
 description={Metadaten oder Metainformationen sind Informationen über andere Daten}
@@ -554,21 +588,69 @@ description={Eine Datei, welche \glspl{Meta} (Informationen zu anderen Daten) ü
 %
 %\newglossaryentry{EOL}{
 %name=End of Line,
-%description={Mit \ac{EOL} wird das Ende einer Zeile beschrieben. Der Marker beschreibt in der Informatik häufig die Kombination der Befehle für eine neue Zeile (meist \bb n) und einen Zeilenrücksprung (meist \bb r)}
+%description={Mit \acrfull{EOL} wird das Ende einer Zeile beschrieben. Der Marker beschreibt in der Informatik häufig die Kombination der Befehle für eine neue Zeile (meist \bb n) und einen Zeilenrücksprung (meist \bb r)}
 %}
 %\newglossaryentry{EOF}{
 %name=End of File,
-%description={Mit \ac{EOF} wird das Ende einer Datei beschrieben. Wie dieser Marker aussieht ist abhängig vom Programm, welches eine solche Markierung zum Lesen einer Datei benötigt.}
+%description={Mit \acrfull{EOF} wird das Ende einer Datei beschrieben. Wie dieser Marker aussieht ist abhängig vom Programm, welches eine solche Markierung zum Lesen einer Datei benötigt.}
 %}
 %\newglossaryentry{Hash}{
 %name=Hash,
 %plural=Hases,
-%description={Ein Hash ist eine bezeichnet eine Verkürzte Form von etwas. Durch eine Hashfunktion (der Vorgang um einen Hash zu erstellen) wird eine Große Eingabe (z.B. eine Datei oder ein Satz) in eine kleine Ausgabemenge umgewandelt(abgebildet). Es existieren verschiedene Verfahren, um einen Hash (oder Hashwert) zu erzeugen. Die bekanntesten sind \ac{MD5} und \ac{SHA} in Version 2 und 3. Ein Hashwert wird häufig als Prüfsumme verwendet und wird in diesem Fall auch als Fingerprint bezeichnet.}
+%description={Ein Hash ist eine bezeichnet eine Verkürzte Form von etwas. Durch eine Hashfunktion (der Vorgang um einen Hash zu erstellen) wird eine Große Eingabe (z.B. eine Datei oder ein Satz) in eine kleine Ausgabemenge umgewandelt(abgebildet). Es existieren verschiedene Verfahren, um einen Hash (oder Hashwert) zu erzeugen. Die bekanntesten sind \acrfull{MD5} und \acrfull{SHA} in Version 2 und 3. Ein Hashwert wird häufig als Prüfsumme verwendet und wird in diesem Fall auch als Fingerprint bezeichnet.}
 %}
 
 \newglossaryentry{Tool}{
 name=Tool, description={Ein Tool (Informationstechnik, zu Deutsch
     \textit{Werkzeug})  beschreib beschreibt ein Stück Software das
-    Hilfsaufgaben ausführt um eingesetzt bei anderen Aufgaben zu unterstützen }}
+    Hilfsaufgaben ausführt um eingesetzt bei anderen Aufgaben zu unterstützen
+}}
+
+
+
+\newacronym{SDKacr}{SDK}{Software Development Kit}
+\newacronym{DTBacr}{DTB}{Device Tree Blob}
+\newacronym{BSPacr}{BSP}{Board support package}
+\newacronym{TFTPacr}{TFTP}{Trivial File Transfer Protocol}
+\newacronym{NFSacr}{NFS}{Network File System}
+\newacronym{FTPacr}{FTP}{File Transport Protocol}
+\newacronym{CVSacr}{CVS}{Concurrent Versions System}
+\newacronym{VCSacr}{VCS}{Versions System}
+\newacronym{FAQacr}{FAQ}{Frequently Asked Questions}
+%    \newacronym{WYSIWYG}{What you see is what you get}
+%    \newacronym{LBA} Logical Block Addressing
+%
+%    \newacronym{PDF}{Portable Dokument Format}
+%    \newacronym{HFU}{Hochschule Furtwangen}
+%    \newacronym{ISO}{International Organization for Standardization}
+%    \newacronym{AES}{Advanced Encryption Standard}
+%    \newacronym{RC4}{acrfour}
+%    \newacronym{ASCII}{American Standard Code for Information Interchange}
+%    \newacronym{XRef}{Cross Referenz}
+%    \newacronym{HTTP}{Hypertext Transfer Protocol}
+%    \newacronym{OLE}{Object Linking and Embedding}
+%    \newacronym{EOL}{End of Line}
+%    \newacronym{EOF}{End of File}
+%    \newacronym{MD5}{Message-Digest Algorithm Version 5}
+%    \newacronym{SHA}{Secure Hash Algorithm}
+%    \newacronym{ES}{Escaptes Sonderzeichen}
+%    \newacronym{SZ}{Sonderzeichen}
+%    \newacronym{FDF}{Forms Data Format}
+%    \newacronym{PJDF}{Portable Job Ticket Format}
+%    \newacronym{HTTP}{Hypertext Transfer Protocol}
+%    \newacronym{CMYK}{Cyan, Magenta, Yellow und der Schwarzanteil Kay}
+%    \newacronym{RGB}{Rot, Grün und Blau}
+%    \newacronym{VDP}{Variable Data Printing}
+%    \newacronym{PAdES}{PDF Advanced Electronic Signatures}
+%    \newacronym{SP}{Space Character}
+%    \newacronym{HT}{Horizontal Tabulator}
+%    \newacronym{CR}{Carriage return}
+%    \newacronym{LF}{Line feed}
+%    \newacronym{FF}{Form feed}
+%    \newacronym{NUL}{Null character}
+%    \newacronym{OID}{Object Identifier}
+%    \newacronym{ETSI}{European Telecommunications Standards Institute}
+%    \newacronym{VM}{virtuelle Maschine}
+%
 
 

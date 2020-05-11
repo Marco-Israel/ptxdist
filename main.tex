@@ -4,7 +4,7 @@
 	bibtotoc,
 	cleardoubleempty,
 	idxtotoc,
-	ngerman,
+	%ngerman,
 	openright,
 	final,
 	listof=nochaptergap,
@@ -15,7 +15,7 @@
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[printonlyused]{acronym}
+\usepackage[printonlyused,footnote]{acronym}
 \usepackage{tabularx}
 \usepackage{listings}
 \usepackage{quoting}
@@ -27,6 +27,7 @@
 % ##################################################
 % Definitionen neuer Befehle
 % ##################################################
+
 \newcommand{\bb}{$\backslash$} %Backshlash
 
 
@@ -71,18 +72,19 @@
 % WORKAROUND: tocloft und KOMA funktionieren zusammen nicht
 % korrekt\phantomsection
 % ##################################################
-%\phantomsection
-%\addcontentsline{toc}{chapter}{\listtablename}
-%\listoftables
-%\cleardoubleemptypa
-%\usepackage[printonlyused]{acronym}ge
+\phantomsection
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables
+%\cleardoubleemptyp
+%\usepackage[printonlyused]{acronym}
 
 
 % ##################################################
 % Abkürzungsverzeichnis
 % ##################################################
 \include{content/abbreviations}
-
+%\printglossary[type=\acronymtype,title=Acronyms and
+%Abbreviations,toctitle=Abbreviations]
 
 
 
@@ -93,7 +95,10 @@
 \mainmatter
 \include{content/einleitung}
 \include{content/grundlagen}
+\include{content/locations}
+\include{content/final_images}
 \include{content/ausbilck}
+\include{content/scripts}
 %
 
 
@@ -102,6 +107,7 @@
 % ##################################################
 \printglossaries
 \addcontentsline{toc}{chapter}{Glossar}
+\addcontentsline{toc}{chapter}{Acronyme}
 \cleardoubleemptypage
 
 
@@ -122,7 +128,7 @@
 \printbibliography[heading=subbibliography,type=article,title={Articles}]
 \printbibliography[heading=subbibliography,type=online,title={Online resorces}]
 \printbibliography[heading=subbibliography,type=Webpage,title={Online Webpages}]
-\printglossary[type=\acronymtype,title=Abbreviations]
+%\printglossary[type=\acronymtype,title=Abbreviations]
 
 % ##################################################
 % Eidesstattliche Erklärung

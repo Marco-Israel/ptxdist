@@ -1,6 +1,7 @@
 \chapter{Introduction} \label{chp:einleitung}
 
-The XXX is a client-server system communicating over an CAN interface. The XXX
+The control panel (CP) for the Telair cargo loading system is a client-server
+system communicating over an CAN interface. The control panel
 is the client which gets input from buttons and switches, displays the action
 on an LCD and sends information over to the server. On the client system an
 Linux system is running, interating beween User input and handels the tasks.
@@ -10,16 +11,17 @@ this document.
 \section{About the Linux Kernel}%
 \label{sec:About the Linux Kernel}
 
-A mainline Linux kernel version 4.4.39 is running on this hardware. This kernel
-version is compatible to the last release of BSP packed version 119 supporting
-the last revision 2.2.3 of the tqma335x module. The used \ac{BSP} was released
-in Dezember 2019. To be compatible to this BSPi, was the reason choosing this
-kernel version and not a current Linux kernel 5.x.
-\\
+A mainline \textbf{Linux kernel version 4.4.39} is running on this hardware.
+This kernel version is compatible to the last release of \textbf{\gls{BSPacr}
+packet version 119} supporting the last \textbf{tqma335x module revision 2.2.3.}
+The used \gls{BSP} was released in Dezember 2019. To be compatible to this
+BSP was the reason choosing this kernel version and not a current Linux kernel
+like 5.x.
+
 Some changes were made to the Linux mainline Kernel like replacing the DRM video
 drivers to get the LCD running according to the TI errata
-\cite{TI_am335x_errata} as well as changes in the Kernel configuration.
-\\
+\cite{TI_am335x_errata} as well as changes in the Kernel configuration. \\
+
 The howl changes made to mainline kernel provided by the TQ BSP packet version
 119 \cite{tq_bsp119} are described during the following chapters inside this
-document. Thats what this document is about.
+document. \textbf{Thats what this document is about}.
