@@ -1,0 +1,128 @@
+\chapter{Basics}%
+
+
+\label{cha:Basics_and_general_information}
+\section{About PTXdist}%
+\label{sec:linux_distribution_build}
+
+How to \textbf{install PTXdist}, how to \textbf{use it} and how to to build the
+final Linux distribution configured by use use of PTXdist is in detail descried
+online on websites. \textbf{This section provides the information where to find
+    online descriptions compatible to the tqma335x chip}.
+
+\begin{description}
+    \item[To build the Linux distribution] the framework \textit{PTXdist} is
+        used. Refer to \newline \textbf{\cite{ptxdist}} to get an introduction
+        to PTXdist.
+    \item[How to install PTXdist] and get this framework running, is descried in
+        \textbf{\cite{tq_bsp119_install}}. You find here how to setup your
+        build host (requirements to the building host) and how to install the
+        \textbf{right} (compatible) \textbf{cross compiler version}.
+
+        \textbf{ATTENTION:} You should read the \textbf{WARNINGS} from TQ
+        carefully to get the right ordering of installation and setup.
+
+        \textbf{ADDITIONALLY} you should take a look into the
+        \textbf{\cite[PTXdist installation guide]{ptxdist_install} }
+        to get information not described by TQ and to realize what is spacial
+        to TQ.\@
+    \item[How to setup TQ Systms BSP] for the base chip (like tqma335x)
+        is described in short by TQ systems. Refer to
+        \textbf{\cite{tq_bsp119_configuration}} and follow the instructions to
+        setup the project environment.
+
+    \item[How to use PTXdist] you find in the
+        \textbf{\cite[PTXdist user manual]{ptxdist_manual}}. Here the chapter
+        \textbf{\#first-steps-with-ptxdist} is for you of interest. You can also
+        take a look into~\cite{ptxdist_developer} if you have more special
+        questions, e.g. \textit{like how to reconfigure and recompile the Linux
+        kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq}
+        (which of course is very short).
+
+       Nevertheless, the most important commands you need are:
+
+\lstset{style=bash}
+
+        \begin{description}
+            \item[Prefome all steps] and finally build the images all in one
+                command
+            \begin{lstlisting}[language=bash,numbers=none,caption=Build all
+                images with PTXdist]
+                user@machine: ptxdist images
+            \end{lstlisting}
+        \item[Deleate a paket]. This is important before you like to rebuild it.
+            Especially if you modify on of the configuration files (see next
+            command).
+
+            \begin{lstlisting}[language=bash,numbers=none,caption=Deleat a
+                builded packet from PTXdsits scope]
+                user@machine: ptxdist clean <your-packet>
+            \end{lstlisting}
+        \item[Alter one of the configuration files] (see~\cite[PTXdist user
+            manual]{ptxdist_manual}).
+
+            The most important ones are:
+
+            \begin{lstlisting}[language=bash,numbers=none,caption=Alter a
+                configuration]
+                    #PTXdist main configuration
+                user@machine: ptxdist menu
+                    #Project configuration
+                user@machine: ptxdist menuconfig
+                    #Platform configuration
+                user@machine: ptxdist platformconfig
+                    #Linux kernel configuration
+                user@machine: ptxdist kernelconfig
+            \end{lstlisting}
+        \item[(Re-) Compile] a packet
+            \begin{lstlisting}[language=bash,numbers=none,caption=Recompile a
+                paket with PTXdist]
+                    TODO
+            \end{lstlisting}
+        \end{description}
+
+    \item[How to extend PTXdist] is descried motley in the
+        \textbf{\cite[developer guide]{ptxdist_developer}}. Some extend
+        information and \glspl{FAQ} are descried in
+        \textbf{\cite{ptxdist_workflows}}, by other websites in the internet
+        or if you write your supplier or like TQ Pengutronix an e-mail.
+
+    \item[Background how PTXdist works] is described in the~\cite[PTXdist Users
+        Manual]{ptxdist_manual} in the chapter \textbf{\#how-does-it-work}.
+\end{description}
+
+
+\section{Git}%
+\label{sec:git}
+Git is a distributed (and also central) version control system which only saves
+changes to a file instead of copies. Switching between development versions is
+easy this way. Additional Git has a lot of other features compared to other
+\glspl{VCS} systems. Git was developed 2005 by Linus Torvalds.
+
+Followings are links to tutorials and description which descries what git is,
+what its benefits are  and how you can use it.
+
+
+\begin{description}
+    \item[The Git referance] is available in~\cite{gitdoc}. This gives
+        an overview to the possible Git command and its meaning.
+    \item[An Open PDF book] provided by the git homepage:~\cite{Chacon2014}. It
+        also holds an command index on the last side like the online
+        documentation mentioned out above. Thanks to PDF and linkage you
+        can directly jump to the descriptions with examples and well designed
+        pictures. Below is a video series which shows some of the examples and
+        pictures inside this book.
+    \item[A Video tutorial series] by an English
+        speaker:~\cite{gitvideotutorial_en}.
+        He orients on the book mentioned out above and gives examples and
+        pictures you find inside this books.
+    \item[A Video tutorial] (English) by an German
+        speaker:~\cite{gitvideotutorial_de_en}
+    \item[A Cheat-Sheet] gives an overview with a short descriptions of the most
+        used git commands and git commands flags:~\cite{git_cheat_sheet}. You
+        can download it as PDF.\@ The website also give some practical examples
+        with command line pictures to some of the commands and workflows.
+    \item[The Picture of Git states] gives an overview of the local and remote
+        repositories philosophic behind git and shows corresponding
+        commands~\cite{git_picture}
+\end{description}

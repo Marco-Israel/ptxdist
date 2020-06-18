@@ -2,104 +2,153 @@
 \label{cha:locations}
 
 \section{Project relevant files inside the PTXdist build machine}%
-\label{sec:Where to find project relevant files inside the PTXdist build machine}
-
+\label{sec:relevant_files}
 
 
 Here is brave overview over the locations where to find recent files belongs to
 this project and the Telair International GmbH inside the Virtual Box Linux
-machine and inside the PTXdist project. \\
+machine and inside the PTXdist project.
 
 \begin{description}
-    \item[The PTXdist project itselve] is located inside the virtual box VM
-        under  \newline
-        \textit{/ptxdist/projects/cp790760}. \\
-        \textbf{This location is the
-            \textit{project-root}} as it will be called further on inside this
-        documentaion.
+
+    \item[The PTXdist project itself] is located inside the \gls{VM} at:
+
+        \begin{alltt}
+        \textit{/ptxdist/projects/cp790760}
+        \end{alltt}
+
+        \textbf{This location is the \textit{project-root}} as it will be called
+        further on inside this documentation.
 
     \item[Source files downloaded by PTXdist] like the Linux kernel or software
-        packets can be found in \textit{/ptxdist/sources}.
+        packets can be found in:
+
+        \begin{alltt}
+        \textit{/ptxdist/sources}
+        \end{alltt}
 
         This folder could be
         used as a global source folder for other projects if you are using this
         VM again. Its also possible to locate \textit{Yocto} to it.
 
-    \item[The cp790760 software sources] are located in \newline
-        \textit{<project-root>/local\_sources/telair-cp\_790760\_1}.
+    \item[The cp790760 software sources] are located in:
+
+        \begin{alltt}~\label{part:location_cp790760_software}
+        \textit{<project-root>/local\_sources/telair-cp\_790760\_1 }
+        \end{alltt}
 
         PTXdist is compiling this sources during the build project and will
         place it into the SDCard rootfs.
 
     \item[The cp790760 data files] like pictures or configuration files, are
-        located in \newline
-        \textit{<project-root>/local\_sources/telair-partion\_data\_files}. This
-        are the files which will be placed in the so called \textit{data}
+        located in:
+        \begin{alltt}
+        \textit{<project-root>/local\_sources/
+        \qquad\(\hookrightarrow\) telair-partion-files/partion-data/files}
+        \end{alltt}
+        This are the files which will be placed in the so called \textit{data}
         partion on the SDCard.
 
-    \item[The cp790760 log files] are located in \newline
-        \textit{<project-root>/local\_sources/telair-partion\_log\_files}. This
-        files are old log files. This mechanism to copy old log files is only
-        if you like to update the system and want to hold the old logs.
+    \item[The cp790760 log files] are located in:
+        \begin{alltt}
+        \textit{<project-root>/local\_sources/
+        \qquad\(\hookrightarrow\) telair-partion-files/partion-log/files}
+        \end{alltt}
+        This files are old log files. This mechanism to copy old log files is
+        only if you like to update the system and want to hold the old logs.
         Otherwise the running system will create new files after the systems
         boots the first time.
 
+    \item[The Telair specific hardware description] which is needed by the Linux
+        Kernel and the software is described in a so called \gls{DTS} file.
+        This description is located in a file called:
+
+        \begin{alltt}
+        \textit{\textbf{<project-root>/local\_src/telair-patches/linux-4.4/
+        \qquad\(\hookrightarrow\) /new/arm/boot/dts/telair-am335x.dts}}
+        \end{alltt}
+        This plain text description is compiled by PTXdist to an binary file
+        called \gls{DTB} and is finally located inside the \textit{final image}
+        location below on site~\pageref{part:location_final_image}.
+
     \item[Other rootfs files] like scripts using by he cp790760 software are
-        located in
-        \textit{<project-root>/local\_sources/telair-partion\_rootfs\_files}.
+        located in:
+
+        \begin{alltt}
+        \textit{<project-root>/local\_sources/
+        \qquad\(\hookrightarrow\) telair-partion-files/partion-rootfs/files}
+        \end{alltt}
         This files will be flashed to the SDCard rootfs partion.
 
-    \item[Patched (updated) files] created by the Telair International GmbH to
-        the software packets, the Linux kernel or  bootloader, can be found in
-        \newline \textit{<project-root>/local\_sources/telair-partion\_log\_files}.
+    \item[Sources of patched (updated) files] created by the Telair
+        International GmbH to the software packets, the Linux kernel or
+        bootloader, can be found in:
+
+        \begin{alltt}
+        \textit{<project-root>/local\_sources/telair-patches}
+        \end{alltt}
+
         Here you find the \textit{old} and \textit{new} files inside the folders
         named corresponding to the software packets to patch.
     \item[The \textit{patches} itselfe] created by the Telair International GmbH
-        are located in
-        \textit{<project-root>/patches/<software-packet-to-patch>/telair/}. \\
 
-        \textbf{ATTENTION}: You need to \textit{activate} the patches in
-        the so called \textit{series.MBa335x} series file if you like to create
-        new ones or rename the existing ones.
+        \begin{alltt}
+        \textit{<project-root>/patches/<packet-to-patch>/telair/}
+        \end{alltt}
 
-    \item[Final images] are located in
+        This will be executed by PTXdist during build automatically.
+
+        \textbf{ATTENTION}: You need to \textit{activate} the patches in a file
+        called \textit{series.MBa335x} if you like to create new ones or rename
+        the existing ones. This file defines the order in which patches should
+        be preformed.
+
+    \item[Final images] are located in:
+        \begin{alltt}~\label{part:location_final_image}
         \textit{<project-rootl/platform-MBa335x/images}
-
+        \end{alltt}
     \item[Scripts] like to \textbf{format} and \textbf{flash} the SDCard are
-        located inside \newline \textit{<project-root>/tools/telair}. Inside
-        <project-root> you find a symlink pointing to the tools.
+        located inside:
+        \begin{alltt}
+        \textit{<project-root>/tools/telair}
+        \end{alltt}
+       %Inside <project-root> you find an \gls{symlink} pointing to the tools.
 
-    \item[Linux Kernel and PTX project configurations]are located in \newline
-        \textit{<project-root>/configs/platforms/tqma335x/mba335x/}. Here you
-        find the
+    \item[Linux Kernel and PTX project configurations]are located in:
+        \begin{alltt}
+        \textit{<project-root>/configs/platforms/tqma335x/mba335x/}
+        \end{alltt}
+        Here you find the:
         \begin{itemize}
-            \item[Linux Kernelconfig] in a file called \textit{kernelconfig-4.4}
-            \item[PTX BSP platform configuration] in a file called
-                \textit{platformconfig}. This is the \textbf{project
-                    configuration}.
-        \end{itemize}
+            \item Linux kernel configuration in a file called
+        \textit{kernelconfig-4.4}
 
+    \item PTXdist BSP platform configuration in a file
+        called \textit{platformconfig} This is the
+        \textbf{project configuration}
+         \end{itemize}
         The \textbf{PTXdist general configuration} can be found in a file called
-        \newline \textit{<project-root>/configs/systems/qt/ptxconfig}.\\
+        \newline \textit{<project-root>/configs/systems/qt/ptxconfig}
 
          How to edit this files by a call to \textit{ptxdist} is documented in
-         the \textit{First steps to PTXdist} chapter founded in \cite[PTXDist
-         online documentation]{ptxdist_docu}.
+         the \textit{First steps to PTXdist} chapter founded \newline
+         in~\cite[PTXDist online documentation]{ptxdist_docu}
 
-        You can also find symlinks pointing to the used configurations inside
-        <project-root>.
+        You can also find symbolic links pointing to the used configurations
+        inside <project-root>.
 
-    \item[PTXdist install directory] is located inside the build host in
-        \newline \textbf{/usr/local/lib/ptxdist-2016.04.0/}. There you find all
-        general rules.make which are predefined be Pingutronix / PTXdist to
-        build common packets and the linuxkernel itself. Only rules.make for
-        additional software added by TQ Systems additionally are inside the BSP
-        \textit{rules} directory.
+    \item[PTXdist install directory] is located inside the build host in:
+        \begin{alltt}
+        \newline \textit{/usr/local/lib/ptxdist-2016.04.0/}
+        \end{alltt}
+        There you find all general rules.make which are predefined be
+        Pingutronix / PTXdist to build common packets and the Linux kernel
+        itself. Only rules.make for additional software added by TQ Systems
+        additionally are inside the BSP \textit{rules} directory.
 
     \item[Bash, VIM, Git and other Linux build host configuration] are located
         under the user \textit{ptxdist home} directory (\~/). Take a look into
         this files to get information how the virtual Linux build host is
         configured.
-
 \end{description}
 

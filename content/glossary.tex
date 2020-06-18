@@ -1,625 +1,418 @@
 % % % % % % % % % % % % % % % % %Glossar
-\glsresetall
+\glsresetall%
+\glsunsetall%
 
-\newglossaryentry{BSP}{
-name=BSP,
-description={A board suppord packet holds \gls{metadata} how to build software
-    for a hardware divice. So it descripts whre to download (and which) needed
-    software packetes, how to build and install tham as also configuration files
-    and settings. Often it includes necassary compiler packedets and other
-    stuff nedded to sugessfull build software for a divice aka hardware board.
-}}
-\newglossaryentry{NFS}{
-name=NFS,
-description={ Das \acrfull{NFSacr}, (auch Network File Service) ist ein
-    Übertragungsservice. Dabei werden die Dateien nicht wie z. B. bei
-    \acrfull{FTPacr} oder \acrfull{TFTPacr} übertragen, sondern die Benutzer können
-    auf Dateien, die sich auf einem entfernten Rechner befinden, so zugreifen,
-    als ob sie auf ihrer lokalen Festplatte abgespeichert wären. Unter Unix
-    Betriebssystemen lassen sich diese Netzwerkfreigaben direkt in das
-    Dateisystem einhängen entsprechend wie z.B. Festplatten. }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ATTATION:
+% - No cite{ref} is allowed here
+% - No breaking lines are allowed in the description
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Dual Glossar Acronym in once
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand*{\newdualentry}[5][]{%
+  \newglossaryentry{main-#2}{name={#4},%
+  text={#3\glsadd{#2}},%
+  description={{#5}},%
+  #1
+  }%
+  \newglossaryentry{#2}
+  {type=\acronymtype,
+  first={#4 (#3)},
+  name={#3\glsadd{main-#2}},
+  description={\glslink{main-#2}{#4}}
+  }%
 }
 
 
-\newglossaryentry{TFTP}{
-name=TFTP,
-description={Das \acrfull{TFTPacr} ist ein im
-    Fumktionsumfang stark vereinfachtes \acrfull{FTPacr} und reduziertes Protokoll, das
-lediglich das senden und das empfangen von Dateien ermöglicht.}
+\newdualentry{SPL}{SPL}{Second-stage Program Loader}{%
+    such as GNU GRUB, BOOTMGR, Syslinux, or the \gls{MLO} are responsible for
+    loading eighth the \gls{TSPL} or directly the operating systems which
+    finally (re-) initializes the (rest of) the hardware and waits for user
+    level operations. If the operating system is loaded directly or in an further
+    step depends on the hardware and the chosen bottling process and bootloader.
+    They are also called \textbf{Second-stage Boot Loaders}.
 }
 
-\newglossaryentry{GIT}{
+\newdualentry{FSPL}{FPL}{First Program Loader}{%
+    or also called  \textbf{Second-stage Boot Loaders}, is a firmware located in
+    ROM on the device and is automatically run on device start-up or after
+    \gls{POR}. The ROM bootloader code is hard coded into the device and cannot
+    be changed by the user. It initializes a minimal set of hardware and like
+    preformed by an BIOS\@. They are also called
+    \textbf{First-stage Boot Loaders}.
+}
+
+\newdualentry{TSPL}{TPL}{Third-Stage Program Loader}{%
+    like barebox, u-boot, GNU GRUB, SysLinux,
+    BOOTMGR or is responsible for loading the selected operations system. It
+    provides an simple interface to the user, e.g.\@ to select on of different
+    different boot locations and operating systems or to preform some basic
+    settings from the user give to the operating systems own boot process.
+    They are also called  \textbf{Second-stage Boot Loaders},
+}
+
+\newdualentry{MLO}{MLO}{Mmc LOader}{%
+    is an \gls{SPL}. Please the description there.
+}
+
+\newdualentry{PCB}{PCB}{Printed Circuit Board}{%
+    is the hardware board without any assembled components. Therefore see
+    like \gls{PCBA}.
+}
+
+\newdualentry{PCBA}{PCBA}{Printed Circuit Board Assembly}{%
+    is a process to mount the SMT and DIP components on the blank \gls{PCB} in
+    resulting the final assembled hardware.
+}
+
+
+
+\newdualentry{hardlink}{hard link}{hard link}{%
+    is a link type in Linux/Unix based systems pointing to a file really exists
+    at this location. Movements like deleting or moving take directly effect
+    on the file. In this way it differs from an Linux/Unix \gls{symlink}. Such
+    type of link makes it possible to display a file at different locations but
+    having only one file in your file system, aka hard disk. This type of link
+    does not in Microsoft Windows systems where you really copy a file resulting
+    in two independent files in the filesystem. You only have symbolic links
+    here.
+}
+
+\newdualentry{symlink}{symbolic link}{symbolic link}{%
+    is a link type in Linux/Unix based systems pointing to a file regardless if
+    the file exists or not. Movements like deleting or move the link does not
+    has any effect on the real file the link pointing to. In this way it differs
+    from Linux/Unix an \gls{hardlink}. Symbolic links are similar to links a
+    Microsoft Windows based system. Symbolic links are also called
+    \gls{softlink}.
+}
+
+\newdualentry{VM}{VM}{Virtual Machine}{%
+    is a set of simulated computer hardware simulated by an application running
+    on real hardware called host system.  Because the simulating application
+    need some hardware resources the virtual machine can only be a subset of the
+    real hardware. Inside the Virtual Machine an other software can be run
+    isolated from the host system.
+}
+
+\newdualentry{DRM}{DRM}{Direct Rendering Manager}{%
+    is a subsystem of the Linux kernel responsible for interfacing with GPUs of
+    modern video cards. DRM exposes an API that user-space programs can use to
+    send commands and data to the GPU and perform operations such as configuring
+    the mode setting of the display. From~\cite[Direct Rendering Manager]{wikip}
+}
+
+\newdualentry{api}{API}{Application Programming Interface}{%
+    is a particular set of rules and specifications that a software program can
+    follow to access and make use of the services and resources provided by
+    another particular software program that implements that API
+}
+
+\newdualentry{BSP}{BSP}{Board support packet}{%
+    holds \gls{metadata} how to build software
+    for a hardware device. So it describes where to download (and which) needed
+    software packets, how to build and install them as also configuration files
+    and settings. Often it includes pessary compiler packets and other
+    stuff needed to successful build software for a device aka hardware board.
+}
+
+\newdualentry{NFS}{NFS}{Network File Service}{%
+    (also called Network File Service) is a service which provides access to
+    data on a host (server) from remote over an Ethernet interface. Thanks to
+    the protocol the client thinks the NFS share is a hard disk directly
+    connected to the client itself. The client can directly access this data
+    without transfer it like \gls{FTP} or \gls{TFTP} before. The real benefits
+    is, that the Client always works with an up-to-date version. This means, if
+    the Server host is changing a file the changes are directly available to the
+    client system. In a Linux system such an NFS can be mounted into the normal
+    file system. In such a way it is possible to provide a howl rootfs to a
+    system without the need of an own rootfs by the client. This also makes it
+    possible that multiple clients can work with the same rootfs provided only
+    by a single host.  }
+
+
+\newdualentry{TFTP}{TFTP}{Trivial File Transfer Protocol}{%
+    The \gls{TFTP} is a very simple \gls{FTP} protocol,
+    which provides only sending and receiving of data.
+}
+
+
+\newdualentry{FTP}{FTP}{File Transfer Protocol}{%
+    A standard network protocol allowing to transfer files from a host to a
+    client machine. The Server machine needs to run a compatible FTP Server
+    application to provide files to clients and to handle connections from such.
+}
+
+\newdualentry{CVS}{CVS}{Concurrent Versions System}{%
+    is a free client-server revision control system in the field of
+    software development. A version control system keeps track of all work and
+    all changes in a set of files, and allows several developers (potentially
+    widely separated in space and time) to collaborate. It was initial released
+    1990 under the GNU General Public License. Development and support stops
+    with a last release in 2008.
+}
+
+\newdualentry{VCS}{VCS}{Versions System}{%
+    is a component of software configuration management and
+	version controlling to track changes on plain text (ASCII) files. Most
+	systems like \gls{GIT} provide mechanisms to deal with such changes like
+	toggling between one or compare them. \acrlong{VCS} are also known as
+    \textit{revision control systems} or \textit{source control systems}.
+}
+
+
+\newdualentry{EOL}{EOL}{End of Line}{%
+    is the definition and defined symbol which marks a line as finished. No
+    letters coming any more in this line. Having such a marker in a file is
+    important for e.g\. an program reading a file to know when it can stops and
+    continue the next line. Otherwise it would read wrong or empty characters.
+    Beside from that, a programming displaying this file to the new user must
+    also know when the line ends and what to show in the next line.
+}
+
+\newdualentry{EOF}{EOF}{End of File}{% }
+    is  final symbol or symbol in the last line and character~(s) representing
+    the end of a file. This is important when reading or representing a file a
+    program must know when to stop reading. Otherwise it would read empty lines
+    with empty or random characters.
+}
+
+
+
+\newdualentry{DTB}{DTB}{Device Tree Blob}{%
+    is the binary (compiled) form of the \gls{DTS}. This binary gets read
+    by the bootloader and the Linux to get information about connected and
+    available hardware and where (at which address) they are \textit{mapped} in
+    the memory address range.
+}
+
+\newdualentry{DTS}{DTS}{Device Tree Source}{%
+    is the plain text description of the underlining hardware, about the bus and
+    the memory structure. So it describes how a peripheral is connected to the
+    CPU and where it is mapped (located) inside the memory address range to get
+    access to the registers.  Also the DTS provides input values to the drivers
+    like configuration setting, e.g\. a clock and its speed or which interrupts
+    are enabled.  The DTS gets compiled to a binary called \gls{DTB}. It is
+    compatible with a linker script in bare metal project where no real Linux
+    system is running but the hardware must also be configured and made
+    available to the software before the application (\textit{main} function)
+    starts.
+}
+
+\newdualentry{SDK}{SDK}{Software Developing Kit}{%
+    is a predefined environment including everything which is need to develop
+    and build a software for a specific purpose. All tools, special helper
+    scripts and others are already available as builtin or installed
+    automatically, configured for the needs of the SDK and ready to use for the
+    user.
+}
+
+\newdualentry{RootFS}{RootFS}{Root File System}{%
+    Is the first (root or entry point) filesystem of a howl Linux file system
+    tree.  Into this other destination trees (e.g\.\ folders, drives, shares)
+    gets connected (mounted) and are from here available for the users of the
+    Linux system. For example the \textit{home, bin, tmp, boot, usr, \ldots}
+    trees are located under the RootFS root.
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Glossar entries only
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newglossaryentry{GIT}{%
 name=GIT,
-description={ Git ist eine freie Software zur verteilten Versionsverwaltung von
-    Dateien, die durch Linus Torvalds initiiert wurde. Es arbeiten im gegensatz
-    zu anderen Versionsverwaltungen mit lokalen als auch externen Reposetories.
-}
+description={%
+    Git is a distributed (and also central) version control system which only
+    saves changes to a file instead of copies. Switching between development
+    versions is easy this way. Additional Git has a lot of other features
+    compared to other \glspl{VCS} systems. Git was developed 2005 by Linus
+    Torvalds.
+    }
 }
 
-\newglossaryentry{Dockerfile}{
+\newglossaryentry{Dockerfile}{%
 name=Dockerfile,
-description={Ein Dockerfile beschreibt wie ein \gls{Docker} Container (Image)
-    gebaut werden soll, genauer welche Tools und Konfigurationen der
-    Container enthalten soll.}
+description={A Dockerfile describes how a \gls{Docker} Container (Docker Image)
+    should be build and configured and which software should be automatically
+    installed and so available inside the Container. It is also possible to copy
+    files automatically inside the container or describe how different container
+    get connected or Linked.  } }
+
+
+\newglossaryentry{Docker}{%
+    name=Docker,
+    description={Docker is a layer based system for vitalization (mostly
+        single services or tasks like an Web server). Such \textit{images} are
+        described in plain text by a \gls{Dockerfile} recipes and build in a so
+        called \textit{container} (an docker Images). This containers can be
+        linked together to build a more complex container (on a higher level).
+    }
 }
 
-\newglossaryentry{CVS}{
-name=CVS,
-description={
-The \acrfull{CVSacr}, also known as the Concurrent Versioning
-System, is a free client-server revision control system in the field of software
-development. A version control system keeps track of all work and all changes in
-a set of files, and allows several developers (potentially widely separated in
-space and time) to collaborate. It was intial released 1990 under the GNU General
-Public Licinse. Development and support stops with a last release in 2008.
-} }
-
-\newglossaryentry{VCS}{
-name=VCS,
-description={
-A \acrfull{VCSacr} is a component of software configuration management and
-version controling to track changes on plain text (ASCII) files. Most systems
-like \gls{GIT} provide mechanismen to deal with such changes like toggling
-between ons or compare them. \acrlong{VCSacr} are also known as \textit{revision
-    control systems} or \textit{source control systems}.
-} }
-
-
-
-\newglossaryentry{Yocto}{
-name=Yocto,
-description={
-Das Yocto Project bezeichnet eine Community Gruppe, welche
-sich zur Aufgabe gemacht hat, dass erstellen von Linux Distributionen für
-eingebettet System zu vereinfachen. Die Yocto community stellt Meta-Daten (Recipes) bereit, um ein minimalistisches
-Betriebssystem mit grundlegenden  Linux \glspl{Tool} unter der Virtualisierungsumgebung
-\textit{\gls{QEMU}} für verschiedene acrhitekturen starten zu können.
-Das Minimalisten Betriebssystem der Yocto Community wird \textit{\gls{Poky}}
-genannt. Zudem Pflegt es zusammen mit der \gls{OpenEmbedded} community das Buildsystem
-\textit{bitbake}.  }
-}
-
-
-\newglossaryentry{QEMU}{
+\newglossaryentry{QEMU}{%
 name=QEMU,
-description={QEMU ist (von englisch „Quick Emulator“) ist eine freie
-    Virtualisierungssoftware, die die gesamte Hardware mitsamt
-    Prozessorinstruktionen einer einer Zielhardware emuliert. Dabei ist es sehr
-Recourcenschonend und performant.}
+description={QEMU (from „Quick Emulator“) is a free software to visualize
+    Hardware like CPU, interfaces or peripherals. It is written in the
+    programming language C and is in this way highly extendable (e.g\. by new or
+    special peripherals). QEMU makes it possible to run a single software cross
+    compiled on the host for a specific target cpu as well as booting howl
+    operation systems as an virtual system.
+    }
+}
+\newglossaryentry{CERT}{%
+    name=SEI CERT Coding Standards,
+    description={is a standards for commonly used programming languages such as
+    C, Java, and Perl, and the Android platform. In terms of C and C++ it is
+    not so restricted but more flexible than the de-facto standard \gls{MISRA}.
+}
 }
 
-\newglossaryentry{Wrapper}{
-name=Wrapper,
-description={ Ein Wrapper ist ein Sofwareinterface das Interaktion mit einem
-    anderen Softwarepaket kapselt und i.d.R. nach außen hin vereinfacht.
+
+\newglossaryentry{CWE}{%
+    name=CWE,
+description={is a community-developed list of common software and hardware
+security weaknesses. It serves as a common language, a measuring stick for
+security tools, and as a baseline for weakness identification, mitigation, and
+prevention efforts.
 }
 }
 
 
 
-\newglossaryentry{OpenEmbedded}{
+\newglossaryentry{MISRA}{%
+    name=MISRA,
+description={provide world-leading best practice guidelines for the safe and
+    secure application of both embedded control systems and standalone software.
+    MISRA is a collaboration between manufacturers, component suppliers and
+    engineering consultancies which seeks to promote best practice in developing
+    safety- and security-related electronic systems and other software-intensive
+    applications. To this end MISRA publishes documents that provide accessible
+    information for engineers and management, and holds events to permit the
+    exchange of experiences between practitioners.
+}
+}
+
+
+\newglossaryentry{Yocto}{%
+name=Yocto,
+description={%
+    is a community which provides and extends tools to configure and
+    cross-compile howl Linux distributions and software packets directly out of
+    the source for a specific target platform. It is oft simple only called
+    \textit{Yocto} The main focus of this community is to provide so called
+    \textit{recipes} describing how to build software packets which not have any
+    dependencies to a specific target like a \gls{mcu}/\gls{cpu} architecture.
+    In this way the community distributes an own Linux distribution described by
+    recipes and balded by a framework called \textit{\gls{bitbake}}. The minimal
+    possible distribution provided by the Yocto community project is called
+    \textit{Poky}. This can be expended by a developer (called user) by further
+    software packets which on the one hand are also independent to any target
+    and mostly provided also by the Yocto community, or on the other hand new
+    packets can be target specific. Further on the Yocto community (in
+    cooperation with the \gls{OpenEmbedded community}) extends and contributes
+    the building framework Bitbake and provides tools for handling the
+    distribution build or software development.  The community (as well as the
+    OpenEmbedded community) is massively supported by a growing number of well
+    known companies mainly focused in any way of embedded systems and
+    electronics. The initial goal of this community (and the interest of the
+    companies) is to get a howl (standard) working and extendable environment
+    running independent from any hardware in am hardware emulator like
+    \gls{QEMU} to be a baseline for developing project. That is what Poky is: A
+    minimal extendable Linux distribution ready to run in the emulator QEMU
+    without dependencies to hardware.
+    }
+}
+
+
+\newglossaryentry{Poky}{%
+name=Poky,
+description={%
+    is a minimal extendable Linux distribution ready to run in the
+    emulator QEMU without dependencies to hardware. It can be build by the
+    framework \gls{bitbake} and is developed and contributed by the
+    \textit{\gls{Yocto} community}.
+   }
+}
+
+
+\newglossaryentry{OpenEmbedded}{%
 name=OpenEmbedded,
-description={ Eine Community Gruppe welche eine Softwareware Buildumgebung
-namens Bitbake pflegt und Metatdaten für dieses Buildsystem bereitstellt,
-welche von dieser Buildumgebung verwendet wird um Softwarepakete zu übersetzen}
-}
+description={%
+    is a community is focused on porting public target depended software packets
+    to be target independent which get public afterwards free for everyone ready
+    to use. On the other hand the community develops and provides
+    \gls{bitbrecipes} describing how to build such a packet by the framework
+    \gls{bitbake}. Last but not least the community develops and contributes the
+    as well as Bitbake itself and other helpful tools to develop, (cross-)
+    compile and profile (or debug) software. The community (as well as the
+    \gls{Yocto} community) is massively supported by a growing number of well
+    known companies mainly focused in any way of embedded systems and
+    electronics.  } }
 
-\newglossaryentry{Recipes}{
-name=Recipies,
-description={Rezepte oder Anleitungen}
-}
-
-
-\newglossaryentry{Metadaten}{
-name=Metadaten,
-description={Metadaten oder Metainformationen sind Informationen über andere
-Daten}
-}
-
-\newglossaryentry{Docker}{
-name=Docker,
-description={Docker ist eine Software zur virtualisierung von einzelnen
-    Anwendungen}
-}
-
-\newglossaryentry{SDK}{
-    name=SDK,
-    description={Ein \acrfull{SDKacr} ist eine gekapselte bzw.
-vordefinierte Umgebung zur Entwicklung von Software\-komponenten. Die Umgebung
-stellt (vorkonfigurierte) Sammlungen von ausgewählten Programmier\-werkzeugen
-oder auch Liberias bereit, die zur Entwicklung für eine Zielplattform benötigt
-werden.}
-}
-
-\newglossaryentry{rootfs}{
-    name=rootfs,
-    description={Unter Linux wird das urspüngliche  \textit{rootfs} als der Ort
-        bezeichnet, von  dem \textbf{ausgehend} alle weiteren Verzeichnissbäume
-        eingehängt sind/werden. Beispielweise liegen direkt unterhalb des rootfs
-        die Ordner /home, /boot /root oder /bin.}
-}
-
-\newglossaryentry{Workflow}{
-    name=Workflow,
-    description={Ein Wokflow ist ein Arbeitsablauf und beschreibt Schritte in
-        ihrer Reihenfolge die nötig sind, um eine Aufgabe, Arbeitspaket oder
-        etwa eine Anweisung zu erfüllen. Dabei sind die Arbeitsschritte häufig
-        wiederkehrend in anderen Arbeitsabläufen.
-        } }
-
-\newglossaryentry{dummy}{
-    name=dummy,
-    description=dummy{
-        } }
-
-\newglossaryentry{Poky}{
-    name=Poky,
-    description={Minimalistisches Betriebssystem der \gls{Yocto} Community das
-        mitsamt seiner Tools in einer \gls{QEMU} virtuellen Maschine lauffähig
-        ist.
-        } }
-
-\newglossaryentry{Distribution}{
-    name=Distribution,
-    plural=Distributionen,
-    description={Als Distribution bezeichnet man eine Zusammenstellung von
-        (Software-) Paketen,Versionen,  Konfigurationen, Einstellungen, usw.
-        die als Gesamtpaket veröffentlicht sind oder werden und in sich ohne
-        weiteres Zutun eine definierte Aufgabe erfüllen. Beispielsweise ist
-        ein Betriebssystem eine solche Zusammenstellung das ohne weiters Zutun
-        für einen Satz von Anwendungsfällen genutzt werden kann.
-        } }
+\newglossaryentry{bitbrecipes}{%
+    name=Bitbake recipes,
+    description={%
+        are \glspl{metadatafile} describing how to build, configure
+        or e.g.\ install a software packet which should be compiled by a
+        framework called \gls{bitbake}. Such recipes are mostly a mix of python,
+        bash and GNU make.
+} }
 
 
+
+%\newglossaryentry{Distribution}{%
+%    name=Distribution,
+%    plural=Distributionen,
+%    description={Als Distribution bezeichnet man eine Zusammenstellung von
+%        (Software-) Paketen,Versionen,  Konfigurationen, Einstellungen, usw.
+%        die als Gesamtpaket veröffentlicht sind oder werden und in sich ohne
+%        weiteres Zutun eine definierte Aufgabe erfüllen. Beispielsweise ist
+%        ein Betriebssystem eine solche Zusammenstellung das ohne weiters zu tun
+%        für einen Satz von Anwendungsfällen genutzt werden kann.
+%        } }
 %
-%
-%\newglossaryentry{Mircosoft Office}{
-%name=Mircosoft Office,
-%description={Ein Softwarepaket, welches verschiedene Programme für unterschiedliche Aufgaben enthält. Weiteres ist unter
-%\cite{ms1}}
-%}
-%
-%\newglossaryentry{Portables Job Definition Format}{
-%name=Portables Job Definition Format,
-%description={
-%\acrfull{PJDF} ist ein von Adobe entwickeltes Format zur Speicherung technischer Produktions- und Auftragsdaten auf Basis der PDF Format Syntax. \cite{pjdf1}}
-%}
-%
-%\newglossaryentry{32-Bit acrhitektur}{
-%name=32-Bit acrhitektur,
-%plural=32-Bit acrhitekturen,
-%description={32-Bit kennzeichnet eine PC bzw. Prozessor oder Platinen acrhitektur. Sie kennzeichnet die Breite des Adressbusses und gibt somit vor, wie viel Speicher (adressierbare Blöcke oder Einheiten mit jeweils einem Byte) eine acrhitektur ansprechen und verarbeiten kann. Mit einem 32-Bit-Adressbus lassen sich maximal 2e32 Byte adressieren. Dies sind 232 Speicherstellen mit jeweils einem Byte. Oder umgerechnet 4 GiB. Die acrhitekturform hat vor allem Einfluss auf die Prozessor- und Busacrhitektur. Diese hängen unmittelbar zusammen und sind in Bezug auf Ihre Geschwindigkeit abhängig von der acrhitekturform (in diesem Fall beschränkt auf 32 Bit). Hieraus ergibt sich auch der Begriff \glqq 32-Bit Betriebssystem\grqq\, welches auf die Prozessor- und Busacrhitektur aufsetzt. Einem 32-Bit Betriebssystem ist es somit auch nur möglich, Max. 4 GB (bzw. GiB) Arbeitsspeicher anzusprechen und zu verarbeiten (teilweise sogar weniger).  }}
-%
-%\newglossaryentry{32-Bit Betriebssystem}{
-%name=32-Bit Betriebssystem,
-%plural=32-Bit Betriebssysteme,
-%description={Siehe \gls{32-Bit acrhitektur}}
-%}
-%
-%\newglossaryentry{Datentyp}{
-%name=Datentyp,
-%plural=Datentypen,
-%description={Datentyp beschreibt den Wertebereich von \glspl{Variable}. Sie werden daher auch als Werteart oder Datenart beschrieben. Sie sind gekennzeichnet durch einen Wertebereich, einen Name, einen Geltungsbereich, einer Konstruktionsregel, und einer gültigen (zulässige) Menge von Operationen über diese Wertemenge. Es wird zwischen numerische, boolesche, alphanumerische, abstrakte, elementare, zusammengesetzte und benutzerdefinierte Datentypen unterschieden. }
-%}
-%
-%
-%\newglossaryentry{Variable}{
-%name=Variable,
-%plural=Variablen,
-%description={Eine Variable ist in der Informatik ein Platzhalter. Er ist gekennzeichnet durch einen Namen und häufig durch einen Datentyp. Variablen werden (temporäre) Werte zugeordnet. Diese können verändert, überschrieben oder gelöscht werden. Sie dienen häufig als (Zwischen-) Speicher, z.B. für eine Berechnung. }
-%}
-%
-%\newglossaryentry{Konversationen}{
-%name=Konversationen,
-%description={Einigung, Normung oder Übereinkunft z.B. über einen Zeichensatzes. Zu dieser Einigung ist man gemeinsam in einem Gespräch (Konversation) gekommen. Diese Einigung ist häufig zu einer De-facto- oder Quasi-Vorgabe geworden.}
-%}
-%\newglossaryentry{Forms Data Format}{
-%name=Forms Data Format,
-%description={\acrfull{FDF} ist ein Format zur (Serverseitigen-) Verarbeitung der Formulardaten innerhalb eines PDF Dokumenten \cite{fdf1} \cite{fdf3} \cite{fdf2}}
-%}
-%\newglossaryentry{String}{
-%name=String,
-%plural=Strings,
-%description={Ein String bezeichnet eine Zeichenkette in der Informatik. Sie repräsentiert z.B. ein Wort oder einen Satz.}
-%}
-%\newglossaryentry{Hypertext Transfer Protocol}{
-%name=Hypertext Transfer Protocol,
-%description={Das Hypertext Transfer Protocol (HTTP) ist ein Protokoll zur Übertragung von Daten auf der Anwendungsschicht in Rechnernetzen. Meistens wird es genutzt Hypertext-Dokumente (Webseiten) aus dem World Wide Web (WWW) in einen Webbrowser zu laden. Das Protokoll ist Zustandslos}
-%}
-%\newglossaryentry{Backdoor}{
-%name=Backdoor,
-%description={Hintertür für Angreifer, damit diese sich zu dem Rechner verbinden und diesen eindringen können.}
-%}
-%\newglossaryentry{Owner}{
-%name=Owner,
-%description={Als \glqq Owner\grqq\ wird der Besitzer von etwas bezeichnet. Z.b. der Besitzer (Owner) einer Datei oder eines Dokumentes. Er ist oft gleichzusetzen mit einem Administrator. Der Owner besitzt i.d.R. die vollen Zugriffsrechte, inklusive Rechte zum Verändern der Inhalte oder Löschen der kompletten Datei.}
-%}
-%\newglossaryentry{Pubic-Private Key Verfahren}{
-%name=Pubic-Private Key Verfahren,
-%description={Ein Public-Privat-Key Verschlüsselungsverfahren (kurz Public-Key Verfahren) ein kryptographisches Schutz Verfahren. Bei diesem wird mit einem veröffentlichten (öffentlicher) Schlüssel eine Klartextdatei in eine verschlüsselte Datei umgewandelt. Die Datei kann nur wieder durch einen zweiten, geheimen Schlüssel in Klartextform umgewandelt werden. Dieses wird asymmetrisches Verschlüsselungsverfahren bezeichnet, da zwei unterschiedliche Schlüssel (ein öffentlicher und ein geheimer) benötigt werden um ein Dokument zu verschlüsseln und weder zu entschlüsseln.}
-%}
-%
-%
-%%\newglossaryentry{XRef Sektion}{
-%%name=XRef Sektion,
-%%plural=XRef Sektionen,
-%%description={Eine Cross Referenz Sektion (XRef Sektion) beschreibt den Bereich einer Cross Referenz Tabelle oder des Cross Referenz Stream Objektes in einem PDF Dokument}
-%%}
-%
-%\newglossaryentry{User}{
-%name=User,
-%description={Als \glqq User\grqq\ wird ein normaler Benutzer bezeichnet. Er besitzt häufig weniger, bzw. eingeschränkte (Zugriffs-) Rechte, etwa auf eine Datei oder Ordner. (Im Gegensatz zu einem Owner oder Administrator.) Häufig darf er etwa Dateien nur lesen oder eingeschränkt bearbeiten und verwenden.}
-%}
-%\newglossaryentry{Adobe Reader}{
-%name=Adobe Reader,
-%description={Software zu Anzeigen von PDF Dateien. Es stammt vom Hersteller Adobe, welcher auch das \acrfull{PDF} Format entworfen hat.}
-%}
-%\newglossaryentry{Layout}{
-%name=Layout,
-%plural=Layouts,
-%description={Das Layout beschreibt die Gestaltung oder das Aussehen z.B. einer (Internet-) Seite oder einer Programmoberfläche(GUI). Hierzu zählen Formatierungen und Anordnung der Inhalte, wie z.B. Schriftarten, Schriftgrößen, die Seitengröße oder Farben und andere Designelemente.}
-%}
-%\newglossaryentry{virtuelle Maschine}{
-%name=virtuelle Maschine,
-%plural=virtuelle Maschinen,
-%description={Eine virtuelle Maschine (VM) bildet die Rechneracrhitektur (Hardware) eines realen Rechners in einer abstrahierende Schicht virtuell nach. So wird es möglich, die Hardwareperformance eines realen Rechners auf mehre virtuelle Maschinen aufzuteilen und so einen realen Rechner in mehrere virtuelle, eigenständige und unabhängige virtuelle Rechner aufzuteilen.}
-%}
-%\newglossaryentry{PDF-Viewer}{
-%name=PDF-Viewer,
-%description={Ein PDF-Viewer oder auch PDF Reader genannt, ist in Programme zum Betrachten von PDF-Dokumente}
-%}
-%
-%
-%\newglossaryentry{Tag}{
-%name=Tag,
-%plural=Tags,
-%description={Ein Tag ist ein Schlüsselwort (Keywort) das eine definierte Aufgabe oder Funktion, im Kontext in dem es genutzt wird, besitzt. }
-%}
-%\newglossaryentry{Multimedia}{
-%name=Multimedia,
-%description={Dateien, die gleichzeitig aus unterschiedlichen, i.d.r digitalen Medien zusammenwirken. Z.B. Text, Grafik, Audio, Video oder  Animation.}
-%}
-%\newglossaryentry{Content stream}{
-%name=Content stream,
-%plural=Content streams,
-%description={Ein Content stream liefert den Inhalt einer PDF Seite. Er enthält eine Sequenz von Anweisungen welche zum einen das Layout einer Seite beschreiben. Zum anderen liefern Content streams die Inhalte der PDF Seiten. Z.B Bilder oder Texte.}
-%}
-%\newglossaryentry{Library}{
-%name=Library,
-%description={Bibliothek welche eine Sammlung von Unterprogrammen/-Routinen enthält},
-%plural=Libraries
-%}
-%\newglossaryentry{verkettete Liste}{
-%name=verkettete Liste,
-%plural=verkettete Listen,
-%description={Eine (zyklisch) verkettete Liste ist eine dynamische Datenstruktur zur Speicherung von Objekten. Dabei muss die Anzahl der Objekte im Vorfeld nicht bestimmt werden. Es können beliebig viele Objekte nachträglich in die Liste aufgenommen werden. Durch einen Zeiger wird jeweils auf das nachfolgende Objekt der Liste (bzw. Element oder Knoten)  gezeigt. Oder auf dessen Speicherzellen im Arbeitsspeicher. Anders als (Objekt-) Bäumen sind Listen linear, dass heisst ein Element hat genau einen Nachfolger. Bei einer zyklischen Liste zeigt das letzte Element auf ein vorheriges Element (oftmals das erste Element in der Liste). Bei einer doppelt verketten (zyklischen) Liste existiert ein zweiter Zeiger, welcher auf das vorherige Element einer Liste zeigt. } }
-%
-%
-%
-%
-\newglossaryentry{Feature}{
+
+\newglossaryentry{Feature}{%
 name=Feature,
-description={Merkmal oder Eigenschaft, wie eine besondere Funktionalität}
-}
-%
-%\newglossaryentry{ExtensionLevel}{
-%name=ExtensionLevel,
-%description={Erweiterungen oder Änderungen der letzten Revision des PDF Formates. Diese werden als eigene Dokumente veröffentlicht.}
-%}
-%\newglossaryentry{Acrobat}{
-%name=Adobe Acrobat,
-%description={Adobe Acrobat ist eine Gruppe von Programmen mit welcher PDF-Datei erstellt, verwalten, kommentiert und verteilt werden können. Dieses kostenpflichtige Programmpaket des Software-Unternehmens Adobe Systems enthält ein Anwendungsprogramm zum Erstellen und Bearbeiten von PDF-Dokumenten.}
-%}
-%\newglossaryentry{deklariert}{
-%name=deklariert,
-%plural=deklarieren,
-%description={etwas bekannt geben}
-%}
-%\newglossaryentry{deklaration}{
-%name=Deklaration,
-%plural=deklarieren,
-%description={Bekanntmachung}
-%}
-%\newglossaryentry{Header}{
-%name=Header,
-%description={Kopfteil einer Datei, welcher oft Grundlegende Einstellungen definiert.}
-%}
-%\newglossaryentry{Body}{
-%name=Body,
-%description={Hauptteil einer Datei.}
-%}
-%\newglossaryentry{Cross Referenz Tabelle}{
-%name=Cross Referenz Tabelle,
-%plural=Cross Referenz Tabellen,
-%description={Cross Reference Tabellen oder Kreuztabellen, kurz XRef, enthalten Verweise auf definierte Stellen in einer Datei. Dieses ermöglicht einen schnelleren Zugriff auf diese Bereiche.}
-%}
-%\newglossaryentry{Trailer}{
-%name=Trailer,
-%description={Schlussteil oder Anhang einer Datei. Beschreibt zusätzlichen Informationen zu einer Datei.}
-%}
-\newglossaryentry{Root}{
-name=Root,
-description={Wurzel, Ursprung von dem etwas ausgeht. Im Unix Betriebssystem
-    sowohl ein (der) adminstrative Benutzer sowie der Ursprung des
-    gesamten Linux Verzeichnisbaums
-    (Dateisystem) unter welchem weitere Verzeichnisbäume eingehängt werden.
-    Diese können sich auf der selben Festplatte als auch auf einem externen
-    Speichermedium befinden.}
+description={A special (helpful) functionality which is not common for such a
+    program but often helpful when working with a tool.
+    }
 }
 
 
 
-\newglossaryentry{RootFS}{
-name=Root File System,
-description={Wurzel (\gls{Root}) des Linux Datei Systems unter welchem weitere
-    Verzeichnisbäume (lokal oder extern auf einem anderen Datenträger)
-    eingehängt werden. Z.b. \textit{home, bin, tmp, boot, usr, \ldots} }
-}
-
-%\newglossaryentry{Integritaet}{
-%name=Datenintegrität,
-%description={Verhinderung vor unautorisierter Modifikation von Information}
-%}
-%\newglossaryentry{Vertraulichkeit}{
-%name=Vertraulichkeit,
-%description={Informationen sind nur für einen beschränkten Empfängerkreis einsehbar. Weitergabe und Veröffentlichung sind dabei i.d.R. nicht erlaubt.}
-%}
-%\newglossaryentry{Verfuegbarkeit}{
-%name=Verfügbarkeit,
-%description={Gewährleistung, das ein System oder Service nach definierten Anforderungen verfügbar ist}
-%}
-%\newglossaryentry{Verbindlichkeit}{
-%name=Verbindlichkeit,
-%description={Verbindlichkeit oder auch Nichtabstreitbarkeit bedeutet in der Informationstechnik, dass eine (durchgeführte) Sache eindeutig dem Urheber zugeordnet werden kann und er es nicht abstreiten kann.}
-%}
-%\newglossaryentry{Authentizitaet}{
-%name=Authentizität,
-%description={Authentizität, beschreibt die Echtheit von etwas. Z.B. einer Datei oder eines Dokumentes. Authentizität beutet sinngemäß: \glqq als Original befunden\grqq\ }
-%}
-%\newglossaryentry{AES}{
-%name=AES,
-%description={Der \acrfull{AES} ist eine symmetrische Blockchiffre mit 128-256 Bit Schlüssellänge}
-%}
-%\newglossaryentry{RC4}{
-%name=RC4,
-%description={\acrfull{RC4} ist eine symmetrische Stromverschlüsselung. Der Klartext wird Bit für Bit per XOR mit der Zufallsfolge verknüpft}
-%}
-%\newglossaryentry{Flag}{
-%name=Flag,
-%description={Ein Flag ist ein Statusindikator. Er dient zur Kennzeichnung bestimmter Zustände (z.B. 0 = Licht aus, 1 = Licht an)}
-%}
-%\newglossaryentry{ASCII}{
-%name=ASCII,
-%description={\acrfull{ASCII} ist eine Hexadezimale Zeichencodierung auf ursprünglich 7 Bit Ebene. Dies entspricht 128 druckbare Zeichen die durch einen individuellen Hexadezimalen Wert dargestellt werden können.}
-%}
-%
-%\newglossaryentry{Plugin}{
-%name=Plugin,
-%plural=pluins,
-%description={Ein Plugin (oder Plug-in)  erweitert oder verändert eine bestehende Software. Z.B. um neue oder veränderte Funktionen. Es ist ein optionales zusätzliches Software-Modul für diese Software, dass nicht ohne eine Hauptanwendung ausgeführt werden kann. Teilweise wird statt Plugin auch der Begriff Addon oder Add-on verwendet.}
-%}
-%
-%
-%
-%\newglossaryentry{Addon}{
-%name=Addon,
-%plural=Addons,
-%description={Ein Addon (oder Add-on)  erweitert (oder verändert) eine bestehende Software. Z.B. um neue oder veränderte Funktionen. Es ist ein optionales zusätzliches Modul dass nicht ohne eine Hauptanwendung genutzt werden kann. Häufig, speziell in der Informatik, wird statt Plugin auch der Begriff Plugin oder Plug-in verwendet.}
-%}
-%
-%\newglossaryentry{Wiki}{
-%name=Wiki,
-%plural=Wikis,
-%description={Ein Wiki ist ein Webseitensystem. Die Inhalte (Texte, Grafiken,.. ) der Webseiten können von andern Benutzern gelesen auch auch direkt online im Webbrowser geändert werden. Ohne eine zusätzliche Software zu benötigen. Es wird häufig genutzt, um Erfahrung und Wissen (gemeinschaftlich) zu sammeln und (verständlich) zu dokumentieren.}
-%}
-%
-%\newglossaryentry{Forum}{
-%name=Forum,
-%plural=Foren,
-%description={Ein Forum ist ein realer oder virtueller (online) Ort, an dem Meinungen zwischen vermieden Personen ausgetauscht werden können, Fragen gestellt und beantwortet werden können oder Themen diskutiert werden können. }
-%}
-%\newglossaryentry{PostScript}{
-%name=PostScript,
-%description={PostScript ist eine Programmiersprache, spezialisiert auf Bilder, Texte oder andere Grafische Formen. Diese können z.B. auf einer digitalen Seite dargestellt, oder an einen Drucker weitergeleitet werden. PostScript ist unter \cite{post3} von Adobe spezifiziert. Weitere Informationen sind auch unter \cite{post1} und \cite{post2} zu finden. PostScript ist Grundlage, auf welche das \acrfull{PDF} aufsetzt.}
-%}
-%
-%\newglossaryentry{Hexadezimal}{
-%name=Hexadeimal,
-%description={Beim Hexadezimalsystem in einem Stellenwertsystem die Zahlen jeweils zur Basis 16 dargestellt. Dieses ist komfortablere Darstellung als Binärsystems (0 und 1) welches speziell in der eine Rolle spielt. So müssen die Oktette beim Hexadezimalsystem nicht als acht stellige Binärzahlen sonder nur als zweistellige Hexadezimalzahlen  dargestellt werden.},
-%plural=Hexadeimaler
-%}
-%\newglossaryentry{Oktal}{
-%name=Oktal,
-%description={Das Oktale Zahlensystem wird zur Basis 8 dargestellt. Genau wie die Hexadezimale Schreibweise ist es eine komfortablere Darstellung als Binärsystems (0 und 1). Beim Oktalen Zahlensystem werden Zeichen nicht als acht stellige Binärzahlen sonder als dreistellige Oktalzahlen dargestellt.},
-%plural=octalen
-%}
-%
-%\newglossaryentry{Integer}{
-%name=Integer,
-%description={Eine Ganzzahl. Also eine Zahl ohne Komma und Nachkommastellen.},
-%plural=Integers
-%}
-%\newglossaryentry{Reale Zahl}{
-%name=Reale Zahl,
-%description={Eine Reahle Zahl ist eine Zahl mit Nachkommastellen},
-%plural=Reale Zahlen
-%}
-%
-%\newglossaryentry{Escapezeichen}{
-%name=Escapezeichen,
-%description={Escapezeichen Leiten in der Informatik eine Sonderfunktion ein. Der Anschließende Buchstabe wird dabei nicht mehr als Buchstabe interpretiert, sonder hat eine definierte Funktionalität. Z.B. $\backslash$n für eine neue Zeile oder $\backslash$r für einen Zeilenrücksprung},
-%plural=escaped
-%}
-%
-%
-%
-%\newglossaryentry{Key-Value-Paar}{
-%name=Key-Value-Paar,
-%plural=Key-Value-Paare,
-%description={Einem Schlüsselwort/Bezeichner/Variable (Key) wird ein Wert (Value) zugeordnet. Es erfolgt also eine Art von Definition, bei der zu einem Schlüssel ein bestimmten Wert festgelegt (definiert) wird}
-%}
-%
-%\newglossaryentry{Abwaertskompatibel}{
-%name=Abwärtskompatibel,
-%plural=Abwärtskompatibilität,
-%description={Ein Objekt (z.B. ein Programm) kann andere Objekte (z.B. eine Datei) richtig verarbeiten, die von einer älteren Version stammen und somit anders zu interpretieren ist oder weniger bzw. andere Funktionalitäten besitzt.}
-%}
-%
-%\newglossaryentry{Aufwaertskompatibel}{
-%name=Aufwärtskompatibel,
-%plural=Aufwärtskompatibilität,
-%description={Ein Objekt (z.B. ein Programm) kann andere Objekte (z.B. eine Datei) richtig verarbeiten, die von einer neueren Version sind, als es selbst. Neuere Versionen können unbekannte Funktionalitäten besitzt oder anders zu interpretieren sein. Dieses macht eine Aufwärtskompatibilität schwierig}
-%}
-%
-%\newglossaryentry{Zeilenruecksprung}{
-%name=Zeilenrücksprung,
-%description={Dieser Befehl besagt, das der Curser zum Anfang der Zeile Springen soll, bzw. das mit einer neuen Zeile begonnen werden soll. Häufig wird es durch ein $\backslash$r gekennzeichnet.}
-%}
-%\newglossaryentry{Zeilenumbruch}{
-%name=Zeilenumbruch,
-%description={Dieser Befehl besagt, das der Curser in der nächsten Zeile beginnen soll. Häufig wird es durch ein $\backslash$n gekennzeichnet. Bei Windowssystem inkludiert ein Zeilenumbruch auch immer einen Zeilenrücksprung durch $\backslash$r. Dieses wird bei Unixsystemen getrennt}
-%}
-%\newglossaryentry{Encodieren}{
-%name=Encodieren,
-%description={Ein Datenpaket (wie z.B. einen Text) mit einem Code verschlüsseln},
-%plural=encodieren
-%}
-%\newglossaryentry{PDF Processor}{
-%name=PDF Processor,
-%plural=PDF Prozessoren,
-%description={Ein PDF Processor ist jede Art von Software oder Hardware, welche PDF Dateien schreiben, lesen aktualisieren (updaten) oder anderweitig verarbeitet. Grundlegend wird zwischen \gls{PDF Writer} (PDF Software oder Hardware zum Schreiben von PDF Dateien) und PDF Readern (PDF Software oder Hardware zum Anzeigen von PDF Dateien) unterschieden.  }
-%}
-%\newglossaryentry{escape}{
-%name=escape,
-%plural=escaped,
-%description={Unter escape (Escapen) versteht man in der Informationstechnik den Vorgang, eine Sonderfunktion, z.B. eines Zeichens, zu ignorieren und das Zeichen als normales Textzeichen darzustellen, anstatt die Sonderfunktion auszuführen. Hierzu wird wiederum ein Zeichen mit Sonderfunktion benötigt, welche als Escapezeichen bezeichnet wird. }
-%}
-%\newglossaryentry{case-sensitive}{
-%name=case-sensitve,
-%description={Unter case-sensitve versteht man, das die Groß und Kleinschreibung berücksichtigt wird \glqq Hallo\grqq\ entspricht somit nicht! dem Wort \glqq hallo\grqq\. Es sind 2 unterschiedliche Wörter. }
-%}
-%
-%\newglossaryentry{PDF Writer}{
-%name=PDF Writer,
-%description={Ein PDF Writer ist eine Software oder Hardware, mit welcher PDF Dateien erstellt oder erzeugt (z.B. ein PDF Printer) werden können }
-%}
-%\newglossaryentry{PDF Reader}{
-%name=PDF Reader,
-%description={Ein PDF Reader (oder auch PDF Viewer) Software oder Hardware zum Anzeigen und Verarbeiten (\gls{PDF Converter}) von PDF Dateien. Abhängig vom Funktionsumfang des PDF Readers können mit diesem auch Formulare ausgefüllt, Inhalte extrahiert, Multimediainhalte wieder gegen werden oder Eingebettete Inhalte und Funktionen geöffnet oder Ausgeführt werden, wie das öffnen einer Internetseite oder eines Dokumentes oder das Ausführen von Programmen}
-%}
-%\newglossaryentry{PDF Converter}{
-%name=PDF Converter,
-%description={Software oder Hardware, welche PDF Dateien in andere Dateiformate umwandelt. Oder andere Dateiformate in PDF Dateien umwandelt.}
-%}
-%\newglossaryentry{PDF Printer}{
-%name=PDF Printer,
-%description={Ein virtueller Drucker (oder vielmer Druckertreiber), welcher empfangene Daten in PDF Syntax umwandelt und das Ergebniss als PDF Dateien abspeichert. Es wird somit ein PDF Dokument erzeugt, anstatt Inhalte Physikalisch auszudrucken.}
-%}
-%
-%\newglossaryentry{PDF Drucker}{
-%name=PDF Drucker,
-%description={Ein virtueller Drucker (oder vielmer Druckertreiber), welcher empfangene Daten in PDF Syntax umwandelt und das Ergebniss als PDF Dateien abspeichert. Es wird somit ein PDF Dokument erzeugt, anstatt Inhalte Physikalisch auszudrucken.}
-%}
-\newglossaryentry{metadata}{
+\newglossaryentry{metadata}{%
 name=metadata,
-description={Metadata are information about a file. Like the fileformat, the
+description={Meta data are information about a file. Like the file format, the
     author or how to use the file.}
 }
 
-\newglossaryentry{metadatafiles}{
+
+\newglossaryentry{metadatafile}{%
 name=metadata files,
-description={Metadata files are files holding only \gls{metadata} about one ore
+description={Meta data files are files holding only \gls{metadata} about one ore
     more other files.
-}}
-\newglossaryentry{Meta}{
-name=Metadaten,
-description={Metadaten oder Metainformationen sind Informationen über andere Daten}
+    }
 }
 
-\newglossaryentry{Metadatendatei}{
-name=Metadatendatei,
-description={Eine Datei, welche \glspl{Meta} (Informationen zu anderen Daten) über ndere Daten enthält.}
-}
-%\newglossaryentry{End Of Line}{
-%name=End Of Line,
-%description={Symbolisiert das \glqq Ende einer Zeile\grqq\.}
-%}
-%\newglossaryentry{Token}{
-%name=Token,
-%description={PDF Dateien bestehen aus einer Sequenz von 8 Bit Binärbytes. Sie werden zu Gruppen zusammen gefasst die Schlüsselwörter, Strings, Numbers, usw repräsentieren. Eine Gruppe von Byte wird in PDF als Tokens definiert \cite[S. 48]{pdf}}
-%}
-%%\newglossaryentry{case-sensitive}{
-%%name=case-sensitive,
-%%description={case-sensitive bedeutet, das zwischen Klein und Großbuchstaben unterschieden wird. "\glqq Ein  Beispiel\grqq\ ist also \textbf{nicht!} gleich \glqq ein beispiel\grqq\ .}
-%%}
-%
-%\newglossaryentry{Font}{
-%name=Font,
-%plural=Fonts,
-%description={Als Font wird der Informationstechnik jede Schriftart bezeichnet, die auf einem Computer oder Peripheriegerät vorhandene ist.}
-%}
-%\newglossaryentry{decodieren}{
-%name=decodieren,
-%plural=decodiert,
-%description={Eine Datei oder Nachricht wieder Entschlüsseln und ins ursprüngliche Format zurück übersetzten.}
-%}
-%\newglossaryentry{Offset}{
-%name=Offset,
-%description={Eine bestimmte Speicheradresse oder eine Anzahl Bits, Bytes, ..., die i.d.R vom Beginn einer Datei berechnet berechnet wird. }
-%}
-%\newglossaryentry{Hybride PDF Datei}{
-%name=Hybride PDF Datei,
-%plural=hybriden PDF Dateien,
-%description={PDFs, die zusätzlich zu Objektstreams und einem \gls{XRef} Stream (verfügbar ab PDF Version 1.5), auch normale Objekte und eine normale \gls{XRef} Tabelle enthalten (bis PDF Version 1.4 die einzige Form). Siehe hierzu das Kabitel \glqq Compatibility with Applications That Do Not Support PDF 1.5\grqq\ der Adobe Referenz unter \cite[S. 109 ff]{pdf2}}
-%}
-%
-%\newglossaryentry{Update}{
-%name=Update,
-%plural=Updates,
-%description={Ein Update ist eine Aktualliserung. Etwas wird auf eine aktuellen Stand oder eine aktuelle Version gebracht. }
-%}
-%
-%\newglossaryentry{inkrementell}{
-%name=inkrementell,
-%plural=inkrementelle,
-%description={schrittweise erfolgend, aufeinander aufbauend. \cite[Schlagwort: inkrementell]{duden} }
-%}
-%
-%
-%\newglossaryentry{EOL}{
-%name=End of Line,
-%description={Mit \acrfull{EOL} wird das Ende einer Zeile beschrieben. Der Marker beschreibt in der Informatik häufig die Kombination der Befehle für eine neue Zeile (meist \bb n) und einen Zeilenrücksprung (meist \bb r)}
-%}
-%\newglossaryentry{EOF}{
-%name=End of File,
-%description={Mit \acrfull{EOF} wird das Ende einer Datei beschrieben. Wie dieser Marker aussieht ist abhängig vom Programm, welches eine solche Markierung zum Lesen einer Datei benötigt.}
-%}
-%\newglossaryentry{Hash}{
-%name=Hash,
-%plural=Hases,
-%description={Ein Hash ist eine bezeichnet eine Verkürzte Form von etwas. Durch eine Hashfunktion (der Vorgang um einen Hash zu erstellen) wird eine Große Eingabe (z.B. eine Datei oder ein Satz) in eine kleine Ausgabemenge umgewandelt(abgebildet). Es existieren verschiedene Verfahren, um einen Hash (oder Hashwert) zu erzeugen. Die bekanntesten sind \acrfull{MD5} und \acrfull{SHA} in Version 2 und 3. Ein Hashwert wird häufig als Prüfsumme verwendet und wird in diesem Fall auch als Fingerprint bezeichnet.}
-%}
-
-\newglossaryentry{Tool}{
-name=Tool, description={Ein Tool (Informationstechnik, zu Deutsch
-    \textit{Werkzeug})  beschreib beschreibt ein Stück Software das
-    Hilfsaufgaben ausführt um eingesetzt bei anderen Aufgaben zu unterstützen
-}}
 
 
 
-\newacronym{SDKacr}{SDK}{Software Development Kit}
-\newacronym{DTBacr}{DTB}{Device Tree Blob}
-\newacronym{BSPacr}{BSP}{Board support package}
-\newacronym{TFTPacr}{TFTP}{Trivial File Transfer Protocol}
-\newacronym{NFSacr}{NFS}{Network File System}
-\newacronym{FTPacr}{FTP}{File Transport Protocol}
-\newacronym{CVSacr}{CVS}{Concurrent Versions System}
-\newacronym{VCSacr}{VCS}{Versions System}
-\newacronym{FAQacr}{FAQ}{Frequently Asked Questions}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Acronym only entries
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newacronym{FAQ}{FAQ}{Frequently Asked Questions}
+\newacronym{POR}{POR}{Power on reset}
+\newacronym{BIOS}{BIOS}{Basic Input Output}
+
 %    \newacronym{WYSIWYG}{What you see is what you get}
-%    \newacronym{LBA} Logical Block Addressing
-%
+%    \newacronym{LBA} Logical Block Addressing%
 %    \newacronym{PDF}{Portable Dokument Format}
 %    \newacronym{HFU}{Hochschule Furtwangen}
 %    \newacronym{ISO}{International Organization for Standardization}

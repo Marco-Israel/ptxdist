@@ -18,3 +18,6 @@ my $bib_program = 'bibtex';
     if ( exists $generated_log{"$bbl_base.bcf"} ) {
         $bib_program = 'biber';
 }
+
+
+$pdflatex = 'pdflatex -synctex=1 %O %S';

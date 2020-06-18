@@ -1,0 +1,56 @@
+
+\chapter{Outlook into the feature}%
+\label{cha:ausblick}
+
+
+\section{U-Boot working with NFS and TFTP}%
+\label{sec:uboot_nfstftp}
+
+For further development it would be useful to get an TFTP and NFS server
+running. Therefor an Ethernet interface is needed on an development board but
+would decrease the development time significantly.
+
+In this case, the bootloader environment needs to be modified to work with your
+\gls{TFTP} server and your \gls{NFS} server. Here are some steps needs to be
+preformed to get it running
+
+\newpage
+
+\begin{lstlisting}[gobble=4, language=bash,numbers=left,caption=Configure
+bootboloader (Barebox or U-Boot) to use NTFS and TFTP.]
+         #The bootloader should try to load any image using TFTP
+    setenv autoload no
+
+        #The IP of the TFT-Server host. Like 192.168.100.1
+    setenv serverip <serverip>
+
+        #Own machine IP address. Like 192.168.100.10
+    setenv ipaddr <ipaddr>
+
+        #Networmask bothe machines are in. Like 255.255.255.0
+    setenv netmask <netmask>
+
+        #Path to root folder which should be shared
+        #ATTATION   NFS share has to set in /etc/exports
+        #ATTATION   NFS-Server has to run on the host
+    setenv rootpath <rootpath>
+
+        #name of devicetree file to be downloaded
+    setenv dtb <dtb>
+
+        #name of the Linux kernel image to be downloaded
+    setenv kernel <kernel>
+
+        #Direct start load and start the kernel
+        #NOTE   Setting is not needed and not depended to TFTP/NFS
+    setenc autostart on
+
+\end{lstlisting}
+
+\newpage
+
+\section{QEMU}%
+\label{sec:QEMU}
+To decrease the development time a split software from hardware bugs, it would
+be useful to simulate the hardware by QEMU.\@ This would make the use of an NFS
+and TFTP server possible easy by adding an virtual network adapter.

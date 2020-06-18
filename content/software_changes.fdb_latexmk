@@ -1,0 +1,13 @@
+# Fdb version 3
+["pdflatex"] 1592320538 "software_changes.tex" "software_changes.pdf" "software_changes" 1592320538
+  "/etc/texmf/web2c/texmf.cnf" 1591365171 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503347518 31075 dbb81bd39d798acf14cc121a151f7fe7 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1503347518 31075 dbb81bd39d798acf14cc121a151f7fe7 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1591452210 1342095 7433bd1364a08a435f5bc07d6cf3e725 ""
+  "software_changes.aux" 1592320498 8 a94a2480d3289e625eea47cd1b285758 ""
+  "software_changes.tex" 1592320536 831 f1ac42f85e06f443c3878b431cfc248a ""
+  (generated)
+  "software_changes.log"
+  "software_changes.pdf"

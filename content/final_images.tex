@@ -1,42 +1,69 @@
-\chapter{Final images}%
-\label{cha:Final images}
-The following listings gives an overview to the currently generated final files
-called \textit{images} located in the PTXdist image output folder. (Locations
-are described here: \fullref{cha:locations}.
-\pageref{chp:einleitung}
+\chapter{Images}%
+So called \textit{images} are the final output of PTXdist that that what you
+need to install or flash to your SDCard, or internal SOC memory. This chapter
+descries the currently available images inside this project and how to build
+them by use of PTXDist.
 
-\section{Complete system images}%
+
+\section{Build the images.}%
+\label{sec:final_images_generation}
+To build images first change to you <projectroot> directory.
+(See \fullref{part:location_cp790760_software}). Afterwards run:
+
+\bigbreak%
+\begin{lstlisting}[caption=Building of all Images]
+user@machine:  ptxdist images
+\end{lstlisting}
+
+Beside from this you can build only one of all images explicitly. For
+instance to (re-) build the rootfs partion image run:
+
+\bigbreak%
+\begin{lstlisting}[caption=Example: Build the RootFS automatically]
+user@machine:  ptxdist image rootfs
+\end{lstlisting}
+
+\textbf{NOTE} the difference between \textit{image} and \textit{image\textbf{s}}
+\bigbreak%
+
+Other of the images below (see~\ref{sec:final_images}) can be (re-) buided the
+same way by simple replacing the \textit{target} keyword \textit{ptxdist}.
+
+\section{Final Images}%
+\label{sec:final_images}
+
+\subsection{Howl disk images}
+\label{sub:howl_disk}
+
 The following images are complete SDCard images which can be flashed to the
 SDCard.
-\label{sec:compleate system images}
+
 
 \begin{itemize}
-    \item sd.hdimg : is a bootable image primarily for SD Card.
+    \item sd.hdimg: is a bootable image primarily for SD Card.
         This one can be also used for memory chip.
-    \item boot-mlo.vfat : fat filesystem with MLO, u-boot and Linux-kernel
+    \item boot-mlo.vfat: fat filesystem with MLO, u-boot and Linux-kernel
 \end{itemize}
 
 \textbf{ATTATION:} This image types seems not to work if you flash it. Please
 use the script in the tools location. Refer to \fullref{cha:locations}.
 
-\section{Bootloader images}%
-\label{sec:Bootloader images}
+\subsection{Bootloader images}%
+\label{sec:bootloader_images}
 
-The following Bootloader images are created:
+The following Bootloader images are created. They needs to copy on the SDCard
+or MMc memory into the \textbf{boot partion}. This is done by using the
+script TODO %\fullref{part:build_script}.
 
 \begin{itemize}
     \item u-boot.bin
-    \item u-boot.img : u-boot image for SD Card/eMMC. It needs to be copied to
-        the partion or section \textit{boot}.
-    \item u-boot\_spi.bin
-    \item u-boot\_spi.img : u-boot image for SPI NOR Flash
-    \item MLO : (second program loader SPL) for SD Card/eMMC
-    \item MLO\_spi.byteswap
+    \item u-boot.img boot loader image for SD Card/eMMC
+    \item MLO sendodary bootloader, also called \gls{SPL}
 \end{itemize}
 
 
 \section{Liunx images}%
-\label{sec:Liunx images}
+\label{sec:liunx_images}
 
 The following Linux images are created:
 
@@ -47,15 +74,14 @@ The following Linux images are created:
         partion or memory section \textit{boot}.
     \item uImage: The zImage with an addition header needed by u-boot
     \item am335x-mba335x.dtb: device tree blob for the Telair International GmbH
-        PCBA. Its build ontop of the TQ tqma335x chip which is itself build on
-        TI am335x microcontroller. For details refer to \fullref{cha:dts}.
+        \newline \gls{PCBA} hardware.
 \end{itemize}
 
 
-\section{Root fs images}%
-\label{sec:Root fs imges}
+\subsection{Root fs images}%
+\label{sec:rootfs_imges}
 
 \begin{itemize}
-    \item root.ext2 : The howl content for the rootfs partion or memory section
+    \item root.ext2: The howl content for the rootfs partion or memory section
     using the ext2/3/4 filesystem.
 \end{itemize}

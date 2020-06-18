@@ -1,0 +1,82 @@
+\chapter{The CP790760 Software}%
+\label{cha:software}
+The QT4 based Software cargo control software by Telair International GmbH was
+taken from the original previous project. Beside some
+changes~\ref{sec:software_changes} the software was left untouched.
+
+\section{Software documentation}%
+\label{sec:Software_documentation}
+This document holds no documentation about the software itself. Documentation
+was already preformed by by requirement documentation and is true also for the
+software used in this project. No further documentation is needed beside the
+software changes in~\ref{sec:software_changes}.
+
+
+\section{Changes to the Software}%
+\label{sec:software_changes}
+Mostly the QT4 based Telair Cargo Control Software CP790760 was left untouched.
+Nevertheless some changes ware needed to migrate hard coded Linux 3.\@
+dependencies to Linux 4.
+
+
+All changes are preformed by use of C macros inside the original files, whereas
+its corespondent values encapsulated into new file inside the software folder
+(\fullref{part:location_cp790760_software}).
+
+\begin{alltt}
+    \textbf{<cp790760\_softwareroot>/\textbf{linuxversion\_dependencies.h}}
+\end{alltt}
+
+\section{Compliance Check and Code Analyze}%
+\label{sec:software_anaylse}
+
+The software \textbf{was} tested against functionality. \textbf{Note, no}
+other checks were preformed.
+
+\begin{itemize}
+    \item The software \textbf{is not} checked by any code analyze tool against
+        (possible) bugs or undefined behavior. For example static code analyze.
+    \item The software \textbf{is not} checked by any software compliance tool
+        against common coding coding rules and guidelines. For example no MISRA
+        or CERT.\@
+    \item \textbf{No} code reviews were preformed. For example reviews about
+        Security or Safety.
+\end{itemize}
+
+
+\section{How to change the Software}%
+\label{sec:software_change}
+To edit the software sources, change to the software location inside the PTXdist
+project. (\fullref{part:location_cp790760_software}). There you can edit the
+sources with your favorite editor or \glsshortkey{IDE}. The software can be
+compiled by PTXdist.
+
+\subsection{Compile the CP790760 Software}%
+\label{sub:compile_CP790760}
+
+PTXDist does not check every single file and folder inside your project against
+integrity like manual changes. This would be much to time intensive. That is
+why you need to inform PTXDist yourself about your changes.
+
+Therefor first change to you <projectroot> directory and run afterwards:
+(See \fullref{part:location_cp790760_software}).
+
+
+\bigbreak%
+\begin{lstlisting}[caption=Mark the CP790760 software as changed]
+user@machine:  ptxdist clean telair-cp_790760_1
+\end{lstlisting}
+
+Now you can run a software build manual or wait till PTXdist will preformed it
+automatically during next generation of howl system images. To build it manual
+run from you <projectroot>
+
+\bigbreak%
+\begin{lstlisting}[caption=Build the Telair CP790760 software manual]
+user@machine:  ptxdist targetinstall telair-cp_790760_1
+\end{lstlisting}
+
+
+Generation of howl images is described in \fullref{sec:final_images_generation}.
+
+

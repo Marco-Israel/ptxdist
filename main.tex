@@ -12,8 +12,11 @@
 
 
 
-
+% ##################################################
+% Schriftarten und Zeichen
+% ##################################################
 \usepackage[T1]{fontenc}
+\usepackage{lmodern}
 \usepackage[utf8]{inputenc}
 \usepackage[printonlyused,footnote]{acronym}
 \usepackage{tabularx}
@@ -36,8 +39,8 @@
 % ##################################################
 % Titelblatt
 % ##################################################
-\include{configs/title}
-\cleardoubleemptypage
+%\include{configs/title}
+\cleardoubleemptypage{}
 
 \frontmatter
 
@@ -46,15 +49,15 @@
 % Abstract
 % ##################################################
 %\include{content/abstract}
-\cleardoubleemptypage
+\cleardoubleemptypage{}
 
 
 % ##################################################
 % Inhaltsverzeichnis
 % ##################################################
 \tableofcontents
-\addcontentsline{toc}{chapter}{Inhaltsverzeichnis}
-\cleardoubleemptypage
+addcontentsline{toc}{chapter}{Inhaltsverzeichnis}
+\cleardoubleemptypage{}
 
 
 % ##################################################
@@ -64,7 +67,7 @@
 % korrekt\phantomsection
 \addcontentsline{toc}{chapter}{\listfigurename}
 \listoffigures
-\cleardoubleemptypage
+\cleardoubleemptypage{}
 
 
 % ##################################################
@@ -72,7 +75,7 @@
 % WORKAROUND: tocloft und KOMA funktionieren zusammen nicht
 % korrekt\phantomsection
 % ##################################################
-\phantomsection
+\phantomsection{}
 \addcontentsline{toc}{chapter}{\listtablename}
 \listoftables
 %\cleardoubleemptyp
@@ -92,50 +95,51 @@
 % Content
 % ##################################################
 
-\mainmatter
-\include{content/einleitung}
-\include{content/grundlagen}
+\mainmatter{}
+\include{content/introduction}\include{content/basics}
 \include{content/locations}
 \include{content/final_images}
-\include{content/ausbilck}
-\include{content/scripts}
-%
+\include{content/prepare_sdcard}
+\include{content/lcd_timings}
+\include{content/outlook}
+
+\include{content/software_cp79070}
 
 
 % ##################################################
 % %Gossary
 % ##################################################
-\printglossaries
+%\printglossaries[type=\glsdefaulttype]
+\printglossaries{}
 \addcontentsline{toc}{chapter}{Glossar}
 \addcontentsline{toc}{chapter}{Acronyme}
-\cleardoubleemptypage
-
+\cleardoubleemptypage{}
 
 % ##################################################
 % Schalgwortverzeichnis (Index)
 % ##################################################
-\printindex
+\printindex{}
 
 
 
 % ##################################################
 % Literaturverzeichnis
 % ##################################################
-\doublespacing
+\doublespacing{}
 
-\printbibheading
-\printbibliography[heading=subbibliography,type=book,title={Books}]
-\printbibliography[heading=subbibliography,type=article,title={Articles}]
+\printbibheading{}
+%\printbibliography[heading=subbibliography,type=book,title={Books}]
+%\printbibliography[heading=subbibliography,type=article,title={Articles}]
 \printbibliography[heading=subbibliography,type=online,title={Online resorces}]
-\printbibliography[heading=subbibliography,type=Webpage,title={Online Webpages}]
-%\printglossary[type=\acronymtype,title=Abbreviations]
+%\printbibliography[heading=subbibliography,type=Webpage,title={Online Webpages}]
 
+%\printglossary[type=\acronymtype,title=Abbreviations]
 % ##################################################
 % Eidesstattliche Erklärung
 % ##################################################
 % \include{content/affirmation}
 
-\appendix
+%\appendix
 % Hier können Anhaenge angefuegt werden
 
 \end{document}

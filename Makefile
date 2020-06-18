@@ -19,6 +19,7 @@ all: main.pdf
 
 main.pdf: main.tex  latexmkrc
 	latexmk  -bibtex -f -pdf -pdflatex="pdflatex -interactive=nonstopmode -halt-on-error" -use-make main.tex
+	#latexmk  -bibtex -f -pdf -pdflatex="pdflatex -interactive=nonstopmode -halt-on-error --synctex='1 %O %S' " -use-make main.tex
 
 clean:
 	latexmk -CA

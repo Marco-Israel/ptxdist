@@ -19,7 +19,7 @@
 
 % Dokumentdaten
 \newcommand{\docTitle}{Control panel - Telair sliding carpet loading system }
-\newcommand{\docUntertitle}{Embeded Linux 4.4. documentation}
+\newcommand{\docUntertitle}{Embeded Linux 4.4. technical documentation}
 %\newcommand{\docUntertitle}{} % Kein Untertitel
 % Arten der Arbeit: Bachelorthesis, Masterthesis, Seminararbeit, Diplomarbeit
 \newcommand{\docArtDerArbeit}{}
@@ -45,10 +45,12 @@
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 
 % Maskierung von URLs und Dateipfaden
-\usepackage{url}
+\usepackage[hyphens]{url}
+\usepackage[shortcuts]{extdash} %Allow -,= as hyphens
 
-% Deutsche Anfuehrungszeichen
-\usepackage[babel, german=quotes]{csquotes}
+%This Deutsche Anfuehrungszeichen
+%\usepackage[babel, german=quotes]{csquotes}
+\usepackage[]{csquotes}
 
 % Pakte zur Index-Erstellung (Schlagwortverzeichnis)
 \usepackage{index}
@@ -59,6 +61,7 @@
 % Paket wird nur für das Beispiel gebraucht und kann gelöscht werden
 \usepackage{lipsum}
 
+\usepackage{framed}
 
 % ##################################################
 % Seitenformatierung
@@ -215,11 +218,10 @@
 %\newcommand{\includesource}[2][c]{\lstinputlisting[caption=#2, escapechar=, style=custom#1]{#2}<!---->}
 
 % Language define input
-\input{configs/bash.lstdef}
-%\input{configs/listings-C.prf}
-%\input{configs/listings-C++.prf}
-%\input{configs/listings-Python.prf}
-%\input{configs/listings-Java.prf}
+\input{configs/lststyle.lstdef}
+
+% Bessere Verbatim umgebung durch alltt umgebung mit steuerzeichen wie \textbf.
+\usepackage{alltt}
 
 
 % ##################################################
@@ -270,10 +272,11 @@ hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen
     plainpages=false,
     pdfpagelabels=true,
     hyperfootnotes,
+    breaklinks=true,
     pdftitle ={\docTitle},
-    pdfauthor={\docVorname~\docNachname},
-    pdfcreator={\docVorname~\docNachname}]{hyperref}
-
+    pdfauthor={\docVorname \docNachname},
+    pdfcreator={Marco Israel}
+    ]{hyperref}
 
 
 % ##################################################
@@ -288,7 +291,7 @@ hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen
 % ##################################################
 % New commands
 % ##################################################
-\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} {on page} \pageref*{#1}{;}
+\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} {on page}~\pageref*{#1}{;}
 \nameref*{#1} }}
 %\newcommand*{\namepageref}[1]{\hyperref[{#1}]{\nameref*{#1} \pageref*{#1} }}
 
@@ -297,6 +300,12 @@ hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen
 %\renewcommand\descriptionlabel[1]{$\bullet $\textit{\textbf{#1}}}
 
 
+\setcounter{biburllcpenalty}{5000}
+\setcounter{biburlucpenalty}{6000}
 
-
+\newcommand{\cfbox}[2]{%
+    \colorlet{currentcolor}{.}%
+    {\color{#1}%
+    \fbox{\color{currentcolor}#2}}%
+}
 % ### EOF ##########################################

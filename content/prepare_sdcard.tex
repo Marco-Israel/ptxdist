@@ -1,0 +1,57 @@
+\chapter{SDCard partion layout, format and installation}%
+\label{cha:sdcard}
+
+
+To get the SDCard running following steps are required described in the
+next sub chapters.
+
+\begin{enumerate}
+    \item Create a partion layout.
+    \item Format the SDCard partions.
+    \item Install the Files into the Partions
+\end{enumerate}
+
+
+\section{Partion layout creation}%
+\label{sub:sdcard_layout}
+The SDCard needs to have the following four partions. The ordering is important.
+
+\begin{description}
+    \item[1. Boot] The first partion. Holding the Bootloaders (u-Boot, MLO),
+        the zImage and uImage (both are compressed Linux kernels, ones needed
+        for the u-boot) and the Linux device tree blob.
+    \item[2. RootFS] The second partion. This is holding the complete Linux
+        \gls{RootFS}.
+    \item[3. Data] The third partion. This holds the cp790760 data files needed
+        by the application. Like pictures or configuration files.
+    \item[4. Log] The fourth partion. This partion is holding all log files
+        created by the cp790760 application and the Linux kernel.
+\end{description}
+
+
+\section{Formatting the SDCard}%
+\label{sub:sdcard_format}
+The SDCard partions need to have the follow format types in the table below.
+
+\begin{table}
+\centering
+{\rowcolors{2}{blue!70!white!40}{blue!60!white!30}
+    \begin{tabular}{clc}
+        \toprule
+        \midrule
+        \textbf{ID} & {\bfseries Partion name} & {\bfseries Partion format} \\
+        \midrule
+         1 & Boot & vFat \\
+         2 & RootFs & \cfbox{red}{ext4}\\
+         3 & Data & vFat \\
+         4 & Log & vFat \\
+        \bottomrule
+    \end{tabular}
+}
+\label{tab:partion_formats}
+\caption{Partion formats}
+\end{table}
+
+\section{Installing the application}%
+\label{sec:sdcard_appinstall}
+There have to be installed (copy) different files to to the different partions.

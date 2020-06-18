@@ -1,8 +1,34 @@
+\documentclass[
+	12pt,
+	a4paper,
+	bibtotoc,
+	cleardoubleempty,
+	idxtotoc,
+	%ngerman,
+	openright,
+	final,
+	listof=nochaptergap,
+	]{scrbook}
+
+
+
+% ##################################################
+% Schriftarten und Zeichen
+% ##################################################
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[printonlyused,footnote]{acronym}
+\usepackage{tabularx}
+\usepackage{listings}
+\usepackage{quoting}
+
+\include{configs/preamble}
 % ##################################################
 % Unterstuetzung fuer die deutsche Sprache
 % ##################################################
 %\usepackage{ngerman}
-\usepackage[ngerman]{babel}
+%\usepackage[ngerman]{babel}
 
 % ##################################################
 % Dokumentvariablen
@@ -19,7 +45,7 @@
 
 % Dokumentdaten
 \newcommand{\docTitle}{Control panel - Telair sliding carpet loading system }
-\newcommand{\docUntertitle}{Embeded Linux 4.4. documentation}
+\newcommand{\docUntertitle}{Embeded Linux 4.4. technical documentation}
 %\newcommand{\docUntertitle}{} % Kein Untertitel
 % Arten der Arbeit: Bachelorthesis, Masterthesis, Seminararbeit, Diplomarbeit
 \newcommand{\docArtDerArbeit}{}
@@ -45,10 +71,12 @@
 \usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
 
 % Maskierung von URLs und Dateipfaden
-\usepackage{url}
+\usepackage[hyphens]{url}
+\usepackage[shortcuts]{extdash} %Allow -,= as hyphens
 
-% Deutsche Anfuehrungszeichen
-\usepackage[babel, german=quotes]{csquotes}
+%This Deutsche Anfuehrungszeichen
+%\usepackage[babel, german=quotes]{csquotes}
+\usepackage[]{csquotes}
 
 % Pakte zur Index-Erstellung (Schlagwortverzeichnis)
 \usepackage{index}
@@ -59,14 +87,7 @@
 % Paket wird nur für das Beispiel gebraucht und kann gelöscht werden
 \usepackage{lipsum}
 
-
-% ##################################################
-% New commands
-% ##################################################
-\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} {on page} \pageref*{#1}{;}
-\nameref*{#1} }}
-%\newcommand*{\namepageref}[1]{\hyperref[{#1}]{\nameref*{#1} \pageref*{#1} }}
-
+\usepackage{framed}
 
 % ##################################################
 % Seitenformatierung
@@ -223,11 +244,101 @@
 %\newcommand{\includesource}[2][c]{\lstinputlisting[caption=#2, escapechar=, style=custom#1]{#2}<!---->}
 
 % Language define input
-\input{configs/bash.lstdef}
-%\input{configs/listings-C.prf}
-%\input{configs/listings-C++.prf}
-%\input{configs/listings-Python.prf}
-%\input{configs/listings-Java.prf}
+\input{configs/lststyle.lstdef}
+\lstdefinestyle{bash} {
+    language=bash,
+    backgroundcolor=\color{Grey!10},
+    keywordstyle=\color{BlueViolet}\bfseries,
+    commentstyle=\color{DarkGrey},
+    stringstyle=\color{red},
+    showstringspaces=false,
+    basicstyle=\small\color{Black},
+    numbers=none,
+    captionpos=b,
+    tabsize=2,
+    breaklines=true,
+    postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+    frame=single,
+    framexrightmargin=16pt
+}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{source}{
+    backgroundcolor=\color{backcolour},
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    breaklines=true,
+    postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+    frame=single,
+    framexrightmargin=16pt
+}
+
+\lstset{style=bash}
+
+
+
+
+
+
+
+%\lstset{
+%  language=Bash,                   % The language and also ltsset name
+%  backgroundcolor=\color{white},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}; should come as last argument
+%  commentstyle=\color{green},      % comment style
+%  stringstyle=\color{black},       % string literal style
+%  numberstyle=\tiny\color{gray},   % the style that is used for the line-numbers
+%  keywordstyle=\color{blue},       % style of keywords in source language (e.g. keywordstyle=\color{red})
+%  resetmargins=false,%
+%  rulesepcolor=\color{black},%
+%  basicstyle=\footnotesize,        % the size of the fonts that are used for the code (e.g. basicstyle=\ttfamily\small)
+%  breakatwhitespace=false,         % sets if automatic breaks should only happen at whitespace
+%  breaklines=true,                 % sets automatic line breaking
+%  postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space},
+%  captionpos=b,                    % position of caption (t/b). Sets the caption-position to bottom
+%  morekeywords={*,<somekeyword>},  % if you want to add more keywords to the set
+%  deletekeywords={<somekeyword>},  % if you want to delete keywords from the given language
+%  escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+%  extendedchars=true,              % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
+%  firstnumber=1000,                % start line enumeration with line 1000
+%  keepspaces=true,                 % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
+%  numbers=left,                    % where to put the line-numbers; possible values are (none, left, right)
+%  showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
+%  showstringspaces=false,          % underline spaces within strings only
+%  showtabs=false,                  % show tabs within strings adding particular underscores
+%  tabsize=2,	                    % sets default tabsize to 2 spaces
+%  title=\lstname                   % show the filename of files included with \lstinputlisting; also try caption instead of title
+%  numbersep 						% distance of line-numbers from the code
+%  prebreak 						% displaying mark on the end of breaking line (e.g. prebreak=\raisebox{0ex}[0ex][0ex]{\ensuremath{\hookleftarrow}})
+%  frame=shadowbox					% showing frame outside code (none/leftline/topline/bottomline/lines/single/shadowbox)
+%  breakwhitespace 					% sets if automatic breaks should only happen at whitespaces
+%  tabsize 							% default tabsize
+%  escapeinside 					% specify characters to escape from source code to LaTeX (e.g. escapeinside={\%*}{*)})
+%  rulecolor 						5 Specify the colour of the frame-box
+%  framexrightmargin=4pt
+%  framexleftmargin=4pt
+%}
+%
+
+
+% Bessere Verbatim umgebung durch alltt umgebung mit steuerzeichen wie \textbf.
+\usepackage{alltt}
 
 
 % ##################################################
@@ -278,17 +389,45 @@ hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen
     plainpages=false,
     pdfpagelabels=true,
     hyperfootnotes,
+    breaklinks=true,
     pdftitle ={\docTitle},
-    pdfauthor={\docVorname~\docNachname},
-    pdfcreator={\docVorname~\docNachname}]{hyperref}
-
+    pdfauthor={\docVorname \docNachname},
+    pdfcreator={Marco Israel}
+    ]{hyperref}
 
 
 % ##################################################
 % Glossrry
 % ##################################################
-    \usepackage[,acronym]{glossaries}
+    \usepackage[acronym]{glossaries}
     \setglossarystyle{listhypergroup}
     \makeglossaries
     \loadglsentries{content/glossary} %Glossary in externer Datei...
 
+
+% ##################################################
+% New commands
+% ##################################################
+\newcommand*{\fullref}[1]{\hyperref[{#1}]{\autoref*{#1} {on page}~\pageref*{#1}{;}
+\nameref*{#1} }}
+%\newcommand*{\namepageref}[1]{\hyperref[{#1}]{\nameref*{#1} \pageref*{#1} }}
+
+\renewcommand\descriptionlabel[1]{$\bullet $\textit{\textbf{#1}}}
+\renewcommand\descriptionlabel[1]{\textit{\textbf{#1}}}
+%\renewcommand\descriptionlabel[1]{$\bullet $\textit{\textbf{#1}}}
+
+
+\setcounter{biburllcpenalty}{5000}
+\setcounter{biburlucpenalty}{6000}
+
+\newcommand{\cfbox}[2]{%
+    \colorlet{currentcolor}{.}%
+    {\color{#1}%
+    \fbox{\color{currentcolor}#2}}%
+}
+% ### EOF ##########################################
+
+\begin{document}
+\label{cha:software}
+The QT4 based Software cargo control software by Telair International GmbH was
+\end{document}
