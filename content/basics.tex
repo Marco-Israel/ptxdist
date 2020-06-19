@@ -1,7 +1,4 @@
-\chapter{Basics}%
-
-
-\label{cha:Basics_and_general_information}
+\chapter{Basics}% \label{cha:Basics_and_general_information}
 \section{About PTXdist}%
 \label{sec:linux_distribution_build}
 
@@ -9,6 +6,10 @@ How to \textbf{install PTXdist}, how to \textbf{use it} and how to to build the
 final Linux distribution configured by use use of PTXdist is in detail descried
 online on websites. \textbf{This section provides the information where to find
     online descriptions compatible to the tqma335x chip}.
+
+
+\subsection{PTXdist setup}% \label{sub:PTXdist setup}
+To setup PTXdist you need to preform the following steps online documented.
 
 \begin{description}
     \item[To build the Linux distribution] the framework \textit{PTXdist} is
@@ -29,58 +30,133 @@ online on websites. \textbf{This section provides the information where to find
     \item[How to setup TQ Systms BSP] for the base chip (like tqma335x)
         is described in short by TQ systems. Refer to
         \textbf{\cite{tq_bsp119_configuration}} and follow the instructions to
-        setup the project environment.
+        setup the project environment. You need to prefome the steps there for
+        BSP Revision up to v117. Here an example of steps to preform true for
+        the BSP Version used in this Project.
+\end{description}
 
-    \item[How to use PTXdist] you find in the
-        \textbf{\cite[PTXdist user manual]{ptxdist_manual}}. Here the chapter
-        \textbf{\#first-steps-with-ptxdist} is for you of interest. You can also
-        take a look into~\cite{ptxdist_developer} if you have more special
-        questions, e.g. \textit{like how to reconfigure and recompile the Linux
-        kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq}
-        (which of course is very short).
+\subsubsection{Setup for this pre-installed machine }%\label{ssub:this_setup}
+In order to setup a new project by using this pre-installed machine with the
+same BSP version, here an example of steps to setup the new project as it was
+done for this project.
 
-       Nevertheless, the most important commands you need are:
+\begin{itemize}
+    \item You can call a simple setup script by TQ:\@
+        Run from From your <projetroot> (see \fullref{cha:locations})
+        \begin{lstlisting}[language=bash, gobble=12,caption={Run TQ-Systems
+        enviroment setup script}]
+                user@machine: ./tools/config-tqma335x.qt4
+        \end{lstlisting}
 
-\lstset{style=bash}
+    \item You also can also manual select a needed configurations as follows:
 
         \begin{description}
-            \item[Prefome all steps] and finally build the images all in one
-                command
-            \begin{lstlisting}[language=bash,numbers=none,caption=Build all
-                images with PTXdist]
-                user@machine: ptxdist images
-            \end{lstlisting}
-        \item[Deleate a paket]. This is important before you like to rebuild it.
-            Especially if you modify on of the configuration files (see next
-            command).
+            \item[Select a Software configuration] run from inside <projectroot>
 
-            \begin{lstlisting}[language=bash,numbers=none,caption=Deleat a
-                builded packet from PTXdsits scope]
-                user@machine: ptxdist clean <your-packet>
-            \end{lstlisting}
-        \item[Alter one of the configuration files] (see~\cite[PTXdist user
-            manual]{ptxdist_manual}).
+                \begin{lstlisting}[language=bash,gobble=12, caption={Select the
+                ptxdist configuraion file},keywordstyle=\color{black}]
+            user@machine: ptxdist select ./configs/platforms/tqma335x/mba335x/platformconfig
+                \end{lstlisting}~\cite[Selecting a Userland
+                Configuration]{ptxdist_manual}
 
-            The most important ones are:
+            \item[Select a Hardware configuration] run from inside <projectroot>
 
-            \begin{lstlisting}[language=bash,numbers=none,caption=Alter a
-                configuration]
-                    #PTXdist main configuration
-                user@machine: ptxdist menu
-                    #Project configuration
-                user@machine: ptxdist menuconfig
-                    #Platform configuration
-                user@machine: ptxdist platformconfig
-                    #Linux kernel configuration
-                user@machine: ptxdist kernelconfig
-            \end{lstlisting}
-        \item[(Re-) Compile] a packet
-            \begin{lstlisting}[language=bash,numbers=none,caption=Recompile a
-                paket with PTXdist]
-                    TODO
-            \end{lstlisting}
+                \begin{lstlisting}[language=bash,gobble=12, caption={Select the
+                ptxdist configuration file.}]
+            user@machine: ptxdist platform ./configs/systems/qt/ptxconfig
+                \end{lstlisting}
+                You can take a look at~\cite[Selecting
+                a Hardware Platform]{ptxdist_manual}
+            \item[Select a toolchain]
+                The toolchain should be autoselected. If not take do it
+                manual
+                \begin{lstlisting}[language=bash,gobble=12,caption={Select the
+                cross compiler toolchain}]
+            user@machine: ptxdist toolchain '/opt/<path-to-your-toolchain/bin'
+                \end{lstlisting}
+                You can take a look at~\cite[Selecting a Toolchain]
+                {ptxdist_manual}
         \end{description}
 
+
+    \item Finally after preforming one of above steps run a clean default build
+        from inside your <projectroot>:
+        \begin{lstlisting}[language=bash,gobble=12,caption={Initial PTXdist
+        build}]
+            user@machine: ptxdist go --git
+                #[..downloading and build default packes, kernel bootloader...]
+            user@machine: ptxdist images
+                #[...building all activated image types ...]
+        \end{lstlisting}
+\end{itemize}
+
+
+
+\subsection{PTXdist usage}%\label{sub:ptxdist_usage}
+
+The online manual~\cite[PTXdist user manual]{ptxdist_manual} descries the basic
+usage of PTXdist. Here the chapter \textbf{\#first-steps-with-ptxdist} is for
+you of interest. You can also take a look into~\cite{ptxdist_developer} if you
+have more special questions, e.g. \textit{like how to reconfigure and recompile
+the Linux kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq}
+(which of course is very short). The most important commands you will need are:
+
+\begin{description}
+    \item[Prefome all steps] and finally build the images all in one
+        command
+        \begin{lstlisting}[language=bash,numbers=none,caption=Build all
+        images with PTXdist]
+        user@machine: ptxdist images
+        \end{lstlisting}
+    \item[Deleate a paket]. This is important before you like to rebuild it.
+        Especially if you modify on of the configuration files (see next
+        command).
+
+        \begin{lstlisting}[language=bash,numbers=none,caption=Deleat a
+        builded packet from PTXdsits scope]
+        user@machine: ptxdist clean <your-packet>
+        \end{lstlisting}
+\newpage
+    \item[Alter one of the configuration files] (see~\cite[PTXdist user
+        manual]{ptxdist_manual}).
+
+        The most important ones are:
+
+        \lstset{style=bash}
+        \begin{lstlisting}[language=bash,numbers=none,caption=Alter a
+        configuration]
+            #PTXdist main configuration
+        user@machine: ptxdist menu
+            #Project configuration
+        user@machine: ptxdist menuconfig
+            #Platform configuration
+        user@machine: ptxdist platformconfig
+            #Linux kernel configuration
+        user@machine: ptxdist kernelconfig
+        \end{lstlisting}
+    \item[(Re-) Compile] a packet see~\cite[PTXdist’s build
+        process]{ptxdist_manual}.
+
+        Here an example if you like to extract, compile, configure, patch and
+        install a new packed into the targets \gls{rootfs} all in on step you can
+        run:
+
+        \begin{lstlisting}[language=bash,numbers=none,caption=Compile and
+        install a paket with PTXdist]
+        user@machine: ptxdist targetinstall telair-cp_790760_1
+        \end{lstlisting}
+
+        Where \textit{ptxdist-cp\_790760\_1} is the \textit{ptxdist rule name}
+        describing how to handle packet packets to build. For more details refer
+        to~\cite[PTXdist development guide]{ptxdist_developer}.
+\end{description}
+
+\subsection{Extends and modify the basic project }%
+\label{sub:extends_project}
+
+If you need to extends the current project e.g.\@ by new software packages or an
+new project, you should read the following guides:
+\begin{description}
     \item[How to extend PTXdist] is descried motley in the
         \textbf{\cite[developer guide]{ptxdist_developer}}. Some extend
         information and \glspl{FAQ} are descried in

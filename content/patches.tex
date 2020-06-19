@@ -1,112 +1,124 @@
 \chapter{Patched and modified files}%
-\label{cha:Patched and modified files}
-There are a lot of patches to the Linux kernel, bootloader and other software
-components which are already provided and integrated into PTXdist by TQ Systems
-in the used BSP \cite{BSP_119}. This should work out of the box. No chances are
-needed here so this patches are not described here.
-\\
-Nevertheless some additional patches are needed to get the software and the
-hardware running used by the Telair International GmbH. This is what this
-chapter describes - the patches added by Telair International GmbH
-additionally to the TQ systems patches.
+\label{cha:patches}
+Inside the \textit{patches} folder you find different sub folders who's names
+are similar to different software packets, Linux kernel or bootloaders
+(\fullref{cha:locations}).
+
+Inside this folders you find (in further subfolders\footnotemark[1]) so called
+\textit{patch} files holding changes to software source files. Depending on the
+software packet you find inside this, folders from TQ Systems (corresponding to
+different hardware boards by TQ Systems) as also patches added by Telair
+International GmbH.
 
 
-\section{Where are the patches located in PTXdist?}%
-\label{sec:Where are the patches located in PTXdist}
+\section{Patches by TQ Systems}%
+\label{sec:patches}
+Most of patches are provided and integrated into PTXdist by TQ Systems
+coming with the BSP used in this project.~\cite{tq_bsp119}
+
+This should work out of the box. No chances are needed here so this patches are
+not described here.
+
+\section{Patches by Telair International GmbH}%
+\label{sec:Patch_by_telair} Some patches are needed to get the software and the
+hardware running, used by the Telair International GmbH and were not
+pre-installed by TQ Systems GmbH. This is what this chapter describes:\@ The
+patches added by Telair International GmbH additionally to the TQ systems
+patches.
+
+Navigating to the \textit{patches}~\footnotemark[1] folder you find sub folders
+corresponding to the software packets to patch. Patches done by Telair
+International GmbH are located inside this packets to patch, in a separated
+folder called \textit{telair}.
+
+\textbf{NOTE:} Its important to say, they are and \textbf{must be activated}
+(included into the build process). Therefore read
+Subsection~\ref{sec:integrate_patch}.
+
+\subsection{Software packets patched by Telair}
+The following lists packets sub folders inside
+\textit{patches}~\footnotemark[1],
+holding patch files from Telair International GmbH in a folder called
+\textit{telair}:
+
 \begin{itemize}
-    \item Navigate to <your projectroot>/patches.
+    \item
 \end{itemize}
 
-\begin{lstlisting}[language=bash]
-    $ user@machine: cd /ptxdist/projects/cp790760/patches
-\end{lstlisting}
+For example patches by Telair International GmbH to the Linux Kernel (most of he
+patches) can be found like:
 
-There you find folders corresponding to the software packets to patch. Patches
-done by Telair International GmbH are located inside this packets to patch in a
-separated folder called \textit{telair}. They are activated and included into
-the build process via the \textit{series.<platform>} file activating both TQ
-and Telair patches.
-\\
-For example patches corresponding to the Linux kernel:
-\begin{lstlisting}[language=bash]
+\begin{lstlisting}[keywordstyle=\color{black},language=bash,caption={Example: Location of an telair patch}]
     $ user@machine: ls -la /ptxdist/projects/cp790760/patches/linux-4.4/telair
     $ user@machine: cat /ptxdist/projects/cp790760/patches/linux-4.4/series.MBa335x
 \end{lstlisting}
-\\
-To generate the Telair pataches a \textit{new} (the modified version)
+
+\subsection{Updated software sources}
+To generate a so called \textit{patch} an \textit{new} (the modified version)
 and a \textit{old} (the original) version of a (source) file is needed. Both
-versions can be found in (see \fullref{howto_patch})
+versions can be found in the \textit{telair-patches} folder itself located in
+\textit{<projectroot>/local\_sources}~\footnotemark[3]. Here you find subfolers named by
+software packets to change itself holding respectively the new and old
+version folders:\@
 \begin{itemize}
-    \item <your projectroot>/local_sources/telair-patches/<sw-packet>/
+    \item <your projectroot>/local\_sources/telair-patches/<sw-packet>/old
+    \item <your projectroot>/local\_sources/telair-patches/<sw-packet>/new
 \end{itemize}
 
-Her you find the mentioned new and old folder holding the tree in the project
-to the files. This is importent when using the tools \textit{diff} and
-\textit{patch}. Navigate to \fullref{howto_patch} to learn how to use both
-tools.
 
+\section{How to create an patch file; how to integrate a patch file into PTXdist}% \label{sec:new_patch}
 
+The following is a listing on descriptions to need tools and its usage.
 
-\section{How to create a patch and integrate it into PTXdist?}%
-\label{sec:?}
-
-Patches and modified files by Telair International GmbH are unter GIT version
-control in an local repository. This documents what is done additionally
-by Telair to the clean BSP from TQ. The repository is not uploaded yet outside
-the virtualBox. Not or not manual modified files are in the .gitignore list an
-so not under local version control. How to use GIT version control refer to
-\cite[GIT howto]{git_howto}. To get more information about whats GIT and why to
-use it, refer to \cite[GIT Homepage]{git_homepage}.
-
-
-
-
-
-
-
-
-
-
-\section{Patching files}%
-\label{sec:Pached files}
-
-\subsection{How to patch files}%
-\label{sub:howto_patch}
 \begin{description}
-    \item[Patching process in PTX dist]
-        To learn how patching process work in PTXdist refer to \cite{todo}
-    \item[GNU-Tools \textit{diff},  \textit{patch} \textit{merge}] To get an
-        introduction of the general Linux patching process using
+    \item[Patching process in PTX dist:]
+        To learn how patching process works in PTXdist (during build), refer
+        to~\cite{ptxdist_manual}
+    \item[GNU-Tools \textit{diff},  \textit{patch} \textit{merge}:] To get an
+        introduction of the general Linux patching workflow by using
         standard GNU-Tools, take a look at
-        \cite[GNU Diff and Patch]{GNUPatchTools:Patch_Diff_Exaples} and
-        \cite[GNU Merge]{GNUPatchTools:Merge_Examples}. Also take a look at the
-        Linux manual pages in section 1:
         \begin{itemize}
-            \item man 1 patch
-            \item man 1 diff
-            \item man 1 merge
+            \item~\cite[GNU Diff and Patch]{GNGNUUpatchDiff}
+            \item~\cite[GNU Merge]{GNUmerge}
+            \item Linux manual pages in section 1:
+                \begin{itemize}
+                    \item man 1 patch
+                    \item man 1 diff
+                    \item man 1 merge
+                \end{itemize}
         \end{itemize}
 \end{description}
 
-\subsection{Patched files}%
-\label{sub:Patched fiels}
-The following files gets influenced (patched) during due to .patch files.
 
-\begin{itemize}
-    \item --- currently none ---
-\end{itemize}
+\subsection{How to integrate a patch file into PTXdist}%
+\label{sec:integrate_patch}
+To \textit{activate} (included into the build process) a patch, PTXdist needs
+informed about this via adding the patch to the \textit{series.<platform>}
+file located inside each folder of <patches>~\footnotemark[2]. This file
+activates globally both, the TQ Systems and Telair International patches.
+
+\textbf{NOTE:} The order is similar the order PTXdist
+will preformed the patches. For some software packets the order is important!
 
 
-\section{Manuel modified files}%
-\label{sec:Manuel modified files}
 
-The following files are manual modified in the way described below:.
+\subsection{Manuel modified files}%
+\label{sec:manuel_modified_files}
+
+Because PTXdist internal rule files can not patched during build easy, the
+following files were directly modified without use of patch mechanism. Also the
+Telair Software itself were modified directly. The original version till exists
+in the Telair International GmbH \gls{CVS} system. (Refer to
+\fullref{cha:software} to get more details about direct preformed software changes).
+
+\lstset{style=verba}
 
 \begin{description}
     \item[rules/mmc-utils.make]
         \begin{itemize}
             \item Original part
-                \begin{lstlisting}[caption={rules/mmc-utils}]
+\begin{lstlisting}[caption={Original rules/mmc-utils},frame=single,
+commentstyle=\color{black}, postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}]
  19 #<<<< OLD VERSION
  20 ## No tags: use a fake descriptive commit-ish to include the date
  21 #MMC_UTILS_VERSION  := 2016-06-07-g0ca049f25191
@@ -119,8 +131,9 @@ The following files are manual modified in the way described below:.
  29 #======
                 \end{lstlisting}
             \item Modified part
-
-                \begin{lstlisting}[caption={rules/mmc-utils}]
+                \begin{lstlisting}[caption={Modified
+                rules/mmc-utils},commentstyle=\color{black},frame=single,
+                postbreak=\mbox{\textcolor{red}{$\hookrightarrow$}\space}]
 30 #>>>> NEW VERSION
  31 # No tags: use a fake descriptive commit-ish to include the date
  32 MMC_UTILS_VERSION   := 37c86e60c0442fef570b75cd81aeb1db4d0cbaf
@@ -132,8 +145,17 @@ The following files are manual modified in the way described below:.
  38 MMC_UTILS_SOURCE    := $(SRCDIR)/$(MMC_UTILS).$(MMC_UTILS_SUFFIX)
  39 MMC_UTILS_DIR       := $(BUILDDIR)/$(MMC_UTILS)
  40 MMC_UTILS_LICENSE   := GPL-2.0 AND BSD-3-Clause
-                \end{lstlisting}
-
-        \end{itemize}
+                \end{verbatim}
+        \end{lstlisting}
+\end{itemize}
+    \item[Telair International GmbH cp790760 sofware] refer
+        to~\fullref{cha:software} for more details about changes.
+    \item[Linux Kernel configuration] TODO
+    \item[Platform configuration] TODO
+    \item[PTXdist configuration] TODO
 \end{description}
 
+\footnotetext[1]{The subfolders organize patches according to different hardware
+boards TQ Systems offers.}
+\footnotetext[2]{See:~\fullref{part:telairpatches}}
+\footnotetext[3]{See:~\fullref{part:telairpatchessources}}
