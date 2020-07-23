@@ -1,14 +1,21 @@
 \chapter{Images}%
-So called \textit{images} are the final output of PTXdist that that what you
-need to install or flash to your SDCard, or internal SOC memory. This chapter
-descries the currently available images inside this project and how to build
+
+\footnotetext[1]{See \fullref{part:location_cp790760_software}}
+\footnotetext[2]{see \fullref{cha:locations}}
+\footnotetext[3]{See \fullref{sec:build_image_script}}
+
+
+So called \textit{images} are the final output of PTXdist that what you need to
+install or flash to your SDCard, or internal SOC memory. This chapter descries
+the currently available images inside this project and how to build
 them by use of PTXDist.
 
 
 \section{Build the images.}%
 \label{sec:final_images_generation}
-To build images first change to you <projectroot> directory.
-(See \fullref{part:location_cp790760_software}). Afterwards run:
+To build images first change to you <projectroot>~\footnotemark[1] directory.
+
+Afterwards run:
 
 \bigbreak%
 \begin{lstlisting}[caption=Building of all Images]
@@ -26,7 +33,7 @@ user@machine:  ptxdist image rootfs
 \textbf{NOTE} the difference between \textit{image} and \textit{image\textbf{s}}
 \bigbreak%
 
-Other of the images below (see~\ref{sec:final_images}) can be (re-) buided the
+Other of the images below~\footnotemark[2] can be (re-) buided the
 same way by simple replacing the \textit{target} keyword \textit{ptxdist}.
 
 \section{Final Images}%
@@ -45,15 +52,24 @@ SDCard.
     \item boot-mlo.vfat: fat filesystem with MLO, u-boot and Linux-kernel
 \end{itemize}
 
-\textbf{ATTATION:} This image types seems not to work if you flash it. Please
-use the script in the tools location. Refer to \fullref{cha:locations}.
+\textbf{ATTATION:} This image types seems not to work if you flash it.
+\textbf{Please use the \textit{generate script} in the tools telair
+location~\footnotemark[2]}.
+
+This will generate an image called:
+\begin{itemize}
+    \item telair-cp790760.img:  An bootable image preinstalled with content in
+        all partions needed by this project.
+\end{itemize}
+
+More information about this script, you find in \fullref{sec:build_image_script}
 
 \subsection{Bootloader images}%
 \label{sec:bootloader_images}
 
 The following Bootloader images are created. They needs to copy on the SDCard
-or MMc memory into the \textbf{boot partion}. This is done by using the
-script TODO %\fullref{part:build_script}.
+or MMc memory into the \textbf{boot partion}. This can be done automatically
+by using one of the tools telair scripts~\footnotemark[3]
 
 \begin{itemize}
     \item u-boot.bin
@@ -82,6 +98,8 @@ The following Linux images are created:
 \label{sec:rootfs_imges}
 
 \begin{itemize}
-    \item root.ext2: The howl content for the rootfs partion or memory section
+    \item root.ext2: The howl content to the rootfs partion or memory section
     using the ext2/3/4 filesystem.
 \end{itemize}
+
+

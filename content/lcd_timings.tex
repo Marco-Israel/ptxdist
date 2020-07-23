@@ -1,5 +1,8 @@
+
+
 \chapter{LCD Timings}%
 \label{cha:lcd_timings}
+\footnotetext[1]{See \fullref{part:location_cp790760_software}}
 
 Because timings for the LCD are important, this chapter shows the measured
 timings after the display starts running. They (mostly) corresponds to~\cite[LCD
@@ -8,7 +11,7 @@ the \gls{DTS} and are in this way the input for the video \gls{DRM} driver.
 
 \textbf{NOTE:}\@ The DRM driver is patched by the Telair International GmbH to
 be complaint to some silicon erratas belongs to the MCUs DRM peripheral
-(see~\cite{TI_am335x_errata} and \fullref{cha:patches}). Otherwise the LCD
+\footnotemark[1]. Otherwise the LCD
 type used in this project would no work. V-Sync is an \textit{active low}
 dataline.
 
@@ -61,7 +64,7 @@ low} dataline.
 \pagebreak
 \section{One Clock time length}%
 The following graphics show the timings by an logic analyzer on the clock
-after the LCD gets running. Because of falling and rising edge triggering der
+after the LCD gets running. Because of falling and rising edge triggering,
 timing of clock signal is important.
 \label{sub:clock_time_length}
 \begin{figure}[h!]
@@ -77,7 +80,7 @@ timing of clock signal is important.
 \section{H-Sync vs. DE signal}%
 \label{sub:other_measured_lcd_timings}
 The following graphics show the timings by an logic analyzer on the H-Sync
-signal dataline and the data Enable Data line (DE) to get the system
+signal data line and the data Enable Data line (DE) to get the system
 running. Note: The H-Sync is active low and the DE active high both according to
 the datasheet and needs to be in time.
 
@@ -88,3 +91,5 @@ the datasheet and needs to be in time.
 \caption{Time between ht-Sync falling edge and DE rising edge}
 \label{fig:hsync_de}
 \end{figure}
+
+

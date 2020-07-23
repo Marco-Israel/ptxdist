@@ -1,22 +1,27 @@
+\footnotetext[1]{See \fullref{cha:locations}}
+
+
 \chapter{Basics}% \label{cha:Basics_and_general_information}
 \section{About PTXdist}%
 \label{sec:linux_distribution_build}
 
 How to \textbf{install PTXdist}, how to \textbf{use it} and how to to build the
 final Linux distribution configured by use use of PTXdist is in detail descried
-online on websites. \textbf{This section provides the information where to find
-    online descriptions compatible to the tqma335x chip}.
+online on websites.
+
+\textbf{This section provides the information where to find online descriptions
+compatible to the tqma335x chip}.
 
 
 \subsection{PTXdist setup}% \label{sub:PTXdist setup}
-To setup PTXdist you need to preform the following steps online documented.
+To setup PTXdist you need to preform the following steps, online documented.
 
 \begin{description}
     \item[To build the Linux distribution] the framework \textit{PTXdist} is
         used. Refer to \newline \textbf{\cite{ptxdist}} to get an introduction
         to PTXdist.
     \item[How to install PTXdist] and get this framework running, is descried in
-        \textbf{\cite{tq_bsp119_install}}. You find here how to setup your
+        \textbf{\cite{tq_bsp119_install}}. You will find there how to setup your
         build host (requirements to the building host) and how to install the
         \textbf{right} (compatible) \textbf{cross compiler version}.
 
@@ -27,12 +32,14 @@ To setup PTXdist you need to preform the following steps online documented.
         \textbf{\cite[PTXdist installation guide]{ptxdist_install} }
         to get information not described by TQ and to realize what is spacial
         to TQ.\@
-    \item[How to setup TQ Systms BSP] for the base chip (like tqma335x)
+    \item[How to setup TQ-Systms BSP] for the base chip (like tqma335x)
         is described in short by TQ systems. Refer to
         \textbf{\cite{tq_bsp119_configuration}} and follow the instructions to
-        setup the project environment. You need to prefome the steps there for
-        BSP Revision up to v117. Here an example of steps to preform true for
-        the BSP Version used in this Project.
+        setup the project environment.
+
+        \textbf{You need to prefome the steps there for BSP Revision up to
+        v117}. Here an example of steps to preform true for the BSP Version used
+        in this Project.
 \end{description}
 
 \subsubsection{Setup for this pre-installed machine }%\label{ssub:this_setup}
@@ -42,7 +49,7 @@ done for this project.
 
 \begin{itemize}
     \item You can call a simple setup script by TQ:\@
-        Run from From your <projetroot> (see \fullref{cha:locations})
+        Run from From your <projetroot>\footnotemark[1]
         \begin{lstlisting}[language=bash, gobble=12,caption={Run TQ-Systems
         enviroment setup script}]
                 user@machine: ./tools/config-tqma335x.qt4
@@ -51,7 +58,8 @@ done for this project.
     \item You also can also manual select a needed configurations as follows:
 
         \begin{description}
-            \item[Select a Software configuration] run from inside <projectroot>
+            \item[Select a Software configuration] run from inside
+                <projectroot>~\footnotemark[1]
 
                 \begin{lstlisting}[language=bash,gobble=12, caption={Select the
                 ptxdist configuraion file},keywordstyle=\color{black}]
@@ -59,7 +67,17 @@ done for this project.
                 \end{lstlisting}~\cite[Selecting a Userland
                 Configuration]{ptxdist_manual}
 
-            \item[Select a Hardware configuration] run from inside <projectroot>
+            \item[Select a Hardware configuration] run from inside
+                <projectroot>~\footnotemark[1]
+
+                \begin{lstlisting}[language=bash,gobble=12, caption={Select the
+                ptxdist configuraion file},keywordstyle=\color{black}]
+            user@machine: ptxdist select ./configs/platforms/tqma335x/mba335x/platformconfig
+                \end{lstlisting}~\cite[Selecting a Userland
+                Configuration]{ptxdist_manual}
+
+            \item[Select a Hardware configuration] run from inside
+                <projectroot>~\footnotemark[1]
 
                 \begin{lstlisting}[language=bash,gobble=12, caption={Select the
                 ptxdist configuration file.}]
@@ -94,18 +112,20 @@ done for this project.
 
 \subsection{PTXdist usage}%\label{sub:ptxdist_usage}
 
-The online manual~\cite[PTXdist user manual]{ptxdist_manual} descries the basic
-usage of PTXdist. Here the chapter \textbf{\#first-steps-with-ptxdist} is for
-you of interest. You can also take a look into~\cite{ptxdist_developer} if you
-have more special questions, e.g. \textit{like how to reconfigure and recompile
-the Linux kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq}
-(which of course is very short). The most important commands you will need are:
+The online manual~\cite[PTXdist user manual]{ptxdist_manual} descries the
+\textit{basic usage of PTXdist}. Here the chapter
+    \textbf{\#first-steps-with-ptxdist} is for you of interest. You can also
+    take a look into~\cite{ptxdist_developer} if you have more special
+    questions, e.g. like how to \textit{reconfigure and recompile the Linux
+    kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq} (which
+    of course is very short).
 
-\begin{description}
-    \item[Prefome all steps] and finally build the images all in one
-        command
-        \begin{lstlisting}[language=bash,numbers=none,caption=Build all
-        images with PTXdist]
+    \subsubsection{The most important commands or PTXdist} you will need are:
+    The most important commands of PTXdist you will need are:
+\begin{description} \item[Prefome all internal build steps] and finally build
+    the images all in one command
+    \begin{lstlisting}[language=bash,numbers=none,caption=Build all images with
+    PTXdist]
         user@machine: ptxdist images
         \end{lstlisting}
     \item[Deleate a paket]. This is important before you like to rebuild it.
@@ -117,10 +137,10 @@ the Linux kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq}
         user@machine: ptxdist clean <your-packet>
         \end{lstlisting}
 \newpage
-    \item[Alter one of the configuration files] (see~\cite[PTXdist user
+    \item[Alter the configuration files] (see~\cite[PTXdist user
         manual]{ptxdist_manual}).
 
-        The most important ones are:
+        The most important configuration files to change:
 
         \lstset{style=bash}
         \begin{lstlisting}[language=bash,numbers=none,caption=Alter a
@@ -134,12 +154,12 @@ the Linux kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq}
             #Linux kernel configuration
         user@machine: ptxdist kernelconfig
         \end{lstlisting}
-    \item[(Re-) Compile] a packet see~\cite[PTXdist’s build
+    \item[(Re-) Compile a packet] See~\cite[PTXdist’s build
         process]{ptxdist_manual}.
 
         Here an example if you like to extract, compile, configure, patch and
-        install a new packed into the targets \gls{rootfs} all in on step you can
-        run:
+        install a new packed into the targets \gls{rootfs}; all in on step you
+        can run:
 
         \begin{lstlisting}[language=bash,numbers=none,caption=Compile and
         install a paket with PTXdist]
@@ -157,11 +177,13 @@ the Linux kernel via PTXdist} or into the~\cite[PTXdist FAQ list]{ptxdist_faq}
 If you need to extends the current project e.g.\@ by new software packages or an
 new project, you should read the following guides:
 \begin{description}
-    \item[How to extend PTXdist] is descried motley in the
+    \item[How to extend PTXdist] is descried mostly in the
         \textbf{\cite[developer guide]{ptxdist_developer}}. Some extend
         information and \glspl{FAQ} are descried in
         \textbf{\cite{ptxdist_workflows}}, by other websites in the internet
-        or if you write your supplier or like TQ Pengutronix an e-mail.
+        or if you write your supplier or like TQ-Systems or Pengutronix (the
+        copany behind free to you PTXdist) an e-mail. You will get an answere
+        quite soon.
 
     \item[Background how PTXdist works] is described in the~\cite[PTXdist Users
         Manual]{ptxdist_manual} in the chapter \textbf{\#how-does-it-work}.
@@ -170,14 +192,14 @@ new project, you should read the following guides:
 
 \section{Git}%
 \label{sec:git}
-Git is a distributed (and also central) version control system which only saves
-changes to a file instead of copies. Switching between development versions is
-easy this way. Additional Git has a lot of other features compared to other
-\glspl{VCS} systems. Git was developed 2005 by Linus Torvalds.
+Git is a distributed (and also central) incremental version control system which
+only saves changes to a file instead of copies of howl files. Switching between
+development versions is easy this way. Additional Git has a lot of other
+features compared to other \glspl{VCS} systems. Git was developed 2005 by Linus
+Torvalds.
 
-Followings are links to tutorials and description which descries what git is,
-what its benefits are  and how you can use it.
-
+Following is a list of links to tutorials and descriptions which descries what
+git is, what its benefits are and how you can use it.
 
 \begin{description}
     \item[The Git referance] is available in~\cite{gitdoc}. This gives
@@ -202,3 +224,5 @@ what its benefits are  and how you can use it.
         repositories philosophic behind git and shows corresponding
         commands~\cite{git_picture}
 \end{description}
+
+

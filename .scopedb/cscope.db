@@ -1,541 +1,209 @@
-cscope 15 /ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790               0000090820
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex
+cscope 15 /ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760               0000111222
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/bibtex.tex
 
-2 @
+2 \
+	g£tcouÁ”
+{
+	gbibu¾lı’®ty
+}{6000}
+
+3 \
+	g£tcouÁ”
+{
+	gbibu¾uı’®ty
+}{7000}
+
+5 @
 	gÚlše
 {
-	gg™doc
+	gMISRA
 ,
-
-3 
-	gauthÜ
- = {
-Soáw¬e
- 
-F»edom
- 
-CÚ£rvªcy
-},
-
-4 
-	gt™Ë
- = {
-G™
- 
-docum’tiÚ
-},
-
-5 
-	gy—r
- = 2020,
 
 6 
-	gu¾
+	gauthÜ
  = {
-h‰ps
-:
+HORIBA
+ 
+MIRA
+ 
+Ltd
+},
 
 7 
-u¾d©e
- = {2020-04-09},
+	gt™Ë
+ = {
+The
+ 
+officŸl
+ 
+»sourû
+ 
+šfÜm©iÚ
+ 
+Ú
+ 
+MISRA
+'s
 
 8 
+publiÿtiÚs
+ 
+ªd
+ 
+aùiv™›s
+},
+
+9 
+	gy—r
+ =2020,
+
+10 
+	gu¾
+ = {
+h‰ps
+:
+
+11 
+u¾d©e
+ = {2020-06-21},
+
+12 
 	gnÙe
  = {
-Reã¿nû
+De
  
-to
+çùo
  
-®l
- 
-comªds
+¡ªd¬d
+ 
+C
+ / C++ 
+´og¿mmšg
 }
 
-12 @
+15 @
 	gÚlše
 {
-	gtq_b¥119
+	gCWE
 ,
-
-13 
-	gauthÜ
- = {
-TQ
- 
-Sy¡ems
- 
-GmbH
-},
-
-14 
-	gt™Ë
- = {
-tqam335x
- 
-BSP
- 
-Ov”v›w
-},
-
-15 
-	gy—r
- = 2020,
 
 16 
-	gu¾
+	gauthÜ
  = {
-h‰ps
-:
+MITRE
+ 
+CÜpÜ©iÚ
+},
 
 17 
-u¾d©e
- = {2020-04-09},
+	gt™Ë
+ = {
+CommÚ
+ 
+W—kÃss
+ 
+Enum”©iÚ
+},
 
 18 
+	gy—r
+ =2020,
+
+19 
+	gu¾
+ = {
+h‰ps
+:
+
+20 
+u¾d©e
+ = {2020-06-21},
+
+21 
 	gnÙe
  = {
-Ov”v›w
+A
  
-ov”
+li¡
  
-®Ë
+of
  
-»Ëa£d
+commÚ
  
-BSP
-. 
-You
+soáw¬e
  
-fšd
+ªd
  
-a
+h¬dw¬e
  
-chªg–og
+£cur™y
  
-th”e
- 
-®so
+w—kÃs£s
 }
 
-23 @
-	gBOOK
+25 @
+	gÚlše
 {
-	gChacÚ2014
+	gCRT
 ,
-
-24 
-	gAUTHOR
- = {
-ChacÚ
-, 
-ScÙt
- 
-AND
- 
-SŒaub
-, 
-B’
-},
-
-25 
-	gYEAR
- = {2014},
 
 26 
-	gTITLE
+	gauthÜ
  = {
-Pro
+SEI
  
-G™
- - },
+CERT
+},
 
 27 
-	gEDITION
- = {},
+	gt™Ë
+ = {
+SEI
+ 
+CERT
+ 
+Codšg
+ 
+Snd¬ds
+},
 
 28 
-	gISBN
- = {978-1-484-20077-3},
+	gy—r
+ =2020,
 
 29 
-	gPUBLISHER
+	gu¾
  = {
-A´ess
-},
+h‰ps
+:
 
 30 
-	gADDRESS
- = {
-New
- 
-YÜk
-},
-
-33 @
-	gÚlše
-{
-	gg™_piùu»
-,
-
-34 
-	gauthÜ
- = {
-D‘rich
- 
-Beck
-},
-
-35 
-	gt™Ë
- = {
-G™
- 
-»po£tÜy
- 
-wÜkæow
- 
-piùu»
-},
-
-36 
-	gy—r
- = 2020,
-
-37 
-	gu¾
- =
-
-38 {
-h‰ps
-:
-
-39 
 u¾d©e
- = {2020-04-09},
+ = {2020-06-21},
 
-40 
+31 
 	gnÙe
  = {
-Piùu»
+Codšg
  
-showšg
+¡ªd¬ds
+ 
+commÚly
  
-the
+u£d
  
-wokræows
+´og¿mmšg
  
-ªd
- 
-commªds
- 
-of
- 
-loÿl
-‡nd 
-»mÙe
-
-
-41 
-»po£tÜ›s
+Ïnguages
 }
 
-44 @
-	gÚlše
-{
-	gg™doc
-,
-
-45 
-	gauthÜ
- = {},
-
-46 
-	gt™Ë
- = {
-G™
- 
-docum’tiÚ
-},
-
-47 
-	gy—r
- = 2020,
-
-48 
-	gu¾
- = {
-h‰ps
-:
-
-49 
-u¾d©e
- = {2020-04-09},
-
-50 
-	gnÙe
- = {
-Reã¿nû
- 
-to
- 
-®l
- 
-comªds
-}
-
-53 @
-	gÚlše
-{
-	gg™videÙutÜŸl_’
-,
-
-54 
-	gauthÜ
- = {
-Aÿdemšd
-},
-
-55 
-	gt™Ë
- = {
-G™
- 
-Fundam’ls
- 
-Commªd
--
-Lše
- 
-video
- 
-tutÜŸl
- 
-£r›s
-},
-
-56 
-	gy—r
- = 2020,
-
-57 
-	gu¾
- = {
-h‰ps
-:
-
-58 
-u¾d©e
- = {2020-04-09},
-
-59 
-	gnÙe
- = {
-Engish
- 
-¥—k”
- 
-gives
- 
-exam³ls
- 
-out
- 
-of
- 
-the
- 
-book
- \
-c™e
-{
-ChacÚ2014
-}}
-
-63 @
-	gÚlše
-{
-	gg™videÙutÜŸl_de_’
-,
-
-64 
-	gauthÜ
- = {
-Aÿdemšd
-},
-
-65 
-	gt™Ë
- = {
-G™
- 
-ªd
- 
-G™hub
- 
-video
- 
-tutÜŸl
-},
-
-66 
-	gy—r
- = 2020,
-
-67 
-	gu¾
- = {
-h‰ps
-:
-
-68 
-u¾d©e
- = {2020-04-09},
-
-69 
-	gnÙe
- = {
-G”mª
- 
-¥—k”
- 
-gives
- 
-the
- 
-basic
- 
-u§ge
- 
-š
- 
-a
- 
-video
- 
-tutÜŸl
-}
-
-73 @
-	gÚlše
-{
-	gg™_ch—t_sh“t
-,
-
-74 
-	gauthÜ
- = {
-JReb–
- 
-by
- 
-P”fÜû
- 
-Soáw¬e
-, 
-Inc
-.},
-
-75 
-	gt™Ë
- = {
-GIT
- 
-ch—t
- 
-sh“t
-},
-
-76 
-	gy—r
- = 2020,
-
-77 
-	gu¾
- = {
-h‰ps
-:
-
-78 
-u¾d©e
- = {2020-04-09},
-
-79 
-	gnÙe
- = {
-Inşudes
- 
-®so
- 
-some
- 
-´aùiÿl
- 
-exam¶es
-}
-
-83 @
-	gÚlše
-{
-	gTI_am335x_”¿
-,
-
-84 
-	gauthÜ
- = {
-Texas
- 
-In¡rum’ts
-},
-
-85 
-	gt™Ë
- = {
-Am335x
- 
-SicÚ
- 
-E¼©a
- 2.1},
-
-86 
-	gy—r
- = 2020,
-
-87 
-	gu¾
- = {
-h‰p
-:
-
-88 
-u¾d©e
- = {2020-04-09},
-
-89 
-	gnÙe
- = {
-U£rs
- 
-ª
- 
-´og¿mm”s
- 
-»ã¿nû
- 
-like
- 
-´oûssÜ
- 
-desütiÚ
-.}
-
-92 @
+37 @
 	gÚlše
 {
 	gTI_am335x_u£r_mªu®
 ,
 
-93 
+38 
 	gauthÜ
  = {
 Texas
@@ -543,7 +211,7 @@ Texas
 In¡rum’ts
 },
 
-94 
+39 
 	gt™Ë
  = {
 am335x
@@ -561,21 +229,21 @@ und
 mªu®
 },
 
-95 
+40 
 	gy—r
  = 2020,
 
-96 
+41 
 	gu¾
  = {
 h‰p
 :
 
-97 
+42 
 u¾d©e
  = {2020-04-09},
 
-98 
+43 
 	gnÙe
  = {
 U£rs
@@ -593,13 +261,13 @@ like
 desütiÚ
 .}
 
-102 @
+47 @
 	gÚlše
 {
 	gTI_am335x_‹chniÿl_mªu®
 ,
 
-103 
+48 
 	gauthÜ
  = {
 Texas
@@ -607,7 +275,7 @@ Texas
 In¡rum’ts
 },
 
-104 
+49 
 	gt™Ë
  = {
 am335x
@@ -621,21 +289,21 @@ ProûssÜ
 d©ash“t
 },
 
-105 
+50 
 	gy—r
  = 2020,
 
-106 
+51 
 	gu¾
  = {
 h‰p
 :
 
-107 
+52 
 u¾d©e
  = {2020-04-09},
 
-108 
+53 
 	gnÙe
  = {
 Techniÿl
@@ -647,7 +315,7 @@ like
 timšgs
 .}
 
-114 @
+57 @
 	gÚlše
 {
 	gPhyTec
@@ -655,13 +323,13 @@ timšgs
 Mœa_DowÆßds
 ,
 
-115 
+58 
 	gauthÜ
  = {
 PhyTec
 },
 
-116 
+59 
 	gt™Ë
  = {{
 PhyTec
@@ -671,21 +339,21 @@ Mœa
 DowÆßds
 },
 
-117 
+60 
 	gy—r
  = 2019,
 
-118 
+61 
 	gu¾
  = {
 h‰ps
 :
 
-119 
+62 
 u¾d©e
  = {2019-12-01},
 
-120 
+63 
 	gnÙe
  = {
 DowÆßds
@@ -695,61 +363,13 @@ Mœa6
 Bßrd
 }
 
-126 @
-	gÚlše
-{
-	gPhyTec
-:
-Mœa_DowÆßds
-,
-
-127 
-	gauthÜ
- = {
-PhyTec
-},
-
-128 
-	gt™Ë
- = {{
-PhyTec
- 
-Mœa
-} 
-DowÆßds
-},
-
-129 
-	gy—r
- = 2019,
-
-130 
-	gu¾
- = {
-h‰ps
-:
-
-131 
-u¾d©e
- = {2019-12-01},
-
-132 
-	gnÙe
- = {
-DowÆßds
- 
-Mœa6
- 
-Bßrd
-}
-
-135 @
+67 @
 	gÚlše
 {
 	gbudroÙ
 ,
 
-136 
+68 
 	gauthÜ
  = {
 BudroÙ
@@ -757,7 +377,7 @@ BudroÙ
 Üg
 },
 
-137 
+69 
 	gt™Ë
  = {
 Makšg
@@ -769,21 +389,21 @@ Lšux
 Easy
 },
 
-138 
+70 
 	gy—r
  = 2019,
 
-139 
+71 
 	gu¾
  = {
 h‰ps
 :
 
-140 
+72 
 u¾d©e
  = {2019-12-23},
 
-141 
+73 
 	gnÙe
  = {
 AÉ”Çtive
@@ -793,171 +413,71 @@ to
 B™bake
 }
 
-144 @
+76 @
 	gÚlše
 {
-	g±xdi¡
+	gwik
 ,
 
-145 
+77 
 	gauthÜ
  = {
-P’guŒÚix
+Difã»Á
+ 
+authÜs
 },
 
-146 
+78 
 	gt™Ë
  = {
-ProãssiÚ®
+The
  
-Embedded
+ä“
  
-Lšux
+’cyşİedŸ
  
-Made
+th©
  
-Easy
-},
+ªyÚe
+ 
+ÿn
+ 
+ed™
+.},
 
-147 
+79 
 	gy—r
- = 2019,
+ = 2020,
 
-148 
+80 
 	gu¾
  = {
 h‰ps
 :
 
-149 
+81 
 u¾d©e
- = {2019-12-23},
+ = {2020-04-04},
 
-150 
+82 
 	gnÙe
- = { 
-AÉ”Çtive
- 
-to
- 
-B™bake
-. 
-V”y
- 
-simlŸr
-, 
-—s›r
- 
-but
- 
-Ëss
- 
-æexibË
-}
-
-153 @
-	gÚlše
-{
-	g±xdi¡_docu
-,
-
-154 
-	gauthÜ
  = {
-P’guŒÚix
-},
-
-155 
-	gt™Ë
- = {
-W–come
- 
-to
+U£
  
 the
  
-PTXdi¡
+£¬ch
  
-Univ”£
-},
-
-156 
-	gy—r
- = 2019,
-
-157 
-	gu¾
- = {
-h‰ps
-:
-
-158 
-u¾d©e
- = {2020-05-16},
-
-159 
-	gnÙe
- = {
-OÆše
+’gše
  
-Docum’tiÚ
+to
+ 
+fšd
+h
+‹rm
 }
 
-163 @
-	gÚlše
-{
-	gPy‹c
-:
-BSP_Mªu®
-,
-
-164 
-	gauthÜ
- = {
-PhyTec
-},
-
-165 
-	gt™Ë
- = {{
-PhyTec
- 
-Mœa
-} 
-BSP
- 
-Mªu®
-},
-
-166 
-	gy—r
- = 2019,
-
-167 
-	gu¾
- = {
-h‰ps
-:
-
-168 
-u¾d©e
- = {2019-12-01},
-
-169 
-	gnÙe
- = {
-Deviû
- 
-BoÙšg
- \& 
-FÏshšg
-, 
-Ph”h”®s
- 
-Mœa6
-}
-
-172 @
+85 @
 	gÚlše
 {
 	gPhyTec
@@ -965,13 +485,13 @@ Mœa6
 Dev–İm’t_Guid
 ,
 
-173 
+86 
 	gauthÜ
  = {
 PhyTec
 },
 
-174 
+87 
 	gt™Ë
  = {{
 PhyTec
@@ -983,21 +503,21 @@ Dev–İm’t
 Guide
 },
 
-175 
+88 
 	gy—r
  = 2019,
 
-176 
+89 
 	gu¾
  = {
 h‰ps
 :
 
-177 
+90 
 u¾d©e
  = {2019-12-01},
 
-178 
+91 
 	gnÙe
  = {
 Ho¡
@@ -1007,7 +527,7 @@ ToŞ
 S‘up
 }
 
-182 @
+95 @
 	gÚlše
 {
 	gPhyTec
@@ -1015,13 +535,13 @@ S‘up
 Yoùo_Mªu®
 ,
 
-183 
+96 
 	gauthÜ
  = {
 PhyTec
 },
 
-184 
+97 
 	gt™Ë
  = {{
 PhyTec
@@ -1033,17 +553,17 @@ Yoùo
 Mªu®
 },
 
-185 
+98 
 	gy—r
  = 2019,
 
-186 
+99 
 	gu¾
  = {
 h‰ps
 :
 
-187 
+100 
 nÙe
  = {
 CÚşusiÚ
@@ -1055,11 +575,11 @@ Mega
 Mªu®
 },
 
-188 
+101 
 	gu¾d©e
  = {2019-12-01}
 
-193 @
+106 @
 	gÚlše
 {
 	gYoùo
@@ -1067,13 +587,13 @@ Mªu®
 DowÆßds
 ,
 
-194 
+107 
 	gauthÜ
  = {
 Yoùo
 },
 
-195 
+108 
 	gt™Ë
  = {{
 Yoùo
@@ -1083,21 +603,21 @@ DowÆßd
 Page
 },
 
-196 
+109 
 	gy—r
  = 2019,
 
-197 
+110 
 	gu¾
  = {
 h‰p
 :
 
-198 
+111 
 u¾d©e
  = {2019-12-01}
 
-202 @
+115 @
 Úlše
 {
 Yoùo
@@ -1105,13 +625,13 @@ Yoùo
 ADT_Guide
 ,
 
-203 
+116 
 	gauthÜ
  = {
 Yoùo
 },
 
-204 
+117 
 	gt™Ë
  = {
 The
@@ -1131,21 +651,21 @@ ADT
 U£r
 's Guide},
 
-205 
+118 
 y—r
  = 2019,
 
-206 
+119 
 	gu¾
  = {
 h‰ps
 :
 
-207 
+120 
 u¾d©e
  = {2019-12-01}
 
-211 @
+124 @
 Úlše
 {
 Yoùo
@@ -1153,13 +673,13 @@ Yoùo
 Reã»nû_Mªu®
 ,
 
-212 
+125 
 	gauthÜ
  = {
 Yoùo
 },
 
-213 
+126 
 	gt™Ë
  = {
 Yoùo
@@ -1171,21 +691,21 @@ Reã»nû
 Mªu®
 },
 
-214 
+127 
 	gy—r
  = 2019,
 
-215 
+128 
 	gu¾
 ğ{
 h‰ps
 :
 
-216 
+129 
 u¾d©e
  = {2019-12-01}
 
-220 @
+133 @
 Úlše
 {
 Yoùo
@@ -1193,7 +713,7 @@ Yoùo
 Mega_Mªu®
 ,
 
-221 
+134 
 	gauthÜ
  = {
 ScÙt
@@ -1201,7 +721,7 @@ ScÙt
 Riãnb¬k
 },
 
-222 
+135 
 	gt™Ë
  = {
 Yoùo
@@ -1211,21 +731,21 @@ Mega
 Mªu®
 },
 
-223 
+136 
 	gy—r
  = 2019,
 
-224 
+137 
 	gu¾
  = {
 h‰ps
 :
 
-225 
+138 
 u¾d©e
  = {2019-12-01}
 
-229 @
+142 @
 Úlše
 {
 Yoùo
@@ -1233,7 +753,7 @@ Yoùo
 B™bake_Mªu®
 ,
 
-230 
+143 
 	gauthÜ
  = {
 Rich¬d
@@ -1251,7 +771,7 @@ Ph
 Blund–l
 },
 
-231 
+144 
 	gt™Ë
  = {
 B™Bake
@@ -1261,21 +781,21 @@ U£r
 Mªu®
 },
 
-232 
+145 
 	gy—r
  = 2019,
 
-233 
+146 
 	gu¾
  = {
 h‰ps
 :
 
-234 
+147 
 u¾d©e
  = {2019-12-01}
 
-237 @
+150 @
 Úlše
 {
 Yoùo
@@ -1283,7 +803,7 @@ Yoùo
 Lšuxk”Ãl_Dev–İm’t_Mªu®
 ,
 
-238 
+151 
 	gauthÜ
  = {
 ScÙt
@@ -1291,7 +811,7 @@ ScÙt
 Riãnb¬k
 },
 
-239 
+152 
 	gt™Ë
  = {
 Yoùo
@@ -1307,21 +827,21 @@ Dev–İm’t
 Mªu®
 },
 
-240 
+153 
 	gy—r
  = 2019,
 
-241 
+154 
 	gu¾
  = {
 h‰ps
 :
 
-242 
+155 
 u¾d©e
  = {2019-12-01}
 
-246 @
+159 @
 Úlše
 {
 Yoùo
@@ -1329,7 +849,7 @@ Yoùo
 BSP_Mªu®
 ,
 
-247 
+160 
 	gauthÜ
  = {
 ScÙt
@@ -1337,7 +857,7 @@ ScÙt
 Riãnb¬k
 },
 
-248 
+161 
 	gt™Ë
  = {
 Yoùo
@@ -1355,21 +875,21 @@ BSP
 Dev–İ”
 's Guide },
 
-249 
+162 
 y—r
  = 2019,
 
-250 
+163 
 	gu¾
  = {
 h‰ps
 :
 
-251 
+164 
 u¾d©e
  = {2019-12-01}
 
-255 @
+167 @
 Úlše
 {
 Yoùo
@@ -1377,7 +897,7 @@ Yoùo
 eSDK
 ,
 
-256 
+168 
 	gauthÜ
  = {
 ScÙt
@@ -1385,7 +905,7 @@ ScÙt
 Riãnb¬k
 },
 
-257 
+169 
 	gt™Ë
  = {
 Yoùo
@@ -1409,21 +929,21 @@ K™
 eSDK
 )},
 
-258 
+170 
 	gy—r
  = 2019,
 
-259 
+171 
 	gu¾
  = {
 h‰ps
 :
 
-260 
+172 
 u¾d©e
  = {2019-12-01}
 
-266 @
+175 @
 Úlše
 {
 V¬iwiki
@@ -1431,13 +951,13 @@ V¬iwiki
 Yoùo_Eş£_Plugš
 ,
 
-267 
+176 
 	gauthÜ
  = {
 v¬iwiki
 },
 
-268 
+177 
 	gt™Ë
  = {
 Yoùo
@@ -1449,21 +969,21 @@ w™h
 Eş£
 },
 
-269 
+178 
 	gy—r
  = 2019,
 
-270 
+179 
 	gu¾
  = {
 h‰p
 :
 
-271 
+180 
 u¾d©e
  = {2019-12-01}
 
-275 @
+183 @
 Úlše
 {
 V¬iwiki
@@ -1471,13 +991,13 @@ V¬iwiki
 Exam¶es
 ,
 
-276 
+184 
 	gauthÜ
  = {
 v¬iwiki
 },
 
-277 
+185 
 	gt™Ë
  = {
 V¬iwiki
@@ -1487,21 +1007,21 @@ Yoùo
 wikis
 },
 
-278 
+186 
 	gy—r
  = 2019,
 
-279 
+187 
 	gu¾
  = {
 h‰p
 :
 
-280 
+188 
 u¾d©e
  = {2019-12-01}
 
-284 @
+192 @
 Úlše
 {
 O³nEmbedded
@@ -1509,13 +1029,13 @@ O³nEmbedded
 Index”_Reces
 ,
 
-285 
+193 
 	gauthÜ
  = {
 İ’Embedded
 },
 
-286 
+194 
 	gt™Ë
  = {
 O³n
@@ -1527,21 +1047,21 @@ Rece
 Index”
 },
 
-287 
+195 
 	gy—r
  = 2019,
 
-288 
+196 
 	gu¾
  = {
 h‰ps
 :
 
-289 
+197 
 u¾d©e
  = {2019-12-01}
 
-293 @
+201 @
 Úlše
 {
 O³nEmbedded
@@ -1549,13 +1069,13 @@ O³nEmbedded
 Index”_Lay”s
 ,
 
-294 
+202 
 	gauthÜ
  = {
 İ’Embedded
 },
 
-295 
+203 
 	gt™Ë
  = {
 O³n
@@ -1567,21 +1087,21 @@ Lay”
 Index”
  },
 
-296 
+204 
 	gy—r
  = 2019,
 
-297 
+205 
 	gu¾
  = {
 h‰ps
 :
 
-298 
+206 
 u¾d©e
  = {2019-12-01}
 
-302 @
+210 @
 Úlše
 {
 O³nEmbedded
@@ -1589,13 +1109,13 @@ O³nEmbedded
 Index”_Machšes
 ,
 
-303 
+211 
 	gauthÜ
  = {
 İ’Embedded
 },
 
-304 
+212 
 	gt™Ë
  = {
 O³n
@@ -1607,21 +1127,21 @@ Machše
 Index”
  },
 
-305 
+213 
 	gy—r
  = 2019,
 
-306 
+214 
 	gu¾
  = {
 h‰ps
 :
 
-307 
+215 
 u¾d©e
  = {2019-12-01}
 
-310 @
+218 @
 Úlše
 {
 O³nEmbedded
@@ -1629,13 +1149,13 @@ O³nEmbedded
 Index”_CÏs£s
 ,
 
-311 
+219 
 	gauthÜ
  = {
 İ’Embedded
 },
 
-312 
+220 
 	gt™Ë
  = {
 O³n
@@ -1647,21 +1167,21 @@ CÏs£s
 Index”
  },
 
-313 
+221 
 	gy—r
  = 2019,
 
-314 
+222 
 	gu¾
  = {
 h‰ps
 :
 
-315 
+223 
 u¾d©e
  = {2019-12-01}
 
-318 @
+226 @
 Úlše
 {
 O³nEmbedded
@@ -1669,13 +1189,13 @@ O³nEmbedded
 Index”_Di¡Üs
 ,
 
-319 
+227 
 	gauthÜ
  = {
 İ’Embedded
 },
 
-320 
+228 
 	gt™Ë
  = {
 O³n
@@ -1687,21 +1207,21 @@ Di¡ro
 Index”
  },
 
-321 
+229 
 	gy—r
  = 2019,
 
-322 
+230 
 	gu¾
  = {
 h‰ps
 :
 
-323 
+231 
 u¾d©e
  = {2019-12-01}
 
-326 @
+234 @
 Úlše
 {
 Yoùo
@@ -1709,13 +1229,13 @@ Yoùo
 YouTube
 ,
 
-327 
+235 
 	gauthÜ
  = {
 Yoùo
 },
 
-328 
+236 
 	gt™Ë
  = {
 Live
@@ -1731,27 +1251,27 @@ Yoùo
 Projeù
 },
 
-329 
+237 
 	gy—r
  = 2019,
 
-330 
+238 
 	gu¾
  = {
 h‰ps
 :
 
-331 
+239 
 u¾d©e
  = {2019-12-01}
 
-334 @
+242 @
 BOOK
 {
 Rago2013
 ,
 
-335 
+243 
 	gAUTHOR
  = {
 Rago
@@ -1769,11 +1289,11 @@ W
 Rich¬d
 },
 
-336 
+244 
 	gYEAR
  = {2013},
 
-337 
+245 
 	gTITLE
  = {
 Advªûd
@@ -1789,7 +1309,7 @@ UNIX
 EnvœÚm’t
  - },
 
-338 
+246 
 	gEDITION
  = {3
 rd
@@ -1797,11 +1317,11 @@ rd
 ed™iÚ
 },
 
-339 
+247 
 	gISBN
  = {978-0-321-63773-4},
 
-340 
+248 
 	gPUBLISHER
  = {
 AddisÚ
@@ -1809,13 +1329,13 @@ AddisÚ
 We¦ey
 },
 
-341 
+249 
 	gADDRESS
  = {
 Am¡”dam
 },
 
-345 @
+253 @
 	gBOOK
 {
 	gGÚz®ez2018
@@ -1823,7 +1343,7 @@ Am¡”dam
 Embedded_Lšux_Dev–İm’t_Usšg_Yoùo_Projeù_Cookbook_2nd
 ,
 
-346 
+254 
 	gAUTHOR
  = {
 GÚz®ez
@@ -1831,11 +1351,11 @@ GÚz®ez
 AËx
 },
 
-347 
+255 
 	gYEAR
  = {2018},
 
-348 
+256 
 	gTITLE
  = {
 Embedded
@@ -1853,7 +1373,7 @@ Projeù
 Cookbook
  - },
 
-349 
+257 
 	gEDITION
  = {2
 nd
@@ -1863,11 +1383,11 @@ Revi£d
 ed™iÚ
 },
 
-350 
+258 
 	gISBN
  = {978-1-788-39921-0},
 
-351 
+259 
 	gPUBLISHER
  = {
 Packt
@@ -1875,19 +1395,19 @@ Packt
 Publishšg
 },
 
-352 
+260 
 	gADDRESS
  = {
 Bœmšgham
 },
 
-356 @
+263 @
 	gBOOK
 {
 	gQuade2015
 ,
 
-357 
+264 
 	gAUTHOR
  = {
 Quade
@@ -1905,11 +1425,11 @@ Eva
 K©h¬ša
 },
 
-358 
+265 
 	gYEAR
  = {2015},
 
-359 
+266 
 	gTITLE
  = {
 Lšux
@@ -1951,7 +1471,7 @@ Ra¥b”ry
 Pi
 },
 
-360 
+267 
 	gEDITION
  = {4. 
 akt
@@ -1963,11 +1483,11 @@ und
 Auæ
 .},
 
-361 
+268 
 	gISBN
  = {978-3-864-90288-8},
 
-362 
+269 
 	gPUBLISHER
  = {
 Dpunkt
@@ -1977,19 +1497,19 @@ V”Ïg
 GmbH
 },
 
-363 
+270 
 	gADDRESS
  = {
 Heid–b”g
 },
 
-367 @
+273 @
 	gBOOK
 {
 	gCÜb‘2005
 ,
 
-368 
+274 
 	gAUTHOR
  = {
 CÜb‘
@@ -2009,11 +1529,11 @@ H¬tmª
 G»g
 },
 
-369 
+275 
 	gYEAR
  = {2005},
 
-370 
+276 
 	gTITLE
  = {
 Lšux
@@ -2023,33 +1543,33 @@ Deviû
 Driv”s
  - },
 
-371 
+277 
 	gEDITION
  = {3. 
 Auæ
 .},
 
-372 
+278 
 	gISBN
  = {978-0-596-00590-0},
 
-373 
+279 
 	gPUBLISHER
  = {"O'Reilly Media, Inc."},
 
-374 
+280 
 	gADDRESS
  = {
 Seba¡İŞ
 },
 
-377 @
+283 @
 	gBOOK
 {
 	gK”risk2010
 ,
 
-378 
+284 
 	gAUTHOR
  = {
 K”risk
@@ -2057,11 +1577,11 @@ K”risk
 Mich«l
 },
 
-379 
+285 
 	gYEAR
  = {2010},
 
-380 
+286 
 	gTITLE
  = {
 The
@@ -2073,17 +1593,17 @@ Prog¿mmšg
 IÁ”çû
  - },
 
-381 
+287 
 	gEDITION
  = {1. 
 Auæ
 .},
 
-382 
+288 
 	gISBN
  = {978-1-593-27220-3},
 
-383 
+289 
 	gPUBLISHER
  = {
 No
@@ -2093,7 +1613,7 @@ Srch
 P»ss
 },
 
-384 
+290 
 	gADDRESS
  = {
 M
@@ -2101,7 +1621,1071 @@ M
 nch’
 },
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex
+295 @
+	gÚlše
+{
+	gg™doc
+,
+
+296 
+	gauthÜ
+ = {
+Soáw¬e
+ 
+F»edom
+ 
+CÚ£rvªcy
+},
+
+297 
+	gt™Ë
+ = {
+G™
+ 
+docum’tiÚ
+},
+
+298 
+	gy—r
+ = 2020,
+
+299 
+	gu¾
+ = {
+h‰ps
+:
+
+300 
+u¾d©e
+ = {2020-04-09},
+
+301 
+	gnÙe
+ = {
+G™
+ 
+»ã»nû
+}
+
+304 @
+	gÚlše
+{
+	gtq_b¥119
+,
+
+305 
+	gauthÜ
+ = {
+TQ
+ 
+Sy¡ems
+ 
+GmbH
+},
+
+306 
+	gt™Ë
+ = {
+tqam335x
+ 
+BSP
+ 
+Ov”v›w
+},
+
+307 
+	gy—r
+ = 2020,
+
+308 
+	gu¾
+ = {
+h‰ps
+:
+
+309 
+u¾d©e
+ = {2020-04-09},
+
+310 
+	gnÙe
+ = {
+BWB
+ 
+v”siÚ
+ 
+ov”v›w
+ 
+ªd
+ 
+chªg–og
+}
+
+313 @
+	gÚlše
+{
+	gtq_b¥119_š¡®l
+,
+
+314 
+	gauthÜ
+ = {
+TQ
+ 
+Sy¡ems
+ 
+GmbH
+},
+
+315 
+	gt™Ë
+ = {
+Dev–İm’t
+ 
+EnvœÚm’t
+ 
+P»»quis™es
+ 
+ªd
+ 
+£tup
+},
+
+316 
+	gy—r
+ = 2020,
+
+317 
+	gu¾
+ = {
+h‰ps
+:
+
+318 
+u¾d©e
+ = {2020-04-09},
+
+319 
+	gnÙe
+ = {
+TQ
+ 
+BSP
+ 
+š¡®l
+. 
+READ
+ 
+the
+ 
+w¬nšgs
+.}
+
+322 @
+	gÚlše
+{
+	gtq_b¥119_cÚfigu¿tiÚ
+,
+
+323 
+	gauthÜ
+ = {
+TQ
+ 
+Sy¡ems
+ 
+GmbH
+},
+
+324 
+	gt™Ë
+ = {
+Usšg
+ 
+PTXdi¡
+ 
+to
+ 
+ü—‹
+ 
+the
+ 
+BSP
+ 
+fœmw¬e
+},
+
+325 
+	gy—r
+ = 2020,
+
+326 
+	gu¾
+ = {
+h‰ps
+:
+
+327 
+u¾d©e
+ = {2020-04-09},
+
+328 
+	gnÙe
+ = {
+TQ
+ 
+BSP
+ 
+cÚfigu¿tiÚ
+}
+
+331 @
+	gBOOK
+{
+	gChacÚ2014
+,
+
+332 
+	gAUTHOR
+ = {
+ChacÚ
+, 
+ScÙt
+ 
+AND
+ 
+SŒaub
+, 
+B’
+},
+
+333 
+	gYEAR
+ = {2014},
+
+334 
+	gTITLE
+ = {
+Pro
+ 
+G™
+ - },
+
+335 
+	gEDITION
+ = {},
+
+336 
+	gISBN
+ = {978-1-484-20077-3},
+
+337 
+	gPUBLISHER
+ = {
+A´ess
+},
+
+338 
+	gADDRESS
+ = {
+New
+ 
+YÜk
+},
+
+341 @
+	gÚlše
+{
+	gg™_piùu»
+,
+
+342 
+	gauthÜ
+ = {
+D‘rich
+ 
+Beck
+},
+
+343 
+	gt™Ë
+ = {
+G™
+ 
+»po£tÜy
+ 
+wÜkæow
+ 
+piùu»
+},
+
+344 
+	gy—r
+ = 2020,
+
+345 
+	gu¾
+ =
+
+346 {
+h‰ps
+:
+
+347 
+u¾d©e
+ = {2020-04-09},
+
+348 
+	gnÙe
+ = {
+Piùu»
+ 
+showšg
+ 
+the
+ 
+wokræows
+ 
+ªd
+ 
+commªds
+ 
+of
+ 
+loÿl
+‡nd 
+»mÙe
+
+
+349 
+»po£tÜ›s
+}
+
+352 @
+	gÚlše
+{
+	gg™videÙutÜŸl_’
+,
+
+353 
+	gauthÜ
+ = {
+Aÿdemšd
+},
+
+354 
+	gt™Ë
+ = {
+G™
+ 
+Fundam’ls
+ 
+Commªd
+-
+Lše
+ 
+video
+ 
+tutÜŸl
+ 
+£r›s
+},
+
+355 
+	gy—r
+ = 2020,
+
+356 
+	gu¾
+ = {
+h‰ps
+:
+
+357 
+u¾d©e
+ = {2020-04-09},
+
+358 
+	gnÙe
+ = {
+Engish
+ 
+¥—k”
+ 
+gives
+ 
+exam³ls
+ 
+out
+ 
+of
+ 
+the
+ 
+book
+~\
+c™e
+{
+ChacÚ2014
+}}
+
+362 @
+	gÚlše
+{
+	gg™videÙutÜŸl_de_’
+,
+
+363 
+	gauthÜ
+ = {
+Aÿdemšd
+},
+
+364 
+	gt™Ë
+ = {
+G™
+ 
+ªd
+ 
+G™hub
+ 
+video
+ 
+tutÜŸl
+},
+
+365 
+	gy—r
+ = 2020,
+
+366 
+	gu¾
+ = {
+h‰ps
+:
+
+367 
+u¾d©e
+ = {2020-04-09},
+
+368 
+	gnÙe
+ = {
+G”mª
+ 
+¥—k”
+ 
+gives
+ 
+the
+ 
+basic
+ 
+u§ge
+ 
+š
+ 
+a
+ 
+video
+ 
+tutÜŸl
+}
+
+372 @
+	gÚlše
+{
+	gg™_ch—t_sh“t
+,
+
+373 
+	gauthÜ
+ = {
+JReb–
+ 
+by
+ 
+P”fÜû
+ 
+Soáw¬e
+, 
+Inc
+.},
+
+374 
+	gt™Ë
+ = {
+GIT
+ 
+ch—t
+ 
+sh“t
+},
+
+375 
+	gy—r
+ = 2020,
+
+376 
+	gu¾
+ = {
+h‰ps
+:
+
+377 
+u¾d©e
+ = {2020-04-09},
+
+378 
+	gnÙe
+ = {
+Inşudes
+ 
+®so
+ 
+some
+ 
+´aùiÿl
+ 
+exam¶es
+}
+
+382 @
+	gÚlše
+{
+	gTI_am335x_”¿
+,
+
+383 
+	gauthÜ
+ = {
+Texas
+ 
+In¡rum’ts
+},
+
+384 
+	gt™Ë
+ = {
+am335x
+ 
+SicÚ
+ 
+E¼©a
+ 2.1},
+
+385 
+	gy—r
+ = 2020,
+
+386 
+	gu¾
+ = {
+h‰p
+:
+
+387 
+u¾d©e
+ = {2020-04-09},
+
+388 
+	gnÙe
+ = {
+U£rs
+ 
+ª
+ 
+´og¿mm”s
+ 
+»ã¿nû
+ 
+like
+ 
+´oûssÜ
+ 
+desütiÚ
+.}
+
+391 @
+	gÚlše
+{
+	g±xdi¡
+,
+
+392 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+393 
+	gt™Ë
+ = {
+ProãssiÚ®
+ 
+Embedded
+ 
+Lšux
+ 
+Made
+ 
+Easy
+},
+
+394 
+	gy—r
+ = 2019,
+
+395 
+	gu¾
+ = {
+h‰ps
+:
+
+396 
+u¾d©e
+ = {2019-12-23},
+
+397 
+	gnÙe
+ = { 
+AÉ”Çtive
+ 
+to
+ 
+B™bake
+. 
+V”y
+ 
+simlŸr
+, 
+—s›r
+ 
+but
+ 
+Ëss
+ 
+æexibË
+}
+
+400 @
+	gÚlše
+{
+	g±xdi¡_docu
+,
+
+401 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+402 
+	gt™Ë
+ = {
+W–come
+ 
+to
+ 
+the
+ 
+PTXdi¡
+ 
+Univ”£
+},
+
+403 
+	gy—r
+ = 2019,
+
+404 
+	gu¾
+ = {
+h‰ps
+:
+
+405 
+u¾d©e
+ = {2020-05-16},
+
+406 
+	gnÙe
+ = {
+OÆše
+ 
+Docum’tiÚ
+}
+
+409 @
+	gÚlše
+{
+	g±xdi¡_š¡®l
+,
+
+410 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+411 
+	gt™Ë
+ = {
+G‘tšg
+ 
+a
+ 
+wÜkšg
+ 
+EnvœÚm’t
+},
+
+412 
+	gy—r
+ = 2019,
+
+413 
+	gu¾
+ = {
+h‰ps
+:
+
+414 
+u¾d©e
+ = {2020-05-16},
+
+415 
+	gnÙe
+ = {
+In¡®ÏtiÚ
+ 
+ªd
+ 
+cÚfigu¿tiÚ
+ 
+guide
+.}
+
+418 @
+	gÚlše
+{
+	g±xdi¡_mªu®
+,
+
+419 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+420 
+	gt™Ë
+ = {
+PTXdi¡
+ 
+U£r
+'s Manual},
+
+421 
+y—r
+ = 2020,
+
+422 
+	gu¾
+ = {
+h‰ps
+:
+
+423 
+u¾d©e
+ = {2020-05-16},
+
+424 
+	gnÙe
+ = {
+Fœ¡
+ 
+¡•s
+ 
+ªd
+ 
+about
+ 
+the
+ 
+bud
+ 
+´oûss
+}
+
+427 @
+	gÚlše
+{
+	g±xdi¡_dev–İ”
+,
+
+428 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+429 
+	gt™Ë
+ = {
+to
+ 
+the
+ 
+PTXdi¡
+ 
+Univ”£
+},
+
+430 
+	gy—r
+ = 2019,
+
+431 
+	gu¾
+ = {
+h‰ps
+:
+
+432 
+u¾d©e
+ = {2020-05-16},
+
+433 
+	gnÙe
+ = {
+Ex‹ndšg
+ 
+PTXdi¡
+ 
+like
+ 
+Ãw
+ 
+ruËs
+, 
+soáw¬e
+ 
+Ü
+ 
+·‹ches
+ }
+
+436 @
+	gÚlše
+{
+	g±xdi¡_»f
+,
+
+437 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+438 
+	gt™Ë
+ = {
+PTXdi¡
+ 
+Reã»nû
+},
+
+439 
+	gy—r
+ = 2019,
+
+440 
+	gu¾
+ = {
+h‰ps
+:
+
+441 
+u¾d©e
+ = {2020-05-16},
+
+442 
+	gnÙe
+ = {
+Reã¿nû
+ 
+about
+ 
+®l
+ 
+š‹º®es
+.}
+
+445 @
+	gÚlše
+{
+	g±xdi¡_wÜkæows
+,
+
+446 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+447 
+	gt™Ë
+ = {
+V¬ious
+ 
+A¥eùs
+ 
+of
+ 
+Day
+ 
+WÜk
+},
+
+448 
+	gy—r
+ = 2019,
+
+449 
+	gu¾
+ = {
+h‰ps
+:
+
+450 
+u¾d©e
+ = {2020-05-16},
+
+451 
+	gnÙe
+ = {
+WÜkæows
+ 
+FAQs
+, 
+ts
+ 
+ªd
+ 
+Œicks
+ 
+¥ecŸl
+ 
+sks
+.}
+
+454 @
+	gÚlše
+{
+	g±xdi¡_çq
+,
+
+455 
+	gauthÜ
+ = {
+P’guŒÚix
+},
+
+456 
+	gt™Ë
+ = {
+F»qu’y
+ 
+Asked
+ 
+Que¡iÚs
+ (
+FAQ
+)},
+
+457 
+	gy—r
+ = 2019,
+
+458 
+	gu¾
+ = {
+h‰ps
+:
+
+459 
+u¾d©e
+ = {2020-05-16},
+
+460 
+	gnÙe
+ = {
+FAQ
+ 
+li¡
+ 
+to
+ 
+PTXdi¡
+}
+
+463 @
+	gÚlše
+{
+	gPy‹c
+:
+BSP_Mªu®
+,
+
+464 
+	gauthÜ
+ = {
+PhyTec
+},
+
+465 
+	gt™Ë
+ = {{
+PhyTec
+ 
+Mœa
+} 
+BSP
+ 
+Mªu®
+},
+
+466 
+	gy—r
+ = 2019,
+
+467 
+	gu¾
+ = {
+h‰ps
+:
+
+468 
+u¾d©e
+ = {2019-12-01},
+
+469 
+	gnÙe
+ = {
+Deviû
+ 
+BoÙšg
+ \& 
+FÏshšg
+, 
+Ph”h”®s
+ 
+Mœa6
+}
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/configs/preamble.tex
 
 2 % 
 UÁ”¡u‘zung
@@ -2232,6 +2816,8 @@ Embeded
  
 	gLšux
  4.4. 
+‹chniÿl
+ 
 	gdocum’tiÚ
 }
 
@@ -2409,18 +2995,36 @@ und
 
 48 \
 	gu£·ckage
-{
+[
+hyph’s
+]{
 	gu¾
 }
 
-50 % 
+49 \
+	gu£·ckage
+[
+shÜtcuts
+]{
+	gextdash
+} %
+	gAÎow
+ -,ğ
+as
+ 
+hyph’s
+
+
+51 %
+This
+ 
 Deutsche
  
-	gAnfuehrungszeich’
+Anfuehrungszeich’
 
 
-51 \
-	gu£·ckage
+52 %\
+u£·ckage
 [
 bab–
 , 
@@ -2431,7 +3035,13 @@ quÙes
 csquÙes
 }
 
-53 % 
+53 \
+u£·ckage
+[]{
+csquÙes
+}
+
+55 % 
 Pak‹
  
 zur
@@ -2443,17 +3053,17 @@ Er¡–lung
 SchÏgwÜtv”zeichnis
 )
 
-54 \
+56 \
 u£·ckage
 {
 šdex
 }
 
-55 \
+57 \
 makešdex
 
 
-56 %\
+58 %\
 u£·ckage
 [
 xšdy
@@ -2461,13 +3071,13 @@ xšdy
 imakeidx
 }
 
-58 % 
+60 % 
 Ipsum
  
 LÜem
 
 
-59 % 
+61 % 
 Pak‘
  
 wœd
@@ -2495,67 +3105,73 @@ scht
 w”d’
 
 
-60 \
+62 \
 u£·ckage
 {
 lsum
 }
 
-64 % 
+64 \
+u£·ckage
+{
+äamed
+}
+
+67 % 
 Se™’fÜm©›rung
 
 
-66 \
+69 \
 u£·ckage
 [
 
-67 
+70 
 pÜŒa™
 ,
 
-68 
+71 
 bšdšgoff£t
 =1.5c
 m
 ,
 
-69 
+72 
 šÃr
 =2.5c
 m
 ,
 
-70 
+73 
 ou‹r
 =2.5c
 m
 ,
 
-71 
+74 
 tİ
 =3c
 m
 ,
 
-72 
+75 
 bÙtom
 =2c
 m
 ,
 
-73 
+76 
 šşudeh—dfoÙ
 
 
-74 ]{
+77 ]{
 	ggeom‘ry
 }
 
-76 \
+79 \
 	gmak—‘‹r
 
 
-77 \
+80 \
 	g»Ãwcommªd
 \
 	g£ùiÚ
@@ -2563,7 +3179,7 @@ m
 	g¡¬t£ùiÚ
 
 
-78 {
+81 {
 	g£ùiÚ
 }{1}{0
 	gmm
@@ -2575,7 +3191,7 @@ m
 	gešzug
 
 
-79 {2\
+82 {2\
 	gba£lšesk
 }% % 
 	gvÜ
@@ -2583,7 +3199,7 @@ m
 	gab¡ªd
 
 
-80 {1\
+83 {1\
 	gba£lšesk
 }% % 
 	gÇch
@@ -2591,7 +3207,7 @@ m
 	gab¡ªd
 
 
-81 {\
+84 {\
 	gbf£r›s
 \
 	gsfçmy
@@ -2599,15 +3215,15 @@ m
 	gÏyout
 
 
-83 \
+86 \
 	gmak—tÙh”
 
 
-84 \
+87 \
 	gmak—‘‹r
 
 
-85 \
+88 \
 	g»Ãwcommªd
 \
 	gsub£ùiÚ
@@ -2615,7 +3231,7 @@ m
 	g¡¬t£ùiÚ
 
 
-86 {
+89 {
 	gsub£ùiÚ
 }{2}{0
 	gmm
@@ -2627,7 +3243,7 @@ m
 	gešzug
 
 
-87 {2\
+90 {2\
 	gba£lšesk
 }% % 
 	gvÜ
@@ -2635,7 +3251,7 @@ m
 	gab¡ªd
 
 
-88 {1\
+91 {1\
 	gba£lšesk
 }% % 
 	gÇch
@@ -2643,7 +3259,7 @@ m
 	gab¡ªd
 
 
-89 {\
+92 {\
 	gbf£r›s
 \
 	gsfçmy
@@ -2653,11 +3269,11 @@ m
 	gÏyout
 
 
-91 \
+94 \
 	gmak—tÙh”
 
 
-94 % 
+97 % 
 	gKİf
 - 
 und
@@ -2665,23 +3281,23 @@ und
 	gFusszee
 
 
-97 \
+100 \
 	gu£·ckage
 {
 	gçncyhdr
 }
 
-99 \
+102 \
 	g·ge¡yË
 {
 	gçncy
 }
 
-100 \
+103 \
 	gçncyhf
 {}
 
-101 \
+104 \
 	gçncyh—d
 [
 EL
@@ -2693,7 +3309,7 @@ OR
 	gth•age
 }
 
-102 \
+105 \
 	gçncyh—d
 [
 ER
@@ -2705,29 +3321,29 @@ OL
 	gËám¬k
 }
 
-104 \
+107 \
 	gçncy·ge¡yË
 {
 	gh—dšgs
 }{}
 
-106 \
+109 \
 	gçncy·ge¡yË
 {
 	g¶aš
 }{}
 
-108 \
+111 \
 	gçncy·ge¡yË
 {
 	gem±y
 }{
 
-109 \
+112 \
 	gçncyhf
 {}
 
-110 \
+113 \
 	g»Ãwcommªd
 {\
 	gh—druËwidth
@@ -2735,7 +3351,7 @@ OL
 	g±
 }
 
-113 %
+116 %
 	gKeš
  "K­™– # NAME" 
 š
@@ -2745,33 +3361,33 @@ d”
 	gKİfzee
 
 
-114 \
+117 \
 	g»Ãwcommªd
 {\
 	gch­‹rm¬k
 }[1]{
 
-115 \
+118 \
 	gm¬kbÙh
 {#1}{}
 
-116 \
+119 \
 	gm¬kbÙh
 {\
 	gthech­‹r
 .\ #1}{}
 
-120 % 
+123 % 
 	gSchriá’
 
 
-123 % 
+126 % 
 Stdªd¬dschriá
  
 	gã¡Ëg’
 
 
-124 \
+127 \
 	g»Ãwcommªd
 {\
 	gçmydeçuÉ
@@ -2779,7 +3395,7 @@ Stdªd¬dschriá
 	gsfdeçuÉ
 }
 
-126 % 
+129 % 
 Snd¬d
  
 	gZe’ab¡ªd
@@ -2787,23 +3403,23 @@ Snd¬d
 	gzeig
 
 
-127 \
+130 \
 	gu£·ckage
 {
 	g£t¥aû
 }
 
-128 \
+131 \
 	gÚeh®f¥acšg
 
 
-130 % 
+133 % 
 SchriágrÛs£n
  
 	gã¡Ëg’
 
 
-131 \
+134 \
 	gaddtokomafÚt
 {
 	gch­‹r
@@ -2815,7 +3431,7 @@ SchriágrÛs£n
 	gbf£r›s
 }
 
-132 \
+135 \
 	gaddtokomafÚt
 {
 	g£ùiÚ
@@ -2827,7 +3443,7 @@ SchriágrÛs£n
 	gbf£r›s
 }
 
-133 \
+136 \
 	gaddtokomafÚt
 {
 	gsub£ùiÚ
@@ -2839,7 +3455,7 @@ SchriágrÛs£n
 	gmd£r›s
 }
 
-134 \
+137 \
 	gaddtokomafÚt
 {
 	gÿ±iÚ
@@ -2851,7 +3467,7 @@ SchriágrÛs£n
 	gmd£r›s
 }
 
-137 % 
+140 % 
 	gInh®tsv”zeichnis
  / 
 AÎgemeše
@@ -2859,7 +3475,7 @@ AÎgemeše
 	gV”zeichni£š¡–lung’
 
 
-140 % 
+143 % 
 CÚŒŞ
  
 bË
@@ -2875,13 +3491,13 @@ of
 	g‘c
 
 
-141 \
+144 \
 	gu£·ckage
 {
 	gtoşoá
 }
 
-143 % 
+146 % 
 Punk‹
  
 auch
@@ -2891,19 +3507,19 @@ bei
 	gK­™–n
 
 
-144 \
+147 \
 	g»Ãwcommªd
 {\
 	gcách­dÙ£p
 }{3}
 
-145 \
+148 \
 	g»Ãwcommªd
 {\
 	gcádÙ£p
 }{3}
 
-147 % 
+150 % 
 Schriá¬t
  
 	gund
@@ -2917,7 +3533,7 @@ Inh®tsv”zeichnis
 	gª·s£n
 
 
-148 \
+151 \
 	g»Ãwcommªd
 {\
 	gcách­fÚt
@@ -2927,7 +3543,7 @@ Inh®tsv”zeichnis
 	gnÜm®size
 }
 
-149 \
+152 \
 	g»Ãwcommªd
 {\
 	gcá£cfÚt
@@ -2937,7 +3553,7 @@ Inh®tsv”zeichnis
 	gnÜm®size
 }
 
-150 \
+153 \
 	g»Ãwcommªd
 {\
 	gcásub£cfÚt
@@ -2947,7 +3563,7 @@ Inh®tsv”zeichnis
 	gnÜm®size
 }
 
-151 \
+154 \
 	g»Ãwcommªd
 {\
 	gcách­·gefÚt
@@ -2957,7 +3573,7 @@ Inh®tsv”zeichnis
 	gnÜm®size
 }
 
-152 \
+155 \
 	g»Ãwcommªd
 {\
 	gcá£ıagefÚt
@@ -2967,7 +3583,7 @@ Inh®tsv”zeichnis
 	gnÜm®size
 }
 
-153 \
+156 \
 	g»Ãwcommªd
 {\
 	gcásub£ıagefÚt
@@ -2977,7 +3593,7 @@ Inh®tsv”zeichnis
 	gnÜm®size
 }
 
-155 %
+158 %
 Ze’ab¡ªd
  
 š
@@ -2989,7 +3605,7 @@ V”zeichnis£n
 	geš¡–Ën
 
 
-156 \
+159 \
 	g£’gth
 {\
 	gcá·rsk
@@ -2997,7 +3613,7 @@ V”zeichnis£n
 	gba£lšesk
 }
 
-157 \
+160 \
 	g£’gth
 {\
 	gcábefÜech­sk
@@ -3005,7 +3621,7 @@ V”zeichnis£n
 	gba£lšesk
 }
 
-160 % 
+163 % 
 Abbdungsv”zeichnis
  
 und
@@ -3013,19 +3629,19 @@ und
 	gAbbdung’
 
 
-163 \
+166 \
 	gu£·ckage
 {
 	gÿ±iÚ
 }
 
-165 \
+168 \
 	gu£·ckage
 {
 	gw¿pfig
 }
 
-167 % 
+170 % 
 Numm”›rung
  
 vÚ
@@ -3033,7 +3649,7 @@ vÚ
 	gAbbdung’
 
 
-168 \
+171 \
 	g»Ãwcommªd
 {\
 	gthefigu»
@@ -3043,13 +3659,13 @@ vÚ
 	gfigu»
 }}
 
-170 % 
+173 % 
 Abbdungsv”zeichnis
  
 	gª·s£n
 
 
-171 \
+174 \
 	g»Ãwcommªd
 {\
 	gcáfig´e¢um
@@ -3057,13 +3673,13 @@ Abbdungsv”zeichnis
 	gAbbdung
  }
 
-172 \
+175 \
 	g»Ãwcommªd
 {\
 	gcáfigaá”¢um
 }{:}
 
-174 % 
+177 % 
 B»™e
  
 des
@@ -3073,13 +3689,13 @@ Numm”›rungsb”eiches
 Abbdung
  1:]
 
-175 \
+178 \
 ÃwËngth
 {\
 figu»L’gth
 }
 
-176 \
+179 \
 £‰owidth
 {\
 figu»L’gth
@@ -3091,7 +3707,7 @@ cáfig´e¢um
 cáfigaá”¢um
 }
 
-177 \
+180 \
 £’gth
 {\
 cáfignumwidth
@@ -3099,7 +3715,7 @@ cáfignumwidth
 figu»L’gth
 }
 
-178 \
+181 \
 £’gth
 {\
 cáfigšd’t
@@ -3107,13 +3723,13 @@ cáfigšd’t
 m
 }
 
-180 % 
+183 % 
 Schriá¬t
  
 ª·s£n
 
 
-181 \
+184 \
 »Ãwcommªd
 \
 cáfigfÚt
@@ -3121,7 +3737,7 @@ cáfigfÚt
 sfçmy
 }
 
-182 \
+185 \
 »Ãwcommªd
 \
 cáfig·gefÚt
@@ -3129,7 +3745,7 @@ cáfig·gefÚt
 sfçmy
 }
 
-185 % 
+188 % 
 Tab–Ënv”zeichnis
  
 und
@@ -3137,7 +3753,7 @@ und
 Tab–Ën
 
 
-188 % 
+191 % 
 Numm”›rung
  
 vÚ
@@ -3145,7 +3761,7 @@ vÚ
 Tab–Ën
 
 
-189 \
+192 \
 »Ãwcommªd
 {\
 th‘abË
@@ -3155,13 +3771,13 @@ th‘abË
 bË
 }}
 
-191 % 
+194 % 
 Tab–Ënv”zeichnis
  
 ª·s£n
 
 
-192 \
+195 \
 »Ãwcommªd
 {\
 cáb´e¢um
@@ -3169,13 +3785,13 @@ cáb´e¢um
 Tab–Ë
  }
 
-193 \
+196 \
 »Ãwcommªd
 {\
 cábaá”¢um
 }{:}
 
-195 % 
+198 % 
 B»™e
  
 des
@@ -3185,13 +3801,13 @@ Numm”›rungsb”eiches
 Abbdung
  1:]
 
-196 \
+199 \
 ÃwËngth
 {\
 bËL’gth
 }
 
-197 \
+200 \
 £‰owidth
 {\
 bËL’gth
@@ -3203,7 +3819,7 @@ cáb´e¢um
 cábaá”¢um
 }
 
-198 \
+201 \
 £’gth
 {\
 cábnumwidth
@@ -3211,7 +3827,7 @@ cábnumwidth
 bËL’gth
 }
 
-199 \
+202 \
 £’gth
 {\
 cábšd’t
@@ -3219,13 +3835,13 @@ cábšd’t
 m
 }
 
-201 %
+204 %
 Schriá¬t
  
 ª·s£n
 
 
-202 \
+205 \
 »Ãwcommªd
 \
 cábfÚt
@@ -3233,7 +3849,7 @@ cábfÚt
 sfçmy
 }
 
-203 \
+206 \
 »Ãwcommªd
 \
 cáb·gefÚt
@@ -3241,7 +3857,7 @@ cáb·gefÚt
 sfçmy
 }
 
-205 % 
+208 % 
 UÁ”drueckung
  
 vÚ
@@ -3251,25 +3867,25 @@ v”tik®’
 Lš›n
 
 
-206 \
+209 \
 u£·ckage
 {
 bookbs
 }
 
-209 % 
+212 % 
 Li¡šgs
  (
 Qu–lcode
 )
 
-212 \
+215 \
 u£·ckage
 {
 li¡šgs
 }
 
-213 \
+216 \
 l¡lßdÏnguages
 {
 bash
@@ -3281,7 +3897,7 @@ bash
 	gmake
 }
 
-215 %\
+218 %\
 	gÃwcommªd
 {\
 	gšşudesourû
@@ -3299,7 +3915,7 @@ esÿ³ch¬
 cu¡om
 #1]{#2}<!---->}
 
-217 % 
+220 % 
 Lªguage
  
 defše
@@ -3307,69 +3923,47 @@ defše
 	gšput
 
 
-218 \
+221 \
 	gšput
 {
 	gcÚfigs
 /
-	gbash
+	gl¡¡yË
 .
 	gl¡def
 }
 
-219 %\
-	gšput
-{
-	gcÚfigs
-/
-	gli¡šgs
--
-	gC
+223 % 
+Bes£»
+ 
+V”b©im
+ 
+umgebung
+ 
+durch
+ 
+®Ét
+ umgebung 
+m™
+ 
+¡eu”zeich’
+ 
+	gw›
+ \
+	g‹xtbf
 .
-	g´f
-}
 
-220 %\
-	gšput
+224 \
+	gu£·ckage
 {
-	gcÚfigs
-/
-	gli¡šgs
--
-	gC
-++.
-	g´f
+	g®Ét
 }
 
-221 %\
-	gšput
-{
-	gcÚfigs
-/
-	gli¡šgs
--
-	gPythÚ
-.
-	g´f
-}
-
-222 %\
-	gšput
-{
-	gcÚfigs
-/
-	gli¡šgs
--
-	gJava
-.
-	g´f
-}
-
-226 % 
+228 % 
 	gTheÜeme
 
 
-229 % 
+231 % 
 Umgebung
  
 fu”
@@ -3377,7 +3971,7 @@ fu”
 	gBei¥›Ë
 
 
-230 \
+232 \
 	gÃwtheÜem
 {
 	gbei¥›l
@@ -3385,7 +3979,7 @@ fu”
 	gBei¥›l
 }
 
-232 % 
+234 % 
 Umgebung
  
 fu”
@@ -3393,7 +3987,7 @@ fu”
 	gThe£
 
 
-233 \
+235 \
 	gÃwtheÜem
 {
 	gthe£
@@ -3401,7 +3995,7 @@ fu”
 	gThe£
 }
 
-235 % 
+237 % 
 Umgebung
  
 fu”
@@ -3409,7 +4003,7 @@ fu”
 	gDefš™iÚ’
 
 
-236 \
+238 \
 	gÃwtheÜem
 {
 	gdefš™iÚ
@@ -3417,19 +4011,19 @@ fu”
 	gDefš™iÚ
 }
 
-239 % 
+241 % 
 	gL™”©urv”zeichnis
 
 
-242 %\
+244 %\
 	gu£·ckage
 [
 
-243 %]{
+245 %]{
 	gbibg”m
 }
 
-245 \
+247 \
 	gu£·ckage
 [
 back’d
@@ -3443,7 +4037,7 @@ Hf¥rog¿mm
 od”
  "bibtex")
 
-246 %
+248 %
 ¡yË
 =
 authÜy—r
@@ -3455,25 +4049,25 @@ s›he
 Dokum’tiÚ
 )
 
-247 
+249 
 ¡yË
 =
 ®phab‘ic
 ,
 
-248 %
+250 %
 ¡yË
 =
 num”ic
 ,
 
-249 %
+251 %
 ¡yË
 =
 ›“
 ,
 
-250 
+252 
 Çtbib
 =
 Œue
@@ -3487,7 +4081,7 @@ kom·tibËn
 Z™›rkommªdos
 
 
-251 
+253 
 hy³¼ef
 =
 Œue
@@ -3505,11 +4099,11 @@ zu
 ”¡–Ën
 
 
-252 ]{
+254 ]{
 bibÏ‹x
 }
 
-254 \
+256 \
 	gaddbib»sourû
 {
 	gbib‹x
@@ -3523,111 +4117,119 @@ d”
 	gD©ei
 
 
-257 % 
+259 % 
 	gPDF
  / 
 	gDokum’‹nš‹º–šks
 
 
-260 \
+262 \
 	gu£·ckage
 [
 
-261 
+263 
 cŞÜlšks
 =
 çl£
 ,
 
-262 
+264 
 lškcŞÜ
 =
 »d
 ,
 
-263 
+265 
 c™ecŞÜ
 =
 g»’
 ,
 
-264 
+266 
 fecŞÜ
 =
 mag’
 ,
 
-265 
+267 
 u¾cŞÜ
 =
 cyª
 ,
 
-266 
+268 
 bookm¬ks
 =
 Œue
 ,
 
-267 
+269 
 bookm¬ksİ’
 =
 Œue
 ,
 
-268 
+270 
 bookm¬ksİ’Ëv–
 =3,
 
-269 
+271 
 bookm¬k¢umb”ed
 ,
 
-270 
+272 
 ¶aš·ges
 =
 çl£
 ,
 
-271 
+273 
 pdåag–ab–s
 =
 Œue
 ,
 
-272 
+274 
 hy³rfoÙnÙes
 ,
 
-273 
+275 
+b»aklšks
+=
+Œue
+,
+
+276 
 pdá™Ë
  ={\
 docT™Ë
 },
 
-274 
+277 
 pdçuthÜ
 ={\
 docVÜÇme
-~\
+ \
 docNachÇme
 },
 
-275 
+278 
 pdfü—tÜ
-={\
-docVÜÇme
-~\
-docNachÇme
-}]{
+={
+M¬co
+ 
+I¤«l
+}
+
+279 ]{
 hy³¼ef
 }
 
-280 % 
+283 % 
 Glos¤ry
 
 
-282 \
+285 \
 u£·ckage
 [
 aüÚym
@@ -3635,17 +4237,17 @@ aüÚym
 glos§r›s
 }
 
-283 \
+286 \
 £tglos§ry¡yË
 {
 li¡hy³rgroup
 }
 
-284 \
+287 \
 makeglos§r›s
 
 
-285 \
+288 \
 lßdgl£Ár›s
 {
 cÚ‹Á
@@ -3661,13 +4263,13 @@ ex‹º”
 D©ei
 ...
 
-289 % 
+292 % 
 New
  
 commªds
 
 
-291 \
+294 \
 Ãwcommªd
 *{\
 fuÎ»f
@@ -3679,15 +4281,15 @@ autÜef
 Ú
  
 ·ge
-} \
+}~\
 ·g”ef
 *{#1}{;}
 
-292 \
+295 \
 	gÇm”ef
 *{#1} }}
 
-293 %\
+296 %\
 	gÃwcommªd
 *{\
 	gÇm•ag”ef
@@ -3699,7 +4301,81 @@ autÜef
 	g·g”ef
 *{#1} }}
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/title.tex
+298 \
+	g»Ãwcommªd
+\
+	gdesütiÚÏb–
+[1]{
+	g$
+\
+buÎ‘
+ $\
+	g‹xt™
+{\
+	g‹xtbf
+{#1}}}
+
+299 \
+	g»Ãwcommªd
+\
+	gdesütiÚÏb–
+[1]{\
+	g‹xt™
+{\
+	g‹xtbf
+{#1}}}
+
+300 %\
+	g»Ãwcommªd
+\
+	gdesütiÚÏb–
+[1]{
+	g$
+\
+buÎ‘
+ $\
+	g‹xt™
+{\
+	g‹xtbf
+{#1}}}
+
+303 \
+	g£tcouÁ”
+{
+	gbibu¾lı’®ty
+}{5000}
+
+304 \
+	g£tcouÁ”
+{
+	gbibu¾uı’®ty
+}{6000}
+
+306 \
+	gÃwcommªd
+{\
+	gcfbox
+}[2]{%
+
+307 \
+	gcŞÜËt
+{
+	gcu¼’tcŞÜ
+}{.}%
+
+308 {\
+	gcŞÜ
+{#1}%
+
+309 \
+	gfbox
+{\
+	gcŞÜ
+{
+	gcu¼’tcŞÜ
+}#2}}%
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/configs/title.tex
 
 1 \
 	gbegš
@@ -3721,7 +4397,7 @@ Logo
 	gešbšd’
 
 
-7 \
+7 %\
 	gbegš
 {
 	gæushright
@@ -3735,7 +4411,7 @@ Logo
 ht
 ]
 
-9 \
+9 %\
 	gæushright
 
 
@@ -3759,7 +4435,7 @@ jpg
 figu»
 }
 
-12 \
+12 %\
 ’d
 {
 æushright
@@ -3943,7 +4619,7 @@ docSŒas£
 	gt™Ë·ge
 }
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/abbreviations.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/abbreviations.tex
 
 1 \
 	gch­‹r
@@ -4481,7 +5157,12449 @@ vœtu–Ë
 	gaüÚym
 }
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/ausbilck.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/basics.tex
+
+1 \
+	gch­‹r
+{
+	gBasics
+}% \
+	gÏb–
+{
+	gcha
+:
+Basics_ªd_g’”®_šfÜm©iÚ
+}
+
+2 \
+£ùiÚ
+{
+About
+ 
+PTXdi¡
+}%
+
+3 \
+Ïb–
+{
+£c
+:
+lšux_di¡ributiÚ_bud
+}
+
+5 
+How
+ 
+to
+ \
+‹xtbf
+{
+š¡®l
+ 
+PTXdi¡
+}, 
+how
+ 
+	gto
+ \
+	g‹xtbf
+{
+u£
+ 
+	g™
+} 
+ªd
+ howØtØ
+bud
+ 
+the
+
+
+6 
+fš®
+ 
+Lšux
+ 
+di¡ributiÚ
+ 
+cÚfigu»d
+ 
+by
+ 
+u£
+ u£ 
+of
+ 
+PTXdi¡
+ 
+is
+ 
+š
+ 
+d‘a
+ 
+desü›d
+
+
+7 
+Úlše
+ 
+Ú
+ 
+	gwebs™es
+. \
+	g‹xtbf
+{
+This
+ 
+£ùiÚ
+ 
+´ovides
+ 
+the
+ 
+šfÜm©iÚ
+ 
+wh”e
+ 
+to
+ 
+fšd
+
+
+8 
+Úlše
+ 
+desütiÚs
+ 
+com·tibË
+ 
+to
+ 
+the
+ 
+tqma335x
+ 
+	gch
+}.
+
+11 \
+	gsub£ùiÚ
+{
+PTXdi¡
+ 
+	g£tup
+}% \
+	gÏb–
+{
+	gsub
+:PTXdi¡ 
+£tup
+}
+
+12 
+To
+ 
+£tup
+ 
+PTXdi¡
+ 
+you
+ 
+Ãed
+ 
+to
+ 
+´efÜm
+ 
+the
+ 
+fŞlowšg
+ 
+¡•s
+ 
+Úlše
+ 
+docum’‹d
+.
+
+14 \
+begš
+{
+desütiÚ
+}
+
+15 \
+™em
+[
+To
+ 
+bud
+ 
+the
+ 
+Lšux
+ 
+di¡ributiÚ
+]h
+äamewÜk
+ \
+‹xt™
+{
+PTXdi¡
+} 
+is
+
+
+16 
+u£d
+. 
+Reãr
+ 
+to
+ \
+Ãwlše
+ \
+‹xtbf
+{\
+c™e
+{
+±xdi¡
+}}Ø
+g‘
+ 
+ª
+ 
+šŒoduùiÚ
+
+
+17 
+to
+ 
+PTXdi¡
+.
+
+18 \
+™em
+[
+How
+ 
+to
+ 
+š¡®l
+ 
+PTXdi¡
+] 
+ªd
+ 
+g‘
+ 
+this
+ 
+äamewÜk
+ 
+ruÂšg
+, 
+is
+ 
+desü›d
+ 
+	gš
+
+
+19 \
+	g‹xtbf
+{\
+	gc™e
+{
+	gtq_b¥119_š¡®l
+}}. 
+You
+ 
+fšd
+ 
+h”e
+ 
+how
+ 
+to
+ 
+£tup
+ 
+your
+
+
+20 
+bud
+ 
+	$ho¡
+ (
+»quœem’ts
+ 
+to
+ 
+the
+ 
+budšg
+ 
+ho¡
+è
+ªd
+ 
+how
+Ø
+š¡®l
+he
+
+21 \
+‹xtbf
+{
+right
+} (com·tibËè\‹xtbf{üos comp” v”siÚ}.
+
+23 \
+	g‹xtbf
+{
+	gATTENTION
+:} 
+You
+ 
+should
+ 
+»ad
+ 
+the
+ \
+‹xtbf
+{
+WARNINGS
+} 
+äom
+ 
+TQ
+
+
+24 
+ÿ»fuÎy
+ 
+to
+ 
+g‘
+ 
+the
+ 
+right
+ 
+Üd”šg
+ 
+of
+ 
+š¡®ÏtiÚ
+ 
+ªd
+ 
+£tup
+.
+
+26 \
+‹xtbf
+{
+ADDITIONALLY
+} 
+you
+ 
+should
+ 
+ke
+ 
+a
+ 
+look
+ 
+što
+ 
+the
+
+
+27 \
+‹xtbf
+{\
+c™e
+[
+PTXdi¡
+ 
+š¡®ÏtiÚ
+ 
+guide
+]{
+±xdi¡_š¡®l
+} }
+
+28 
+to
+ 
+g‘
+ 
+šfÜm©iÚ
+ 
+nÙ
+ 
+desüibed
+ 
+by
+ 
+TQ
+ 
+ªd
+Ø
+»®ize
+ 
+wh©
+ 
+is
+ 
+¥acŸl
+
+
+29 
+to
+ 
+TQ
+.\@
+
+30 \
+™em
+[
+How
+ 
+to
+ 
+£tup
+ 
+TQ
+ 
+Sy¡ms
+ 
+BSP
+] 
+the
+ 
+ba£
+ 
+	$ch
+ (
+like
+ 
+tqma335x
+)
+
+31 
+is
+ 
+desüibed
+ 
+š
+ 
+by
+ 
+TQ
+ 
+sy¡ems
+. 
+Reãr
+ 
+to
+
+
+32 \
+‹xtbf
+{\
+c™e
+{
+tq_b¥119_cÚfigu¿tiÚ
+}
+	}
+} 
+ªd
+ 
+fŞlow
+ 
+the
+ 
+š¡ruùiÚs
+ 
+to
+
+
+33 
+£tup
+ 
+the
+ 
+´ojeù
+ 
+’vœÚm’t
+. 
+You
+ 
+Ãed
+ 
+to
+ 
+´efome
+h
+¡•s
+ 
+th”e
+ 
+
+34 
+BSP
+ 
+RevisiÚ
+ 
+up
+ 
+to
+ 
+v117
+. 
+H”e
+ 
+ª
+ 
+exam¶e
+ 
+of
+ 
+¡•s
+Ø
+´efÜm
+ 
+Œue
+ 
+
+35 
+the
+ 
+BSP
+ 
+V”siÚ
+ 
+u£d
+ 
+š
+ 
+this
+ 
+Projeù
+.
+
+36 \
+’d
+{
+desütiÚ
+}
+
+38 \
+subsub£ùiÚ
+{
+S‘up
+ 
+this
+ 
+´e
+-
+š¡®Ëd
+ 
+machše
+ }%\
+Ïb–
+{
+ssub
+:
+this_£tup
+}
+
+39 
+In
+ 
+Üd”
+ 
+to
+ 
+£tup
+ 
+a
+ 
+Ãw
+ 
+´ojeù
+ 
+by
+ 
+usšg
+ 
+this
+ 
+´e
+-
+š¡®Ëd
+ 
+machše
+ 
+w™h
+ 
+the
+
+
+40 
+§me
+ 
+BSP
+ 
+v”siÚ
+, 
+h”e
+ 
+ª
+ 
+exam¶e
+ 
+of
+ 
+¡•s
+ 
+to
+ 
+£tup
+ 
+the
+ 
+Ãw
+ 
+´ojeù
+ 
+as
+ 
+™
+ 
+was
+
+
+41 
+dÚe
+ 
+this
+ 
+	g´ojeù
+.
+
+43 \
+	gbegš
+{
+	g™emize
+}
+
+44 \
+™em
+ 
+You
+ 
+ÿn
+ 
+ÿÎ
+ 
+a
+ 
+sim¶e
+ 
+£tup
+ 
+süt
+ 
+by
+ 
+	gTQ
+:\@
+
+45 
+Run
+ 
+äom
+ 
+From
+ 
+your
+ <
+´oj‘roÙ
+> (
+£e
+ \
+fuÎ»f
+{
+cha
+:
+loÿtiÚs
+})
+
+46 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+, 
+gobbË
+=12,
+ÿ±iÚ
+={
+Run
+ 
+TQ
+-
+Sy¡ems
+
+
+47 
+’vœom’t
+ 
+£tup
+ 
+süt
+}]
+
+48 
+u£r
+@
+machše
+: ./
+toŞs
+/
+cÚfig
+-
+tqma335x
+.
+qt4
+
+
+49 \
+’d
+{
+l¡li¡šg
+}
+
+51 \
+™em
+ 
+You
+ 
+®so
+ 
+ÿn
+‡lsØ
+mªu®
+ 
+£Ëù
+ 
+a
+ 
+Ãeded
+ 
+cÚfigu¿tiÚs
+ 
+as
+ 
+fŞlows
+:
+
+53 \
+begš
+{
+desütiÚ
+}
+
+54 \
+™em
+[
+S–eù
+ 
+a
+ 
+Soáw¬e
+ 
+cÚfigu¿tiÚ
+] 
+run
+ 
+äom
+ 
+šside
+ <
+´ojeùroÙ
+>
+
+56 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+gobbË
+=12, 
+ÿ±iÚ
+={
+S–eù
+ 
+the
+
+
+57 
+±xdi¡
+ 
+cÚfigu¿iÚ
+ 
+fe
+},
+keywÜd¡yË
+=\
+cŞÜ
+{
+bÏck
+}]
+
+58 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+£Ëù
+ ./
+cÚfigs
+/
+¶©fÜms
+/
+tqma335x
+/
+mba335x
+/
+¶©fÜmcÚfig
+
+
+59 \
+’d
+{
+l¡li¡šg
+}~\
+c™e
+[
+S–eùšg
+ 
+a
+ 
+U£¾ªd
+
+
+60 
+CÚfigu¿tiÚ
+]{
+±xdi¡_mªu®
+}
+
+62 \
+™em
+[
+S–eù
+ 
+a
+ 
+H¬dw¬e
+ 
+cÚfigu¿tiÚ
+] 
+run
+ 
+äom
+ 
+šside
+ <
+´ojeùroÙ
+>
+
+64 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+gobbË
+=12, 
+ÿ±iÚ
+={
+S–eù
+ 
+the
+
+
+65 
+±xdi¡
+ 
+cÚfigu¿tiÚ
+ 
+fe
+.}]
+
+66 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+¶©fÜm
+ ./
+cÚfigs
+/
+sy¡ems
+/
+qt
+/
+±xcÚfig
+
+
+67 \
+’d
+{
+l¡li¡šg
+}
+
+68 
+You
+ 
+ÿn
+ 
+ke
+ 
+a
+ 
+look
+ 
+©
+~\
+c™e
+[
+S–eùšg
+
+
+69 
+a
+ 
+H¬dw¬e
+ 
+PÏtfÜm
+]{
+±xdi¡_mªu®
+}
+
+70 \
+™em
+[
+S–eù
+ 
+a
+ 
+toŞchaš
+]
+
+71 
+The
+ 
+toŞchaš
+ 
+should
+ 
+be
+ 
+auto£Ëùed
+. 
+If
+ 
+nÙ
+ 
+ke
+ dØ
+™
+
+
+72 
+mªu®
+
+
+73 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+gobbË
+=12,
+ÿ±iÚ
+={
+S–eù
+ 
+the
+
+
+74 
+üoss
+ 
+comp”
+ 
+toŞchaš
+}]
+
+75 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+toŞchaš
+ '/opt/<path-to-your-toolchain/bin'
+
+76 \
+’d
+{
+l¡li¡šg
+}
+
+77 
+You
+ 
+ÿn
+ 
+ke
+ 
+a
+ 
+look
+ 
+©
+~\
+c™e
+[
+S–eùšg
+‡ 
+ToŞchaš
+]
+
+78 {
+±xdi¡_mªu®
+}
+
+79 \
+’d
+{
+desütiÚ
+}
+
+82 \
+™em
+ 
+Fš®ly
+ 
+aá”
+ 
+´efÜmšg
+ 
+Úe
+ 
+of
+ 
+above
+ 
+¡•s
+ 
+run
+ 
+a
+ 
+ş—n
+  
+bud
+
+
+83 
+äom
+ 
+šside
+ 
+your
+ <
+´ojeùroÙ
+>:
+
+84 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+gobbË
+=12,
+ÿ±iÚ
+={
+In™Ÿl
+ 
+PTXdi¡
+
+
+85 
+bud
+}]
+
+86 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+go
+ --
+g™
+
+
+87 #[..
+dowÆßdšg
+ 
+ªd
+ 
+bud
+  
+·ckes
+, 
+k”Ãl
+ 
+boÙlßd”
+...]
+
+88 
+	gu£r
+@
+	gmachše
+: 
+±xdi¡
+ 
+images
+
+
+89 #[...
+budšg
+ 
+®l
+ 
+aùiv©ed
+ 
+image
+ 
+ty³s
+ ...]
+
+90 \
+’d
+{
+l¡li¡šg
+}
+
+91 \
+’d
+{
+™emize
+}
+
+95 \
+sub£ùiÚ
+{
+PTXdi¡
+ 
+u§ge
+}%\
+Ïb–
+{
+sub
+:
+±xdi¡_u§ge
+}
+
+97 
+The
+ 
+Úlše
+ 
+mªu®
+~\
+c™e
+[
+PTXdi¡
+ 
+u£r
+ mªu®]{
+±xdi¡_mªu®
+} 
+desü›s
+ 
+the
+ 
+basic
+
+
+98 
+u§ge
+ 
+of
+ 
+PTXdi¡
+. 
+H”e
+ 
+the
+ 
+ch­‹r
+ \
+‹xtbf
+{\#fœ¡-
+¡•s
+-
+w™h
+-
+±xdi¡
+} 
+is
+ 
+
+99 
+you
+ 
+of
+ 
+š‹»¡
+. 
+You
+ 
+ÿn
+ 
+®so
+ 
+ke
+ 
+a
+ 
+look
+ 
+što
+~\
+c™e
+{
+±xdi¡_dev–İ”
+} you
+
+100 
+have
+ 
+mÜe
+ 
+¥ecŸl
+ 
+que¡iÚs
+, 
+	ge
+.
+	gg
+. \
+	g‹xt™
+{
+like
+ 
+how
+ 
+to
+ 
+»cÚfigu»
+ 
+ªd
+ 
+»compe
+
+
+101 
+the
+ 
+Lšux
+ 
+k”Ãl
+ 
+vŸ
+ 
+	gPTXdi¡
+} 
+Ü
+ 
+što
+ 
+	gthe
+~\
+	gc™e
+[
+PTXdi¡
+ 
+FAQ
+ 
+li¡
+]{
+	g±xdi¡_çq
+}
+
+102 (
+which
+ 
+of
+ 
+cour£
+ 
+is
+ 
+v”y
+ ). 
+The
+ 
+mo¡
+ 
+impÜÁ
+ 
+commªds
+ 
+you
+ 
+wl
+ 
+Ãed
+ 
+	g¬e
+:
+
+104 \
+begš
+{
+desütiÚ
+}
+
+105 \
+™em
+[
+P»fome
+ 
+®l
+ 
+¡•s
+] 
+ªd
+ 
+fš®ly
+ 
+bud
+ 
+the
+ 
+images
+‡Î 
+š
+ 
+Úe
+
+
+106 
+commªd
+
+
+107 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+numb”s
+=
+nÚe
+,
+ÿ±iÚ
+=
+Bud
+ 
+®l
+
+
+108 
+images
+ 
+w™h
+ 
+PTXdi¡
+]
+
+109 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+images
+
+
+110 \
+’d
+{
+l¡li¡šg
+}
+
+111 \
+™em
+[
+D–—‹
+ 
+a
+ 
+·k‘
+]. 
+This
+ 
+is
+ 
+impÜÁ
+ 
+befÜe
+ 
+you
+ 
+like
+ 
+to
+ 
+»bud
+ 
+™
+.
+
+112 
+E¥ecŸÎy
+ 
+you
+ 
+modify
+ 
+Ú
+ 
+of
+ 
+the
+ 
+cÚfigu¿tiÚ
+ 
+fes
+ (
+£e
+ 
+Ãxt
+
+
+113 
+commªd
+).
+
+115 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+numb”s
+=
+nÚe
+,
+ÿ±iÚ
+=
+D–—t
+ 
+a
+
+
+116 
+buded
+ 
+·ck‘
+ 
+äom
+ 
+PTXds™s
+ 
+scİe
+]
+
+117 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+ş—n
+ <
+your
+-
+·ck‘
+>
+
+118 \
+’d
+{
+l¡li¡šg
+}
+
+119 \
+Ãw·ge
+
+
+120 \
+™em
+[
+AÉ”
+ 
+Úe
+ 
+of
+ 
+the
+ 
+cÚfigu¿tiÚ
+ 
+fes
+] (
+£e
+~\
+c™e
+[
+PTXdi¡
+ 
+u£r
+
+
+121 
+mªu®
+]{
+±xdi¡_mªu®
+}).
+
+123 
+The
+ 
+mo¡
+ 
+impÜÁ
+ 
+Úes
+ 
+¬e
+:
+
+125 \
+l¡£t
+{
+¡yË
+=
+bash
+}
+
+126 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+numb”s
+=
+nÚe
+,
+ÿ±iÚ
+=
+AÉ”
+ 
+a
+
+
+127 
+cÚfigu¿tiÚ
+]
+
+128 #PTXdi¡ 
+maš
+ 
+cÚfigu¿tiÚ
+
+
+129 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+m’u
+
+
+130 #Projeù 
+cÚfigu¿tiÚ
+
+
+131 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+m’ucÚfig
+
+
+132 #PÏtfÜm 
+cÚfigu¿tiÚ
+
+
+133 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+¶©fÜmcÚfig
+
+
+134 #Lšux 
+k”Ãl
+ 
+cÚfigu¿tiÚ
+
+
+135 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+k”ÃlcÚfig
+
+
+136 \
+’d
+{
+l¡li¡šg
+}
+
+137 \
+™em
+[(
+Re
+-è
+Compe
+] 
+a
+ 
+·ck‘
+ 
+£e
+~\
+c™e
+[
+PTXdi¡
+â€™
+s
+ 
+bud
+
+
+138 
+´oûss
+]{
+±xdi¡_mªu®
+}.
+
+140 
+H”e
+ 
+ª
+ 
+exam¶e
+ 
+you
+ 
+like
+ 
+to
+ 
+exŒaù
+, 
+	gcompe
+, 
+	gcÚfigu»
+, 
+·tch
+ 
+ªd
+
+
+141 
+š¡®l
+ 
+a
+ 
+Ãw
+ 
+·cked
+ 
+što
+ 
+the
+ 
+	grg‘s
+ \
+	ggls
+{
+	groÙfs
+} 
+®l
+ 
+š
+ 
+Ú
+ 
+¡•
+ 
+you
+ 
+ÿn
+
+
+142 
+	grun
+:
+
+144 \
+begš
+{
+l¡li¡šg
+}[
+Ïnguage
+=
+bash
+,
+numb”s
+=
+nÚe
+,
+ÿ±iÚ
+=
+Compe
+ 
+ªd
+
+
+145 
+š¡®l
+ 
+a
+ 
+·k‘
+ 
+w™h
+ 
+PTXdi¡
+]
+
+146 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+rg‘š¡®l
+ 
+‹Ïœ
+-
+ı_790760_1
+
+
+147 \
+’d
+{
+l¡li¡šg
+}
+
+149 
+Wh”e
+ \
+‹xt™
+{
+±xdi¡
+-
+ı
+\
+_790760
+\
+_1
+} 
+is
+ 
+the
+ \‹xt™{±xdi¡ 
+ruË
+ 
+Çme
+}
+
+150 
+desüibšg
+ 
+how
+ 
+to
+ 
+hªdË
+ 
+·ck‘
+ 
+·ck‘s
+Ø
+bud
+. 
+FÜ
+ 
+mÜe
+ 
+d‘as
+ 
+»ãr
+
+
+151 
+to
+~\
+c™e
+[
+PTXdi¡
+ 
+dev–İm’t
+ 
+guide
+]{
+±xdi¡_dev–İ”
+}.
+
+152 \
+’d
+{
+desütiÚ
+}
+
+154 \
+sub£ùiÚ
+{
+Ex‹nds
+ 
+ªd
+ 
+modify
+ 
+the
+ 
+basic
+ 
+´ojeù
+ }%
+
+155 \
+Ïb–
+{
+sub
+:
+ex‹nds_´ojeù
+}
+
+157 
+If
+ 
+you
+ 
+Ãed
+ 
+to
+ 
+ex‹nds
+ 
+the
+ 
+cu¼’t
+ 
+´ojeù
+ 
+e
+.
+g
+.\@ 
+by
+ 
+Ãw
+ 
+soáw¬e
+ 
+·ckages
+ 
+Ü
+ 
+ª
+
+
+158 
+Ãw
+ 
+´ojeù
+, 
+you
+ 
+should
+ 
+»ad
+ 
+the
+ 
+fŞlowšg
+ 
+	gguides
+:
+
+159 \
+begš
+{
+desütiÚ
+}
+
+160 \
+™em
+[
+How
+ 
+to
+ 
+ex‹nd
+ 
+PTXdi¡
+] 
+is
+ 
+desü›d
+ 
+mÙËy
+ 
+š
+ 
+the
+
+
+161 \
+‹xtbf
+{\
+c™e
+[
+dev–İ”
+ 
+guide
+]{
+±xdi¡_dev–İ”
+}}. 
+Some
+ 
+ex‹nd
+
+
+162 
+šfÜm©iÚ
+ 
+ªd
+ \
+gl¥l
+{
+FAQ
+} 
+¬e
+ 
+desü›d
+ 
+š
+
+
+163 \
+‹xtbf
+{\
+c™e
+{
+±xdi¡_wÜkæows
+}}, 
+by
+ 
+Ùh”
+ 
+webs™es
+ 
+š
+ 
+the
+ 
+š‹º‘
+
+
+164 
+Ü
+ 
+you
+ 
+wr™e
+ 
+your
+ 
+suµl›r
+ o¸
+like
+ 
+TQ
+ 
+P’guŒÚix
+ 
+ª
+ 
+	ge
+-
+	gma
+.
+
+166 \
+	g™em
+[
+Background
+ 
+how
+ 
+PTXdi¡
+ 
+wÜks
+] 
+is
+ 
+desüibed
+ 
+š
+ 
+	gthe
+~\
+	gc™e
+[PTXdi¡ 
+U£rs
+
+
+167 
+Mªu®
+]{
+	g±xdi¡_mªu®
+} 
+š
+ 
+the
+ 
+	gch­‹r
+ \
+	g‹xtbf
+{\#how-
+	gdÛs
+-
+	g™
+-
+	gwÜk
+}.
+
+168 \
+	g’d
+{
+	gdesütiÚ
+}
+
+171 \
+	g£ùiÚ
+{
+	gG™
+}%
+
+172 \
+	gÏb–
+{
+	g£c
+:
+g™
+}
+
+173 
+G™
+ 
+is
+ 
+a
+ 
+	$di¡ribu‹d
+ (
+ªd
+ 
+®so
+ 
+ûÁ¿l
+è
+v”siÚ
+ 
+cÚŒŞ
+ 
+sy¡em
+ 
+which
+ 
+Úly
+ 
+§ves
+
+
+174 
+chªges
+ 
+to
+ 
+a
+ 
+fe
+ 
+š¡—d
+ 
+of
+ 
+cİ›s
+. 
+Sw™chšg
+ 
+b‘w“n
+ 
+dev–İm’t
+ 
+v”siÚs
+ 
+is
+
+
+175 
+—sy
+ 
+this
+ 
+way
+. 
+Add™iÚ®
+ 
+G™
+ 
+has
+ 
+a
+ 
+lÙ
+ 
+of
+ 
+Ùh”
+ 
+ã©u»s
+ 
+com·»d
+ 
+to
+ other
+
+176 \
+gl¥l
+{
+VCS
+} sy¡ems. G™ wa dev–İed 2005 by Lšu TÜv®ds.
+
+178 
+FŞlowšgs
+ 
+¬e
+ 
+lšks
+ 
+to
+ 
+tutÜŸls
+ 
+ªd
+ 
+desütiÚ
+ 
+which
+ 
+desü›s
+ 
+wh©
+ 
+g™
+ 
+is
+,
+
+179 
+wh©
+ 
+™s
+ 
+b’ef™s
+ 
+¬e
+ 
+ªd
+ 
+how
+ 
+you
+ 
+ÿn
+ 
+u£
+ 
+	g™
+.
+
+182 \
+	gbegš
+{
+	gdesütiÚ
+}
+
+183 \
+	g™em
+[
+The
+ 
+G™
+ 
+»ã¿nû
+] 
+is
+ 
+avaabË
+ 
+	gš
+~\
+	gc™e
+{
+	gg™doc
+}. 
+This
+ 
+gives
+
+
+184 
+ª
+ 
+ov”v›w
+ 
+to
+ 
+the
+ 
+possibË
+ 
+G™
+ 
+commªd
+ 
+ªd
+ 
+™s
+ 
+	gm—nšg
+.
+
+185 \
+	g™em
+[
+An
+ 
+O³n
+ 
+PDF
+ 
+book
+] 
+´ovided
+ 
+by
+ 
+the
+ 
+g™
+ 
+	ghom•age
+:~\
+c™e
+{
+ChacÚ2014
+}. 
+It
+
+
+186 
+®so
+ 
+hŞds
+ 
+ª
+ 
+commªd
+ 
+šdex
+ 
+Ú
+ 
+the
+ 
+Ï¡
+ 
+side
+ 
+like
+h
+Úlše
+
+
+187 
+docum’tiÚ
+ 
+m’tiÚed
+ 
+out
+ 
+above
+. 
+Thªks
+ 
+to
+ 
+PDF
+ 
+ªd
+ 
+lškage
+ 
+you
+
+
+188 
+ÿn
+ 
+dœeùly
+ 
+jump
+ 
+to
+ 
+the
+ 
+desütiÚs
+ 
+w™h
+ 
+exam¶es
+ 
+ªd
+ 
+w–l
+ 
+desigÃd
+
+
+189 
+piùu»s
+. 
+B–ow
+ 
+is
+ 
+a
+ 
+video
+ 
+£r›s
+ 
+which
+ 
+shows
+ 
+some
+ 
+of
+ 
+the
+ 
+exam¶es
+ 
+ªd
+
+
+190 
+piùu»s
+ 
+šside
+ 
+this
+ 
+book
+.
+
+191 \
+™em
+[
+A
+ 
+Video
+ 
+tutÜŸl
+ 
+£r›s
+] 
+by
+ 
+ª
+ 
+English
+
+
+192 
+¥—k”
+:~\
+c™e
+{
+g™videÙutÜŸl_’
+}.
+
+193 
+He
+ 
+Ü›Ás
+ 
+Ú
+ 
+the
+ 
+book
+ 
+m’tiÚed
+ 
+out
+ 
+above
+ 
+ªd
+ 
+gives
+ 
+exam¶es
+‡nd
+
+194 
+piùu»s
+ 
+you
+ 
+fšd
+ 
+šside
+ 
+this
+ 
+books
+.
+
+195 \
+™em
+[
+A
+ 
+Video
+ 
+tutÜŸl
+] (
+English
+è
+by
+ 
+ª
+ 
+G”mª
+
+
+196 
+¥—k”
+:~\
+c™e
+{
+g™videÙutÜŸl_de_’
+}
+
+197 \
+™em
+[
+A
+ 
+Ch—t
+-
+Sh“t
+] 
+gives
+ 
+ª
+ 
+ov”v›w
+ 
+w™h
+ 
+a
+ 
+desütiÚs
+ 
+of
+ 
+the
+ 
+mo¡
+
+
+198 
+u£d
+ 
+g™
+ 
+commªds
+ 
+ªd
+ g™ commªd 
+æags
+:~\
+c™e
+{
+g™_ch—t_sh“t
+}. 
+You
+
+
+199 
+ÿn
+ 
+dowÆßd
+ 
+™
+ 
+as
+ 
+PDF
+.\@ 
+The
+ 
+webs™e
+ 
+®so
+ 
+give
+ 
+some
+ 
+´aùiÿl
+ 
+exam¶es
+
+
+200 
+w™h
+ 
+commªd
+ 
+lše
+ 
+piùu»s
+ 
+to
+ 
+some
+ 
+of
+ 
+the
+ 
+commªds
+ 
+ªd
+ 
+wÜkæows
+.
+
+201 \
+™em
+[
+The
+ 
+Piùu»
+ 
+of
+ 
+G™
+ 
+¡©es
+] 
+gives
+ 
+ª
+ 
+ov”v›w
+ oà
+the
+ 
+loÿl
+ 
+ªd
+ 
+»mÙe
+
+
+202 
+»pos™Ü›s
+ 
+phosİhic
+ 
+behšd
+ 
+g™
+ 
+ªd
+ 
+shows
+ 
+cÜ»¥Údšg
+
+
+203 
+commªds
+~\
+c™e
+{
+g™_piùu»
+}
+
+204 \
+’d
+{
+desütiÚ
+}
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/final_images.tex
+
+1 \
+	gch­‹r
+{
+	gImages
+}%
+
+2 
+So
+ 
+	gÿÎed
+ \
+	g‹xt™
+{
+	gimages
+} 
+¬e
+ 
+the
+ 
+fš®
+ 
+ouut
+ 
+of
+ 
+PTXdi¡
+ 
+th©
+h© 
+wh©
+ 
+you
+
+
+3 
+Ãed
+ 
+to
+ 
+š¡®l
+ 
+Ü
+ 
+æash
+Ø
+your
+ 
+	gSDC¬d
+, o¸
+š‹º®
+ 
+SOC
+ 
+	gmemÜy
+. 
+This
+ 
+ch­‹r
+
+
+4 
+desü›s
+ 
+the
+ 
+cu¼’y
+ 
+avaabË
+ 
+images
+ 
+šside
+ 
+this
+ 
+´ojeù
+ 
+ªd
+ 
+how
+ 
+to
+ 
+bud
+
+
+5 
+them
+ 
+by
+ 
+u£
+ 
+of
+ 
+	gPTXDi¡
+.
+
+8 \
+	g£ùiÚ
+{
+Bud
+ 
+the
+ 
+	gimages
+.}%
+
+9 \
+	gÏb–
+{
+	g£c
+:
+fš®_images_g’”©iÚ
+}
+
+10 
+To
+ 
+bud
+ 
+images
+ 
+fœ¡
+ 
+chªge
+ 
+to
+ 
+you
+ <
+´ojeùroÙ
+> 
+dœeùÜy
+.
+
+11 (
+S“
+ \
+fuÎ»f
+{
+·¹
+:
+loÿtiÚ_ı790760_soáw¬e
+}). 
+Aá”w¬ds
+ 
+run
+:
+
+13 \
+bigb»ak
+%
+
+14 \
+begš
+{
+l¡li¡šg
+}[
+ÿ±iÚ
+=
+Budšg
+ 
+of
+ 
+®l
+ 
+Images
+]
+
+15 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+images
+
+
+16 \
+’d
+{
+l¡li¡šg
+}
+
+18 
+Beside
+ 
+äom
+ 
+this
+ 
+you
+ 
+ÿn
+ 
+bud
+ 
+Úly
+ 
+Úe
+ 
+of
+ 
+®l
+ 
+images
+ 
+ex¶ic™ly
+. 
+FÜ
+
+
+19 
+š¡ªû
+ 
+to
+ (
+»
+-è
+bud
+ 
+the
+ 
+roÙfs
+ 
+·¹iÚ
+ 
+image
+ 
+run
+:
+
+21 \
+bigb»ak
+%
+
+22 \
+begš
+{
+l¡li¡šg
+}[
+ÿ±iÚ
+=
+Exam¶e
+: 
+Bud
+ 
+the
+ 
+RoÙFS
+ 
+autom©iÿÎy
+]
+
+23 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+image
+ 
+roÙfs
+
+
+24 \
+’d
+{
+l¡li¡šg
+}
+
+26 \
+‹xtbf
+{
+NOTE
+} 
+the
+ 
+difã»nû
+ 
+b‘w“n
+ \
+‹xt™
+{
+image
+} 
+ªd
+ \‹xt™{image\‹xtbf{
+s
+}}
+
+27 \
+bigb»ak
+%
+
+29 
+Oth”
+ 
+of
+ 
+the
+ 
+images
+ 
+b–ow
+ (
+£e
+~\
+»f
+{
+£c
+:
+fš®_images
+}è
+ÿn
+ 
+be
+ (
+»
+-è
+buided
+he
+
+30 
+§me
+ 
+way
+ 
+by
+ 
+sim¶e
+ 
+»¶acšg
+ 
+the
+ \
+‹xt™
+{
+rg‘
+} 
+keywÜd
+ \‹xt™{
+±xdi¡
+}.
+
+32 \
+£ùiÚ
+{
+Fš®
+ 
+Images
+}%
+
+33 \
+Ïb–
+{
+£c
+:
+fš®_images
+}
+
+35 \
+sub£ùiÚ
+{
+Howl
+ 
+disk
+ 
+images
+}
+
+36 \
+Ïb–
+{
+sub
+:
+howl_disk
+}
+
+38 
+The
+ 
+fŞlowšg
+ 
+images
+ 
+¬e
+ 
+com¶‘e
+ 
+SDC¬d
+ image 
+which
+ 
+ÿn
+ 
+be
+ 
+æashed
+ 
+to
+ 
+the
+
+
+39 
+SDC¬d
+.
+
+42 \
+begš
+{
+™emize
+}
+
+43 \
+™em
+ 
+sd
+.
+hdimg
+: 
+is
+ 
+a
+ 
+boÙabË
+ 
+image
+ 
+´im¬y
+ 
+SD
+ 
+C¬d
+.
+
+44 
+This
+ 
+Úe
+ 
+ÿn
+ 
+be
+ 
+®so
+ 
+u£d
+ 
+memÜy
+ 
+ch
+.
+
+45 \
+™em
+ 
+boÙ
+-
+mlo
+.
+vçt
+: 
+çt
+ 
+fesy¡em
+ 
+w™h
+ 
+MLO
+, 
+	gu
+-boÙ 
+ªd
+ 
+	gLšux
+-
+	gk”Ãl
+
+
+46 \
+	g’d
+{
+	g™emize
+}
+
+48 \
+	g‹xtbf
+{
+	gATTATION
+:} 
+This
+ 
+image
+ 
+ty³s
+ 
+£ems
+ 
+nÙ
+ 
+to
+ 
+wÜk
+ 
+you
+ 
+æash
+ 
+™
+. 
+PËa£
+
+
+49 
+u£
+ 
+the
+ 
+süt
+ 
+š
+h
+toŞs
+ 
+loÿtiÚ
+. 
+Reãr
+ 
+to
+ \
+fuÎ»f
+{
+cha
+:
+loÿtiÚs
+}.
+
+51 \
+sub£ùiÚ
+{
+BoÙlßd”
+ 
+images
+}%
+
+52 \
+Ïb–
+{
+£c
+:
+boÙlßd”_images
+}
+
+54 
+The
+ 
+fŞlowšg
+ 
+BoÙlßd”
+ 
+images
+ 
+¬e
+ 
+ü—‹d
+. 
+They
+ 
+Ãeds
+ 
+to
+ 
+cİy
+ 
+Ú
+ 
+the
+ 
+SDC¬d
+
+
+55 
+Ü
+ 
+MMc
+ 
+memÜy
+ 
+što
+ 
+the
+ \
+‹xtbf
+{
+boÙ
+ 
+·¹iÚ
+}. 
+This
+ 
+is
+ 
+dÚe
+ 
+by
+ 
+usšg
+he
+
+56 
+süt
+ 
+TODO
+ %\
+fuÎ»f
+{
+·¹
+:
+bud_süt
+}.
+
+58 \
+begš
+{
+™emize
+}
+
+59 \
+™em
+ 
+u
+-
+boÙ
+.
+bš
+
+
+60 \
+™em
+ 
+u
+-
+boÙ
+.
+img
+ boÙ 
+lßd”
+ 
+image
+ 
+SD
+ 
+C¬d
+/
+eMMC
+
+
+61 \
+™em
+ 
+MLO
+ 
+£ndod¬y
+ 
+boÙlßd”
+, 
+®so
+ 
+	gÿÎed
+ \
+	ggls
+{
+	gSPL
+}
+
+62 \
+	g’d
+{
+	g™emize
+}
+
+65 \
+	g£ùiÚ
+{
+Liunx
+ 
+	gimages
+}%
+
+66 \
+	gÏb–
+{
+	g£c
+:
+liunx_images
+}
+
+68 
+The
+ 
+fŞlowšg
+ 
+Lšux
+ 
+images
+ 
+¬e
+ 
+ü—‹d
+:
+
+70 \
+begš
+{
+™emize
+}
+
+71 \
+™em
+ 
+lšuximage
+: 
+An
+ 
+zImage
+ 
+g’”©ed
+ 
+by
+ 
+PTXdi¡
+ 
+w™h
+ 
+this
+ 
+Çme
+. 
+It
+ 
+Ãeds
+ 
+to
+
+
+72 
+be
+ 
+»Çmed
+ 
+to
+ \
+‹xt™
+{
+zImage
+}
+
+73 \
+™em
+ 
+zImage
+: 
+The
+ 
+»Çmed
+ 
+lšuximage
+. 
+It
+ 
+Ãeds
+ 
+to
+ 
+be
+ 
+cİ›d
+ 
+što
+ 
+the
+
+
+74 
+·¹iÚ
+ 
+Ü
+ 
+memÜy
+ 
+£ùiÚ
+ \
+‹xt™
+{
+boÙ
+}.
+
+75 \
+™em
+ 
+uImage
+: 
+The
+ 
+zImage
+ 
+w™h
+ 
+ª
+ 
+add™iÚ
+ 
+h—d”
+ 
+Ãeded
+ 
+by
+ 
+u
+-
+boÙ
+
+
+76 \
+™em
+ 
+am335x
+-
+mba335x
+.
+dtb
+: 
+deviû
+ 
+Œ“
+ 
+blob
+ 
+the
+ 
+T–aœ
+ 
+IÁ”ÇtiÚ®
+ 
+GmbH
+
+
+77 \
+Ãwlše
+ \
+gls
+{
+PCBA
+} 
+h¬dw¬e
+.
+
+78 \
+’d
+{
+™emize
+}
+
+81 \
+sub£ùiÚ
+{
+RoÙ
+ 
+fs
+ 
+images
+}%
+
+82 \
+Ïb–
+{
+£c
+:
+roÙfs_imges
+}
+
+84 \
+begš
+{
+™emize
+}
+
+85 \
+™em
+ 
+roÙ
+.
+ext2
+: 
+The
+ 
+howl
+ 
+cÚ‹Á
+ 
+the
+ 
+roÙfs
+ 
+·¹iÚ
+ 
+Ü
+ 
+memÜy
+ 
+£ùiÚ
+
+
+86 
+usšg
+ 
+the
+ 
+ext2
+/3/4 
+fesy¡em
+.
+
+87 \
+’d
+{
+™emize
+}
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/glossary.tex
+
+1 % % % % % % % % % % % % % % % % %
+	gGlos§r
+
+
+2 \
+	ggl¤e£Î
+%
+
+3 \
+	gglsun£Î
+%
+
+6 %% /* 
+	$yy·r£
+ */ 
+	`yyËx
+()%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+7 % 
+	gATTATION
+:
+
+8 % - 
+No
+ 
+c™e
+{
+»f
+} 
+is
+ 
+®lowed
+ 
+h”e
+
+
+9 % - 
+No
+ 
+b»akšg
+ 
+lšes
+ 
+¬e
+ 
+®lowed
+ 
+š
+ 
+the
+ 
+desütiÚ
+
+
+10 
+	}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+12 %% /* 
+	$yy·r£
+ */ 
+	`yyËx
+()%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+13 
+	}
+%%% 
+Du®
+ 
+Glos§r
+ 
+AüÚym
+ 
+š
+ 
+Úû
+
+
+14 %% /* 
+	$yy·r£
+ */ 
+	`yyËx
+()%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+16 \
+Ãwcommªd
+*{\
+Ãwdu®’Œy
+}[5][]{%
+
+17 \
+Ãwglos§ry’Œy
+{
+maš
+-#2}{
+Çme
+={#4},%
+
+18 
+	g‹xt
+={#3\
+gl§dd
+{#2}},%
+
+19 
+	gdesütiÚ
+={{#5}},%
+
+22 \
+	gÃwglos§ry’Œy
+{#2}
+
+23 {
+	gty³
+=\
+aüÚymty³
+,
+
+24 
+	gfœ¡
+={#4 (#3)},
+
+25 
+	gÇme
+={#3\
+gl§dd
+{
+maš
+-#2}},
+
+26 
+	gdesütiÚ
+={\
+gl¦šk
+{
+maš
+-#2}{#4}}
+
+31 \
+	gÃwdu®’Œy
+{
+	gSPL
+}{SPL}{
+	gSecÚd
+-
+¡age
+ 
+Prog¿m
+ 
+	gLßd”
+}{%
+
+32 
+such
+ 
+as
+ 
+GNU
+ 
+	gGRUB
+, 
+	gBOOTMGR
+, 
+	gSy¦šux
+, 
+Ü
+ 
+	gthe
+ \
+	ggls
+{
+	gMLO
+} 
+¬e
+ 
+»¥ÚsibË
+ 
+
+33 
+lßdšg
+ 
+eighth
+ 
+	gthe
+ \
+	ggls
+{
+	gTSPL
+} 
+Ü
+ 
+dœeùly
+ 
+the
+ 
+İ”©šg
+ 
+sy¡ems
+ 
+which
+
+
+34 
+	`fš®ly
+ (
+	g»
+-è
+š™Ÿlizes
+ 
+	`the
+ (
+»¡
+ 
+	gof
+è
+the
+ 
+h¬dw¬e
+ 
+ªd
+ 
+wa™s
+ 
+u£r
+
+
+35 
+Ëv–
+ 
+	gİ”©iÚs
+. 
+If
+ 
+the
+ 
+İ”©šg
+ 
+sy¡em
+ 
+is
+ 
+lßded
+ 
+dœeùly
+ 
+Ü
+ 
+š
+ 
+ª
+ 
+fu¹h”
+
+
+36 
+¡•
+ 
+d•’ds
+ 
+Ú
+ 
+the
+ 
+h¬dw¬e
+ 
+ªd
+h
+cho£n
+ 
+bÙšg
+ 
+´oûss
+‡nd 
+	gboÙlßd”
+.
+
+37 
+They
+ 
+¬e
+ 
+®so
+ 
+	gÿÎed
+ \
+	g‹xtbf
+{
+	gSecÚd
+-
+¡age
+ 
+BoÙ
+ 
+	gLßd”s
+}.
+
+40 \
+	gÃwdu®’Œy
+{
+	gFSPL
+}{
+	gFPL
+}{
+Fœ¡
+ 
+Prog¿m
+ 
+	gLßd”
+}{%
+
+41 
+Ü
+ 
+®so
+ 
+	gÿÎed
+ \
+	g‹xtbf
+{
+	gSecÚd
+-
+¡age
+ 
+BoÙ
+ 
+	gLßd”s
+}, 
+is
+ 
+a
+ 
+fœmw¬e
+ 
+loÿ‹d
+ 
+š
+
+
+42 
+ROM
+ 
+Ú
+ 
+the
+ 
+deviû
+ 
+ªd
+ 
+is
+ 
+autom©iÿÎy
+ 
+run
+ oÀdeviû 
+	g¡¬t
+-
+up
+ 
+Ü
+ 
+	gaá”
+
+
+43 \
+	ggls
+{
+	gPOR
+}. 
+The
+ 
+ROM
+ 
+boÙlßd”
+ 
+code
+ 
+is
+ 
+h¬d
+ 
+coded
+ 
+što
+ 
+the
+ 
+deviû
+ 
+ªd
+ 
+ÿÂÙ
+
+
+44 
+be
+ 
+chªged
+ 
+by
+ 
+the
+ 
+	gu£r
+. 
+It
+ 
+š™Ÿlizes
+ 
+a
+ 
+mšim®
+ 
+£t
+ 
+of
+ 
+h¬dw¬e
+ 
+ªd
+ 
+like
+
+
+45 
+´efÜmed
+ 
+by
+ 
+ª
+ 
+	gBIOS
+\@. 
+They
+ 
+¬e
+ 
+®so
+ 
+	gÿÎed
+
+
+46 \
+	g‹xtbf
+{
+	gFœ¡
+-
+¡age
+ 
+BoÙ
+ 
+	gLßd”s
+}.
+
+49 \
+	gÃwdu®’Œy
+{
+	gTSPL
+}{
+	gTPL
+}{
+	gThœd
+-
+Sge
+ 
+Prog¿m
+ 
+	gLßd”
+}{%
+
+50 
+like
+ 
+	gb¬ebox
+, 
+	gu
+-
+	gboÙ
+, 
+GNU
+ 
+	gGRUB
+, 
+	gSysLšux
+,
+
+51 
+BOOTMGR
+ 
+Ü
+ 
+is
+ 
+»¥ÚsibË
+ 
+lßdšg
+ 
+the
+ 
+£Ëùed
+ 
+İ”©iÚs
+ 
+	gsy¡em
+. 
+It
+
+
+52 
+´ovides
+ 
+ª
+ 
+sim¶e
+ 
+š‹rçû
+ 
+to
+ 
+the
+ 
+	gu£r
+, 
+	ge
+.
+	gg
+.\@Ø
+£Ëù
+ 
+Ú
+ 
+of
+ 
+difã»Á
+
+
+53 
+difã»Á
+ 
+boÙ
+ 
+loÿtiÚs
+ 
+ªd
+ 
+İ”©šg
+ 
+sy¡ems
+ 
+Ü
+ 
+to
+ 
+´efÜm
+ 
+some
+ 
+basic
+
+
+54 
+£‰šgs
+ 
+äom
+ 
+the
+ 
+u£r
+ 
+give
+ 
+to
+h
+İ”©šg
+ 
+sy¡ems
+ 
+own
+ 
+boÙ
+ 
+	g´oûss
+.
+
+55 
+They
+ 
+¬e
+ 
+®so
+ 
+	gÿÎed
+ \
+	g‹xtbf
+{
+	gSecÚd
+-
+¡age
+ 
+BoÙ
+ 
+	gLßd”s
+},
+
+58 \
+	gÃwdu®’Œy
+{
+	gMLO
+}{MLO}{
+Mmc
+ 
+	gLOad”
+}{%
+
+59 
+is
+ 
+	gª
+ \
+	ggls
+{
+	gSPL
+}. 
+PËa£
+ 
+the
+ 
+desütiÚ
+ 
+	gth”e
+.
+
+62 \
+	gÃwdu®’Œy
+{
+	gPCB
+}{PCB}{
+Prš‹d
+ 
+Cœcu™
+ 
+	gBßrd
+}{%
+
+63 
+is
+ 
+the
+ 
+h¬dw¬e
+ 
+bßrd
+ 
+w™hout
+ 
+ªy
+ 
+as£mbËd
+ 
+	gcompÚ’ts
+. 
+Th”efÜe
+ 
+£e
+
+
+64 
+	glike
+ \
+	ggls
+{
+	gPCBA
+}.
+
+67 \
+	gÃwdu®’Œy
+{
+	gPCBA
+}{PCBA}{
+Prš‹d
+ 
+Cœcu™
+ 
+Bßrd
+ 
+	gAs£mbly
+}{%
+
+68 
+is
+ 
+a
+ 
+´oûss
+ 
+to
+ 
+mouÁ
+ 
+the
+ 
+SMT
+ 
+ªd
+ 
+DIP
+ 
+compÚ’ts
+ 
+Ú
+h
+	gbÏnk
+ \
+	ggls
+{
+	gPCB
+} 
+š
+
+
+69 
+»suÉšg
+ 
+the
+ 
+fš®
+ 
+as£mbËd
+ 
+	gh¬dw¬e
+.
+
+74 \
+	gÃwdu®’Œy
+{
+	gh¬dlšk
+}{
+h¬d
+ 
+	glšk
+}{hard†ink}{%
+
+75 
+is
+ 
+a
+ 
+lšk
+ 
+ty³
+ 
+š
+ 
+	gLšux
+/
+Unix
+ 
+ba£d
+ 
+sy¡ems
+ 
+poštšg
+ 
+to
+‡ 
+fe
+ 
+»®ly
+ 
+exi¡s
+
+
+76 
+©
+ 
+this
+ 
+	gloÿtiÚ
+. 
+Movem’ts
+ 
+like
+ 
+d–‘šg
+ 
+Ü
+ 
+movšg
+ 
+ke
+ 
+dœeùly
+ 
+efãù
+
+
+77 
+Ú
+ 
+the
+ 
+	gfe
+. 
+In
+ 
+this
+ 
+way
+ 
+™
+ 
+difãrs
+ 
+äom
+ 
+ª
+ 
+	gLšux
+/
+	gUnix
+ \
+	ggls
+{
+	gsymlšk
+}. 
+Such
+
+
+78 
+ty³
+ 
+of
+ 
+lšk
+ 
+makes
+ 
+™
+ 
+possibË
+ 
+to
+ 
+di¥Ïy
+ 
+a
+ 
+fe
+ 
+©
+ 
+difã»Á
+ 
+loÿtiÚs
+ 
+but
+
+
+79 
+havšg
+ 
+Úly
+ 
+Úe
+ 
+fe
+ 
+š
+ 
+your
+ f
+	gsy¡em
+, 
+aka
+ 
+h¬d
+ 
+	gdisk
+. 
+This
+ 
+ty³
+ 
+of
+ 
+lšk
+
+
+80 
+dÛs
+ 
+nÙ
+ 
+š
+ 
+Miüosoá
+ 
+Wšdows
+ 
+sy¡ems
+ 
+wh”e
+ 
+you
+ 
+»®ly
+ 
+cİy
+ 
+a
+ 
+fe
+ 
+»suÉšg
+
+
+81 
+š
+ 
+two
+ 
+šd•’d’t
+ 
+fes
+ iÀ
+the
+ 
+	gfesy¡em
+. 
+You
+ 
+Úly
+ 
+have
+ 
+symbŞic
+ 
+lšks
+
+
+82 
+	gh”e
+.
+
+85 \
+	gÃwdu®’Œy
+{
+	gsymlšk
+}{
+symbŞic
+ 
+	glšk
+}{symbolic†ink}{%
+
+86 
+is
+ 
+a
+ 
+lšk
+ 
+ty³
+ 
+š
+ 
+	gLšux
+/
+Unix
+ 
+ba£d
+ 
+sy¡ems
+ 
+poštšg
+ 
+to
+‡ 
+fe
+ 
+»g¬dËss
+ 
+
+87 
+the
+ 
+fe
+ 
+exi¡s
+ 
+Ü
+ 
+	gnÙ
+. 
+Movem’ts
+ 
+like
+ 
+d–‘šg
+ o¸
+move
+h
+lšk
+ 
+dÛs
+ 
+nÙ
+
+
+88 
+has
+ 
+ªy
+ 
+efãù
+ 
+Ú
+ 
+the
+ 
+»®
+ 
+fe
+h
+lšk
+ 
+poštšg
+ 
+	gto
+. 
+In
+ 
+this
+ 
+way
+ 
+™
+ 
+difãrs
+
+
+89 
+äom
+ 
+	gLšux
+/
+Unix
+ 
+	gª
+ \
+	ggls
+{
+	gh¬dlšk
+}. 
+SymbŞic
+ 
+lšks
+ 
+¬e
+ 
+sim¬
+ 
+to
+†šk 
+a
+
+
+90 
+Miüosoá
+ 
+Wšdows
+ 
+ba£d
+ 
+	gsy¡em
+. 
+SymbŞic
+ 
+lšks
+ 
+¬e
+ 
+®so
+ 
+	gÿÎed
+
+
+91 \
+	ggls
+{
+	gsoálšk
+}.
+
+94 \
+	gÃwdu®’Œy
+{
+	gVM
+}{VM}{
+Vœtu®
+ 
+	gMachše
+}{%
+
+95 
+is
+ 
+a
+ 
+£t
+ 
+of
+ 
+simuÏ‹d
+ 
+compu‹r
+ 
+h¬dw¬e
+ simuÏ‹d 
+by
+ 
+ª
+ 
+­¶iÿtiÚ
+ 
+ruÂšg
+
+
+96 
+Ú
+ 
+»®
+ 
+h¬dw¬e
+ 
+ÿÎed
+ 
+ho¡
+ 
+	gsy¡em
+. 
+Beÿu£
+ 
+the
+ 
+simuÏtšg
+ 
+­¶iÿtiÚ
+
+
+97 
+Ãed
+ 
+some
+ 
+h¬dw¬e
+ 
+»sourûs
+ 
+the
+ 
+vœtu®
+ 
+machše
+ 
+ÿn
+ 
+Úly
+ 
+be
+ 
+a
+ 
+sub£t
+ 
+of
+he
+
+98 
+»®
+ 
+	gh¬dw¬e
+. 
+Inside
+ 
+the
+ 
+Vœtu®
+ 
+Machše
+ 
+ª
+ 
+Ùh”
+ 
+soáw¬e
+ 
+ÿn
+ 
+be
+ 
+run
+
+
+99 
+isŞ©ed
+ 
+äom
+ 
+the
+ 
+ho¡
+ 
+	gsy¡em
+.
+
+102 \
+	gÃwdu®’Œy
+{
+	gDRM
+}{DRM}{
+Dœeù
+ 
+R’d”šg
+ 
+	gMªag”
+}{%
+
+103 
+is
+ 
+a
+ 
+subsy¡em
+ 
+of
+ 
+the
+ 
+Lšux
+ 
+k”Ãl
+ 
+»¥ÚsibË
+ 
+š‹rçcšg
+ 
+w™h
+ 
+GPUs
+ of
+
+104 
+mod”n
+ 
+video
+ 
+	gÿrds
+. 
+DRM
+ 
+expo£s
+ 
+ª
+ 
+API
+ 
+th©
+ 
+	gu£r
+-
+¥aû
+ 
+´og¿ms
+ 
+ÿn
+ 
+u£
+ 
+to
+
+
+105 
+£nd
+ 
+commªds
+ 
+ªd
+ 
+d©a
+ 
+to
+ 
+the
+ 
+GPU
+‡nd 
+³rfÜm
+ 
+İ”©iÚs
+ 
+such
+ 
+as
+ 
+cÚfiguršg
+
+
+106 
+the
+ 
+mode
+ 
+£‰šg
+ 
+of
+h
+	gdi¥Ïy
+. 
+	gFrom
+~\
+	gc™e
+[
+Dœeù
+ 
+R’d”šg
+ 
+Mªag”
+]{
+	gwik
+}
+
+109 \
+	gÃwdu®’Œy
+{
+	g­i
+}{
+	gAPI
+}{
+AµliÿtiÚ
+ 
+Prog¿mmšg
+ 
+	gIÁ”çû
+}{%
+
+110 
+is
+ 
+a
+ 
+·¹icuÏr
+ 
+£t
+ 
+of
+ 
+ruËs
+ 
+ªd
+ 
+¥ecifiÿtiÚs
+ 
+th©
+‡ 
+soáw¬e
+ 
+´og¿m
+ 
+ÿn
+
+
+111 
+fŞlow
+ 
+to
+ 
+acûss
+ 
+ªd
+ 
+make
+ 
+u£
+ 
+of
+ 
+the
+ 
+£rviûs
+‡nd 
+»sourûs
+ 
+´ovided
+ 
+by
+
+
+112 
+ªÙh”
+ 
+·¹icuÏr
+ 
+soáw¬e
+ 
+´og¿m
+ 
+th©
+ 
+im¶em’ts
+h© 
+	gAPI
+
+
+115 \
+	gÃwdu®’Œy
+{
+	gBSP
+}{BSP}{
+Bßrd
+ 
+suµÜt
+ 
+	g·ck‘
+}{%
+
+116 
+	ghŞds
+ \
+	ggls
+{
+	gm‘ad©a
+} 
+how
+ 
+to
+ 
+bud
+ 
+soáw¬e
+
+
+117 
+a
+ 
+h¬dw¬e
+ 
+	gdeviû
+. 
+So
+ 
+™
+ 
+desüibes
+ 
+wh”e
+ 
+to
+ 
+	`dowÆßd
+ (
+ªd
+ 
+	gwhich
+è
+Ãeded
+
+
+118 
+soáw¬e
+ 
+	g·ck‘s
+, 
+how
+ 
+to
+ 
+bud
+ 
+ªd
+ 
+š¡®l
+ 
+them
+ 
+as
+ 
+®so
+ 
+cÚfigu¿tiÚ
+ 
+fes
+
+
+119 
+ªd
+ 
+	g£‰šgs
+. 
+Oá’
+ 
+™
+ 
+šşudes
+ 
+³s§ry
+ 
+comp”
+ 
+·ck‘s
+‡nd 
+Ùh”
+
+
+120 
+¡uff
+ 
+Ãeded
+ 
+to
+ 
+sucûssful
+ 
+bud
+ 
+soáw¬e
+ 
+a
+ 
+deviû
+ 
+aka
+ 
+h¬dw¬e
+ 
+	gbßrd
+.
+
+123 \
+	gÃwdu®’Œy
+{
+	gNFS
+}{NFS}{
+N‘wÜk
+ 
+Fe
+ 
+	gS”viû
+}{%
+
+124 (
+®so
+ 
+ÿÎed
+ 
+N‘wÜk
+ 
+Fe
+ 
+	gS”viû
+è
+is
+ 
+a
+ 
+£rviû
+ 
+which
+ 
+´ovides
+ 
+acûss
+ 
+to
+
+
+125 
+d©a
+ 
+Ú
+ 
+a
+ 
+	`ho¡
+ (
+	g£rv”
+è
+äom
+ 
+»mÙe
+ 
+ov”
+ 
+ª
+ 
+Eth”Ãt
+ 
+	gš‹rçû
+. 
+Thªks
+ 
+to
+
+
+126 
+the
+ 
+´ÙocŞ
+h
+ş›Á
+ 
+thšks
+h
+NFS
+ 
+sh¬e
+ 
+is
+ 
+a
+ 
+h¬d
+ 
+disk
+ 
+dœeùly
+
+
+127 
+cÚÃùed
+ 
+to
+ 
+the
+ 
+ş›Á
+ 
+	g™£lf
+. 
+The
+ cl›Á 
+ÿn
+ 
+dœeùly
+ 
+acûss
+ 
+this
+ 
+d©a
+
+
+128 
+w™hout
+ 
+Œªsãr
+ 
+™
+ 
+	glike
+ \
+	ggls
+{
+	gFTP
+} 
+	gÜ
+ \gls{
+	gTFTP
+} 
+	gbefÜe
+. 
+The
+ 
+»®
+ 
+b’ef™s
+
+
+129 
+	gis
+, 
+th©
+ 
+the
+ 
+Cl›Á
+ 
+®ways
+ 
+wÜks
+ 
+w™h
+ 
+ª
+ 
+	gup
+-
+	gto
+-
+d©e
+ 
+	gv”siÚ
+. 
+This
+ 
+	gm—ns
+, 
+
+130 
+the
+ 
+S”v”
+ 
+ho¡
+ 
+is
+ 
+chªgšg
+ 
+a
+ 
+fe
+h
+chªges
+ 
+¬e
+ 
+dœeùly
+ 
+avaabË
+ 
+to
+he
+
+131 
+ş›Á
+ 
+	gsy¡em
+. 
+In
+ 
+a
+ 
+Lšux
+ 
+sy¡em
+ 
+such
+ 
+ª
+ 
+NFS
+ 
+ÿn
+ 
+be
+ 
+mouÁed
+ 
+što
+ 
+the
+ 
+nÜm®
+
+
+132 
+fe
+ 
+	gsy¡em
+. 
+In
+ 
+such
+ 
+a
+ 
+way
+ 
+™
+ 
+is
+ 
+possibË
+ 
+to
+ 
+´ovide
+‡ 
+howl
+ 
+roÙfs
+o‡
+
+133 
+sy¡em
+ 
+w™hout
+ 
+the
+ 
+Ãed
+ 
+of
+ 
+ª
+ 
+own
+ 
+roÙfs
+ 
+by
+h
+	gş›Á
+. 
+This
+ 
+®so
+ 
+makes
+ 
+™
+
+
+134 
+possibË
+ 
+th©
+ 
+muÉË
+ 
+ş›Ás
+ 
+ÿn
+ 
+wÜk
+ 
+w™h
+ 
+the
+ 
+§me
+ 
+roÙfs
+ 
+´ovided
+ 
+Úly
+
+
+135 
+by
+ 
+a
+ 
+sšgË
+ 
+	gho¡
+. }
+
+138 \
+	gÃwdu®’Œy
+{
+	gTFTP
+}{TFTP}{
+TrivŸl
+ 
+Fe
+ 
+T¿nsãr
+ 
+	gPrÙocŞ
+}{%
+
+139 
+	gThe
+ \
+	ggls
+{
+	gTFTP
+} 
+is
+ 
+a
+ 
+v”y
+ 
+	gsim¶e
+ \gls{
+	gFTP
+} 
+	g´ÙocŞ
+,
+
+140 
+which
+ 
+´ovides
+ 
+Úly
+ 
+£ndšg
+ 
+ªd
+ 
+»ûivšg
+ 
+of
+ 
+	gd©a
+.
+
+144 \
+	gÃwdu®’Œy
+{
+	gFTP
+}{FTP}{
+Fe
+ 
+T¿nsãr
+ 
+	gPrÙocŞ
+}{%
+
+145 
+A
+ 
+¡ªd¬d
+ 
+ÃtwÜk
+ 
+´ÙocŞ
+ 
+®lowšg
+ 
+to
+ 
+Œªsãr
+ 
+fes
+ 
+äom
+ 
+a
+ 
+ho¡
+o‡
+
+146 
+ş›Á
+ 
+	gmachše
+. 
+The
+ 
+S”v”
+ 
+machše
+ 
+Ãeds
+ 
+to
+ 
+run
+ 
+a
+ 
+com·tibË
+ 
+FTP
+ Server
+
+147 
+­¶iÿtiÚ
+ 
+to
+ 
+´ovide
+ 
+fes
+Ø
+ş›Ás
+ 
+ªd
+Ø
+hªdË
+ 
+cÚÃùiÚs
+ 
+äom
+ 
+	gsuch
+.
+
+150 \
+	gÃwdu®’Œy
+{
+	gCVS
+}{CVS}{
+CÚcu¼’t
+ 
+V”siÚs
+ 
+	gSy¡em
+}{%
+
+151 
+is
+ 
+a
+ 
+ä“
+ 
+	gş›Á
+-
+£rv”
+ 
+»visiÚ
+ 
+cÚŒŞ
+ 
+sy¡em
+ 
+š
+ 
+the
+ 
+f›ld
+ 
+of
+
+
+152 
+soáw¬e
+ 
+	gdev–İm’t
+. 
+A
+ 
+v”siÚ
+ 
+cÚŒŞ
+ 
+sy¡em
+ 
+k“ps
+ 
+Œack
+ 
+of
+ 
+®l
+ 
+wÜk
+ 
+ªd
+
+
+153 
+®l
+ 
+chªges
+ 
+š
+ 
+a
+ 
+£t
+ 
+of
+ 
+	gfes
+, 
+ªd
+ 
+®lows
+ 
+£v”®
+ 
+	`dev–İ”s
+ (
+pÙ’tŸÎy
+
+
+154 
+wid–y
+ 
+£·¿‹d
+ 
+š
+ 
+¥aû
+ 
+ªd
+ 
+	gtime
+è
+to
+ 
+	gcŞÏbÜ©e
+. 
+It
+ 
+was
+ 
+š™Ÿl
+ 
+	g»Ëa£d
+
+
+155 1990 
+und”
+ 
+the
+ 
+GNU
+ 
+G’”®
+ 
+Public
+ 
+	gLiûn£
+. 
+Dev–İm’t
+ 
+ªd
+ 
+suµÜt
+ 
+¡İs
+
+
+156 
+w™h
+ 
+a
+ 
+Ï¡
+ 
+»Ëa£
+ 
+	gš
+ 2008.
+
+159 \
+	gÃwdu®’Œy
+{
+	gVCS
+}{VCS}{
+V”siÚs
+ 
+	gSy¡em
+}{%
+
+160 
+is
+ 
+a
+ 
+compÚ’t
+ 
+of
+ 
+soáw¬e
+ 
+cÚfigu¿tiÚ
+ 
+mªagem’t
+ 
+ªd
+
+
+161 
+v”siÚ
+ 
+cÚŒŞlšg
+ 
+to
+ 
+Œack
+ 
+chªges
+ 
+Ú
+ 
+¶aš
+ 
+	`‹xt
+ (
+	gASCII
+è
+	gfes
+. 
+Mo¡
+
+
+162 
+sy¡ems
+ 
+	glike
+ \
+	ggls
+{
+	gGIT
+} 
+´ovide
+ 
+mechªisms
+ 
+to
+ 
+d—l
+ 
+w™h
+ 
+such
+ 
+chªges
+ 
+like
+
+
+163 
+togglšg
+ 
+b‘w“n
+ 
+Úe
+ 
+Ü
+ 
+com·»
+ 
+	gthem
+. \
+	gaülÚg
+{
+	gVCS
+} 
+¬e
+ 
+®so
+ 
+known
+ 
+	gas
+
+
+164 \
+	g‹xt™
+{
+»visiÚ
+ 
+cÚŒŞ
+ 
+	gsy¡ems
+} 
+	gÜ
+ \‹xt™{
+sourû
+ control systems}.
+
+168 \
+	gÃwdu®’Œy
+{
+	gEOL
+}{EOL}{
+End
+ 
+of
+ 
+	gLše
+}{%
+
+169 
+is
+ 
+the
+ 
+defš™iÚ
+ 
+ªd
+ 
+defšed
+ 
+symbŞ
+ 
+which
+ 
+m¬ks
+ 
+a
+ 
+lše
+ 
+as
+ 
+	gfšished
+. 
+No
+
+
+170 
+Ë‰”s
+ 
+comšg
+ 
+ªy
+ 
+mÜe
+ 
+š
+ 
+this
+ 
+	glše
+. 
+Havšg
+ 
+such
+ 
+a
+ 
+m¬k”
+ iÀ¨
+fe
+ 
+is
+
+
+171 
+impÜÁ
+ 
+	ge
+.
+	gg
+\. 
+ª
+ 
+´og¿m
+ 
+»adšg
+ 
+a
+ 
+fe
+ 
+to
+ 
+know
+ 
+wh’
+ 
+™
+ 
+ÿn
+ 
+¡İs
+ 
+ªd
+
+
+172  
+the
+ 
+Ãxt
+ 
+	glše
+. 
+Oth”wi£
+ 
+™
+ 
+would
+ 
+»ad
+ 
+wrÚg
+ 
+Ü
+ 
+em±y
+ 
+	gch¬aù”s
+.
+
+173 
+Beside
+ 
+äom
+ 
+	gth©
+, 
+a
+ 
+´og¿mmšg
+ 
+di¥Ïyšg
+ 
+this
+ 
+fe
+ 
+to
+ 
+the
+ 
+Ãw
+ 
+u£r
+ 
+mu¡
+
+
+174 
+®so
+ 
+know
+ 
+wh’
+ 
+the
+ 
+lše
+ 
+’ds
+ 
+ªd
+ 
+wh©
+ 
+to
+ 
+show
+ 
+š
+h
+Ãxt
+ 
+	glše
+.
+
+177 \
+	gÃwdu®’Œy
+{
+	gEOF
+}{EOF}{
+End
+ 
+of
+ 
+	gFe
+}{% }
+
+178 
+is
+ 
+fš®
+ 
+symbŞ
+ 
+Ü
+ symbŞ 
+š
+ 
+the
+ 
+Ï¡
+ 
+lše
+ 
+ªd
+ 
+	gch¬aù”
+~(
+	gs
+è
+»´e£Ášg
+
+
+179 
+the
+ 
+’d
+ 
+of
+ 
+a
+ 
+	gfe
+. 
+This
+ 
+is
+ 
+impÜÁ
+ 
+wh’
+ 
+»adšg
+ 
+Ü
+ 
+»´e£Ášg
+‡ 
+fe
+‡
+
+180 
+´og¿m
+ 
+mu¡
+ 
+know
+ 
+wh’
+ 
+to
+ 
+¡İ
+ 
+	g»adšg
+. 
+Oth”wi£
+ 
+™
+ 
+would
+ 
+»ad
+ 
+em±y
+ 
+lšes
+
+
+181 
+w™h
+ 
+em±y
+ 
+Ü
+ 
+¿ndom
+ 
+	gch¬aù”s
+.
+
+186 \
+	gÃwdu®’Œy
+{
+	gDTB
+}{DTB}{
+Deviû
+ 
+T»e
+ 
+	gBlob
+}{%
+
+187 
+is
+ 
+the
+ 
+	`bš¬y
+ (
+	gcomped
+è
+fÜm
+ 
+of
+ 
+	gthe
+ \
+	ggls
+{
+	gDTS
+}. 
+This
+ 
+bš¬y
+ 
+g‘s
+ 
+»ad
+
+
+188 
+by
+ 
+the
+ 
+boÙlßd”
+ 
+ªd
+h
+Lšux
+ 
+to
+ 
+g‘
+ 
+šfÜm©iÚ
+ 
+about
+ 
+cÚÃùed
+‡nd
+
+189 
+avaabË
+ 
+h¬dw¬e
+ 
+ªd
+ 
+	`wh”e
+ (
+©
+ 
+which
+ 
+	gadd»ss
+è
+they
+ 
+	g¬e
+ \
+	g‹xt™
+{
+	gm­³d
+} 
+š
+
+
+190 
+the
+ 
+memÜy
+ 
+add»ss
+ 
+	g¿nge
+.
+
+193 \
+	gÃwdu®’Œy
+{
+	gDTS
+}{DTS}{
+Deviû
+ 
+T»e
+ 
+	gSourû
+}{%
+
+194 
+is
+ 
+the
+ 
+¶aš
+ 
+‹xt
+ 
+desütiÚ
+ 
+of
+h
+und”lššg
+ 
+	gh¬dw¬e
+, 
+about
+h
+bus
+ 
+ªd
+
+
+195 
+the
+ 
+memÜy
+ 
+	g¡ruùu»
+. 
+So
+ 
+™
+ 
+desüibes
+ 
+how
+ 
+a
+ 
+³rh”®
+ 
+is
+ 
+cÚÃùed
+ 
+to
+he
+
+196 
+CPU
+ 
+ªd
+ 
+wh”e
+ 
+™
+ 
+is
+ 
+	`m­³d
+ (
+	gloÿ‹d
+è
+šside
+ 
+the
+ 
+memÜy
+ 
+add»ss
+ 
+¿nge
+ 
+to
+ 
+g‘
+
+
+197 
+acûss
+ 
+to
+ 
+the
+ 
+	g»gi¡”s
+. 
+Also
+h
+DTS
+ 
+´ovides
+ 
+šput
+ 
+v®ues
+Øth
+driv”s
+
+
+198 
+like
+ 
+cÚfigu¿tiÚ
+ 
+	g£‰šg
+, 
+	ge
+.
+	gg
+\. 
+a
+ 
+şock
+ 
+ªd
+ 
+™s
+ 
+¥“d
+ 
+Ü
+ 
+which
+ 
+š‹¼u±s
+
+
+199 
+¬e
+ 
+	g’abËd
+. 
+The
+ 
+DTS
+ 
+g‘s
+ 
+comped
+ 
+to
+ 
+a
+ 
+bš¬y
+ 
+	gÿÎed
+ \
+	ggls
+{
+	gDTB
+}. 
+It
+ 
+is
+
+
+200 
+com·tibË
+ 
+w™h
+ 
+a
+ 
+lšk”
+ 
+süt
+ 
+š
+ 
+b¬e
+ 
+m‘®
+ 
+´ojeù
+ 
+wh”e
+ 
+no
+ 
+»®
+ 
+Lšux
+
+
+201 
+sy¡em
+ 
+is
+ 
+ruÂšg
+ 
+but
+ 
+the
+ 
+h¬dw¬e
+ 
+mu¡
+ 
+®so
+ 
+be
+ 
+cÚfigu»d
+ 
+ªd
+ 
+made
+
+
+202 
+avaabË
+ 
+to
+ 
+the
+ 
+soáw¬e
+ 
+befÜe
+h
+	`­¶iÿtiÚ
+ (\
+	g‹xt™
+{
+	gmaš
+} 
+	gfunùiÚ
+)
+
+203 
+	g¡¬ts
+.
+
+206 \
+	gÃwdu®’Œy
+{
+	gSDK
+}{SDK}{
+Soáw¬e
+ 
+Dev–İšg
+ 
+	gK™
+}{%
+
+207 
+is
+ 
+a
+ 
+´edefšed
+ 
+’vœÚm’t
+ 
+šşudšg
+ 
+ev”ythšg
+ 
+which
+ i 
+Ãed
+ 
+to
+ 
+dev–İ
+
+
+208 
+ªd
+ 
+bud
+ 
+a
+ 
+soáw¬e
+ ¨
+¥ecific
+ 
+	gpu½o£
+. 
+AÎ
+ 
+	gtoŞs
+, 
+¥ecŸl
+ 
+h–³r
+
+
+209 
+süts
+ 
+ªd
+ 
+Ùh”s
+ 
+¬e
+ 
+®»ady
+ 
+avaabË
+ 
+as
+ 
+butš
+ 
+Ü
+ 
+š¡®Ëd
+
+
+210 
+	gautom©iÿÎy
+, 
+cÚfigu»d
+ 
+the
+ 
+Ãeds
+ 
+of
+h
+SDK
+ 
+ªd
+ 
+»ady
+ 
+to
+ 
+u£
+ the
+
+211 
+	gu£r
+.
+
+214 \
+	gÃwdu®’Œy
+{
+	gRoÙFS
+}{RoÙFS}{
+RoÙ
+ 
+Fe
+ 
+	gSy¡em
+}{%
+
+215 
+Is
+ 
+the
+ 
+	`fœ¡
+ (
+roÙ
+ 
+Ü
+ 
+’Œy
+ 
+	gpošt
+è
+fesy¡em
+ 
+of
+ 
+a
+ 
+howl
+ 
+Lšux
+ 
+fe
+ 
+sy¡em
+
+
+216 
+	gŒ“
+. 
+IÁo
+ 
+this
+ 
+Ùh”
+ 
+de¡š©iÚ
+ 
+	`Œ“s
+ (
+	ge
+.
+	gg
+\.\ 
+	gfŞd”s
+, 
+	gdrives
+, 
+	gsh¬es
+)
+
+217 
+g‘s
+ 
+	`cÚÃùed
+ (
+	gmouÁed
+è
+ªd
+ 
+¬e
+ 
+äom
+ 
+h”e
+ 
+avaabË
+ 
+the
+ 
+u£rs
+ 
+of
+he
+
+218 
+Lšux
+ 
+	gsy¡em
+. 
+FÜ
+ 
+exam¶e
+ 
+	gthe
+ \
+	g‹xt™
+{
+	ghome
+, 
+	gbš
+, 
+	gtmp
+, 
+	gboÙ
+, 
+	gu¤
+, \
+	gldÙs
+}
+
+219 
+Œ“s
+ 
+¬e
+ 
+loÿ‹d
+ 
+und”
+ 
+the
+ 
+RoÙFS
+ 
+	groÙ
+.
+
+223 
+	}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+224 %% /* 
+	$yy·r£
+ */ 
+	`yyËx
+()% 
+Glos§r
+ 
+’Œ›s
+ 
+	gÚly
+
+
+225 
+	}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+227 \
+	gÃwglos§ry’Œy
+{
+	gGIT
+}{%
+
+228 
+	gÇme
+=
+GIT
+,
+
+229 
+	gdesütiÚ
+={%
+
+230 
+G™
+ 
+is
+ 
+a
+ 
+di¡ribu‹d
+ (
+ªd
+ 
+®so
+ 
+ûÁ¿l
+è
+v”siÚ
+ 
+cÚŒŞ
+ 
+sy¡em
+ 
+which
+ 
+Úly
+
+
+231 
+§ves
+ 
+chªges
+ 
+to
+ 
+a
+ 
+fe
+ 
+š¡—d
+ 
+of
+ 
+cİ›s
+. 
+Sw™chšg
+ 
+b‘w“n
+ 
+dev–İm’t
+
+
+232 
+v”siÚs
+ 
+is
+ 
+—sy
+ 
+this
+ 
+way
+. 
+Add™iÚ®
+ 
+G™
+ 
+has
+ 
+a
+ 
+lÙ
+ 
+of
+ 
+Ùh”
+ 
+ã©u»s
+
+
+233 
+com·»d
+ 
+to
+ 
+Ùh”
+ \
+gl¥l
+{
+VCS
+} 
+sy¡ems
+. 
+G™
+ 
+was
+ 
+dev–İed
+ 2005 
+by
+ 
+Lšus
+
+
+234 
+TÜv®ds
+.
+
+238 \
+	gÃwglos§ry’Œy
+{
+	gDock”fe
+}{%
+
+239 
+	gÇme
+=
+Dock”fe
+,
+
+240 
+	gdesütiÚ
+={
+A
+ 
+Dock”fe
+ 
+desüibes
+ 
+how
+ 
+a
+ \
+gls
+{
+Dock”
+} 
+CÚš”
+ (Dock” 
+Image
+)
+
+241 
+should
+ 
+be
+ 
+bud
+ 
+ªd
+ 
+cÚfigu»d
+‡nd 
+which
+ 
+soáw¬e
+ should b
+autom©iÿÎy
+
+
+242 
+š¡®Ëd
+ 
+ªd
+ 
+so
+ 
+avaabË
+ 
+šside
+ 
+the
+ 
+CÚš”
+. 
+It
+ 
+is
+ 
+®so
+ 
+possibË
+ 
+to
+ 
+cİy
+
+
+243 
+fes
+ 
+autom©iÿÎy
+ 
+šside
+ 
+the
+ 
+cÚš”
+ 
+Ü
+ 
+desüibe
+ 
+how
+ 
+difã»Á
+ container
+
+244 
+g‘
+ 
+cÚÃùed
+ 
+Ü
+ 
+Lšked
+. } }
+
+247 \
+	gÃwglos§ry’Œy
+{
+	gDock”
+}{%
+
+248 
+	gÇme
+=
+Dock”
+,
+
+249 
+	gdesütiÚ
+={
+Dock”
+ 
+is
+ 
+a
+ 
+Ïy”
+ 
+ba£d
+ 
+sy¡em
+ 
+v™®iz©iÚ
+ (
+mo¡ly
+
+
+250 
+sšgË
+ 
+£rviûs
+ 
+Ü
+ 
+sks
+ 
+like
+ 
+ª
+ 
+Web
+ 
+£rv”
+). 
+Such
+ \
+‹xt™
+{
+images
+} 
+¬e
+
+
+251 
+desüibed
+ 
+š
+ 
+¶aš
+ 
+‹xt
+ 
+by
+ 
+a
+ \
+gls
+{
+Dock”fe
+} 
+»ces
+ 
+ªd
+ 
+bud
+ iÀ¨
+so
+
+
+252 
+ÿÎed
+ \
+‹xt™
+{
+cÚš”
+} (
+ª
+ 
+dock”
+ 
+Images
+). 
+This
+ 
+cÚš”s
+ 
+ÿn
+ 
+be
+
+
+253 
+lšked
+ 
+tog‘h”
+ 
+to
+ 
+bud
+ 
+a
+ 
+mÜe
+ 
+com¶ex
+ 
+cÚš”
+ (
+Ú
+‡ 
+high”
+ 
+Ëv–
+).
+
+257 \
+	gÃwglos§ry’Œy
+{
+	gQEMU
+}{%
+
+258 
+	gÇme
+=
+QEMU
+,
+
+259 
+	gdesütiÚ
+={
+QEMU
+ (
+äom
+ â€
+Quick
+ 
+EmuÏtÜ
+â€œè
+is
+ 
+a
+ 
+ä“
+ 
+soáw¬e
+ 
+to
+ 
+visu®ize
+
+
+260 
+H¬dw¬e
+ 
+like
+ 
+CPU
+, 
+š‹rçûs
+ 
+Ü
+ 
+³rh”®s
+. 
+It
+ 
+is
+ 
+wr™‹n
+ 
+š
+ 
+the
+
+
+261 
+´og¿mmšg
+ 
+Ïnguage
+ 
+C
+ 
+ªd
+ 
+is
+ 
+š
+ 
+this
+ 
+way
+ 
+highly
+ 
+ex‹ndabË
+ (
+e
+.
+g
+\. 
+by
+ 
+Ãw
+ 
+Ü
+
+
+262 
+¥ecŸl
+ 
+³rh”®s
+). 
+QEMU
+ 
+makes
+ 
+™
+ 
+possibË
+ 
+to
+ 
+run
+ 
+a
+ 
+sšgË
+ 
+soáw¬e
+ 
+üoss
+
+
+263 
+comped
+ 
+Ú
+ 
+the
+ 
+ho¡
+ 
+a
+ 
+¥ecific
+ 
+rg‘
+ 
+ıu
+ 
+as
+ 
+w–l
+‡ 
+boÙšg
+ 
+howl
+
+
+264 
+İ”©iÚ
+ 
+sy¡ems
+ 
+as
+ 
+ª
+ 
+vœtu®
+ 
+sy¡em
+.
+
+267 \
+	gÃwglos§ry’Œy
+{
+	gCERT
+}{%
+
+268 
+	gÇme
+=
+SEI
+ 
+CERT
+ 
+Codšg
+ 
+Snd¬ds
+,
+
+269 
+	gdesütiÚ
+={
+is
+ 
+a
+ 
+¡ªd¬ds
+ 
+commÚly
+ 
+u£d
+ 
+´og¿mmšg
+ 
+Ïnguages
+ 
+such
+ 
+as
+
+
+270 
+C
+, 
+Java
+, 
+ªd
+ 
+P”l
+,‡nd 
+the
+ 
+Android
+ 
+¶©fÜm
+. 
+In
+ 
+‹rms
+ 
+of
+ C‡nd C++ 
+™
+ 
+is
+
+
+271 
+nÙ
+ 
+so
+ 
+»¡riùed
+ 
+but
+ 
+mÜe
+ 
+æexibË
+ 
+thª
+ 
+the
+ 
+de
+-
+çùo
+ 
+¡ªd¬d
+ \
+gls
+{
+MISRA
+}.
+
+276 \
+	gÃwglos§ry’Œy
+{
+	gCWE
+}{%
+
+277 
+	gÇme
+=
+CWE
+,
+
+278 
+	gdesütiÚ
+={
+is
+ 
+a
+ 
+commun™y
+-
+dev–İed
+ 
+li¡
+ 
+of
+ 
+commÚ
+ 
+soáw¬e
+ 
+ªd
+ 
+h¬dw¬e
+
+
+279 
+£cur™y
+ 
+w—kÃs£s
+. 
+It
+ 
+£rves
+ 
+as
+ 
+a
+ 
+commÚ
+ 
+Ïnguage
+,‡ 
+m—suršg
+ 
+¡ick
+ 
+
+280 
+£cur™y
+ 
+toŞs
+, 
+ªd
+ 
+as
+ 
+a
+ 
+ba£lše
+ 
+w—kÃss
+ 
+id’tifiÿtiÚ
+, 
+m™ig©iÚ
+,‡nd
+
+281 
+´ev’tiÚ
+ 
+effÜts
+.
+
+287 \
+	gÃwglos§ry’Œy
+{
+	gMISRA
+}{%
+
+288 
+	gÇme
+=
+MISRA
+,
+
+289 
+	gdesütiÚ
+={
+´ovide
+ 
+wÜld
+-
+Ëadšg
+ 
+be¡
+ 
+´aùiû
+ 
+guid–šes
+ 
+the
+ 
+§ã
+ 
+ªd
+
+
+290 
+£cu»
+ 
+­¶iÿtiÚ
+ 
+of
+ 
+bÙh
+ 
+embedded
+ 
+cÚŒŞ
+ 
+sy¡ems
+ 
+ªd
+ 
+¡ªd®Úe
+ 
+soáw¬e
+.
+
+291 
+MISRA
+ 
+is
+ 
+a
+ 
+cŞÏbÜ©iÚ
+ 
+b‘w“n
+ 
+mªuçùu»rs
+, 
+compÚ’t
+ 
+suµl›rs
+ 
+ªd
+
+
+292 
+’gš“ršg
+ 
+cÚsuÉªc›s
+ 
+which
+ 
+£eks
+ 
+to
+ 
+´omÙe
+ 
+be¡
+ 
+´aùiû
+ 
+š
+ 
+dev–İšg
+
+
+293 
+§ãty
+- 
+ªd
+ 
+£cur™y
+-
+»Ï‹d
+ 
+–eùrÚic
+ 
+sy¡ems
+‡nd 
+Ùh”
+ 
+soáw¬e
+-
+š‹nsive
+
+
+294 
+­¶iÿtiÚs
+. 
+To
+ 
+this
+ 
+’d
+ 
+MISRA
+ 
+publishes
+ 
+docum’ts
+ 
+th©
+ 
+´ovide
+ 
+acûssibË
+
+
+295 
+šfÜm©iÚ
+ 
+’gš“rs
+ 
+ªd
+ 
+mªagem’t
+,‡nd 
+hŞds
+ 
+ev’ts
+ 
+to
+ 
+³rm™
+ 
+the
+
+
+296 
+exchªge
+ 
+of
+ 
+ex³r›nûs
+ 
+b‘w“n
+ 
+´aù™iÚ”s
+.
+
+301 \
+	gÃwglos§ry’Œy
+{
+	gYoùo
+}{%
+
+302 
+	gÇme
+=
+Yoùo
+,
+
+303 
+	gdesütiÚ
+={%
+
+304 
+is
+ 
+a
+ 
+commun™y
+ 
+which
+ 
+´ovides
+ 
+ªd
+ 
+ex‹nds
+ 
+toŞs
+ 
+to
+ 
+cÚfigu»
+‡nd
+
+305 
+üoss
+-
+compe
+ 
+howl
+ 
+Lšux
+ 
+di¡ributiÚs
+ 
+ªd
+ 
+soáw¬e
+ 
+·ck‘s
+ 
+dœeùly
+ 
+out
+ 
+of
+
+
+306 
+the
+ 
+sourû
+ 
+a
+ 
+¥ecific
+ 
+rg‘
+ 
+¶©fÜm
+. 
+It
+ 
+is
+ 
+oá
+ 
+sim¶e
+ 
+Úly
+ 
+ÿÎed
+
+
+307 \
+‹xt™
+{
+Yoùo
+} 
+The
+ 
+maš
+ 
+focus
+ 
+of
+ 
+this
+ 
+commun™y
+ 
+is
+ 
+to
+ 
+´ovide
+ 
+so
+ 
+ÿÎed
+
+
+308 \
+‹xt™
+{
+»ces
+} 
+desüibšg
+ 
+how
+ 
+to
+ 
+bud
+ 
+soáw¬e
+ 
+·ck‘s
+ 
+which
+ 
+nÙ
+ 
+have
+ 
+ªy
+
+
+309 
+d•’d’c›s
+ 
+to
+ 
+a
+ 
+¥ecific
+ 
+rg‘
+ 
+like
+‡ \
+gls
+{
+mcu
+}/\gls{
+ıu
+} 
+¬ch™eùu»
+.
+
+310 
+In
+ 
+this
+ 
+way
+ 
+the
+ 
+commun™y
+ 
+di¡ribu‹s
+ 
+ª
+ 
+own
+ 
+Lšux
+ 
+di¡ributiÚ
+ 
+desüibed
+ 
+by
+
+
+311 
+»ces
+ 
+ªd
+ 
+b®ded
+ 
+by
+ 
+a
+ 
+äamewÜk
+ 
+ÿÎed
+ \
+‹xt™
+{\
+gls
+{
+b™bake
+}}. 
+The
+ 
+mšim®
+
+
+312 
+possibË
+ 
+di¡ributiÚ
+ 
+´ovided
+ 
+by
+ 
+the
+ 
+Yoùo
+ 
+commun™y
+ 
+´ojeù
+ 
+is
+ 
+ÿÎed
+
+
+313 \
+‹xt™
+{
+Poky
+}. 
+This
+ 
+ÿn
+ 
+be
+ 
+ex³nded
+ 
+by
+ 
+a
+ 
+dev–İ”
+ (
+ÿÎed
+ 
+u£r
+èby 
+fu¹h”
+
+
+314 
+soáw¬e
+ 
+·ck‘s
+ 
+which
+ 
+Ú
+ 
+the
+ 
+Úe
+ 
+hªd
+ 
+¬e
+ 
+®so
+ 
+šd•’d’t
+ 
+to
+ 
+ªy
+ 
+rg‘
+
+
+315 
+ªd
+ 
+mo¡ly
+ 
+´ovided
+ 
+®so
+ 
+by
+ 
+the
+ 
+Yoùo
+ 
+commun™y
+, 
+Ü
+ 
+Ú
+h
+Ùh”
+ 
+hªd
+ 
+Ãw
+
+
+316 
+·ck‘s
+ 
+ÿn
+ 
+be
+ 
+rg‘
+ 
+¥ecific
+. 
+Fu¹h”
+ 
+Ú
+ 
+the
+ 
+Yoùo
+ 
+commun™y
+ (
+š
+
+
+317 
+coİ”©iÚ
+ 
+w™h
+ 
+the
+ \
+gls
+{
+O³nEmbedded
+ 
+commun™y
+}è
+ex‹nds
+ 
+ªd
+ 
+cÚŒibu‹s
+
+
+318 
+the
+ 
+budšg
+ 
+äamewÜk
+ 
+B™bake
+ 
+ªd
+ 
+´ovides
+ 
+toŞs
+ 
+hªdlšg
+he
+
+319 
+di¡ributiÚ
+ 
+bud
+ 
+Ü
+ 
+soáw¬e
+ 
+dev–İm’t
+. 
+The
+ 
+commun™y
+ (
+as
+ 
+w–l
+‡ 
+the
+
+
+320 
+O³nEmbedded
+ 
+commun™y
+è
+is
+ 
+massiv–y
+ 
+suµÜ‹d
+ 
+by
+ 
+a
+ 
+growšg
+ 
+numb”
+ 
+of
+ 
+w–l
+
+
+321 
+known
+ 
+com·n›s
+ 
+mašly
+ 
+focu£d
+ 
+š
+ 
+ªy
+ 
+way
+ 
+of
+ 
+embedded
+ 
+sy¡ems
+ 
+ªd
+
+
+322 
+–eùrÚics
+. 
+The
+ 
+š™Ÿl
+ 
+gßl
+ 
+of
+ 
+this
+ 
+commun™y
+ (
+ªd
+ 
+the
+ 
+š‹»¡
+ ofhe
+
+323 
+com·n›s
+è
+is
+ 
+to
+ 
+g‘
+ 
+a
+ 
+howl
+ (
+¡ªd¬d
+è
+wÜkšg
+ 
+ªd
+ 
+ex‹ndabË
+ 
+’vœÚm’t
+
+
+324 
+ruÂšg
+ 
+šd•’d’t
+ 
+äom
+ 
+ªy
+ 
+h¬dw¬e
+ 
+š
+ 
+am
+ h¬dw¬
+emuÏtÜ
+ 
+like
+
+
+325 \
+gls
+{
+QEMU
+} 
+to
+ 
+be
+ 
+a
+ 
+ba£lše
+ 
+dev–İšg
+ 
+´ojeù
+. 
+Th©
+ 
+is
+ 
+wh©
+ 
+Poky
+ is: 
+A
+
+
+326 
+mšim®
+ 
+ex‹ndabË
+ 
+Lšux
+ 
+di¡ributiÚ
+ 
+»ady
+ 
+to
+ 
+run
+ 
+š
+ 
+the
+ 
+emuÏtÜ
+ 
+QEMU
+
+
+327 
+w™hout
+ 
+d•’d’c›s
+ 
+to
+ 
+h¬dw¬e
+.
+
+332 \
+Ãwglos§ry’Œy
+{
+Poky
+}{%
+
+333 
+Çme
+=
+Poky
+,
+
+334 
+	gdesütiÚ
+={%
+
+335 
+is
+ 
+a
+ 
+mšim®
+ 
+ex‹ndabË
+ 
+Lšux
+ 
+di¡ributiÚ
+ 
+»ady
+ 
+to
+ 
+run
+ 
+š
+ 
+the
+
+
+336 
+emuÏtÜ
+ 
+QEMU
+ 
+w™hout
+ 
+d•’d’c›s
+ 
+to
+ 
+h¬dw¬e
+. 
+It
+ 
+ÿn
+ 
+be
+ 
+bud
+ 
+by
+ 
+the
+
+
+337 
+äamewÜk
+ \
+gls
+{
+b™bake
+} 
+ªd
+ 
+is
+ 
+dev–İed
+‡nd 
+cÚŒibu‹d
+ 
+by
+ 
+the
+
+
+338 \
+‹xt™
+{\
+gls
+{
+Yoùo
+} 
+commun™y
+}.
+
+343 \
+	gÃwglos§ry’Œy
+{
+	gO³nEmbedded
+}{%
+
+344 
+	gÇme
+=
+O³nEmbedded
+,
+
+345 
+	gdesütiÚ
+={%
+
+346 
+is
+ 
+a
+ 
+commun™y
+ i 
+focu£d
+ 
+Ú
+ 
+pÜtšg
+ 
+public
+ 
+rg‘
+ 
+d•’ded
+ 
+soáw¬e
+ 
+·ck‘s
+
+
+347 
+to
+ 
+be
+ 
+rg‘
+ 
+šd•’d’t
+ 
+which
+ 
+g‘
+ 
+public
+ 
+aá”w¬ds
+ 
+ä“
+ 
+ev”yÚe
+ 
+»ady
+
+
+348 
+to
+ 
+u£
+. 
+On
+ 
+the
+ 
+Ùh”
+ 
+hªd
+h
+commun™y
+ 
+dev–İs
+ 
+ªd
+ 
+´ovides
+
+
+349 \
+gls
+{
+b™b»ces
+} 
+desüibšg
+ 
+how
+ 
+to
+ 
+bud
+ 
+such
+ 
+a
+ 
+·ck‘
+ 
+by
+ 
+the
+ 
+äamewÜk
+
+
+350 \
+gls
+{
+b™bake
+}. 
+La¡
+ 
+but
+ 
+nÙ
+ 
+Ëa¡
+ 
+the
+ 
+commun™y
+ 
+dev–İs
+ 
+ªd
+ 
+cÚŒibu‹s
+he
+
+351 
+as
+ 
+w–l
+‡ 
+B™bake
+ 
+™£lf
+ 
+ªd
+ 
+Ùh”
+ 
+h–pful
+ 
+toŞs
+ 
+to
+ 
+dev–İ
+, (
+üoss
+-)
+
+352 
+compe
+ 
+ªd
+ 
+´ofe
+ (
+Ü
+ 
+debug
+è
+soáw¬e
+. 
+The
+ 
+commun™y
+ (
+as
+ 
+w–l
+‡ 
+the
+
+
+353 \
+gls
+{
+Yoùo
+} 
+commun™y
+è
+is
+ 
+massiv–y
+ 
+suµÜ‹d
+ 
+by
+ 
+a
+ 
+growšg
+ 
+numb”
+ 
+of
+ 
+w–l
+
+
+354 
+known
+ 
+com·n›s
+ 
+mašly
+ 
+focu£d
+ 
+š
+ 
+ªy
+ 
+way
+ 
+of
+ 
+embedded
+ 
+sy¡ems
+ 
+ªd
+
+
+355 
+–eùrÚics
+. } }
+
+357 \
+	gÃwglos§ry’Œy
+{
+	gb™b»ces
+}{%
+
+358 
+	gÇme
+=
+B™bake
+ 
+»ces
+,
+
+359 
+	gdesütiÚ
+={%
+
+360 
+¬e
+ \
+gl¥l
+{
+m‘ad©afe
+} 
+desüibšg
+ 
+how
+ 
+to
+ 
+bud
+, 
+cÚfigu»
+
+
+361 
+Ü
+ 
+e
+.
+g
+.\ 
+š¡®l
+ 
+a
+ 
+soáw¬e
+ 
+·ck‘
+ 
+which
+ 
+should
+ 
+be
+ 
+comped
+ 
+by
+‡
+
+362 
+äamewÜk
+ 
+ÿÎed
+ \
+gls
+{
+b™bake
+}. 
+Such
+ 
+»ces
+ 
+¬e
+ 
+mo¡ly
+ 
+a
+ 
+mix
+ 
+of
+ 
+pythÚ
+,
+
+363 
+bash
+ 
+ªd
+ 
+GNU
+ 
+make
+.
+
+368 %\
+	gÃwglos§ry’Œy
+{
+	gDi¡ributiÚ
+}{%
+
+369 % 
+	gÇme
+=
+Di¡ributiÚ
+,
+
+370 % 
+	g¶u¿l
+=
+Di¡ributiÚ’
+,
+
+371 % 
+	gdesütiÚ
+={
+Als
+ 
+Di¡ributiÚ
+ 
+bezeichÃt
+ 
+mª
+ 
+eše
+ 
+Zu§mm’¡–lung
+ 
+vÚ
+
+
+372 % (
+Soáw¬e
+-è
+Pak‘’
+,
+V”siÚ’
+, 
+KÚfigu¿tiÚ’
+, 
+Eš¡–lung’
+, 
+usw
+.
+
+373 % 
+d›
+ 
+®s
+ 
+Ge§mak‘
+ 
+v”
+Ã¶
+fãÁlicht
+ 
+sšd
+ 
+od”
+ 
+w”d’
+ 
+und
+ 
+š
+ 
+sich
+ 
+ohÃ
+
+
+374 % 
+we™”es
+ 
+Zutun
+ 
+eše
+ 
+defš›¹e
+ 
+Aufgabe
+ 
+”f
+Ã¼
+Î’
+. 
+Bei¥›lswei£
+ 
+i¡
+
+
+375 % 
+eš
+ 
+B‘r›bssy¡em
+ 
+eše
+ 
+sŞche
+ 
+Zu§mm’¡–lung
+ 
+das
+ 
+ohÃ
+ 
+we™”s
+ 
+zu
+ 
+tun
+
+
+376 % 
+f
+Ã¼
+r
+ 
+eš’
+ 
+S©z
+ 
+vÚ
+ 
+Anw’dungsf
+Ã¤
+Î’
+ 
+g’utzt
+ 
+w”d’
+ 
+kªn
+.
+
+380 \
+	gÃwglos§ry’Œy
+{
+	gF—tu»
+}{%
+
+381 
+	gÇme
+=
+F—tu»
+,
+
+382 
+	gdesütiÚ
+={
+A
+ 
+¥ecŸl
+ (
+h–pful
+è
+funùiÚ®™y
+ 
+which
+ 
+is
+ 
+nÙ
+ 
+commÚ
+ 
+such
+ 
+a
+
+
+383 
+´og¿m
+ 
+but
+ 
+oá’
+ 
+h–pful
+ 
+wh’
+ 
+wÜkšg
+ 
+w™h
+ 
+a
+ 
+toŞ
+.
+
+389 \
+	gÃwglos§ry’Œy
+{
+	gm‘ad©a
+}{%
+
+390 
+	gÇme
+=
+m‘ad©a
+,
+
+391 
+	gdesütiÚ
+={
+M‘a
+ 
+d©a
+ 
+¬e
+ 
+šfÜm©iÚ
+ 
+about
+ 
+a
+ 
+fe
+. 
+Like
+ 
+the
+ f
+fÜm©
+,he
+
+392 
+authÜ
+ 
+Ü
+ 
+how
+ 
+to
+ 
+u£
+ 
+the
+ 
+fe
+.}
+
+396 \
+	gÃwglos§ry’Œy
+{
+	gm‘ad©afe
+}{%
+
+397 
+	gÇme
+=
+m‘ad©a
+ 
+fes
+,
+
+398 
+	gdesütiÚ
+={
+M‘a
+ 
+d©a
+ 
+fes
+ 
+¬e
+ fe 
+hŞdšg
+ 
+Úly
+ \
+gls
+{
+m‘ad©a
+} 
+about
+ 
+Úe
+ 
+Üe
+
+
+399 
+mÜe
+ 
+Ùh”
+ 
+fes
+.
+
+406 %% /* 
+	$yy·r£
+ */ 
+	`yyËx
+()%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+407 
+	}
+%%% 
+AüÚym
+ 
+Úly
+ 
+	g’Œ›s
+
+
+408 %% /* 
+	$yy·r£
+ */ 
+	`yyËx
+()%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+410 \
+	gÃwaüÚym
+{
+	gFAQ
+}{FAQ}{
+F»qu’y
+ 
+Asked
+ 
+	gQue¡iÚs
+}
+
+411 \
+	gÃwaüÚym
+{
+	gPOR
+}{POR}{
+Pow”
+ 
+Ú
+ 
+	g»£t
+}
+
+412 \
+	gÃwaüÚym
+{
+	gBIOS
+}{BIOS}{
+Basic
+ 
+IÅut
+ 
+	gOuut
+}
+
+414 % \
+	gÃwaüÚym
+{
+	gWYSIWYG
+}{
+Wh©
+ 
+you
+ 
+£e
+ 
+is
+ 
+wh©
+ you 
+	gg‘
+}
+
+415 % \
+	gÃwaüÚym
+{
+	gLBA
+} 
+Logiÿl
+ 
+Block
+ 
+	gAdd»ssšg
+%
+
+416 % \
+	gÃwaüÚym
+{
+	gPDF
+}{
+PÜbË
+ 
+Dokum’t
+ 
+	gFÜm©
+}
+
+417 % \
+	gÃwaüÚym
+{
+	gHFU
+}{
+HochschuË
+ 
+	gFu¹wªg’
+}
+
+418 % \
+	gÃwaüÚym
+{
+	gISO
+}{
+IÁ”ÇtiÚ®
+ 
+Orgªiz©iÚ
+ 
+	gSnd¬diz©iÚ
+}
+
+419 % \
+	gÃwaüÚym
+{
+	gAES
+}{
+Advªûd
+ 
+Enüy±iÚ
+ 
+	gSnd¬d
+}
+
+420 % \
+	gÃwaüÚym
+{
+	gRC4
+}{
+	gaüfour
+}
+
+421 % \
+	gÃwaüÚym
+{
+	gASCII
+}{
+Am”iÿn
+ 
+Snd¬d
+ 
+Code
+ 
+InfÜm©iÚ
+ 
+	gIÁ”chªge
+}
+
+422 % \
+	gÃwaüÚym
+{
+	gXRef
+}{
+Cross
+ 
+	gReã»nz
+}
+
+423 % \
+	gÃwaüÚym
+{
+	gHTTP
+}{
+Hy³¹ext
+ 
+T¿nsãr
+ 
+	gPrÙocŞ
+}
+
+424 % \
+	gÃwaüÚym
+{
+	gOLE
+}{
+Objeù
+ 
+Lškšg
+ 
+ªd
+ 
+	gEmbeddšg
+}
+
+425 % \
+	gÃwaüÚym
+{
+	gEOL
+}{
+End
+ 
+of
+ 
+	gLše
+}
+
+426 % \
+	gÃwaüÚym
+{
+	gEOF
+}{
+End
+ 
+of
+ 
+	gFe
+}
+
+427 % \
+	gÃwaüÚym
+{
+	gMD5
+}{
+	gMes§ge
+-
+Dige¡
+ 
+AlgÜ™hm
+ 
+	gV”siÚ
+ 5}
+
+428 % \
+	gÃwaüÚym
+{
+	gSHA
+}{
+Secu»
+ 
+Hash
+ 
+	gAlgÜ™hm
+}
+
+429 % \
+	gÃwaüÚym
+{
+	gES
+}{
+Esÿ±es
+ 
+	gSÚd”zeich’
+}
+
+430 % \
+	gÃwaüÚym
+{
+	gSZ
+}{
+	gSÚd”zeich’
+}
+
+431 % \
+	gÃwaüÚym
+{
+	gFDF
+}{
+FÜms
+ 
+D©a
+ 
+	gFÜm©
+}
+
+432 % \
+	gÃwaüÚym
+{
+	gPJDF
+}{
+PÜbË
+ 
+Job
+ 
+Tick‘
+ 
+	gFÜm©
+}
+
+433 % \
+	gÃwaüÚym
+{
+	gHTTP
+}{
+Hy³¹ext
+ 
+T¿nsãr
+ 
+	gPrÙocŞ
+}
+
+434 % \
+	gÃwaüÚym
+{
+	gCMYK
+}{
+	gCyª
+, 
+	gMag’
+, 
+Y–low
+ 
+und
+ 
+d”
+ 
+Schw¬zª‹
+ 
+	gKay
+}
+
+435 % \
+	gÃwaüÚym
+{
+	gRGB
+}{
+	gRÙ
+, 
+	gGr
+Ã¼
+n
+ 
+und
+ 
+	gBÏu
+}
+
+436 % \
+	gÃwaüÚym
+{
+	gVDP
+}{
+V¬ŸbË
+ 
+D©a
+ 
+	gPrštšg
+}
+
+437 % \
+	gÃwaüÚym
+{
+	gPAdES
+}{
+PDF
+ 
+Advªûd
+ 
+EËùrÚic
+ 
+	gSigÇtu»s
+}
+
+438 % \
+	gÃwaüÚym
+{
+	gSP
+}{
+S·û
+ 
+	gCh¬aù”
+}
+
+439 % \
+	gÃwaüÚym
+{
+	gHT
+}{
+HÜizÚl
+ 
+	gTabuÏtÜ
+}
+
+440 % \
+	gÃwaüÚym
+{
+	gCR
+}{
+C¬rŸge
+ }
+
+441 % \
+	gÃwaüÚym
+{
+	gLF
+}{
+Lše
+ 
+	gãed
+}
+
+442 % \
+	gÃwaüÚym
+{
+	gFF
+}{
+FÜm
+ 
+	gãed
+}
+
+443 % \
+	gÃwaüÚym
+{
+	gNUL
+}{
+NuÎ
+ 
+	gch¬aù”
+}
+
+444 % \
+	gÃwaüÚym
+{
+	gOID
+}{
+Objeù
+ 
+	gId’tif›r
+}
+
+445 % \
+	gÃwaüÚym
+{
+	gETSI
+}{
+Eurİ—n
+ 
+T–ecommuniÿtiÚs
+ 
+Snd¬ds
+ 
+	gIn¡™u‹
+}
+
+446 % \
+	gÃwaüÚym
+{
+	gVM
+}{
+vœtu–Ë
+ 
+	gMaschše
+}
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/introduction.tex
+
+1 \
+	gch­‹r
+{
+	gIÁroduùiÚ
+}\
+	gÏb–
+{
+	gchp
+:
+ešË™ung
+}
+
+2 
+The
+ 
+cÚŒŞ
+ 
+	$·Ãl
+ (
+CP
+è
+the
+ 
+T–aœ
+ 
+IÁ”ÇtiÚ®
+ 
+GmbH
+ 
+ÿrgo
+ 
+lßdšg
+ 
+sy¡em
+ 
+is
+
+
+3 
+a
+ 
+ş›Á
+-
+£rv”
+ 
+sy¡em
+ 
+communiÿtšg
+ 
+ov”
+ 
+ª
+ 
+CAN
+ 
+š‹rçû
+. 
+The
+ 
+cÚŒŞ
+ 
+·Ãl
+ 
+is
+
+
+4 
+the
+ 
+ş›Á
+ 
+which
+ 
+g‘s
+ 
+šput
+ 
+äom
+ 
+bu‰Ús
+ 
+ªd
+ 
+sw™ches
+, 
+di¥Ïys
+h
+aùiÚ
+ 
+Ú
+ 
+ª
+
+
+5 
+LCD
+ 
+ªd
+ 
+£nds
+ 
+šfÜm©iÚ
+ 
+ov”
+ 
+to
+ 
+the
+ 
+£rv”
+. 
+On
+h
+ş›Á
+ 
+sy¡em
+ 
+ª
+ 
+Lšux
+
+
+6 
+sy¡em
+ 
+is
+ 
+ruÂšg
+, 
+™”©šg
+ 
+b‘w“n
+ 
+U£r
+ 
+šput
+ 
+ªd
+ 
+hªdËs
+ 
+the
+ 
+sks
+ 
+to
+ 
+be
+
+
+7 
+´efÜmed
+. 
+OÆy
+ 
+the
+ 
+ş›Á
+ 
+sy¡em
+ 
+äom
+h
+Soáw¬e
+ 
+side
+ 
+is
+ 
+desü›d
+ 
+š
+ 
+this
+
+
+8 
+docum’t
+.
+
+10 \
+£ùiÚ
+{
+About
+ 
+the
+ 
+Lšux
+ 
+K”Ãl
+}%\Ïb–{£c:AbouˆthLšux K”Ãl}
+
+12 
+A
+ 
+mašlše
+ \
+‹xtbf
+{
+Lšux
+ 
+k”Ãl
+ 
+v”siÚ
+ 4.4.39} 
+is
+ 
+ruÂšg
+ 
+Ú
+ 
+this
+ 
+h¬dw¬e
+.
+
+13 
+This
+ 
+k”Ãl
+ 
+v”siÚ
+ 
+is
+ 
+com·tibË
+ 
+to
+ 
+the
+ 
+Ï¡
+ 
+»Ëa£
+ 
+of
+ \
+‹xtbf
+{\
+gls
+{
+BSP
+}
+
+14 
+·ck‘
+ 
+v”siÚ
+ 119} 
+suµÜtšg
+ 
+the
+ 
+Ï¡
+ \
+‹xtbf
+{
+tqma335x
+ 
+moduË
+ 
+»visiÚ
+ 2.2.3.}
+
+15 
+The
+ 
+u£d
+ \
+gls
+{
+BSP
+} 
+was
+ 
+»Ëa£d
+ 
+š
+ 
+Dezemb”
+ 2019. 
+To
+ 
+be
+ 
+com·tibË
+ 
+to
+ 
+this
+
+
+16 
+BSP
+ 
+was
+ 
+the
+ 
+»asÚ
+ 
+choosšg
+ 
+this
+ 
+k”Ãl
+ 
+v”siÚ
+ 
+ªd
+ 
+nÙ
+ 
+a
+ 
+cu¼’t
+ 
+Lšux
+ kernel
+
+17 
+like
+ 5.x.
+
+19 
+Some
+ 
+chªges
+ 
+w”e
+ 
+made
+ 
+to
+ 
+the
+ 
+Lšux
+ 
+mašlše
+ 
+K”Ãl
+ 
+like
+ 
+»¶acšg
+h\
+gls
+{
+DRM
+}
+
+20 
+video
+ 
+driv”s
+ 
+to
+ 
+g‘
+ 
+the
+ 
+LCD
+ 
+ruÂšg
+ 
+accÜdšg
+Øth
+TI
+
+
+21 
+”¿
+~\
+c™e
+{
+TI_am335x_”¿
+} 
+as
+ 
+w–l
+‡ 
+chªges
+ 
+š
+ 
+the
+ 
+K”Ãl
+ 
+cÚfigu¿tiÚ
+.
+
+23 
+The
+ 
+howl
+ 
+chªges
+ 
+made
+ 
+to
+ 
+mašlše
+ 
+k”Ãl
+ 
+´ovided
+ 
+by
+ 
+the
+ 
+TQ
+ 
+BSP
+ 
+·ck‘
+ 
+v”siÚ
+
+
+24 119~\
+c™e
+{
+tq_b¥119
+} 
+¬e
+ 
+desüibed
+ 
+duršg
+ 
+the
+ 
+fŞlowšg
+ 
+ch­‹rs
+ 
+šside
+ 
+this
+
+
+25 
+docum’t
+. \
+‹xtbf
+{
+Th©
+ 
+is
+ 
+wh©
+ 
+this
+ docum’ˆi 
+about
+}.
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/lcd_timings.tex
+
+1 \
+	gch­‹r
+{
+LCD
+ 
+	gTimšgs
+}%
+
+2 \
+	gÏb–
+{
+	gcha
+:
+XXXX
+}
+
+4 \
+£ùiÚ
+{
+LCD
+-
+Timšgs
+}%
+
+5 \
+Ïb–
+{
+£c
+:
+LCD
+-
+Timšgs
+}
+
+7 
+Beÿu£
+ 
+timšgs
+ 
+the
+ 
+LCD
+ 
+¬e
+ 
+impÜÁ
+, 
+this
+ 
+ch­‹r
+ 
+shows
+h
+m—su»d
+
+
+8 
+timšgs
+ 
+aá”
+ 
+the
+ 
+di¥Ïy
+ 
+¡¬ts
+ 
+	gruÂšg
+. 
+	$They
+ (
+mo¡ly
+è
+accÜdšg
+ 
+to
+ 
+the
+ 
+LCD
+
+
+9 
+d©a
+ 
+sh“t
+~\
+c™e
+[
+TODO
+]. 
+The
+ 
+timšgs
+ 
+Ãeds
+ 
+to
+ 
+be
+ 
+cÚfigu»d
+ 
+w™hš
+
+
+10 
+the
+ \
+gls
+{
+DTS
+}‡nd‡» iÀthi wayhšpuˆthvideØ\gls{DRM} driv”.
+
+12 \
+bf£r›s
+ 
+	gNOTE
+:\@ 
+The
+ 
+DRM
+ 
+driv”
+ 
+is
+ 
+·tched
+ 
+by
+ 
+the
+ 
+T–aœ
+ 
+IÁ”ÇtiÚ®
+ 
+GmbH
+ 
+to
+
+
+13 
+be
+ 
+com¶ašt
+ 
+to
+ 
+some
+ 
+sicÚ
+ 
+”¿s
+ 
+b–Úgs
+Ø
+the
+ 
+MCUs
+ 
+DRM
+ 
+³rh”®
+
+
+14 (
+£e
+~\
+c™e
+{
+TI_am335x_”¿
+} 
+ªd
+ \
+fuÎ»f
+{
+cha
+:
+·tches
+}). 
+Oth”wi£
+ 
+the
+ 
+LCD
+
+
+15 
+ty³
+ 
+u£d
+ 
+š
+ 
+this
+ 
+´ojeù
+ 
+would
+ 
+no
+ 
+wÜk
+.
+
+17 \
+Ãw·ge
+
+
+18 \
+sub£ùiÚ
+{
+H
+-
+Sync
+ 
+timšgs
+}%
+
+19 \
+Ïb–
+{
+sub
+:
+sync_timšgs
+}
+
+21 \
+begš
+{
+figu»
+}[
+h
+!]
+
+22 \
+begš
+{
+ûÁ”
+}
+
+23 \
+šşudeg¿phics
+[
+width
+=13c
+m
+]{
+piùu»s
+/
+lcd_timšgs
+/
+hsync_Ëngth
+.
+jpg
+}
+
+24 \
+’d
+{
+ûÁ”
+}
+
+25 \
+ÿ±iÚ
+{
+L’gth
+ 
+time
+ 
+of
+ 
+Úe
+ 
+low
+ 
+aùive
+ 
+ht
+-
+Sync
+ 
+pha£
+}
+
+26 \
+Ïb–
+{
+fig
+:
+hsync_aùive_time
+}
+
+27 \
+’d
+{
+figu»
+}
+
+29 \
+Ãw·ge
+
+
+31 \
+begš
+{
+figu»
+}[
+ht
+]
+
+32 \
+begš
+{
+ûÁ”
+}
+
+33 \
+šşudeg¿phics
+[
+width
+=12c
+m
+]{
+piùu»s
+/
+lcd_timšgs
+/
+hsync_³riode
+.
+jpg
+}
+
+34 \
+’d
+{
+ûÁ”
+}
+
+35 \
+ÿ±iÚ
+{
+Time
+ 
+Ëngth
+ 
+of
+ 
+Úe
+ 
+howl
+ 
+ht
+-
+Sync
+ 
+³riod
+}
+
+36 \
+Ïb–
+{
+fig
+:
+hsync_³riod
+}
+
+37 \
+’d
+{
+figu»
+}
+
+39 \
+Ãw·ge
+
+
+40 \
+sub£ùiÚ
+{
+V
+-
+Sync
+ 
+timšgs
+}%
+
+41 \
+Ïb–
+{
+sub
+:
+vsync_timšgs
+}
+
+42 \
+begš
+{
+figu»
+}[!
+h
+]
+
+43 \
+begš
+{
+ûÁ”
+}
+
+44 \
+šşudeg¿phics
+[
+width
+=12c
+m
+]{
+piùu»s
+/
+lcd_timšgs
+/
+vsync_Ëngth
+.
+jpg
+}
+
+45 \
+’d
+{
+ûÁ”
+}
+
+46 \
+ÿ±iÚ
+{
+L’gth
+ 
+time
+ 
+of
+ 
+Úe
+ 
+low
+ 
+aùive
+ 
+V
+-
+Sync
+ 
+pha£
+}
+
+47 \
+Ïb–
+{
+fig
+:
+vsync_aùive_time
+}
+
+48 \
+’d
+{
+figu»
+}
+
+49 \
+Ãw·ge
+
+
+50 \
+begš
+{
+figu»
+}[
+ht
+]
+
+51 \
+begš
+{
+ûÁ”
+}
+
+52 \
+šşudeg¿phics
+[
+width
+=12c
+m
+]{
+piùu»s
+/
+lcd_timšgs
+/
+vsync_³riode
+.
+jpg
+}
+
+53 \
+’d
+{
+ûÁ”
+}
+
+54 \
+ÿ±iÚ
+{
+Time
+ 
+Ëngth
+ 
+of
+ 
+Úe
+ 
+howl
+ 
+V
+-
+Sync
+ 
+³riod
+}
+
+55 \
+Ïb–
+{
+fig
+:
+Úe_vsync_³riod
+}
+
+56 \
+’d
+{
+figu»
+}
+
+58 \
+·geb»ak
+
+
+59 \
+sub£ùiÚ
+{
+OÃ
+ 
+Clock
+ 
+time
+ 
+Ëngth
+}%
+
+60 \
+Ïb–
+{
+sub
+:
+şock_time_Ëngth
+}
+
+61 \
+begš
+{
+figu»
+}[
+h
+!]
+
+62 \
+begš
+{
+ûÁ”
+}
+
+63 \
+šşudeg¿phics
+[
+width
+=12c
+m
+]{
+piùu»s
+/
+lcd_timšgs
+/
+³riode_time_1şk
+.
+jpg
+}
+
+64 \
+’d
+{
+ûÁ”
+}
+
+65 \
+ÿ±iÚ
+{
+Time
+ 
+Ëngth
+ 
+of
+ 
+Úe
+ 
+şock
+ 
+³riod
+}
+
+66 \
+Ïb–
+{
+fig
+:
+Úe_şock_time
+}
+
+67 \
+’d
+{
+figu»
+}
+
+70 \
+·geb»ak
+
+
+71 \
+sub£ùiÚ
+{
+Oth”
+ 
+m—su»d
+ 
+LCD
+ 
+timšgs
+}%
+
+72 \
+Ïb–
+{
+sub
+:
+Ùh”_m—su»d_lcd_timšgs
+}
+
+74 \
+begš
+{
+figu»
+}[
+h
+!]
+
+75 \
+begš
+{
+ûÁ”
+}
+
+76 \
+šşudeg¿phics
+[
+width
+=12c
+m
+]{
+piùu»s
+/
+lcd_timšgs
+/
+hsync_çÎšg_de_risšg
+.
+jpg
+}
+
+77 \
+’d
+{
+ûÁ”
+}
+
+78 \
+ÿ±iÚ
+{
+Time
+ 
+b‘w“n
+ 
+ht
+-
+Sync
+ 
+çÎšg
+ 
+edge
+ 
+ªd
+ 
+DE
+ 
+risšg
+ƒdge}
+
+79 \
+Ïb–
+{
+fig
+:
+hsync_de
+}
+
+80 \
+’d
+{
+figu»
+}
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/locations.tex
+
+1 \
+	gch­‹r
+{
+	gLoÿtiÚs
+}%
+
+2 \
+	gÏb–
+{
+	gcha
+:
+loÿtiÚs
+}
+
+4 \
+£ùiÚ
+{
+Projeù
+ 
+»Ëvªt
+ 
+fes
+ 
+šside
+ 
+the
+ 
+PTXdi¡
+ 
+bud
+ 
+machše
+}%
+
+5 \
+Ïb–
+{
+£c
+:
+»Ëvªt_fes
+}
+
+8 
+H”e
+ 
+is
+ 
+b¿ve
+ 
+ov”v›w
+ 
+ov”
+ 
+the
+ 
+loÿtiÚs
+ 
+wh”e
+ 
+to
+ 
+fšd
+ 
+»ûÁ
+ 
+fes
+ 
+b–Úgs
+o
+
+9 
+this
+ 
+´ojeù
+ 
+ªd
+ 
+the
+ 
+T–aœ
+ 
+IÁ”ÇtiÚ®
+ 
+GmbH
+ 
+šside
+h
+Vœtu®
+ 
+Box
+ 
+Lšux
+
+
+10 
+machše
+ 
+ªd
+ 
+šside
+ 
+the
+ 
+PTXdi¡
+ 
+´ojeù
+.
+
+12 \
+begš
+{
+desütiÚ
+}
+
+14 \
+™em
+[
+The
+ 
+PTXdi¡
+ 
+´ojeù
+ 
+™£lf
+] 
+is
+ 
+loÿ‹d
+ 
+šside
+ 
+the
+ \
+gls
+{
+VM
+} 
+©
+:
+
+16 \
+begš
+{
+®Ét
+}
+
+17 \
+‹xt™
+{/
+±xdi¡
+/
+´ojeùs
+/
+ı790760
+}
+
+18 \
+’d
+{
+®Ét
+}
+
+20 \
+‹xtbf
+{
+This
+ 
+loÿtiÚ
+ 
+is
+ 
+the
+ \
+‹xt™
+{
+´ojeù
+-
+roÙ
+}} 
+as
+ 
+™
+ 
+wl
+ 
+be
+ 
+ÿÎed
+
+
+21 
+fu¹h”
+ 
+Ú
+ 
+šside
+ 
+this
+ 
+docum’tiÚ
+.
+
+23 \
+™em
+[
+Sourû
+ 
+fes
+ 
+dowÆßded
+ 
+by
+ 
+PTXdi¡
+] 
+like
+ 
+the
+ 
+Lšux
+ 
+k”Ãl
+ 
+Ü
+ 
+soáw¬e
+
+
+24 
+·ck‘s
+ 
+ÿn
+ 
+be
+ 
+found
+ 
+š
+:
+
+26 \
+begš
+{
+®Ét
+}
+
+27 \
+‹xt™
+{/
+±xdi¡
+/
+sourûs
+}
+
+28 \
+’d
+{
+®Ét
+}
+
+30 
+This
+ 
+fŞd”
+ 
+could
+ 
+be
+
+
+31 
+u£d
+ 
+as
+ 
+a
+ 
+glob®
+ 
+sourû
+ 
+fŞd”
+ 
+Ùh”
+ 
+´ojeùs
+ 
+you
+ 
+¬e
+ 
+usšg
+ 
+this
+
+
+32 
+VM
+ 
+agaš
+. 
+Its
+ 
+®so
+ 
+possibË
+ 
+to
+ 
+loÿ‹
+ \
+‹xt™
+{
+Yoùo
+}Ø
+™
+.
+
+34 \
+™em
+[
+The
+ 
+ı790760
+ 
+soáw¬e
+ 
+sourûs
+] 
+¬e
+ 
+loÿ‹d
+ 
+š
+:
+
+36 \
+begš
+{
+®Ét
+}~\
+Ïb–
+{
+·¹
+:
+loÿtiÚ_ı790760_soáw¬e
+}
+
+37 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+loÿl
+\
+_sourûs
+/
+‹Ïœ
+-
+ı
+\
+_790760
+\
+_1
+ }
+
+38 \
+’d
+{
+®Ét
+}
+
+40 
+PTXdi¡
+ 
+is
+ 
+compšg
+ 
+this
+ 
+sourûs
+ 
+duršg
+ 
+the
+ 
+bud
+ 
+´ojeù
+ 
+ªd
+ 
+wl
+
+
+41 
+¶aû
+ 
+™
+ 
+što
+ 
+the
+ 
+SDC¬d
+ 
+roÙfs
+.
+
+43 \
+™em
+[
+The
+ 
+ı790760
+ 
+d©a
+ 
+fes
+] 
+like
+ 
+piùu»s
+ 
+Ü
+ 
+cÚfigu¿tiÚ
+ fes, 
+¬e
+
+
+44 
+loÿ‹d
+ 
+	gš
+:
+
+45 \
+begš
+{
+®Ét
+}
+
+46 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+loÿl
+\
+_sourûs
+/
+
+47 \
+qquad
+\(\
+hookrigh¼ow
+\è
+‹Ïœ
+-
+·¹iÚ
+-
+fes
+/·¹iÚ-
+d©a
+/files}
+
+48 \
+’d
+{
+®Ét
+}
+
+49 
+This
+ 
+¬e
+ 
+the
+ 
+fes
+ 
+which
+ 
+wl
+ 
+be
+ 
+¶aûd
+ 
+š
+h
+so
+ 
+ÿÎed
+ \
+‹xt™
+{
+d©a
+}
+
+50 
+·¹iÚ
+ 
+Ú
+ 
+the
+ 
+SDC¬d
+.
+
+52 \
+™em
+[
+The
+ 
+ı790760
+ 
+log
+ 
+fes
+] 
+¬e
+ 
+loÿ‹d
+ 
+š
+:
+
+53 \
+begš
+{
+®Ét
+}
+
+54 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+loÿl
+\
+_sourûs
+/
+
+55 \
+qquad
+\(\
+hookrigh¼ow
+\è
+‹Ïœ
+-
+·¹iÚ
+-
+fes
+/·¹iÚ-
+log
+/files}
+
+56 \
+’d
+{
+®Ét
+}
+
+57 
+This
+ 
+fes
+ 
+¬e
+ 
+Şd
+ 
+log
+ fes. Thi 
+mechªism
+ 
+to
+ 
+cİy
+ old†og fe 
+is
+
+
+58 
+Úly
+ 
+you
+ 
+like
+ 
+to
+ 
+upd©e
+ 
+the
+ 
+sy¡em
+ 
+ªd
+ 
+wªt
+Ø
+hŞd
+h
+Şd
+ 
+logs
+.
+
+59 
+Oth”wi£
+ 
+the
+ 
+ruÂšg
+ 
+sy¡em
+ 
+wl
+ 
+ü—‹
+ 
+Ãw
+ 
+fes
+ 
+aá”
+h
+sy¡ems
+
+
+60 
+boÙs
+ 
+the
+ 
+fœ¡
+ 
+time
+.
+
+62 \
+™em
+[
+The
+ 
+T–aœ
+ 
+¥ecific
+ 
+h¬dw¬e
+ 
+desütiÚ
+] 
+which
+ 
+is
+ 
+Ãeded
+ 
+by
+ 
+the
+ 
+Lšux
+
+
+63 
+K”Ãl
+ 
+ªd
+ 
+the
+ 
+soáw¬e
+ 
+is
+ 
+desüibed
+ 
+š
+ 
+a
+ 
+so
+ 
+ÿÎed
+ \
+gls
+{
+DTS
+} 
+fe
+.
+
+64 
+This
+ 
+desütiÚ
+ 
+is
+ 
+loÿ‹d
+ 
+š
+ 
+a
+ 
+fe
+ 
+ÿÎed
+:
+
+66 \
+begš
+{
+®Ét
+}
+
+67 \
+‹xt™
+{\
+‹xtbf
+{<
+´ojeù
+-
+roÙ
+>/
+loÿl
+\
+_¤c
+/
+‹Ïœ
+-
+·tches
+/
+lšux
+-4.4/
+
+68 \
+qquad
+\(\
+hookrigh¼ow
+\è/
+Ãw
+/
+¬m
+/
+boÙ
+/
+dts
+/
+‹Ïœ
+-
+am335x
+.dts}}
+
+69 \
+’d
+{
+®Ét
+}
+
+70 
+This
+ 
+¶aš
+ 
+‹xt
+ 
+desütiÚ
+ 
+is
+ 
+comped
+ 
+by
+ 
+PTXdi¡
+ 
+to
+ 
+ª
+ 
+bš¬y
+ 
+fe
+
+
+71 
+ÿÎed
+ \
+gls
+{
+DTB
+} 
+ªd
+ 
+is
+ 
+fš®ly
+ 
+loÿ‹d
+ 
+šside
+ 
+the
+ \
+‹xt™
+{
+fš®
+ 
+image
+}
+
+72 
+loÿtiÚ
+ 
+b–ow
+ 
+Ú
+ 
+s™e
+~\
+·g”ef
+{
+·¹
+:
+loÿtiÚ_fš®_image
+}.
+
+74 \
+™em
+[
+Oth”
+ 
+roÙfs
+ 
+fes
+] 
+like
+ 
+süts
+ 
+usšg
+ 
+by
+ 
+he
+ 
+ı790760
+ 
+soáw¬e
+ 
+¬e
+
+
+75 
+loÿ‹d
+ 
+š
+:
+
+77 \
+begš
+{
+®Ét
+}
+
+78 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+loÿl
+\
+_sourûs
+/
+
+79 \
+qquad
+\(\
+hookrigh¼ow
+\è
+‹Ïœ
+-
+·¹iÚ
+-
+fes
+/·¹iÚ-
+roÙfs
+/files}
+
+80 \
+’d
+{
+®Ét
+}
+
+81 
+This
+ 
+fes
+ 
+wl
+ 
+be
+ 
+æashed
+ 
+to
+ 
+the
+ 
+SDC¬d
+ 
+roÙfs
+ 
+·¹iÚ
+.
+
+83 \
+™em
+[
+Sourûs
+ 
+of
+ 
+	$·tched
+ (
+upd©ed
+è
+fes
+] 
+ü—‹d
+ 
+by
+ 
+the
+ 
+T–aœ
+
+
+84 
+IÁ”ÇtiÚ®
+ 
+GmbH
+ 
+to
+ 
+the
+ 
+soáw¬e
+ 
+·ck‘s
+,h
+Lšux
+ 
+k”Ãl
+ 
+Ü
+
+
+85 
+boÙlßd”
+, 
+ÿn
+ 
+be
+ 
+found
+ 
+š
+:
+
+87 \
+begš
+{
+®Ét
+}
+
+88 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+loÿl
+\
+_sourûs
+/
+‹Ïœ
+-
+·tches
+}
+
+89 \
+’d
+{
+®Ét
+}
+
+91 
+H”e
+ 
+you
+ 
+fšd
+ 
+the
+ \
+‹xt™
+{
+Şd
+} 
+ªd
+ \‹xt™{
+Ãw
+} 
+fes
+ 
+šside
+h
+fŞd”s
+
+
+92 
+Çmed
+ 
+cÜ»¥Údšg
+ 
+to
+ 
+the
+ 
+soáw¬e
+ 
+·ck‘s
+Ø
+·tch
+.
+
+93 \
+™em
+[
+The
+ \
+‹xt™
+{
+·tches
+} 
+™£lã
+] 
+ü—‹d
+ 
+by
+ 
+the
+ 
+T–aœ
+ 
+IÁ”ÇtiÚ®
+ 
+GmbH
+
+
+95 \
+begš
+{
+®Ét
+}
+
+96 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+·tches
+/<
+·ck‘
+-
+to
+-
+·tch
+>/
+‹Ïœ
+/}
+
+97 \
+’d
+{
+®Ét
+}
+
+99 
+This
+ 
+wl
+ 
+be
+ 
+execu‹d
+ 
+by
+ 
+PTXdi¡
+ 
+duršg
+ 
+bud
+ 
+autom©iÿÎy
+.
+
+101 \
+‹xtbf
+{
+ATTENTION
+}: 
+You
+ 
+Ãed
+ 
+to
+ \
+‹xt™
+{
+aùiv©e
+} 
+the
+ 
+·tches
+ 
+š
+ 
+a
+ 
+fe
+
+
+102 
+ÿÎed
+ \
+‹xt™
+{
+£r›s
+.
+MBa335x
+} 
+you
+ 
+like
+ 
+to
+ 
+ü—‹
+ 
+Ãw
+ 
+Úes
+ 
+Ü
+ 
+»Çme
+
+
+103 
+the
+ 
+exi¡šg
+ 
+Úes
+. 
+This
+ 
+fe
+ 
+defšes
+h
+Üd”
+ 
+š
+ 
+which
+ 
+·tches
+ 
+should
+
+
+104 
+be
+ 
+´efÜmed
+.
+
+106 \
+™em
+[
+Fš®
+ 
+images
+] 
+¬e
+ 
+loÿ‹d
+ 
+š
+:
+
+107 \
+begš
+{
+®Ét
+}~\
+Ïb–
+{
+·¹
+:
+loÿtiÚ_fš®_image
+}
+
+108 \
+‹xt™
+{<
+´ojeù
+-
+roÙl
+/
+¶©fÜm
+-
+MBa335x
+/
+images
+}
+
+109 \
+’d
+{
+®Ét
+}
+
+110 \
+™em
+[
+Süts
+] 
+like
+ 
+to
+ \
+‹xtbf
+{
+fÜm©
+} 
+ªd
+ \‹xtbf{
+æash
+} 
+the
+ 
+SDC¬d
+ 
+¬e
+
+
+111 
+loÿ‹d
+ 
+šside
+:
+
+112 \
+begš
+{
+®Ét
+}
+
+113 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+toŞs
+/
+‹Ïœ
+}
+
+114 \
+’d
+{
+®Ét
+}
+
+115 %
+Inside
+ <
+´ojeù
+-
+roÙ
+> 
+you
+ 
+fšd
+ 
+ª
+ \
+gls
+{
+symlšk
+} 
+poštšg
+ 
+to
+ 
+the
+ 
+toŞs
+.
+
+117 \
+™em
+[
+Lšux
+ 
+K”Ãl
+ 
+ªd
+ 
+PTX
+ 
+´ojeù
+ 
+cÚfigu¿tiÚs
+]
+¬e
+ 
+loÿ‹d
+ 
+š
+:
+
+118 \
+begš
+{
+®Ét
+}
+
+119 \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+cÚfigs
+/
+¶©fÜms
+/
+tqma335x
+/
+mba335x
+/}
+
+120 \
+’d
+{
+®Ét
+}
+
+121 
+H”e
+ 
+you
+ 
+fšd
+ 
+the
+:
+
+122 \
+begš
+{
+™emize
+}
+
+123 \
+™em
+ 
+Lšux
+ 
+k”Ãl
+ 
+cÚfigu¿tiÚ
+ 
+š
+ 
+a
+ 
+fe
+ 
+ÿÎed
+
+
+124 \
+‹xt™
+{
+k”ÃlcÚfig
+-4.4}
+
+126 \
+™em
+ 
+PTXdi¡
+ 
+BSP
+ 
+¶©fÜm
+ 
+cÚfigu¿tiÚ
+ 
+š
+ 
+a
+ 
+fe
+
+
+127 
+ÿÎed
+ \
+‹xt™
+{
+¶©fÜmcÚfig
+} 
+This
+ 
+is
+ 
+the
+
+
+128 \
+‹xtbf
+{
+´ojeù
+ 
+cÚfigu¿tiÚ
+}
+
+129 \
+’d
+{
+™emize
+}
+
+130 
+The
+ \
+‹xtbf
+{
+PTXdi¡
+ 
+g’”®
+ 
+cÚfigu¿tiÚ
+} 
+ÿn
+ 
+be
+ 
+found
+ 
+š
+ 
+a
+ 
+fe
+ 
+ÿÎed
+
+
+131 \
+Ãwlše
+ \
+‹xt™
+{<
+´ojeù
+-
+roÙ
+>/
+cÚfigs
+/
+sy¡ems
+/
+qt
+/
+±xcÚfig
+}
+
+133 
+How
+ 
+to
+ 
+ed™
+ 
+this
+ 
+fes
+ 
+by
+ 
+a
+ 
+ÿÎ
+Ø\
+‹xt™
+{
+±xdi¡
+} 
+is
+ 
+docum’‹d
+ 
+š
+
+
+134 
+the
+ \
+‹xt™
+{
+Fœ¡
+ 
+¡•s
+ 
+to
+ 
+PTXdi¡
+} 
+ch­‹r
+ 
+founded
+ \
+Ãwlše
+
+
+135 
+š
+~\
+c™e
+[
+PTXDi¡
+ 
+Úlše
+ 
+docum’tiÚ
+]{
+±xdi¡_docu
+}
+
+137 
+You
+ 
+ÿn
+ 
+®so
+ 
+fšd
+ 
+symbŞic
+ 
+lšks
+ 
+poštšg
+ 
+to
+ 
+the
+ 
+u£d
+ 
+cÚfigu¿tiÚs
+
+
+138 
+šside
+ <
+´ojeù
+-
+roÙ
+>.
+
+140 \
+™em
+[
+PTXdi¡
+ 
+š¡®l
+ 
+dœeùÜy
+] 
+is
+ 
+loÿ‹d
+ 
+šside
+ 
+the
+ 
+bud
+ 
+ho¡
+ 
+š
+:
+
+141 \
+begš
+{
+®Ét
+}
+
+142 \
+Ãwlše
+ \
+‹xt™
+{/
+u¤
+/
+loÿl
+/
+lib
+/
+±xdi¡
+-2016.04.0/}
+
+143 \
+’d
+{
+®Ét
+}
+
+144 
+Th”e
+ 
+you
+ 
+fšd
+ 
+®l
+ 
+g’”®
+ 
+ruËs
+.
+make
+ 
+which
+ 
+¬e
+ 
+´edefšed
+ 
+be
+
+
+145 
+PšguŒÚix
+ / 
+PTXdi¡
+ 
+to
+ 
+bud
+ 
+commÚ
+ 
+·ck‘s
+ 
+ªd
+ 
+the
+ 
+Lšux
+ 
+k”Ãl
+
+
+146 
+™£lf
+. 
+OÆy
+ 
+ruËs
+.
+make
+ 
+add™iÚ®
+ 
+soáw¬e
+ 
+added
+ 
+by
+ 
+TQ
+ 
+Sy¡ems
+
+
+147 
+add™iÚ®ly
+ 
+¬e
+ 
+šside
+ 
+the
+ 
+BSP
+ \
+‹xt™
+{
+ruËs
+} 
+dœeùÜy
+.
+
+149 \
+™em
+[
+Bash
+, 
+VIM
+, 
+G™
+ 
+ªd
+ 
+Ùh”
+ 
+Lšux
+ 
+bud
+ 
+ho¡
+ 
+cÚfigu¿tiÚ
+] 
+¬e
+ 
+loÿ‹d
+
+
+150 
+und”
+ 
+the
+ 
+	gu£r
+ \
+	g‹xt™
+{
+±xdi¡
+ 
+	ghome
+} 
+dœeùÜy
+ (\~/). 
+Take
+ 
+a
+ 
+look
+ 
+što
+
+
+151 
+this
+ 
+fes
+ 
+to
+ 
+g‘
+ 
+šfÜm©iÚ
+ 
+how
+ 
+the
+ 
+vœtu®
+ 
+Lšux
+ 
+bud
+ 
+ho¡
+ 
+is
+
+
+152 
+	gcÚfigu»d
+.
+
+153 \
+	g’d
+{
+	gdesütiÚ
+}
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/outlook.tex
 
 2 \
 	gch­‹r
@@ -4504,7 +17622,7 @@ ausblick
 }
 
 6 \
-ch­‹r
+£ùiÚ
 {
 U
 -
@@ -4524,21 +17642,9 @@ TFTP
 7 \
 Ïb–
 {
-cha
+£c
 :
-U
--
-BoÙ
- 
-wÜkšg
- 
-w™h
- 
-NFS
- 
-ªd
- 
-TFTP
+uboÙ_nf¡áp
 }
 
 9 
@@ -4632,20 +17738,22 @@ wÜk
  
 w™h
  
-your
+	gyour
 
 
-14 
-	gtáp
--
+14 \
+	ggls
+{
+	gTFTP
+} 
 £rv”
  
 ªd
  
-your
- 
-	gnfs
--
+	gyour
+ \gls{
+	gNFS
+} 
 	g£rv”
 . 
 H”e
@@ -4661,23 +17769,31 @@ some
 to
  
 be
- 
-´efÜmed
-o
+
 
 15 
+´efÜmed
+ 
+to
+ 
 g‘
  
 ™
  
 	gruÂšg
-\\
+
 
 17 \
+	gÃw·ge
+
+
+19 \
 	gbegš
 {
 	gl¡li¡šg
 }[
+gobbË
+=4, 
 Ïnguage
 =
 bash
@@ -4689,21 +17805,51 @@ numb”s
 ÿ±iÚ
 =
 CÚfigu»
+
+
+20 
+boÙbŞßd”
+ (
+B¬ebox
+ 
+Ü
  
 U
 -
 BoÙ
- 
+è
+to
+ 
+u£
+ 
 NTFS
-
-
-18 
+ 
 ªd
  
 TFTP
-]
+.]
 
-19 
+21 #Th
+boÙlßd”
+ 
+should
+ 
+Œy
+ 
+to
+ 
+lßd
+ 
+ªy
+ 
+image
+ 
+usšg
+ 
+TFTP
+
+
+22 
 £‹nv
  
 autŞßd
@@ -4711,41 +17857,79 @@ autŞßd
 no
 
 
-20 
+24 #Th
+IP
+ 
+of
+ 
+the
+ 
+TFT
+-
+S”v”
+ 
+ho¡
+. 
+Like
+ 192.168.100.1
+
+25 
 £‹nv
  
 £rv”
- <£rv”> #(
-e
-.
-g
-.: setenv serverip 192.168.100.1)
+ <serverip>
 
-21 
+27 #OwÀ
+machše
+ 
+IP
+ 
+add»ss
+. 
+Like
+ 192.168.100.10
+
+28 
 £‹nv
  
 addr
- <addr> #(
-e
-.
-g
-.: setenv ipaddr 192.168.0.10)
+ <ipaddr>
 
-22 
+30 #N‘wÜmask 
+bÙhe
+ 
+machšes
+ 
+¬e
+ 
+š
+. 
+Like
+ 255.255.255.0
+
+31 
 £‹nv
  
 Ãtmask
- <Ãtmask> #(
-e
-.
-g
-.: setenv‚etmask 255.255.255.0)
+ <netmask>
 
-23 
-£‹nv
+33 #P©h 
+to
  
-roÙ·th
- <roÙ·th> #(
+roÙ
+ 
+fŞd”
+ 
+which
+ 
+should
+ 
+be
+ 
+sh¬ed
+
+
+34 #ATTATION 
 NFS
  
 sh¬e
@@ -4761,29 +17945,33 @@ to
 ‘c
 /
 expÜts
+
+
+35 #ATTATION 
+NFS
+-
+S”v”
+ 
+has
+ 
+to
+ 
+run
  
 Ú
  
 the
  
-Compu‹r
- 
-th©
- 
-runs
-hNFS 
-£rv”
- 
-fœ¡
-)
+ho¡
 
-24 
+
+36 
 £‹nv
  
-dtb
- <dtb> #(
-Çme
- 
+roÙ·th
+ <rootpath>
+
+38 #Çm
 of
  
 deviûŒ“
@@ -4795,29 +17983,23 @@ to
 be
  
 dowÆßded
- 
-äom
- 
-the
- 
-táp
- 
-£rv”
-)
 
-25 
+
+39 
 £‹nv
  
-k”Ãl
- <k”Ãl> #(
-Çme
- 
+dtb
+ <dtb>
+
+41 #Çm
 of
  
 the
  
 Lšux
- k”ÃÈ
+ 
+k”Ãl
+ 
 image
  
 to
@@ -4825,37 +18007,79 @@ to
 be
  
 dowÆßded
+
+
+42 
+£‹nv
  
-äom
+k”Ãl
+ <kernel>
 
-
-26 #th
-táp
+44 #Dœeù 
+¡¬t
  
-£rv”
-)
+lßd
+ 
+ªd
+ s¹ 
+the
+ 
+k”Ãl
 
-27 \
+
+45 #NOTE 
+S‘tšg
+ 
+is
+ 
+nÙ
+ 
+Ãeded
+ 
+ªd
+‚Ù 
+d•’ded
+ 
+to
+ 
+TFTP
+/
+NFS
+
+
+46 
+£‹nc
+ 
+auto¡¬t
+ 
+Ú
+
+
+48 \
 ’d
 {
 l¡li¡šg
 }
 
-29 \
-ch­‹r
+50 \
+Ãw·ge
+
+
+52 \
+£ùiÚ
 {
 QEMU
 }%
 
-30 \
+53 \
 Ïb–
 {
-cha
+£c
 :
 QEMU
 }
 
-31 
+54 
 To
  
 deü—£
@@ -4877,16 +18101,16 @@ soáw¬e
 h¬dw¬e
  
 bugs
-,
-
-32 
+, 
 ™
  
 would
- 
+
+
+55 
 be
  
-u£fuÎ
+u£ful
  
 to
  
@@ -4898,29 +18122,27 @@ h¬dw¬e
  
 by
  
-	gqemu
-.
-
-33 
+	gQEMU
+.\@ 
 This
  
 would
  
 make
- 
-the
- 
+h
 u£
  
 of
  
 ª
  
-nfs
- 
+NFS
+
+
+56 
 ªd
  
-táp
+TFTP
  
 £rv”
  
@@ -4931,9 +18153,9 @@ possibË
 by
  
 addšg
-‡n
-
-34 
+ 
+ª
+ 
 vœtu®
  
 ÃtwÜk
@@ -4941,11875 +18163,9 @@ vœtu®
 	gad­‹r
 .
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/einleitung.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/overview.tex
 
-1 \
-	gch­‹r
-{
-	gIÁroduùiÚ
-} \
-	gÏb–
-{
-	gchp
-:
-ešË™ung
-}
-
-3 
-The
- 
-cÚŒŞ
- 
-	$·Ãl
- (
-CP
-è
-the
- 
-T–aœ
- 
-ÿrgo
- 
-lßdšg
- 
-sy¡em
- 
-is
- 
-a
- 
-ş›Á
--
-£rv”
-
-
-4 
-sy¡em
- 
-communiÿtšg
- 
-ov”
- 
-ª
- 
-CAN
- 
-š‹rçû
-. 
-The
- 
-cÚŒŞ
- 
-·Ãl
-
-
-5 
-is
- 
-the
- 
-ş›Á
- 
-which
- 
-g‘s
- 
-šput
- 
-äom
- 
-bu‰Ús
- 
-ªd
- 
-sw™ches
-, 
-di¥Ïys
-h
-aùiÚ
-
-
-6 
-Ú
- 
-ª
- 
-LCD
- 
-ªd
- 
-£nds
- 
-šfÜm©iÚ
- 
-ov”
- 
-to
- 
-the
- 
-£rv”
-. 
-On
-h
-ş›Á
- 
-sy¡em
-‡n
-
-7 
-Lšux
- 
-sy¡em
- 
-is
- 
-ruÂšg
-, 
-š‹¿tšg
- 
-bew“n
- 
-U£r
- 
-šput
- 
-ªd
- 
-hªd–s
- 
-the
- 
-sks
-.
-
-8 
-to
- 
-be
- 
-´efÜmed
-. 
-OÆy
- 
-the
- 
-ş›Á
- 
-sy¡em
- 
-äom
-h
-Soáw¬e
- 
-side
- 
-is
- 
-desüt
- 
-š
-
-
-9 
-this
- 
-docum’t
-.
-
-11 \
-£ùiÚ
-{
-About
- 
-the
- 
-Lšux
- 
-K”Ãl
-}%
-
-12 \
-	gÏb–
-{
-	g£c
-:
-About
- 
-the
- 
-Lšux
- 
-K”Ãl
-}
-
-14 
-A
- 
-mašlše
- 
-Lšux
- 
-k”Ãl
- 
-v”siÚ
- 4.4.39 
-is
- 
-ruÂšg
- 
-Ú
- 
-this
- 
-h¬dw¬e
-. 
-This
- kernel
-
-15 
-v”siÚ
- 
-is
- 
-com·tibË
- 
-to
- 
-the
- 
-Ï¡
- 
-»Ëa£
- 
-of
- 
-BSP
- 
-·cked
- v”siÚ 119 
-suµÜtšg
-
-
-16 
-the
- 
-Ï¡
- 
-»visiÚ
- 2.2.3 
-of
-h
-tqma335x
- 
-moduË
-. 
-The
- 
-u£d
- \
-gls
-{
-BSPaü
-} 
-was
-
-
-17 
-»Ëa£d
- 
-š
- 
-Dezemb”
- 2019. 
-To
- 
-be
- 
-com·tibË
- 
-to
- 
-this
- 
-BSPi
-, 
-was
- 
-the
- 
-»asÚ
-
-
-18 
-choosšg
- 
-this
- 
-k”Ãl
- 
-v”siÚ
- 
-ªd
- 
-nÙ
- 
-a
- 
-cu¼’t
- 
-Lšux
- 
-	gk”Ãl
- 5.x. \\
-
-20 
-Some
- 
-chªges
- 
-w”e
- 
-made
- 
-to
- 
-the
- 
-Lšux
- 
-mašlše
- 
-K”Ãl
- 
-like
- 
-»¶acšg
-h
-DRM
- 
-video
-
-
-21 
-driv”s
- 
-to
- 
-g‘
- 
-the
- 
-LCD
- 
-ruÂšg
- 
-accÜdšg
-Øth
-TI
- 
-	g”¿
-
-
-22 \
-	gc™e
-{
-	gTI_am335x_”¿
-} 
-as
- 
-w–l
-‡ 
-chªges
- 
-š
- 
-the
- 
-K”Ãl
- 
-	gcÚfigu¿tiÚ
-. \\
-
-24 
-The
- 
-howl
- 
-chªges
- 
-made
- 
-to
- 
-mašlše
- 
-k”Ãl
- 
-´ovided
- 
-by
- 
-the
- 
-TQ
- 
-BSP
- 
-·ck‘
- 
-	gv”siÚ
-
-
-25 119 \
-	gc™e
-{
-	gtq_b¥119
-} 
-¬e
- 
-desüibed
- 
-duršg
- 
-the
- 
-fŞlowšg
- 
-ch­‹rs
- 
-šside
- 
-this
-
-
-26 
-	gdocum’t
-. 
-Th©s
- 
-wh©
- 
-this
- 
-docum’t
- 
-is
- 
-	gabout
-.
-
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/final_images.tex
-
-1 \
-	gch­‹r
-{
-Fš®
- 
-	gimages
-}%
-
-2 \
-	gÏb–
-{
-	gcha
-:
-Fš®
- 
-images
-}
-
-3 
-The
- 
-fŞlowšg
- 
-li¡šgs
- 
-gives
- 
-ª
- 
-ov”v›w
- 
-to
- 
-the
- 
-cu¼’y
- 
-g’”©ed
- 
-fš®
- 
-fes
-
-
-4 
-ÿÎed
- \
-‹xt™
-{
-images
-} 
-loÿ‹d
- 
-š
- 
-the
- 
-PTXdi¡
- 
-image
- 
-ouut
- 
-fŞd”
- (
-
-5 \
-fuÎ»f
-{
-cha
-:
-loÿtiÚs
-}è\
-·g”ef
-{
-chp
-:locations}.
-
-6 \
-·g”ef
-{
-chp
-:
-ešË™ung
-}
-
-8 \
-£ùiÚ
-{
-Com¶‘e
- 
-sy¡em
- 
-image£
-}%
-
-9 
-The
- 
-fŞlowšg
- 
-images
- 
-¬e
- 
-com¶‘e
- 
-SDC¬d
- image 
-which
- 
-ÿn
- 
-be
- 
-æashed
- 
-to
- 
-the
-
-
-10 
-SDC¬d
-.
-
-11 \
-Ïb–
-{
-£c
-:
-com¶—‹
- 
-sy¡em
- 
-images
-}
-
-13 \
-begš
-{
-™emize
-}
-
-14 \
-™em
- 
-sd
-.
-hdimg
- : 
-is
- 
-a
- 
-boÙabË
- 
-image
- 
-´im¬y
- 
-SD
- 
-C¬d
-.
-
-15 
-This
- 
-Úe
- 
-ÿn
- 
-be
- 
-®so
- 
-u£d
- 
-memÜy
- 
-ch
-.
-
-16 \
-™em
- 
-boÙ
--
-mlo
-.
-vçt
- : 
-çt
- 
-fesy¡em
- 
-w™h
- 
-MLO
-, 
-	gu
--boÙ 
-ªd
- 
-	gLšux
--
-	gk”Ãl
-
-
-17 \
-	g’d
-{
-	g™emize
-}
-
-19 \
-	g‹xtbf
-{
-	gATTATION
-:} 
-This
- 
-image
- 
-ty³s
- 
-£ems
- 
-nÙ
- 
-to
- 
-wÜk
- 
-you
- 
-æash
- 
-™
-. 
-PËa£
-
-
-20 
-u£
- 
-the
- 
-süt
- 
-š
-h
-toŞs
- 
-loÿtiÚ
-. 
-Reãr
- 
-to
- \
-fuÎ»f
-{
-cha
-:
-loÿtiÚs
-}.
-
-22 \
-£ùiÚ
-{
-BoÙlßd”
- 
-images
-}%
-
-23 \
-Ïb–
-{
-£c
-:
-BoÙlßd”
- 
-images
-}
-
-25 
-The
- 
-fŞlowšg
- 
-BoÙlßd”
- 
-images
- 
-¬e
- 
-ü—‹d
-:
-
-27 \
-begš
-{
-™emize
-}
-
-28 \
-™em
- 
-u
--
-boÙ
-.
-bš
-
-
-29 \
-™em
- 
-u
--
-boÙ
-.
-img
- : u-boÙ 
-image
- 
-SD
- 
-C¬d
-/
-eMMC
-. 
-It
- 
-Ãeds
- 
-to
- 
-be
- 
-cİ›d
-o
-
-30 
-the
- 
-·¹iÚ
- 
-Ü
- 
-£ùiÚ
- \
-‹xt™
-{
-boÙ
-}.
-
-31 \
-™em
- 
-u
--
-boÙ
-\
-_¥i
-.
-bš
-
-
-32 \
-™em
- 
-u
--
-boÙ
-\
-_¥i
-.
-img
- : u-boÙ 
-image
- 
-SPI
- 
-NOR
- 
-FÏsh
-
-
-33 \
-™em
- 
-MLO
- : (
-£cÚd
- 
-´og¿m
- 
-lßd”
- 
-SPL
-è
-SD
- 
-C¬d
-/
-eMMC
-
-
-34 \
-™em
- 
-MLO
-\
-_¥i
-.
-by‹sw­
-
-
-35 \
-’d
-{
-™emize
-}
-
-38 \
-£ùiÚ
-{
-Liunx
- 
-images
-}%
-
-39 \
-Ïb–
-{
-£c
-:
-Liunx
- 
-images
-}
-
-41 
-The
- 
-fŞlowšg
- 
-Lšux
- 
-images
- 
-¬e
- 
-ü—‹d
-:
-
-43 \
-begš
-{
-™emize
-}
-
-44 \
-™em
- 
-lšuximage
-: 
-An
- 
-zImage
- 
-g’”©ed
- 
-by
- 
-±xdi¡
- 
-w™h
- 
-this
- 
-Çme
-. 
-It
- 
-Ãeds
- 
-to
-
-
-45 
-be
- 
-»Çmed
- 
-to
- \
-‹xt™
-{
-zImage
-}
-
-46 \
-™em
- 
-zImage
-: 
-The
- 
-»Çmed
- 
-lšuximage
-. 
-It
- 
-Ãeds
- 
-to
- 
-be
- 
-cİ›d
- 
-što
- 
-the
-
-
-47 
-·¹iÚ
- 
-Ü
- 
-memÜy
- 
-£ùiÚ
- \
-‹xt™
-{
-boÙ
-}.
-
-48 \
-™em
- 
-uImage
-: 
-The
- 
-zImage
- 
-w™h
- 
-ª
- 
-add™iÚ
- 
-h—d”
- 
-Ãeded
- 
-by
- 
-u
--
-boÙ
-
-
-49 \
-™em
- 
-am335x
--
-mba335x
-.
-dtb
-: 
-deviû
- 
-Œ“
- 
-blob
- 
-the
- 
-T–aœ
- 
-PCBA
-. 
-Its
- 
-bud
-
-
-50 
-Útİ
- 
-of
- 
-the
- 
-TQ
- 
-tqma335x
- 
-ch
- 
-which
- 
-is
- 
-™£lf
- 
-bud
- 
-Ú
- 
-ti
- 
-am335x
-
-
-51 
-miüocÚŒŞËr
-. 
-FÜ
- 
-d‘as
- 
-»ãr
- 
-to
- \
-fuÎ»f
-{
-cha
-:
-dts
-}.
-
-52 \
-’d
-{
-™emize
-}
-
-55 \
-£ùiÚ
-{
-RoÙ
- 
-fs
- 
-images
-}%
-
-56 \
-Ïb–
-{
-£c
-:
-RoÙ
- 
-fs
- 
-imges
-}
-
-58 \
-begš
-{
-™emize
-}
-
-59 \
-™em
- 
-roÙ
-.
-ext2
- : 
-The
- 
-howl
- 
-cÚ‹Á
- 
-the
- 
-roÙfs
- 
-·¹iÚ
- 
-Ü
- 
-memÜy
- 
-£ùiÚ
-
-
-60 
-usšg
- 
-the
- 
-ext2
-/3/4 
-fesy¡em
-.
-
-61 \
-’d
-{
-™emize
-}
-
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex
-
-1 % % % % % % % % % % % % % % % % %
-	gGlos§r
-
-
-2 \
-	ggl¤e£Î
-
-
-4 \
-	gÃwglos§ry’Œy
-{
-	gBSP
-}{
-
-5 
-	gÇme
-=
-BSP
-,
-
-6 
-	gdesütiÚ
-={
-A
- 
-bßrd
- 
-suµÜd
- 
-·ck‘
- 
-hŞds
- \
-gls
-{
-m‘ad©a
-} 
-how
- 
-to
- 
-bud
- 
-soáw¬e
-
-
-7 
-a
- 
-h¬dw¬e
- 
-diviû
-. 
-So
- 
-™
- 
-desüts
- 
-wh»
- 
-to
- 
-dowÆßd
- (
-ªd
- 
-which
-è
-Ãeded
-
-
-8 
-soáw¬e
- 
-·ck‘es
-, 
-how
- 
-to
- 
-bud
- 
-ªd
- 
-š¡®l
- 
-tham
- 
-as
- 
-®so
- 
-cÚfigu¿tiÚ
- 
-fes
-
-
-9 
-ªd
- 
-£‰šgs
-. 
-Oá’
- 
-™
- 
-šşudes
- 
-Ãÿs§ry
- 
-comp”
- 
-·cked‘s
-‡nd 
-Ùh”
-
-
-10 
-¡uff
- 
-Ãdded
- 
-to
- 
-sugessfuÎ
- 
-bud
- 
-soáw¬e
- 
-a
- 
-diviû
- 
-aka
- 
-h¬dw¬e
- 
-bßrd
-.
-
-12 \
-	gÃwglos§ry’Œy
-{
-	gNFS
-}{
-
-13 
-	gÇme
-=
-NFS
-,
-
-14 
-	gdesütiÚ
-={ 
-Das
- \
-aüfuÎ
-{
-NFSaü
-}, (
-auch
- 
-N‘wÜk
- 
-Fe
- 
-S”viû
-è
-i¡
- 
-eš
-
-
-15 Ãœ
-b”Œagungs£rviû
-. 
-Dabei
- 
-w”d’
- 
-d›
- 
-D©e›n
- 
-nicht
- 
-w›
- 
-z
-.Â 
-B
-. 
-bei
-
-
-16 \
-aüfuÎ
-{
-FTPaü
-} 
-od”
- \aüfuÎ{
-TFTPaü
-} Ã¼
-b”Œag’
-, 
-sÚd”n
- 
-d›
- 
-B’utz”
- 
-k
-Ã¶
-Â’
-
-
-17 
-auf
- 
-D©e›n
-, 
-d›
- 
-sich
-‡uà
-ešem
- 
-’tãº‹n
- 
-RechÃr
- 
-befšd’
-, 
-so
- 
-zug»iãn
-,
-
-18 
-®s
- 
-ob
- 
-s›
- 
-auf
- 
-ih»r
- 
-lok®’
- 
-Fe¡¶©‹
- 
-abge¥eich”t
- 
-w
-Ã¤
-»n
-. 
-UÁ”
- 
-Unix
-
-
-19 
-B‘r›bssy¡em’
- 
-Ïs£n
- 
-sich
- 
-d›£
- 
-N‘zw”käeigab’
- 
-dœekt
- 
-š
- 
-das
-
-
-20 
-D©eisy¡em
- 
-ešh
-Ã¤
-ng’
- 
-’t¥»ch’d
- 
-w›
- 
-z
-.
-B
-. 
-Fe¡¶©‹n
-. }
-
-24 \
-	gÃwglos§ry’Œy
-{
-	gTFTP
-}{
-
-25 
-	gÇme
-=
-TFTP
-,
-
-26 
-	gdesütiÚ
-={
-Das
- \
-aüfuÎ
-{
-TFTPaü
-} 
-i¡
- 
-eš
- 
-im
-
-
-27 
-FumktiÚsumçng
- 
-¡¬k
- 
-v”ešçch‹s
- \
-aüfuÎ
-{
-FTPaü
-} 
-und
- 
-»duz›¹es
- 
-PrÙokŞl
-, 
-das
-
-
-28 
-Ëdiglich
- 
-das
- 
-£nd’
- 
-und
- da 
-empçng’
- 
-vÚ
- 
-D©e›n
- 
-”m
-Ã¶
-glicht
-.}
-
-31 \
-	gÃwglos§ry’Œy
-{
-	gGIT
-}{
-
-32 
-	gÇme
-=
-GIT
-,
-
-33 
-	gdesütiÚ
-={ 
-G™
- 
-i¡
- 
-eše
- 
-äe›
- 
-Soáw¬e
- 
-zur
- 
-v”‹‹n
- 
-V”siÚsv”w®tung
- 
-vÚ
-
-
-34 
-D©e›n
-, 
-d›
- 
-durch
- 
-Lšus
- 
-TÜv®ds
- 
-š™i›¹
- 
-wurde
-. 
-Es
- 
-¬be™’
- 
-im
- 
-geg’§tz
-
-
-35 
-zu
- 
-ªd”’
- 
-V”siÚsv”w®tung’
- 
-m™
- 
-lok®’
- 
-®s
- 
-auch
- 
-ex‹º’
- 
-R•o£tÜ›s
-.
-
-39 \
-	gÃwglos§ry’Œy
-{
-	gDock”fe
-}{
-
-40 
-	gÇme
-=
-Dock”fe
-,
-
-41 
-	gdesütiÚ
-={
-Eš
- 
-Dock”fe
- 
-besch»ibt
- 
-w›
- 
-eš
- \
-gls
-{
-Dock”
-} 
-CÚš”
- (
-Image
-)
-
-42 
-gebaut
- 
-w”d’
- 
-sŞl
-, 
-g’au”
- 
-w–che
- 
-ToŞs
- 
-und
- 
-KÚfigu¿tiÚ’
- 
-d”
-
-
-43 
-CÚš”
- 
-’th®‹n
- 
-sŞl
-.}
-
-46 \
-	gÃwglos§ry’Œy
-{
-	gCVS
-}{
-
-47 
-	gÇme
-=
-CVS
-,
-
-48 
-	gdesütiÚ
-={
-
-49 
-The
- \
-aüfuÎ
-{
-CVSaü
-}, 
-®so
- 
-known
- 
-as
- 
-the
- 
-CÚcu¼’t
- 
-V”siÚšg
-
-
-50 
-Sy¡em
-, 
-is
- 
-a
- 
-ä“
- 
-ş›Á
--
-£rv”
- 
-»visiÚ
- 
-cÚŒŞ
- 
-sy¡em
- 
-š
- 
-the
- 
-f›ld
- 
-of
- 
-soáw¬e
-
-
-51 
-dev–İm’t
-. 
-A
- 
-v”siÚ
- 
-cÚŒŞ
- 
-sy¡em
- 
-k“ps
- 
-Œack
- 
-of
- 
-®l
- 
-wÜk
- 
-ªd
-‡Î 
-chªges
- 
-š
-
-
-52 
-a
- 
-£t
- 
-of
- 
-fes
-, 
-ªd
- 
-®lows
- 
-£v”®
- 
-dev–İ”s
- (
-pÙ’tŸÎy
- 
-wid–y
- 
-£·¿‹d
- 
-š
-
-
-53 
-¥aû
- 
-ªd
- 
-time
-è
-to
- 
-cŞÏbÜ©e
-. 
-It
- 
-was
- 
-štŸl
- 
-»Ëa£d
- 1990 
-und”
- 
-the
- 
-GNU
- 
-G’”®
-
-
-54 
-Public
- 
-Licš£
-. 
-Dev–İm’t
- 
-ªd
- 
-suµÜt
- 
-¡İs
- 
-w™h
- 
-a
- 
-Ï¡
- 
-»Ëa£
- 
-š
- 2008.
-
-57 \
-	gÃwglos§ry’Œy
-{
-	gVCS
-}{
-
-58 
-	gÇme
-=
-VCS
-,
-
-59 
-	gdesütiÚ
-={
-
-60 
-A
- \
-aüfuÎ
-{
-VCSaü
-} 
-is
- 
-a
- 
-compÚ’t
- 
-of
- 
-soáw¬e
- 
-cÚfigu¿tiÚ
- 
-mªagem’t
- 
-ªd
-
-
-61 
-v”siÚ
- 
-cÚŒŞšg
- 
-to
- 
-Œack
- 
-chªges
- 
-Ú
- 
-¶aš
- 
-‹xt
- (
-ASCII
-è
-fes
-. 
-Mo¡
- 
-sy¡ems
-
-
-62 
-like
- \
-gls
-{
-GIT
-} 
-´ovide
- 
-mechªism’
- 
-to
- 
-d—l
- 
-w™h
- 
-such
- 
-chªges
-†ik
-togglšg
-
-
-63 
-b‘w“n
- 
-Ús
- 
-Ü
- 
-com·»
- 
-them
-. \
-aülÚg
-{
-VCSaü
-} 
-¬e
- 
-®so
- 
-known
- 
-as
- \
-‹xt™
-{
-»visiÚ
-
-
-64 
-cÚŒŞ
- 
-sy¡ems
-} 
-Ü
- \
-‹xt™
-{
-sourû
- control systems}.
-
-69 \
-	gÃwglos§ry’Œy
-{
-	gYoùo
-}{
-
-70 
-	gÇme
-=
-Yoùo
-,
-
-71 
-	gdesütiÚ
-={
-
-72 
-Das
- 
-Yoùo
- 
-Projeù
- 
-bezeichÃt
- 
-eše
- 
-Commun™y
- 
-Gruµe
-, 
-w–che
-
-
-73 
-sich
- 
-zur
- 
-Aufgabe
- 
-gemacht
- 
-h©
-, 
-dass
- 
-”¡–Ën
- 
-vÚ
- 
-Lšux
- 
-Di¡ributiÚ’
- 
-f
-Ã¼
-r
-
-
-74 
-ešgeb‘‹t
- 
-Sy¡em
- 
-zu
- 
-v”ešçch’
-. 
-D›
- 
-Yoùo
- 
-commun™y
- 
-¡–É
- 
-M‘a
--
-D©’
- (
-Reces
-è
-b”e™
-, 
-um
- 
-eš
- 
-mšim®i¡isches
-
-
-75 
-B‘r›bssy¡em
- 
-m™
- 
-grundËg’d’
- 
-Lšux
- \
-gl¥l
-{
-ToŞ
-} 
-uÁ”
- 
-d”
- 
-Vœtu®is›rungsumgebung
-
-
-76 \
-‹xt™
-{\
-gls
-{
-QEMU
-}} 
-f
-Ã¼
-r
- 
-v”sch›d’e
- 
-aüh™ektu»n
- 
-¡¬‹n
- 
-zu
- 
-k
-Ã¶
-Â’
-.
-
-77 
-Das
- 
-Mšim®i¡’
- 
-B‘r›bssy¡em
- 
-d”
- 
-Yoùo
- 
-Commun™y
- 
-wœd
- \
-‹xt™
-{\
-gls
-{
-Poky
-}}
-
-78 
-g’ªÁ
-. 
-Zudem
- 
-Pæegt
- 
-es
- 
-zu§mm’
- 
-m™
- 
-d”
- \
-gls
-{
-O³nEmbedded
-} 
-commun™y
- 
-das
- 
-Budsy¡em
-
-
-79 \
-‹xt™
-{
-b™bake
-}. }
-
-83 \
-	gÃwglos§ry’Œy
-{
-	gQEMU
-}{
-
-84 
-	gÇme
-=
-QEMU
-,
-
-85 
-	gdesütiÚ
-={
-QEMU
- 
-i¡
- (
-vÚ
- 
-’glisch
- â€
-Quick
- 
-EmuÏtÜ
-â€œèi¡ 
-eše
- 
-äe›
-
-
-86 
-Vœtu®is›rungssoáw¬e
-, 
-d›
- d› 
-ge§m‹
- 
-H¬dw¬e
- 
-m™§mt
-
-
-87 
-ProzessÜš¡ruktiÚ’
- 
-eš”
-ƒš” 
-Z›lh¬dw¬e
- 
-emul›¹
-. 
-Dabei
- 
-i¡
- 
-es
- 
-£hr
-
-
-88 
-RecourûnschÚ’d
- 
-und
- 
-³rfÜmªt
-.}
-
-91 \
-	gÃwglos§ry’Œy
-{
-	gW¿µ”
-}{
-
-92 
-	gÇme
-=
-W¿µ”
-,
-
-93 
-	gdesütiÚ
-={ 
-Eš
- 
-W¿µ”
- 
-i¡
- 
-eš
- 
-Sofw¬eš‹rçû
- 
-das
- 
-IÁ”aktiÚ
- 
-m™
- 
-ešem
-
-
-94 
-ªd”’
- 
-Soáw¬•ak‘
- 
-k­£É
- 
-und
- 
-i
-.
-d
-.
-R
-. 
-Çch
- 
-au
-ÃŸ
-’
- 
-hš
- 
-v”ešçcht
-.
-
-100 \
-	gÃwglos§ry’Œy
-{
-	gO³nEmbedded
-}{
-
-101 
-	gÇme
-=
-O³nEmbedded
-,
-
-102 
-	gdesütiÚ
-={ 
-Eše
- 
-Commun™y
- 
-Gruµe
- 
-w–che
- 
-eše
- 
-Soáw¬ew¬e
- 
-Budumgebung
-
-
-103 
-Çm’s
- 
-B™bake
- 
-pæegt
- 
-und
- 
-M‘©d©’
- 
-f
-Ã¼
-r
- 
-d›£s
- 
-Budsy¡em
- 
-b”e™¡–É
-,
-
-104 
-w–che
- 
-vÚ
- 
-d›£r
- 
-Budumgebung
- 
-v”w’d‘
- 
-wœd
- 
-um
- 
-Soáw¬•ak‘e
- 
-zu
- Ã¼
-b”£tz’
-}
-
-107 \
-	gÃwglos§ry’Œy
-{
-	gReces
-}{
-
-108 
-	gÇme
-=
-Rec›s
-,
-
-109 
-	gdesütiÚ
-={
-Rez•‹
- 
-od”
- 
-AÆe™ung’
-}
-
-113 \
-	gÃwglos§ry’Œy
-{
-	gM‘ad©’
-}{
-
-114 
-	gÇme
-=
-M‘ad©’
-,
-
-115 
-	gdesütiÚ
-={
-M‘ad©’
- 
-od”
- 
-M‘ašfÜm©iÚ’
- 
-sšd
- 
-InfÜm©iÚ’
- Ã¼
-b”
- 
-ªd”e
-
-
-116 
-D©’
-}
-
-119 \
-	gÃwglos§ry’Œy
-{
-	gDock”
-}{
-
-120 
-	gÇme
-=
-Dock”
-,
-
-121 
-	gdesütiÚ
-={
-Dock”
- 
-i¡
- 
-eše
- 
-Soáw¬e
- 
-zur
- 
-vœtu®is›rung
- 
-vÚ
- 
-ešz–Ãn
-
-
-122 
-Anw’dung’
-}
-
-125 \
-	gÃwglos§ry’Œy
-{
-	gSDK
-}{
-
-126 
-	gÇme
-=
-SDK
-,
-
-127 
-	gdesütiÚ
-={
-Eš
- \
-aüfuÎ
-{
-SDKaü
-} 
-i¡
- 
-eše
- 
-gek­£Ée
- 
-bzw
-.
-
-128 
-vÜdefš›¹e
- 
-Umgebung
- 
-zur
- 
-EÁwicklung
- 
-vÚ
- 
-Soáw¬e
-\-
-kompÚ’‹n
-. 
-D›
- Umgebung
-
-129 
-¡–É
- (
-vÜkÚfigur›¹e
-è
-Sammlung’
- 
-vÚ
- 
-ausgew
-Ã¤
-hÉ’
- 
-Prog¿mm›r
-\-
-w”kzeug’
-
-
-130 
-od”
- 
-auch
- 
-Lib”Ÿs
- 
-b”e™
-, 
-d›
- 
-zur
- 
-EÁwicklung
- 
-f
-Ã¼
-r
- 
-eše
- 
-Z›ÍÏ‰fÜm
- 
-b’
-Ã¶
-tigt
-
-
-131 
-w”d’
-.}
-
-134 \
-	gÃwglos§ry’Œy
-{
-	groÙfs
-}{
-
-135 
-	gÇme
-=
-roÙfs
-,
-
-136 
-	gdesütiÚ
-={
-UÁ”
- 
-Lšux
- 
-wœd
- 
-das
- 
-ur¥
-Ã¼
-ngliche
- \
-‹xt™
-{
-roÙfs
-} 
-®s
- 
-d”
- 
-O¹
-
-
-137 
-bezeichÃt
-, 
-vÚ
- 
-dem
- \
-‹xtbf
-{
-ausgeh’d
-} 
-®Ë
- 
-we™”’
- 
-V”zeichnissb
-Ã¤
-ume
-
-
-138 
-ešgeh
-Ã¤
-ngt
- 
-sšd
-/
-w”d’
-. 
-Bei¥›lwei£
- 
-l›g’
- 
-dœekt
- 
-uÁ”h®b
- 
-des
- 
-roÙfs
-
-
-139 
-d›
- 
-OrdÃr
- /
-home
-, /
-boÙ
- /
-roÙ
- 
-od”
- /
-bš
-.}
-
-142 \
-	gÃwglos§ry’Œy
-{
-	gWÜkæow
-}{
-
-143 
-	gÇme
-=
-WÜkæow
-,
-
-144 
-	gdesütiÚ
-={
-Eš
- 
-Wokæow
- 
-i¡
- 
-eš
- 
-Arbe™§bÏuf
- 
-und
- 
-besch»ibt
- 
-Schr™‹
- 
-š
-
-
-145 
-ih»r
- 
-Reih’fŞge
- 
-d›
- 
-n
-Ã¶
-tig
- 
-sšd
-, 
-um
- 
-eše
- 
-Aufgabe
-, 
-Arbe™¥ak‘
- 
-od”
-
-
-146 
-‘wa
- 
-eše
- 
-Anweisung
- 
-zu
- 
-”f
-Ã¼
-Î’
-. 
-Dabei
- 
-sšd
- 
-d›
- 
-Arbe™sschr™‹
- 
-h
-Ã¤
-ufig
-
-
-147 
-w›d”keh»nd
- 
-š
- 
-ªd”’
- 
-Arbe™§bl
-Ã¤
-uãn
-.
-
-150 \
-	gÃwglos§ry’Œy
-{
-	gdummy
-}{
-
-151 
-	gÇme
-=
-dummy
-,
-
-152 
-	gdesütiÚ
-=
-dummy
-{
-
-155 \
-	gÃwglos§ry’Œy
-{
-	gPoky
-}{
-
-156 
-	gÇme
-=
-Poky
-,
-
-157 
-	gdesütiÚ
-={
-Mšim®i¡isches
- 
-B‘r›bssy¡em
- 
-d”
- \
-gls
-{
-Yoùo
-} 
-Commun™y
- 
-das
-
-
-158 
-m™§mt
- 
-£š”
- 
-ToŞs
- 
-š
- 
-eš”
- \
-gls
-{
-QEMU
-} 
-vœtu–Ën
- 
-Maschše
- 
-Ïuff
-Ã¤
-hig
-
-
-159 
-i¡
-.
-
-162 \
-	gÃwglos§ry’Œy
-{
-	gDi¡ributiÚ
-}{
-
-163 
-	gÇme
-=
-Di¡ributiÚ
-,
-
-164 
-	g¶u¿l
-=
-Di¡ributiÚ’
-,
-
-165 
-	gdesütiÚ
-={
-Als
- 
-Di¡ributiÚ
- 
-bezeichÃt
- 
-mª
- 
-eše
- 
-Zu§mm’¡–lung
- 
-vÚ
-
-
-166 (
-Soáw¬e
--è
-Pak‘’
-,
-V”siÚ’
-, 
-KÚfigu¿tiÚ’
-, 
-Eš¡–lung’
-, 
-usw
-.
-
-167 
-d›
- 
-®s
- 
-Ge§mak‘
- 
-v”
-Ã¶
-fãÁlicht
- 
-sšd
- 
-od”
- 
-w”d’
- 
-und
- 
-š
- 
-sich
- 
-ohÃ
-
-
-168 
-we™”es
- 
-Zutun
- 
-eše
- 
-defš›¹e
- 
-Aufgabe
- 
-”f
-Ã¼
-Î’
-. 
-Bei¥›lswei£
- 
-i¡
-
-
-169 
-eš
- 
-B‘r›bssy¡em
- 
-eše
- 
-sŞche
- 
-Zu§mm’¡–lung
- 
-das
- 
-ohÃ
- 
-we™”s
- 
-Zutun
-
-
-170 
-f
-Ã¼
-r
- 
-eš’
- 
-S©z
- 
-vÚ
- 
-Anw’dungsf
-Ã¤
-Î’
- 
-g’utzt
- 
-w”d’
- 
-kªn
-.
-
-176 %\
-	gÃwglos§ry’Œy
-{
-Mœcosoá
- 
-	gOffiû
-}{
-
-177 %
-	gÇme
-=
-Mœcosoá
- 
-Offiû
-,
-
-178 %
-	gdesütiÚ
-={
-Eš
- 
-Soáw¬•ak‘
-, 
-w–ches
- 
-v”sch›d’e
- 
-Prog¿mme
- 
-f
-Ã¼
-r
- 
-uÁ”sch›dliche
- 
-Aufgab’
- 
-’th
-Ã¤
-É
-. 
-We™”es
- 
-i¡
- 
-uÁ”
-
-
-179 %\
-c™e
-{
-ms1
-}}
-
-182 %\
-Ãwglos§ry’Œy
-{
-PÜbËs
- 
-Job
- 
-Defš™iÚ
- 
-FÜm©
-}{
-
-183 %
-Çme
-=
-PÜbËs
- 
-Job
- 
-Defš™iÚ
- 
-FÜm©
-,
-
-184 %
-desütiÚ
-={
-
-185 %\
-aüfuÎ
-{
-PJDF
-} 
-i¡
- 
-eš
- 
-vÚ
- 
-Adobe
- 
-’twick–‹s
- 
-FÜm©
- 
-zur
- 
-S³ich”ung
- 
-‹chnisch”
- 
-ProduktiÚs
-- 
-und
- 
-Auá¿gsd©’
- 
-auf
- 
-Basis
- 
-d”
- 
-PDF
- FÜm© 
-SyÁax
-. \
-c™e
-{
-pjdf1
-}}
-
-188 %\
-Ãwglos§ry’Œy
-{32-
-B™
- 
-aüh™ektur
-}{
-
-189 %
-Çme
-=32-
-B™
- 
-aüh™ektur
-,
-
-190 %
-¶u¿l
-=32-
-B™
- 
-aüh™ektu»n
-,
-
-191 %
-desütiÚ
-={32-
-B™
- 
-k’nzeichÃt
- 
-eše
- 
-PC
- 
-bzw
-. 
-ProzessÜ
- 
-od”
- 
-PÏtš’
- 
-aüh™ektur
-. 
-S›
- k’nzeichÃˆ
-d›
- 
-B»™e
- 
-des
- 
-Ad»ssbus£s
- 
-und
- 
-gibt
- 
-som™
- 
-vÜ
-, 
-w›
- 
-v›l
- 
-S³ich”
- (
-ad»ss›rb¬e
- 
-Bl
-Ã¶
-cke
- od” 
-Ešhe™’
- 
-m™
- 
-jewes
- 
-ešem
- 
-By‹
-èešaüh™ektu¸
-ª¥»ch’
- und 
-v”¬be™’
- 
-kªn
-. 
-M™
-ƒšem 32-B™-
-Ad»ssbus
- 
-Ïs£n
- 
-sich
- 
-maxim®
- 2e32 By‹ 
-ad»ss›»n
-. 
-D›s
- 
-sšd
- 232 
-S³ich”¡–Ën
- m™ jewe ešem By‹. 
-Od”
- 
-umg”echÃt
- 4 
-GiB
-. 
-D›
- 
-aüh™ekturfÜm
- 
-h©
- vÜ 
-®Ëm
- 
-Ešæuss
- 
-auf
- d› ProzessÜ- und 
-Bu§üh™ektur
-. 
-D›£
- 
-h
-Ã¤
-ng’
- 
-unm™‹lb¬
- 
-zu§mm’
- und sšd 
-š
- 
-Bezug
-‡uà
-Ih»
- 
-Geschwšdigke™
- 
-abh
-Ã¤
-ngig
- 
-vÚ
- 
-d”
-‡üh™ekturfÜm (š 
-d›£m
- 
-F®l
- 
-beschr
-Ã¤
-nkt
-‡uà32 B™). 
-H›¿us
- 
-”gibt
- sich 
-auch
- d” 
-Begriff
- \
-glqq
- 32-B™ 
-B‘r›bssy¡em
-\
-grqq
-\, 
-w–ches
-‡uàd› ProzessÜ- und Bu§üh™ektu¸
-auf£tzt
-. 
-Ešem
- 32-B™ B‘r›bssy¡em 
-i¡
- 
-es
- som™‡uch 
-nur
- 
-m
-Ã¶
-glich
-, 
-Max
-. 4 
-GB
- (bzw. GiBè
-Arbe™s¥eich”
- 
-ªzu¥»ch’
- und 
-zu
- v”¬be™’ (
-‹wei£
- 
-sog¬
- 
-w’ig”
-). }}
-
-193 %\
-Ãwglos§ry’Œy
-{32-
-B™
- 
-B‘r›bssy¡em
-}{
-
-194 %
-Çme
-=32-
-B™
- 
-B‘r›bssy¡em
-,
-
-195 %
-¶u¿l
-=32-
-B™
- 
-B‘r›bssy¡eme
-,
-
-196 %
-desütiÚ
-={
-S›he
- \
-gls
-{32-
-B™
- 
-aüh™ektur
-}}
-
-199 %\
-Ãwglos§ry’Œy
-{
-D©’typ
-}{
-
-200 %
-Çme
-=
-D©’typ
-,
-
-201 %
-¶u¿l
-=
-D©’ty³n
-,
-
-202 %
-desütiÚ
-={
-D©’typ
- 
-besch»ibt
- 
-d’
- 
-W”‹b”eich
- 
-vÚ
- \
-gl¥l
-{
-V¬ŸbË
-}. 
-S›
- 
-w”d’
- 
-dah”
- 
-auch
- 
-®s
- 
-W”‹¬t
- 
-od”
- 
-D©’¬t
- 
-beschr›b’
-. S› 
-sšd
- 
-gek’nzeichÃt
- 
-durch
- 
-eš’
- W”‹b”eich,ƒš’ 
-Name
-,ƒš’ 
-G–tungsb”eich
-, 
-eš”
- 
-KÚ¡ruktiÚ¤eg–
-, 
-und
-ƒš” 
-g
-Ã¼
-Éig’
- (
-zul
-Ã¤
-ssige
-è
-M’ge
- vÚ 
-O³¿tiÚ’
- Ã¼
-b”
- 
-d›£
- 
-W”‹m’ge
-. 
-Es
- 
-wœd
- 
-zwisch’
- 
-num”ische
-, 
-boŞesche
-, 
-®phªum”ische
-, 
-ab¡¿k‹
-, 
-–em’»
-, 
-zu§mm’ge£tz‹
- und 
-b’utz”defš›¹e
- 
-D©’ty³n
- 
-uÁ”sch›d’
-. }
-
-206 %\
-Ãwglos§ry’Œy
-{
-V¬ŸbË
-}{
-
-207 %
-Çme
-=
-V¬ŸbË
-,
-
-208 %
-¶u¿l
-=
-V¬ŸbËn
-,
-
-209 %
-desütiÚ
-={
-Eše
- 
-V¬ŸbË
- 
-i¡
- 
-š
- 
-d”
- 
-InfÜm©ik
- 
-eš
- 
-PÏtzh®‹r
-. 
-Er
- i¡ 
-gek’nzeichÃt
- 
-durch
- 
-eš’
- 
-Nam’
- 
-und
- 
-h
-Ã¤
-ufig
- durchƒš’ 
-D©’typ
-. 
-V¬ŸbËn
- 
-w”d’
- (
-‹mpÜ
-Ã¤
-»
-è
-W”‹
- 
-zugeÜdÃt
-. 
-D›£
- 
-k
-Ã¶
-Â’
- 
-v”
-Ã¤
-nd”t
-, Ã¼
-b”schr›b’
- 
-od”
- 
-g–
-Ã¶
-scht
- w”d’. 
-S›
- 
-d›Ãn
- hÃ¤ufig 
-®s
- (
-Zwisch’
--è
-S³ich”
-, 
-z
-.
-B
-. 
-f
-Ã¼
-r
- 
-eše
- 
-B”echnung
-. }
-
-212 %\
-Ãwglos§ry’Œy
-{
-KÚv”§tiÚ’
-}{
-
-213 %
-Çme
-=
-KÚv”§tiÚ’
-,
-
-214 %
-desütiÚ
-={
-Ešigung
-, 
-NÜmung
- 
-od”
- Ãœ
-b”eškuná
- 
-z
-.
-B
-. Ã¼
-b”
- 
-eš’
- 
-Zeich’§tzes
-. 
-Zu
- 
-d›£r
- Ešigung 
-i¡
- 
-mª
- 
-gemeš§m
- 
-š
- 
-ešem
- 
-Ge¥r
-Ã¤
-ch
- (
-KÚv”§tiÚ
-è
-gekomm’
-. 
-D›£
- Ešigung i¡ 
-h
-Ã¤
-ufig
- 
-zu
- 
-eš”
- 
-De
--
-çùo
-- od” 
-Quasi
--
-VÜgabe
- 
-gewÜd’
-.}
-
-216 %\
-Ãwglos§ry’Œy
-{
-FÜms
- 
-D©a
- 
-FÜm©
-}{
-
-217 %
-Çme
-=
-FÜms
- 
-D©a
- 
-FÜm©
-,
-
-218 %
-desütiÚ
-={\
-aüfuÎ
-{
-FDF
-} 
-i¡
- 
-eš
- 
-FÜm©
- 
-zur
- (
-S”v”£™ig’
--è
-V”¬be™ung
- 
-d”
- 
-FÜmuÏrd©’
- 
-šÃrh®b
- 
-ešes
- 
-PDF
- 
-Dokum’‹n
- \
-c™e
-{
-fdf1
-} \c™e{
-fdf3
-} \c™e{
-fdf2
-}}
-
-220 %\
-Ãwglos§ry’Œy
-{
-SŒšg
-}{
-
-221 %
-Çme
-=
-SŒšg
-,
-
-222 %
-¶u¿l
-=
-SŒšgs
-,
-
-223 %
-desütiÚ
-={
-Eš
- 
-SŒšg
- 
-bezeichÃt
- 
-eše
- 
-Zeich’k‘‹
- 
-š
- 
-d”
- 
-InfÜm©ik
-. 
-S›
- 
-»´
-Ã¤
-£Á›¹
- 
-z
-.
-B
-. 
-eš
- 
-WÜt
- 
-od”
- 
-eš’
- 
-S©z
-.}
-
-225 %\
-Ãwglos§ry’Œy
-{
-Hy³¹ext
- 
-T¿nsãr
- 
-PrÙocŞ
-}{
-
-226 %
-Çme
-=
-Hy³¹ext
- 
-T¿nsãr
- 
-PrÙocŞ
-,
-
-227 %
-desütiÚ
-={
-Das
- 
-Hy³¹ext
- 
-T¿nsãr
- 
-PrÙocŞ
- (
-HTTP
-è
-i¡
- 
-eš
- 
-PrÙokŞl
- 
-zur
- Ãœ
-b”Œagung
- 
-vÚ
- 
-D©’
- 
-auf
- 
-d”
- 
-Anw’dungsschicht
- 
-š
- 
-RechÃº‘z’
-. 
-Mei¡’s
- 
-wœd
- 
-es
- 
-g’utzt
- Hy³¹ext-
-Dokum’‹
- (
-Web£™’
-è
-aus
- 
-dem
- 
-WÜld
- 
-Wide
- 
-Web
- (
-WWW
-èš 
-eš’
- 
-Webbrow£r
- 
-zu
- 
-Ïd’
-. Da PrÙokŞÈi¡ 
-Zu¡ªd¦os
-}
-
-229 %\
-Ãwglos§ry’Œy
-{
-BackdoÜ
-}{
-
-230 %
-Çme
-=
-BackdoÜ
-,
-
-231 %
-desütiÚ
-={
-Hš‹¹
-Ã¼
-r
- 
-f
-Ã¼¸
-Ang»iãr
-, 
-dam™
- 
-d›£
- 
-sich
- 
-zu
- 
-dem
- 
-RechÃr
- 
-v”bšd’
- 
-und
- 
-d›£n
- 
-ešdršg’
- 
-k
-Ã¶
-Â’
-.}
-
-233 %\
-Ãwglos§ry’Œy
-{
-OwÃr
-}{
-
-234 %
-Çme
-=
-OwÃr
-,
-
-235 %
-desütiÚ
-={
-Als
- \
-glqq
- 
-OwÃr
-\
-grqq
-\ 
-wœd
- 
-d”
- 
-Bes™z”
- 
-vÚ
- 
-‘was
- 
-bezeichÃt
-. 
-Z
-.
-b
-. d” Bes™z” (OwÃrè
-eš”
- 
-D©ei
- 
-od”
- 
-ešes
- 
-Dokum’‹s
-. 
-Er
- 
-i¡
- 
-oá
- 
-gËichzu£tz’
- 
-m™
- 
-ešem
- 
-Admši¡¿tÜ
-. 
-D”
- OwÃ¸
-bes™zt
- 
-i
-.
-d
-.
-R
-. 
-d›
- 
-vŞËn
- 
-Zugriff¤ech‹
-, 
-šklusive
- 
-Rech‹
- 
-zum
- 
-V”
-Ã¤
-nd”n
- d” 
-Inh®‹
- od” 
-L
-Ã¶
-sch’
- d” 
-kom¶‘‹n
- Datei.}
-
-237 %\
-Ãwglos§ry’Œy
-{
-Pubic
--
-Priv©e
- 
-Key
- 
-V”çh»n
-}{
-
-238 %
-Çme
-=
-Pubic
--
-Priv©e
- 
-Key
- 
-V”çh»n
-,
-
-239 %
-desütiÚ
-={
-Eš
- 
-Public
--
-Priv©
--
-Key
- 
-V”schl
-Ã¼
-s£lungsv”çh»n
- (
-kurz
- Public-Key 
-V”çh»n
-è
-eš
- 
-kry±og¿phisches
- 
-Schutz
- V”çh»n. 
-Bei
- 
-d›£m
- 
-wœd
- 
-m™
- 
-ešem
- 
-v”
-Ã¶
-fãÁlich‹n
- (Ã¶
-fãÁlich”
-è
-Schl
-Ã¼
-s£l
- 
-eše
- 
-KÏ¹extd©ei
- 
-š
-ƒš
-v”schl
-Ã¼
-s£Ée
- 
-D©ei
- 
-umgewªd–t
-. 
-D›
- D©e˜
-kªn
- 
-nur
- 
-w›d”
- 
-durch
- 
-eš’
- 
-zwe™’
-, 
-geheim’
- SchlÃ¼s£Èš 
-KÏ¹extfÜm
- umgewªd–ˆ
-w”d’
-. 
-D›£s
- wœd 
-asymm‘risches
- V”schlÃ¼s£lungsv”çh»À
-bezeichÃt
-, 
-da
- 
-zwei
- 
-uÁ”sch›dliche
- SchlÃ¼s£ÈÓš Ã¶fãÁlich” 
-und
-ƒš 
-geheim”
-è
-b’
-Ã¶
-tigt
- w”d’ 
-um
-ƒš 
-Dokum’t
- 
-zu
- v”schlÃ¼
-s£Ê
- und 
-wed”
- zu 
-’tschl
-Ã¼sseln.}
-
-243 %% /* 
-	$yy·r£
- */ 
-	`yyËx
-()\
-Ãwglos§ry’Œy
-{
-XRef
- 
-SektiÚ
-}{
-
-244 
-	}
-
-	g%%Çme
-=
-XRef
- 
-SektiÚ
-,
-
-245 %% /* 
-	$yy·r£
- */ 
-	`yyËx
-()
-	g¶u¿l
-=
-XRef
- 
-SektiÚ’
-,
-
-246 
-	}
-
-	g%%desütiÚ
-={
-Eše
- 
-Cross
- 
-Reã»nz
- 
-SektiÚ
- (
-XRef
- SektiÚè
-besch»ibt
- 
-d’
- 
-B”eich
- 
-eš”
- Cros Reã»nz 
-Tab–Ë
- 
-od”
- 
-des
- Cros Reã»nz 
-SŒ—m
- 
-Objek‹s
- 
-š
- 
-ešem
- 
-PDF
- 
-Dokum’t
-}
-
-247 %% /* 
-	$yy·r£
- */ 
-	`yyËx
-()}
-
-249 %\
-	gÃwglos§ry’Œy
-{
-	gU£r
-}{
-
-250 %
-	gÇme
-=
-U£r
-,
-
-251 %
-	gdesütiÚ
-={
-Als
- \
-glqq
- 
-U£r
-\
-grqq
-\ 
-wœd
- 
-eš
- 
-nÜm®”
- 
-B’utz”
- 
-bezeichÃt
-. 
-Er
- 
-bes™zt
- 
-h
-Ã¤
-ufig
- 
-w’ig”
-, 
-bzw
-. 
-ešgeschr
-Ã¤
-	`nk‹
- (
-Zugriffs
--è
-Rech‹
-, 
-‘wa
- 
-auf
- 
-eše
- 
-D©ei
- 
-od”
- 
-OrdÃr
-. (
-Im
- 
-Geg’§tz
- 
-zu
- 
-ešem
- 
-OwÃr
- od” 
-Admši¡¿tÜ
-.è
-H
-Ã¤ufig 
-d¬f
- 
-”
-ƒtw¨
-D©e›n
- 
-nur
- 
-Ë£n
- od”ƒšgeschrÃ¤
-nkt
- 
-b—rbe™’
- 
-und
- 
-v”w’d’
-.}
-
-253 %\
-Ãwglos§ry’Œy
-{
-Adobe
- 
-R—d”
-}{
-
-254 %
-Çme
-=
-Adobe
- 
-R—d”
-,
-
-255 %
-desütiÚ
-={
-Soáw¬e
- 
-zu
- 
-Anzeig’
- 
-vÚ
- 
-PDF
- 
-D©e›n
-. 
-Es
- 
-¡ammt
- 
-vom
- 
-H”¡–Ër
- 
-Adobe
-, 
-w–ch”
- 
-auch
- 
-das
- \
-aüfuÎ
-{PDF} 
-FÜm©
- 
-’twÜãn
- 
-h©
-.}
-
-257 %\
-Ãwglos§ry’Œy
-{
-Layout
-}{
-
-258 %
-Çme
-=
-Layout
-,
-
-259 %
-¶u¿l
-=
-Layouts
-,
-
-260 %
-desütiÚ
-={
-Das
- 
-Layout
- 
-besch»ibt
- 
-d›
- 
-Ge¡®tung
- 
-od”
- 
-das
- 
-Aus£h’
- 
-z
-.
-B
-. 
-	`eš”
- (
-IÁ”Ãt
--è
-Se™e
- od” 
-eš”
- 
-Prog¿mmob”æ
-Ã¤
-	`che
-(
-GUI
-). 
-H›rzu
- zÃ¤
-hËn
- 
-FÜm©›rung’
- 
-und
- 
-AnÜdnung
- 
-d”
- 
-Inh®‹
-, 
-w›
- z.B. 
-Schriá¬‹n
-, 
-Schriágr
-Ã¶ÃŸ
-’
-, d› 
-Se™’gr
-Ã¶ÃŸ
-e
- od” 
-F¬b’
- und 
-ªd”e
- 
-DesigÃËm’‹
-.}
-
-262 %\
-Ãwglos§ry’Œy
-{
-vœtu–Ë
- 
-Maschše
-}{
-
-263 %
-Çme
-=
-vœtu–Ë
- 
-Maschše
-,
-
-264 %
-¶u¿l
-=
-vœtu–Ë
- 
-Maschš’
-,
-
-265 %
-desütiÚ
-={
-Eše
- 
-vœtu–Ë
- 
-	`Maschše
- (
-VM
-è
-bd‘
- 
-d›
- 
-	`RechÃ¿üh™ektur
- (
-H¬dw¬e
-è
-ešes
- 
-»®’
- 
-RechÃrs
- 
-š
- 
-eš”
- 
-ab¡¿h›»nde
- 
-Schicht
- 
-vœtu–l
- 
-Çch
-. 
-So
- 
-wœd
- 
-es
- 
-m
-Ã¶
-glich
-, d› 
-H¬dw¬•”fÜmªû
-ƒše »®’ RechÃr 
-auf
- 
-meh»
- vœtu–Ë 
-Maschš’
- 
-aufzu‹’
- 
-und
- 
-so
- 
-eš’
-„—ËÀ
-RechÃr
- iÀ
-meh»»
- vœtu–Ë, 
-eig’¡
-Ã¤
-ndige
- und 
-uÇbh
-Ã¤
-ngige
- virtuelle Rechner‡ufzuteilen.}
-
-267 %\
-Ãwglos§ry’Œy
-{
-PDF
--
-V›w”
-}{
-
-268 %
-Çme
-=
-PDF
--
-V›w”
-,
-
-269 %
-desütiÚ
-={
-Eš
- 
-PDF
--
-V›w”
- 
-od”
- 
-auch
- PDF 
-R—d”
- 
-g’ªÁ
-, 
-i¡
- 
-š
- 
-Prog¿mme
- 
-zum
- 
-B‘¿ch‹n
- 
-vÚ
- PDF-
-Dokum’‹
-}
-
-273 %\
-Ãwglos§ry’Œy
-{
-Tag
-}{
-
-274 %
-Çme
-=
-Tag
-,
-
-275 %
-¶u¿l
-=
-Tags
-,
-
-276 %
-desütiÚ
-={
-Eš
- 
-Tag
- 
-i¡
- 
-eš
- 
-Schl
-Ã¼
-	`s£lwÜt
- (
-KeywÜt
-è
-das
- 
-eše
- 
-defš›¹e
- 
-Aufgabe
- 
-od”
- 
-FunktiÚ
-, 
-im
- 
-KÚ‹xt
- 
-š
- 
-dem
- 
-es
- 
-g’utzt
- 
-wœd
-, 
-bes™zt
-. }
-
-278 %\
-Ãwglos§ry’Œy
-{
-MuÉimedŸ
-}{
-
-279 %
-Çme
-=
-MuÉimedŸ
-,
-
-280 %
-desütiÚ
-={
-D©e›n
-, 
-d›
- 
-gËichze™ig
- 
-aus
- 
-uÁ”sch›dlich’
-, 
-i
-.
-d
-.
-r
- 
-dig™®’
- 
-Med›n
- 
-zu§mm’wœk’
-. 
-Z
-.
-B
-. 
-Text
-, 
-G¿fik
-, 
-Audio
-, 
-Video
- 
-od”
- 
-Anim©iÚ
-.}
-
-282 %\
-Ãwglos§ry’Œy
-{
-CÚ‹Á
- 
-¡»am
-}{
-
-283 %
-Çme
-=
-CÚ‹Á
- 
-¡»am
-,
-
-284 %
-¶u¿l
-=
-CÚ‹Á
- 
-¡»ams
-,
-
-285 %
-desütiÚ
-={
-Eš
- 
-CÚ‹Á
- 
-¡»am
- 
-l›ã¹
- 
-d’
- 
-Inh®t
- 
-eš”
- 
-PDF
- 
-Se™e
-. 
-Er
- 
-’th
-Ã¤
-É
- 
-eše
- 
-Sequ’z
- 
-vÚ
- 
-Anweisung’
- 
-w–che
- 
-zum
- 
-eš’
- 
-das
- 
-Layout
-ƒš” Se™
-besch»ib’
-. 
-Zum
- 
-ªd”’
- 
-l›ãº
- CÚ‹Á 
-¡»ams
- 
-d›
- 
-Inh®‹
- 
-d”
- PDF 
-Se™’
-. 
-Z
-.
-B
- 
-Bd”
- 
-od”
- 
-Tex‹
-.}
-
-287 %\
-Ãwglos§ry’Œy
-{
-Lib¿ry
-}{
-
-288 %
-Çme
-=
-Lib¿ry
-,
-
-289 %
-desütiÚ
-={
-BibliÙhek
- 
-w–che
- 
-eše
- 
-Sammlung
- 
-vÚ
- 
-UÁ”´og¿mm’
-/-
-Routš’
- 
-’th
-Ã¤
-É
-},
-
-290 %
-¶u¿l
-=
-Lib¿r›s
-
-
-292 %\
-Ãwglos§ry’Œy
-{
-v”k‘‹‹
- 
-Li¡e
-}{
-
-293 %
-Çme
-=
-v”k‘‹‹
- 
-Li¡e
-,
-
-294 %
-¶u¿l
-=
-v”k‘‹‹
- 
-Li¡’
-,
-
-295 %
-desütiÚ
-={
-	`Eše
- (
-zyklisch
-è
-v”k‘‹‹
- 
-Li¡e
- 
-i¡
- 
-eše
- 
-dyÇmische
- 
-D©’¡ruktur
- 
-zur
- 
-S³ich”ung
- 
-vÚ
- 
-Objek‹n
-. 
-Dabei
- 
-muss
- 
-d›
- 
-Anzahl
- 
-d”
- 
-Objek‹
- 
-im
- 
-VÜãld
- 
-nicht
- 
-be¡immt
- 
-w”d’
-. 
-Es
- 
-k
-Ã¶
-Â’
- 
-b–›big
- 
-v›Ë
- Objek‹ 
-ÇchŒ
-Ã¤
-glich
- 
-š
- d› Li¡
-aufg’omm’
- w”d’. 
-Durch
- 
-eš’
- 
-Zeig”
- 
-wœd
- 
-jewes
- 
-auf
- 
-das
- 
-ÇchfŞg’de
- 
-Objekt
- d” 
-	`Li¡e
- (
-bzw
-. 
-EËm’t
- 
-od”
- 
-KnÙ’
-è
-gezeigt
-. 
-Od”
-‡uà
-des£n
- 
-S³ich”z–Ën
- im 
-Arbe™s¥eich”
-. 
-And”s
- 
-	`®s
- (Objekt-è
-B
-Ã¤
-um’
- 
-sšd
- 
-Li¡’
- 
-lš—r
-, 
-dass
- 
-heis¡
- 
-eš
- EËm’ˆ
-h©
- 
-g’au
-ƒš’ 
-NachfŞg”
-. 
-Bei
- 
-eš”
- 
-zyklisch’
- Li¡
-zeigt
- da 
-Ëtz‹
- EËm’ˆauàeš 
-vÜh”iges
- 
-	`EËm’t
- (
-oám®s
- da 
-”¡e
- EËm’ˆš d” Li¡e). Be˜eš” 
-dİ³É
- 
-	`v”k‘‹n
- (zyklisch’èLi¡
-exi¡›¹
-ƒš 
-zwe™”
- Zeig”, 
-w–ch”
-‡uàda 
-vÜh”ige
- Elementƒiner Liste zeigt. } }
-
-300 \
-Ãwglos§ry’Œy
-{
-F—tu»
-}{
-
-301 
-Çme
-=
-F—tu»
-,
-
-302 
-desütiÚ
-={
-M”km®
- 
-od”
- 
-Eig’schaá
-, 
-w›
- 
-eše
- 
-besÚd”e
- 
-FunktiÚ®™
-Ã¤
-t
-}
-
-305 %\
-Ãwglos§ry’Œy
-{
-Ex‹nsiÚLev–
-}{
-
-306 %
-Çme
-=
-Ex‹nsiÚLev–
-,
-
-307 %
-desütiÚ
-={
-Erwe™”ung’
- 
-od”
- Ã„
-nd”ung’
- 
-d”
- 
-Ëtz‹n
- 
-RevisiÚ
- 
-des
- 
-PDF
- 
-FÜm©es
-. 
-D›£
- 
-w”d’
- 
-®s
- 
-eig’e
- 
-Dokum’‹
- 
-v”
-Ã¶
-fãÁlicht
-.}
-
-309 %\
-Ãwglos§ry’Œy
-{
-Aüob©
-}{
-
-310 %
-Çme
-=
-Adobe
- 
-Aüob©
-,
-
-311 %
-desütiÚ
-={
-Adobe
- 
-Aüob©
- 
-i¡
- 
-eše
- 
-Gruµe
- 
-vÚ
- 
-Prog¿mm’
- 
-m™
- 
-w–ch”
- 
-PDF
--
-D©ei
- 
-”¡–É
-, 
-v”w®‹n
-, 
-komm’t›¹
- 
-und
- 
-v”‹t
- 
-w”d’
- 
-k
-Ã¶
-Â’
-. 
-D›£s
- 
-ko¡’pæichtige
- 
-Prog¿mm·k‘
- 
-des
- 
-Soáw¬e
--
-UÁ”Ãhm’s
- Adob
-Sy¡ems
- 
-’th
-Ã¤
-É
- 
-eš
- 
-Anw’dung¥rog¿mm
- 
-zum
- 
-Er¡–Ën
- und 
-B—rbe™’
- vÚ PDF-
-Dokum’‹n
-.}
-
-313 %\
-Ãwglos§ry’Œy
-{
-dekÏr›¹
-}{
-
-314 %
-Çme
-=
-dekÏr›¹
-,
-
-315 %
-¶u¿l
-=
-dekÏr›»n
-,
-
-316 %
-desütiÚ
-={
-‘was
- 
-bekªÁ
- 
-geb’
-}
-
-318 %\
-Ãwglos§ry’Œy
-{
-dekÏ¿tiÚ
-}{
-
-319 %
-Çme
-=
-DekÏ¿tiÚ
-,
-
-320 %
-¶u¿l
-=
-dekÏr›»n
-,
-
-321 %
-desütiÚ
-={
-BekªÁmachung
-}
-
-323 %\
-Ãwglos§ry’Œy
-{
-H—d”
-}{
-
-324 %
-Çme
-=
-H—d”
-,
-
-325 %
-desütiÚ
-={
-Kİáe
- 
-eš”
- 
-D©ei
-, 
-w–ch”
- 
-oá
- 
-GrundËg’de
- 
-Eš¡–lung’
- 
-defš›¹
-.}
-
-327 %\
-Ãwglos§ry’Œy
-{
-Body
-}{
-
-328 %
-Çme
-=
-Body
-,
-
-329 %
-desütiÚ
-={
-Hau±‹
- 
-eš”
- 
-D©ei
-.}
-
-331 %\
-Ãwglos§ry’Œy
-{
-Cross
- 
-Reã»nz
- 
-Tab–Ë
-}{
-
-332 %
-Çme
-=
-Cross
- 
-Reã»nz
- 
-Tab–Ë
-,
-
-333 %
-¶u¿l
-=
-Cross
- 
-Reã»nz
- 
-Tab–Ën
-,
-
-334 %
-desütiÚ
-={
-Cross
- 
-Reã»nû
- 
-Tab–Ën
- 
-od”
- 
-K»uzb–Ën
-, 
-kurz
- 
-XRef
-, 
-’th®‹n
- 
-V”wei£
- 
-auf
- 
-defš›¹e
- 
-S‹Î’
- 
-š
- 
-eš”
- 
-D©ei
-. 
-D›£s
- 
-”m
-Ã¶
-glicht
- 
-eš’
- 
-schÃÎ”’
- 
-Zugriff
-‡uà
-d›£
- 
-B”eiche
-.}
-
-336 %\
-Ãwglos§ry’Œy
-{
-T¿”
-}{
-
-337 %
-Çme
-=
-T¿”
-,
-
-338 %
-desütiÚ
-={
-Schlus¡e
- 
-od”
- 
-Anhªg
- 
-eš”
- 
-D©ei
-. 
-Besch»ibt
- 
-zus
-Ã¤
-tzlich’
- 
-InfÜm©iÚ’
- 
-zu
-ƒiner Datei.}
-
-340 \
-Ãwglos§ry’Œy
-{
-RoÙ
-}{
-
-341 
-Çme
-=
-RoÙ
-,
-
-342 
-desütiÚ
-={
-Wurz–
-, 
-Ur¥rung
- 
-vÚ
- 
-dem
- 
-‘was
- 
-ausgeht
-. 
-Im
- 
-Unix
- 
-B‘r›bssy¡em
-
-
-343 
-sowohl
- 
-	`eš
- (
-d”
-è
-admš¡¿tive
- 
-B’utz”
- 
-sow›
- d” 
-Ur¥rung
- 
-des
-
-
-344 
-ge§m‹n
- 
-Lšux
- 
-V”zeichnisbaums
-
-
-345 (
-D©eisy¡em
-è
-uÁ”
- 
-w–chem
- 
-we™”e
- 
-V”zeichnisb
-Ã¤
-ume
- 
-ešgeh
-Ã¤
-ngt
- 
-w”d’
-.
-
-346 
-D›£
- 
-k
-Ã¶
-Â’
- 
-sich
- 
-auf
- 
-d”
- 
-£lb’
- 
-Fe¡¶©‹
- 
-®s
- 
-auch
-‡uà
-ešem
- 
-ex‹º’
-
-
-347 
-S³ich”medium
- 
-befšd’
-.}
-
-352 \
-Ãwglos§ry’Œy
-{
-RoÙFS
-}{
-
-353 
-Çme
-=
-RoÙ
- 
-Fe
- 
-Sy¡em
-,
-
-354 
-desütiÚ
-={
-	`Wurz–
- (\
-gls
-{
-RoÙ
-}è
-des
- 
-Lšux
- 
-D©ei
- 
-Sy¡ems
- 
-uÁ”
- 
-w–chem
- 
-we™”e
-
-
-355 
-V”zeichnisb
-Ã¤
-	`ume
- (
-lok®
- 
-od”
- 
-auf
- 
-ešem
- 
-ªd”’
- 
-D©’Œ
-Ã¤
-g”
-)
-
-356 
-ešgeh
-Ã¤
-ngt
- 
-w”d’
-. 
-Z
-.
-b
-. \
-‹xt™
-{
-home
-, 
-bš
-, 
-tmp
-, 
-boÙ
-, 
-u¤
-, \
-ldÙs
-} }
-
-359 %\
-Ãwglos§ry’Œy
-{
-IÁegr™«t
-}{
-
-360 %
-Çme
-=
-D©’š‹gr™
-Ã¤
-t
-,
-
-361 %
-desütiÚ
-={
-V”hšd”ung
- 
-vÜ
- 
-uÇutÜis›¹”
- 
-Modifik©iÚ
- 
-vÚ
- 
-InfÜm©iÚ
-}
-
-363 %\
-Ãwglos§ry’Œy
-{
-V”Œaulichke™
-}{
-
-364 %
-Çme
-=
-V”Œaulichke™
-,
-
-365 %
-desütiÚ
-={
-InfÜm©iÚ’
- 
-sšd
- 
-nur
- 
-f
-Ã¼
-r
- 
-eš’
- 
-beschr
-Ã¤
-nk‹n
- 
-Empf
-Ã¤
-ng”k»is
- 
-eš£hb¬
-. 
-We™”gabe
- 
-und
- 
-V”
-Ã¶
-fãÁlichung
- sšd 
-dabei
- 
-i
-.
-d
-.
-R
-. 
-nicht
- 
-”Ïubt
-.}
-
-367 %\
-Ãwglos§ry’Œy
-{
-V”fuegb¬ke™
-}{
-
-368 %
-Çme
-=
-V”f
-Ã¼
-gb¬ke™
-,
-
-369 %
-desütiÚ
-={
-Gew
-Ã¤
-h¾ei¡ung
-, 
-das
- 
-eš
- 
-Sy¡em
- 
-od”
- 
-S”viû
- 
-Çch
- 
-defš›¹’
- 
-AnfÜd”ung’
- 
-v”f
-Ã¼
-gb¬
- 
-i¡
-}
-
-371 %\
-Ãwglos§ry’Œy
-{
-V”bšdlichke™
-}{
-
-372 %
-Çme
-=
-V”bšdlichke™
-,
-
-373 %
-desütiÚ
-={
-V”bšdlichke™
- 
-od”
- 
-auch
- 
-Nichb¡»™b¬ke™
- 
-bedeu‹t
- 
-š
- 
-d”
- 
-InfÜm©iÚ¡echnik
-, 
-dass
- 
-	`eše
- (
-durchgef
-Ã¼
-h¹e
-è
-Sache
- 
-ešdeutig
- 
-dem
- 
-Urheb”
- 
-zugeÜdÃt
- 
-w”d’
- 
-kªn
- 
-und
- 
-”
- 
-es
- 
-nicht
- 
-ab¡»™’
- kann.}
-
-375 %\
-Ãwglos§ry’Œy
-{
-Auth’tiz™«t
-}{
-
-376 %
-Çme
-=
-Auth’tiz™
-Ã¤
-t
-,
-
-377 %
-desütiÚ
-={
-Auth’tiz™
-Ã¤
-t
-, 
-besch»ibt
- 
-d›
- 
-Echthe™
- 
-vÚ
- 
-‘was
-. 
-Z
-.
-B
-. 
-eš”
- 
-D©ei
- 
-od”
- 
-ešes
- 
-Dokum’‹s
-. Auth’tiz™Ã¤ˆ
-beu‹t
- 
-sšngem
-Ã¤ÃŸ: \
-glqq
- 
-®s
- 
-Origš®
- 
-befund’
-\
-grqq
-\ }
-
-379 %\
-Ãwglos§ry’Œy
-{
-AES
-}{
-
-380 %
-Çme
-=
-AES
-,
-
-381 %
-desütiÚ
-={
-D”
- \
-aüfuÎ
-{
-AES
-} 
-i¡
- 
-eše
- 
-symm‘rische
- 
-Blockchifäe
- 
-m™
- 128-256 
-B™
- 
-Schl
-Ã¼
-s£Î
-Ã¤
-nge
-}
-
-383 %\
-Ãwglos§ry’Œy
-{
-RC4
-}{
-
-384 %
-Çme
-=
-RC4
-,
-
-385 %
-desütiÚ
-={\
-aüfuÎ
-{
-RC4
-} 
-i¡
- 
-eše
- 
-symm‘rische
- 
-SŒomv”schl
-Ã¼
-s£lung
-. 
-D”
- 
-KÏ¹ext
- 
-wœd
- 
-B™
- 
-f
-Ã¼
-r
- B™ 
-³r
- 
-XOR
- 
-m™
- 
-d”
- 
-ZuçÎsfŞge
- 
-v”kn
-Ã¼
-pá
-}
-
-387 %\
-Ãwglos§ry’Œy
-{
-FÏg
-}{
-
-388 %
-Çme
-=
-FÏg
-,
-
-389 %
-desütiÚ
-={
-Eš
- 
-FÏg
- 
-i¡
- 
-eš
- 
-Stusšdik©Ü
-. 
-Er
- 
-d›Á
- 
-zur
- 
-K’nzeichnung
- 
-be¡imm‹r
- 
-Zu¡
-Ã¤
-	`nde
- (
-z
-.
-B
-. 0 = 
-Licht
- 
-aus
-, 1 = Lichˆ
-ª
-)}
-
-391 %\
-Ãwglos§ry’Œy
-{
-ASCII
-}{
-
-392 %
-Çme
-=
-ASCII
-,
-
-393 %
-desütiÚ
-={\
-aüfuÎ
-{
-ASCII
-} 
-i¡
- 
-eše
- 
-Hexadezim®e
- 
-Zeich’cod›rung
- 
-auf
- 
-ur¥r
-Ã¼
-nglich
- 7 
-B™
- 
-Eb’e
-. 
-D›s
- 
-’t¥richt
- 128 
-druckb¬e
- 
-Zeich’
- 
-d›
- 
-durch
- 
-eš’
- 
-šdividu–Ën
- 
-Hexadezim®’
- 
-W”t
- 
-d¬ge¡–É
- 
-w”d’
- 
-k
-Ã¶
-Â’
-.}
-
-396 %\
-Ãwglos§ry’Œy
-{
-Plugš
-}{
-
-397 %
-Çme
-=
-Plugš
-,
-
-398 %
-¶u¿l
-=
-¶ušs
-,
-
-399 %
-desütiÚ
-={
-Eš
- 
-	`Plugš
- (
-od”
- 
-Plug
--
-š
-è
-”we™”t
- od” 
-v”
-Ã¤
-nd”t
- 
-eše
- 
-be¡eh’de
- 
-Soáw¬e
-. 
-Z
-.
-B
-. 
-um
- 
-Ãue
- od” v”Ã¤
-nd”‹
- 
-FunktiÚ’
-. 
-Es
- 
-i¡
- 
-eš
- 
-İtiÚ®es
- 
-zus
-Ã¤
-tzliches
- Soáw¬e-
-Modul
- 
-f
-Ã¼
-r
- 
-d›£
- Soáw¬e, 
-dass
- 
-nicht
- 
-ohÃ
-ƒš
-Hau±ªw’dung
- 
-ausgef
-Ã¼
-h¹
- 
-w”d’
- 
-kªn
-. 
-Tewei£
- 
-wœd
- 
-¡©t
- 
-Plugš
- 
-auch
- 
-d”
- 
-Begriff
- 
-AddÚ
- od” 
-Add
--
-Ú
- 
-v”w’d‘
-.}
-
-404 %\
-Ãwglos§ry’Œy
-{
-AddÚ
-}{
-
-405 %
-Çme
-=
-AddÚ
-,
-
-406 %
-¶u¿l
-=
-AddÚs
-,
-
-407 %
-desütiÚ
-={
-Eš
- 
-	`AddÚ
- (
-od”
- 
-Add
--
-Ú
-è
-	`”we™”t
- (od” 
-v”
-Ã¤
-nd”t
-è
-eše
- 
-be¡eh’de
- 
-Soáw¬e
-. 
-Z
-.
-B
-. 
-um
- 
-Ãue
- od” v”Ã¤
-nd”‹
- 
-FunktiÚ’
-. 
-Es
- 
-i¡
- 
-eš
- 
-İtiÚ®es
- 
-zus
-Ã¤
-tzliches
- 
-Modul
- 
-dass
- 
-nicht
- 
-ohÃ
-ƒš
-Hau±ªw’dung
- 
-g’utzt
- 
-w”d’
- 
-kªn
-. 
-H
-Ã¤
-ufig
-, 
-¥ez›Î
- 
-š
- 
-d”
- 
-InfÜm©ik
-, 
-wœd
- 
-¡©t
- 
-Plugš
- 
-auch
- d” 
-Begriff
- Plugš od” 
-Plug
--š 
-v”w’d‘
-.}
-
-410 %\
-Ãwglos§ry’Œy
-{
-Wiki
-}{
-
-411 %
-Çme
-=
-Wiki
-,
-
-412 %
-¶u¿l
-=
-Wikis
-,
-
-413 %
-desütiÚ
-={
-Eš
- 
-Wiki
- 
-i¡
- 
-eš
- 
-Web£™’sy¡em
-. 
-D›
- 
-	`Inh®‹
- (
-Tex‹
-, 
-G¿fik’
-,.. ) 
-d”
- 
-Web£™’
- 
-k
-Ã¶
-Â’
- 
-vÚ
- 
-ªd”n
- 
-B’utz”n
- 
-g–e£n
- 
-auch
-‡uch 
-dœekt
- 
-Úlše
- 
-im
- 
-Webbrow£r
- 
-ge
-Ã¤
-nd”t
- 
-w”d’
-. 
-OhÃ
- 
-eše
- 
-zus
-Ã¤
-tzliche
- 
-Soáw¬e
- 
-zu
- 
-b’
-Ã¶
-tig’
-. 
-Es
- 
-wœd
- 
-h
-Ã¤
-ufig
- 
-g’utzt
-, 
-um
- 
-Erçhrung
- 
-und
- 
-	`Wis£n
- (
-gemešschaálich
-èzu 
-§mm–n
- 
-	`und
- (
-v”¡
-Ã¤
-ndlich
-èzu 
-dokum’t›»n
-.}
-
-416 %\
-Ãwglos§ry’Œy
-{
-FÜum
-}{
-
-417 %
-Çme
-=
-FÜum
-,
-
-418 %
-¶u¿l
-=
-FÜ’
-,
-
-419 %
-desütiÚ
-={
-Eš
- 
-FÜum
- 
-i¡
- 
-eš
- 
-»®”
- 
-od”
- 
-	`vœtu–Ër
- (
-Úlše
-è
-O¹
-, 
-ª
- 
-dem
- 
-Mešung’
- 
-zwisch’
- 
-v”m›d’
- 
-P”sÚ’
- 
-ausg‘auscht
- 
-w”d’
- 
-k
-Ã¶
-Â’
-, 
-F¿g’
- 
-ge¡–É
- 
-und
- 
-b—ÁwÜ‹t
- w”d’ kÃ¶Â’ od” 
-Them’
- 
-diskut›¹
- werden kÃ¶nnen. }
-
-421 %\
-Ãwglos§ry’Œy
-{
-Po¡Süt
-}{
-
-422 %
-Çme
-=
-Po¡Süt
-,
-
-423 %
-desütiÚ
-={
-Po¡Süt
- 
-i¡
- 
-eše
- 
-Prog¿mm›r¥¿che
-, 
-¥ezŸlis›¹
- 
-auf
- 
-Bd”
-, 
-Tex‹
- 
-od”
- 
-ªd”e
- 
-G¿fische
- 
-FÜm’
-. 
-D›£
- 
-k
-Ã¶
-Â’
- 
-z
-.
-B
-.‡uà
-eš”
- 
-dig™®’
- 
-Se™e
- 
-d¬ge¡–É
-, od” 
-ª
- 
-eš’
- 
-Druck”
- 
-we™”g–e™‘
- 
-w”d’
-. Po¡Süˆi¡ 
-uÁ”
- \
-c™e
-{
-po¡3
-} 
-vÚ
- 
-Adobe
- 
-¥ezifiz›¹
-. 
-We™”e
- 
-InfÜm©iÚ’
- 
-sšd
- 
-auch
- uÁ” \c™e{
-po¡1
-} 
-und
- \c™e{
-po¡2
-} 
-zu
- 
-fšd’
-. Po¡Süˆi¡ 
-GrundÏge
-,‡uà
-w–che
- 
-das
- \
-aüfuÎ
-{
-PDF
-} 
-auf£tzt
-.}
-
-426 %\
-Ãwglos§ry’Œy
-{
-Hexadezim®
-}{
-
-427 %
-Çme
-=
-Hexadeim®
-,
-
-428 %
-desütiÚ
-={
-Beim
- 
-Hexadezim®sy¡em
- 
-š
- 
-ešem
- 
-S‹Î’w”tsy¡em
- 
-d›
- 
-ZahËn
- 
-jewes
- 
-zur
- 
-Basis
- 16 
-d¬ge¡–É
-. 
-D›£s
- 
-i¡
- 
-komfÜbË»
- 
-D¬¡–lung
- 
-®s
- 
-Bš
-Ã¤
-	`rsy¡ems
- (0 
-und
- 1è
-w–ches
- 
-¥ez›Î
- iÀ
-d”
- 
-eše
- 
-RŞË
- 
-¥›É
-. 
-So
- 
-m
-Ã¼
-s£n
- d› 
-Ok‹‰e
- 
-beim
- Hexadezim®sy¡em 
-nicht
-‡l 
-acht
- 
-¡–lige
- BšÃ¤
-rzahËn
- 
-sÚd”
- 
-nur
-‡l 
-zwei¡–lige
- 
-Hexadezim®zahËn
- d¬ge¡–É 
-w”d’
-.},
-
-429 %
-¶u¿l
-=
-Hexadeim®”
-
-
-431 %\
-Ãwglos§ry’Œy
-{
-Okl
-}{
-
-432 %
-Çme
-=
-Okl
-,
-
-433 %
-desütiÚ
-={
-Das
- 
-OkË
- 
-ZahËnsy¡em
- 
-wœd
- 
-zur
- 
-Basis
- 8 
-d¬ge¡–É
-. 
-G’au
- 
-w›
- 
-d›
- 
-Hexadezim®e
- 
-Sch»ibwei£
- 
-i¡
- 
-es
- 
-eše
- 
-komfÜbË»
- 
-D¬¡–lung
- 
-®s
- 
-Bš
-Ã¤
-	`rsy¡ems
- (0 
-und
- 1). 
-Beim
- 
-OkËn
- ZahËnsy¡em 
-w”d’
- 
-Zeich’
- 
-nicht
-‡l 
-acht
- 
-¡–lige
- BšÃ¤
-rzahËn
- 
-sÚd”
-‡l 
-d»i¡–lige
- 
-OklzahËn
- dargestellt.},
-
-434 %
-¶u¿l
-=
-où®’
-
-
-437 %\
-Ãwglos§ry’Œy
-{
-IÁeg”
-}{
-
-438 %
-Çme
-=
-IÁeg”
-,
-
-439 %
-desütiÚ
-={
-Eše
- 
-Gªzzahl
-. 
-Also
- 
-eše
- 
-Zahl
- 
-ohÃ
- 
-Komma
- 
-und
- 
-Nachkomma¡–Ën
-.},
-
-440 %
-¶u¿l
-=
-IÁeg”s
-
-
-442 %\
-Ãwglos§ry’Œy
-{
-R—Ë
- 
-Zahl
-}{
-
-443 %
-Çme
-=
-R—Ë
- 
-Zahl
-,
-
-444 %
-desütiÚ
-={
-Eše
- 
-R—hË
- 
-Zahl
- 
-i¡
- 
-eše
- ZahÈ
-m™
- 
-Nachkomma¡–Ën
-},
-
-445 %
-¶u¿l
-=
-R—Ë
- 
-ZahËn
-
-
-448 %\
-Ãwglos§ry’Œy
-{
-Esÿ³zeich’
-}{
-
-449 %
-Çme
-=
-Esÿ³zeich’
-,
-
-450 %
-desütiÚ
-={
-Esÿ³zeich’
- 
-Le™’
- 
-š
- 
-d”
- 
-InfÜm©ik
- 
-eše
- 
-SÚd”funktiÚ
- 
-eš
-. 
-D”
- 
-Anschl›
-ÃŸ
-’de
- 
-Buch¡abe
- 
-wœd
- 
-dabei
- 
-nicht
- 
-mehr
- 
-®s
- Buch¡ab
-š‹½»t›¹
-, 
-sÚd”
- 
-h©
-ƒš
-defš›¹e
- 
-FunktiÚ®™
-Ã¤
-t
-. 
-Z
-.
-B
-. 
-$
-\
-back¦ash$n
- 
-f
-Ã¼
-r
-ƒš
-Ãue
- 
-Zee
- 
-od”
- $\
-back¦ash$r
- fÃ¼¸
-eš’
- 
-Ze’r
-Ã¼
-ck¥rung
-},
-
-451 %
-¶u¿l
-=
-esÿ³d
-
-
-456 %\
-Ãwglos§ry’Œy
-{
-Key
--
-V®ue
--
-P¯r
-}{
-
-457 %
-Çme
-=
-Key
--
-V®ue
--
-P¯r
-,
-
-458 %
-¶u¿l
-=
-Key
--
-V®ue
--
-P¯»
-,
-
-459 %
-desütiÚ
-={
-Ešem
- 
-Schl
-Ã¼
-s£lwÜt
-/
-BezeichÃr
-/
-	`V¬ŸbË
- (
-Key
-è
-wœd
- 
-eš
- 
-	`W”t
- (
-V®ue
-è
-zugeÜdÃt
-. 
-Es
- 
-”fŞgt
- 
-®so
- 
-eše
- 
-A¹
- 
-vÚ
- 
-Defš™iÚ
-, 
-bei
- 
-d”
- 
-zu
- 
-ešem
- SchlÃ¼
-s£l
-ƒš 
-be¡imm‹n
- 
-W”t
- 
-	`ã¡g–egt
- (
-defš›¹
-) wird}
-
-462 %\
-Ãwglos§ry’Œy
-{
-Abw«¹skom·tib–
-}{
-
-463 %
-Çme
-=
-Abw
-Ã¤
-¹skom·tib–
-,
-
-464 %
-¶u¿l
-=
-Abw
-Ã¤
-¹skom·tib™
-Ã¤
-t
-,
-
-465 %
-desütiÚ
-={
-Eš
- 
-	`Objekt
- (
-z
-.
-B
-. 
-eš
- 
-Prog¿mm
-è
-kªn
- 
-ªd”e
- 
-	`Objek‹
- (z.B. 
-eše
- 
-D©ei
-è
-richtig
- 
-v”¬be™’
-, 
-d›
- 
-vÚ
- 
-eš”
- Ã¤
-É”’
- 
-V”siÚ
- 
-¡amm’
- 
-und
- 
-som™
- 
-ªd”s
- 
-zu
- 
-š‹½»t›»n
- 
-i¡
- 
-od”
- 
-w’ig”
- 
-bzw
-.‡nd”
-FunktiÚ®™
-Ã¤
-‹n
- 
-bes™zt
-.}
-
-468 %\
-Ãwglos§ry’Œy
-{
-Aufw«¹skom·tib–
-}{
-
-469 %
-Çme
-=
-Aufw
-Ã¤
-¹skom·tib–
-,
-
-470 %
-¶u¿l
-=
-Aufw
-Ã¤
-¹skom·tib™
-Ã¤
-t
-,
-
-471 %
-desütiÚ
-={
-Eš
- 
-	`Objekt
- (
-z
-.
-B
-. 
-eš
- 
-Prog¿mm
-è
-kªn
- 
-ªd”e
- 
-	`Objek‹
- (z.B. 
-eše
- 
-D©ei
-è
-richtig
- 
-v”¬be™’
-, 
-d›
- 
-vÚ
- 
-eš”
- 
-Ãu”’
- 
-V”siÚ
- 
-sšd
-, 
-®s
- 
-es
- 
-£lb¡
-. 
-Neu”e
- 
-V”siÚ’
- 
-k
-Ã¶
-Â’
- 
-unbekªÁe
- 
-FunktiÚ®™
-Ã¤
-‹n
- 
-bes™zt
- 
-od”
- 
-ªd”s
- 
-zu
- 
-š‹½»t›»n
- 
-£š
-. 
-D›£s
- 
-macht
-ƒš
-Aufw
-Ã¤
-¹skom·tib™
-Ã¤
-t
- 
-schw›rig
-}
-
-474 %\
-Ãwglos§ry’Œy
-{
-Ze’rueck¥rung
-}{
-
-475 %
-Çme
-=
-Ze’r
-Ã¼
-ck¥rung
-,
-
-476 %
-desütiÚ
-={
-D›£r
- 
-Beãhl
- 
-be§gt
-, 
-das
- 
-d”
- 
-Cur£r
- 
-zum
- 
-Ançng
- d” 
-Zee
- 
-S´šg’
- 
-sŞl
-, 
-bzw
-. da 
-m™
- 
-eš”
- 
-Ãu’
- Ze
-begÚÃn
- 
-w”d’
- sŞl. 
-H
-Ã¤
-ufig
- 
-wœd
- 
-es
- 
-durch
- 
-eš
- 
-$
-\
-back¦ash$r
- 
-gek’nzeichÃt
-.}
-
-478 %\
-Ãwglos§ry’Œy
-{
-Ze’umbruch
-}{
-
-479 %
-Çme
-=
-Ze’umbruch
-,
-
-480 %
-desütiÚ
-={
-D›£r
- 
-Beãhl
- 
-be§gt
-, 
-das
- 
-d”
- 
-Cur£r
- 
-š
- d” 
-n
-Ã¤
-ch¡’
- 
-Zee
- 
-begšÃn
- 
-sŞl
-. 
-H
-Ã¤
-ufig
- 
-wœd
- 
-es
- 
-durch
- 
-eš
- 
-$
-\
-back¦ash$n
- 
-gek’nzeichÃt
-. 
-Bei
- 
-Wšdowssy¡em
- 
-šklud›¹
-ƒš 
-Ze’umbruch
- 
-auch
- 
-imm”
- 
-eš’
- 
-Ze’r
-Ã¼
-ck¥rung
- durch $\
-back¦ash$r
-. 
-D›£s
- wœd 
-bei
- 
-Unixsy¡em’
- 
-g‘»Ât
-}
-
-482 %\
-Ãwglos§ry’Œy
-{
-Encod›»n
-}{
-
-483 %
-Çme
-=
-Encod›»n
-,
-
-484 %
-desütiÚ
-={
-Eš
- 
-	`D©’·k‘
- (
-w›
- 
-z
-.
-B
-. 
-eš’
- 
-Text
-è
-m™
- 
-ešem
- 
-Code
- 
-v”schl
-Ã¼
-s£Ê
-},
-
-485 %
-¶u¿l
-=
-’cod›»n
-
-
-487 %\
-Ãwglos§ry’Œy
-{
-PDF
- 
-ProûssÜ
-}{
-
-488 %
-Çme
-=
-PDF
- 
-ProûssÜ
-,
-
-489 %
-¶u¿l
-=
-PDF
- 
-ProzessÜ’
-,
-
-490 %
-desütiÚ
-={
-Eš
- 
-PDF
- 
-ProûssÜ
- 
-i¡
- 
-jede
- 
-A¹
- 
-vÚ
- 
-Soáw¬e
- 
-od”
- 
-H¬dw¬e
-, 
-w–che
- PDF 
-D©e›n
- 
-sch»ib’
-, 
-Ë£n
- 
-	`aktu®is›»n
- (
-upd©’
-èod” 
-ªd”we™ig
- 
-v”¬be™‘
-. 
-GrundËg’d
- 
-wœd
- 
-zwisch’
- \
-gls
-{PDF 
-Wr™”
-} (PDF Soáw¬od” H¬dw¬
-zum
- 
-Sch»ib’
- vÚ PDF D©e›nè
-und
- PDF 
-	`R—d”n
- (PDF Soáw¬od” H¬dw¬zum 
-Anzeig’
- vÚ PDF D©e›nè
-uÁ”sch›d’
-. }
-
-492 %\
-Ãwglos§ry’Œy
-{
-esÿ³
-}{
-
-493 %
-Çme
-=
-esÿ³
-,
-
-494 %
-¶u¿l
-=
-esÿ³d
-,
-
-495 %
-desütiÚ
-={
-UÁ”
- 
-	`esÿ³
- (
-Esÿ³n
-è
-v”¡eht
- 
-mª
- 
-š
- 
-d”
- 
-InfÜm©iÚ¡echnik
- 
-d’
- 
-VÜgªg
-, 
-eše
- 
-SÚd”funktiÚ
-, 
-z
-.
-B
-. 
-ešes
- 
-Zeich’s
-, 
-zu
- 
-ignÜ›»n
- 
-und
- 
-das
- 
-Zeich’
- 
-®s
- 
-nÜm®es
- 
-Textzeich’
- 
-d¬zu¡–Ën
-, 
-ª¡©t
- 
-d›
- SÚd”funktiÚ 
-auszuf
-Ã¼
-h»n
-. 
-H›rzu
- 
-wœd
- 
-w›d”um
- 
-eš
- Zeich’ 
-m™
- SÚd”funktiÚ 
-b’
-Ã¶
-tigt
-, 
-w–che
-‡l 
-Esÿ³zeich’
- 
-bezeichÃt
- wird. }
-
-497 %\
-Ãwglos§ry’Œy
-{-
-£ns™ive
-}{
-
-498 %
-Çme
-=-
-£ns™ve
-,
-
-499 %
-desütiÚ
-={
-UÁ”
- -
-£ns™ve
- 
-v”¡eht
- 
-mª
-, 
-das
- 
-d›
- 
-Gro
-ÃŸ 
-und
- 
-KËšsch»ibung
- 
-b”
-Ã¼
-cksichtigt
- 
-wœd
- \
-glqq
- 
-H®lo
-\
-grqq
-\ 
-’t¥richt
- 
-som™
- 
-nicht
-! 
-dem
- 
-WÜt
- \glqq 
-h®lo
-\grqq\. 
-Es
- 
-sšd
- 2 
-uÁ”sch›dliche
- 
-W
-Ã¶
-¹”
-. }
-
-502 %\
-Ãwglos§ry’Œy
-{
-PDF
- 
-Wr™”
-}{
-
-503 %
-Çme
-=
-PDF
- 
-Wr™”
-,
-
-504 %
-desütiÚ
-={
-Eš
- 
-PDF
- 
-Wr™”
- 
-i¡
- 
-eše
- 
-Soáw¬e
- 
-od”
- 
-H¬dw¬e
-, 
-m™
- 
-w–ch”
- PDF 
-D©e›n
- 
-”¡–É
- od” 
-	`”zeugt
- (
-z
-.
-B
-. 
-eš
- PDF 
-Prš‹r
-è
-w”d’
- 
-k
-Ã¶
-Â’
- }
-
-506 %\
-Ãwglos§ry’Œy
-{
-PDF
- 
-R—d”
-}{
-
-507 %
-Çme
-=
-PDF
- 
-R—d”
-,
-
-508 %
-desütiÚ
-={
-Eš
- 
-PDF
- 
-	`R—d”
- (
-od”
- 
-auch
- PDF 
-V›w”
-è
-Soáw¬e
- od” 
-H¬dw¬e
- 
-zum
- 
-Anzeig’
- 
-und
- 
-	`V”¬be™’
- (\
-gls
-{PDF 
-CÚv”‹r
-}è
-vÚ
- PDF 
-D©e›n
-. 
-Abh
-Ã¤
-ngig
- 
-vom
- 
-FunktiÚsumçng
- 
-des
- PDF 
-R—d”s
- 
-k
-Ã¶
-Â’
- 
-m™
- 
-d›£m
-‡uch 
-FÜmuÏ»
- 
-ausgef
-Ã¼
-Ît
-, 
-Inh®‹
- 
-exŒah›¹
-, 
-MuÉimedŸšh®‹
- 
-w›d”
- 
-geg’
- 
-w”d’
- od” 
-Ešgeb‘‹‹
- Inh®‹ und 
-FunktiÚ’
- 
-ge
-Ã¶
-fâ‘
- od” 
-Ausgef
-Ã¼
-h¹
- w”d’, 
-w›
- 
-das
- Ã¶
-fâ’
- 
-eš”
- 
-IÁ”Ãt£™e
- od” 
-ešes
- 
-Dokum’‹s
- od” da 
-Ausf
-Ã¼
-h»n
- vÚ 
-Prog¿mm’
-}
-
-510 %\
-Ãwglos§ry’Œy
-{
-PDF
- 
-CÚv”‹r
-}{
-
-511 %
-Çme
-=
-PDF
- 
-CÚv”‹r
-,
-
-512 %
-desütiÚ
-={
-Soáw¬e
- 
-od”
- 
-H¬dw¬e
-, 
-w–che
- 
-PDF
- 
-D©e›n
- 
-š
- 
-ªd”e
- 
-D©eifÜm©e
- 
-umwªd–t
-. 
-Od”
-‡ndere Dateiformate in PDF Dateien umwandelt.}
-
-514 %\
-Ãwglos§ry’Œy
-{
-PDF
- 
-Prš‹r
-}{
-
-515 %
-Çme
-=
-PDF
- 
-Prš‹r
-,
-
-516 %
-desütiÚ
-={
-Eš
- 
-vœtu–Ër
- 
-	`Druck”
- (
-od”
- 
-v›lm”
- 
-Druck”Œeib”
-), 
-w–ch”
- 
-empçng’e
- 
-D©’
- 
-š
- 
-PDF
- 
-SyÁax
- 
-umwªd–t
- 
-und
- 
-das
- 
-Ergebniss
- 
-®s
- PDF 
-D©e›n
- 
-ab¥eich”t
-. 
-Es
- 
-wœd
- 
-som™
- 
-eš
- PDF 
-Dokum’t
- 
-”zeugt
-, 
-ª¡©t
- 
-Inh®‹
- 
-Physik®isch
- 
-auszudruck’
-.}
-
-519 %\
-Ãwglos§ry’Œy
-{
-PDF
- 
-Druck”
-}{
-
-520 %
-Çme
-=
-PDF
- 
-Druck”
-,
-
-521 %
-desütiÚ
-={
-Eš
- 
-vœtu–Ër
- 
-	`Druck”
- (
-od”
- 
-v›lm”
- 
-Druck”Œeib”
-), 
-w–ch”
- 
-empçng’e
- 
-D©’
- 
-š
- 
-PDF
- 
-SyÁax
- 
-umwªd–t
- 
-und
- 
-das
- 
-Ergebniss
- 
-®s
- PDF 
-D©e›n
- 
-ab¥eich”t
-. 
-Es
- 
-wœd
- 
-som™
- 
-eš
- PDF 
-Dokum’t
- 
-”zeugt
-, 
-ª¡©t
- 
-Inh®‹
- 
-Physik®isch
- 
-auszudruck’
-.}
-
-523 \
-Ãwglos§ry’Œy
-{
-m‘ad©a
-}{
-
-524 
-Çme
-=
-m‘ad©a
-,
-
-525 
-desütiÚ
-={
-M‘ad©a
- 
-¬e
- 
-šfÜm©iÚ
- 
-about
- 
-a
- 
-fe
-. 
-Like
- 
-the
- 
-fefÜm©
-,he
-
-526 
-authÜ
- 
-Ü
- 
-how
- 
-to
- 
-u£
- 
-the
- 
-fe
-.}
-
-529 \
-Ãwglos§ry’Œy
-{
-m‘ad©afes
-}{
-
-530 
-Çme
-=
-m‘ad©a
- 
-fes
-,
-
-531 
-desütiÚ
-={
-M‘ad©a
- 
-fes
- 
-¬e
- fe 
-hŞdšg
- 
-Úly
- \
-gls
-{
-m‘ad©a
-} 
-about
- 
-Úe
- 
-Üe
-
-
-532 
-mÜe
- 
-Ùh”
- 
-fes
-.
-
-534 \
-Ãwglos§ry’Œy
-{
-M‘a
-}{
-
-535 
-Çme
-=
-M‘ad©’
-,
-
-536 
-desütiÚ
-={
-M‘ad©’
- 
-od”
- 
-M‘ašfÜm©iÚ’
- 
-sšd
- 
-InfÜm©iÚ’
- Ã¼
-b”
- 
-ªd”e
- 
-D©’
-}
-
-539 \
-Ãwglos§ry’Œy
-{
-M‘ad©’d©ei
-}{
-
-540 
-Çme
-=
-M‘ad©’d©ei
-,
-
-541 
-desütiÚ
-={
-Eše
- 
-D©ei
-, 
-w–che
- \
-gl¥l
-{
-M‘a
-} (
-InfÜm©iÚ’
- 
-zu
- 
-ªd”’
- 
-D©’
-èÃ¼
-b”
- 
-nd”e
- D©’ 
-’th
-Ã¤
-É
-.}
-
-543 %\
-Ãwglos§ry’Œy
-{
-End
- 
-Of
- 
-Lše
-}{
-
-544 %
-Çme
-=
-End
- 
-Of
- 
-Lše
-,
-
-545 %
-desütiÚ
-={
-SymbŞis›¹
- 
-das
- \
-glqq
- 
-Ende
- 
-eš”
- 
-Zee
-\
-grqq
-\.}
-
-547 %\
-Ãwglos§ry’Œy
-{
-Tok’
-}{
-
-548 %
-Çme
-=
-Tok’
-,
-
-549 %
-desütiÚ
-={
-PDF
- 
-D©e›n
- 
-be¡eh’
- 
-aus
- 
-eš”
- 
-Sequ’z
- 
-vÚ
- 8 
-B™
- 
-Bš
-Ã¤
-rby‹s
-. 
-S›
- 
-w”d’
- 
-zu
- 
-Gruµ’
- 
-zu§mm’
- 
-geçs¡
- 
-d›
- 
-Schl
-Ã¼
-s£lw
-Ã¶
-¹”
-, 
-SŒšgs
-, 
-Numb”s
-, 
-usw
- 
-»´
-Ã¤
-£Á›»n
-. 
-Eše
- 
-Gruµe
- vÚ 
-By‹
- 
-wœd
- 
-š
- PDF 
-®s
- 
-Tok’s
- 
-defš›¹
- \
-c™e
-[
-S
-. 48]{
-pdf
-}}
-
-551 
-	}
-%%\
-Ãwglos§ry’Œy
-{-
-£ns™ive
-}{
-
-552 %% /* 
-	$yy·r£
- */ 
-	`yyËx
-()
-Çme
-=-
-£ns™ive
-,
-
-553 
-	}
-
-%%desütiÚ
-={-
-£ns™ive
- 
-bedeu‹t
-, 
-das
- 
-zwisch’
- 
-KËš
- 
-und
- 
-Gro
-ÃŸ
-buch¡ab’
- 
-uÁ”sch›d’
- 
-wœd
-. "\glqq Ein Beispiel\grqq\ ist‡lso \textbf{nicht!} gleich \glqqƒin beispiel\grqq\ .}
-
-554 %% /* 
-	$yy·r£
- */ 
-	`yyËx
-()}
-
-556 %\
-Ãwglos§ry’Œy
-{
-FÚt
-}{
-
-557 %
-Çme
-=
-FÚt
-,
-
-558 %
-¶u¿l
-=
-FÚts
-,
-
-559 %
-desütiÚ
-={
-Als
- 
-FÚt
- 
-wœd
- 
-d”
- 
-InfÜm©iÚ¡echnik
- 
-jede
- 
-Schriá¬t
- 
-bezeichÃt
-, 
-d›
- 
-auf
- 
-ešem
- 
-Compu‹r
- 
-od”
- 
-P”h”›g”
-Ã¤
-t
- 
-vÜhªd’e
- 
-i¡
-.}
-
-561 %\
-Ãwglos§ry’Œy
-{
-decod›»n
-}{
-
-562 %
-Çme
-=
-decod›»n
-,
-
-563 %
-¶u¿l
-=
-decod›¹
-,
-
-564 %
-desütiÚ
-={
-Eše
- 
-D©ei
- 
-od”
- 
-Nachricht
- 
-w›d”
- 
-EÁschl
-Ã¼
-s£Ê
- 
-und
- 
-šs
- 
-ur¥r
-Ã¼
-ngliche
- 
-FÜm©
- 
-zur
-Ã¼
-ck
- Ã¼
-b”£tz‹n
-.}
-
-566 %\
-Ãwglos§ry’Œy
-{
-Off£t
-}{
-
-567 %
-Çme
-=
-Off£t
-,
-
-568 %
-desütiÚ
-={
-Eše
- 
-be¡imm‹
- 
-S³ich”ad»s£
- 
-od”
- 
-eše
- 
-Anzahl
- 
-B™s
-, 
-By‹s
-, ..., 
-d›
- 
-i
-.
-d
-.
-R
- 
-vom
- 
-Begšn
- 
-eš”
- 
-D©ei
- 
-b”echÃt
- b”echÃˆ
-wœd
-. }
-
-570 %\
-Ãwglos§ry’Œy
-{
-Hybride
- 
-PDF
- 
-D©ei
-}{
-
-571 %
-Çme
-=
-Hybride
- 
-PDF
- 
-D©ei
-,
-
-572 %
-¶u¿l
-=
-hybrid’
- 
-PDF
- 
-D©e›n
-,
-
-573 %
-desütiÚ
-={
-PDFs
-, 
-d›
- 
-zus
-Ã¤
-tzlich
- 
-zu
- 
-Objekt¡»ams
- 
-und
- 
-ešem
- \
-gls
-{
-XRef
-} 
-	`SŒ—m
- (
-v”f
-Ã¼
-gb¬
- 
-ab
- 
-PDF
- 
-V”siÚ
- 1.5), 
-auch
- 
-nÜm®e
- 
-Objek‹
- und 
-eše
-‚Üm®\gls{XRef} 
-Tab–Ë
- 
-	`’th®‹n
- (
-bis
- PDF V”siÚ 1.4 d› 
-ešzige
- 
-FÜm
-). 
-S›he
- 
-h›rzu
- 
-das
- 
-Kab™–
- \
-glqq
- 
-Com·tib™y
- 
-w™h
- 
-AµliÿtiÚs
- 
-Th©
- 
-Do
- 
-NÙ
- 
-SuµÜt
- PDF 1.5\
-grqq
-\ 
-d”
- 
-Adobe
- 
-Reã»nz
- 
-uÁ”
- \
-c™e
-[
-S
-. 109 
-ff
-]{
-pdf2
-}}
-
-576 %\
-Ãwglos§ry’Œy
-{
-Upd©e
-}{
-
-577 %
-Çme
-=
-Upd©e
-,
-
-578 %
-¶u¿l
-=
-Upd©es
-,
-
-579 %
-desütiÚ
-={
-Eš
- 
-Upd©e
- 
-i¡
- 
-eše
- 
-Aktu®li£rung
-. 
-Etwas
- 
-wœd
- 
-auf
-ƒš
-aktu–Ën
- 
-Snd
- 
-od”
-ƒš
-aktu–Ë
- 
-V”siÚ
- 
-geb¿cht
-. }
-
-582 %\
-Ãwglos§ry’Œy
-{
-šk»m’‹Î
-}{
-
-583 %
-Çme
-=
-šk»m’‹Î
-,
-
-584 %
-¶u¿l
-=
-šk»m’‹Îe
-,
-
-585 %
-desütiÚ
-={
-schr™twei£
- 
-”fŞg’d
-, 
-auãšªd”
- 
-aufbau’d
-. \
-c™e
-[
-SchÏgwÜt
-: 
-šk»m’‹Î
-]{
-dud’
-} }
-
-589 %\
-Ãwglos§ry’Œy
-{
-EOL
-}{
-
-590 %
-Çme
-=
-End
- 
-of
- 
-Lše
-,
-
-591 %
-desütiÚ
-={
-M™
- \
-aüfuÎ
-{
-EOL
-} 
-wœd
- 
-das
- 
-Ende
- 
-eš”
- 
-Zee
- 
-beschr›b’
-. 
-D”
- 
-M¬k”
- 
-besch»ibt
- 
-š
- 
-d”
- 
-InfÜm©ik
- 
-h
-Ã¤
-ufig
- 
-d›
- 
-Kombš©iÚ
- d” 
-BeãhË
- 
-f
-Ã¼
-r
- 
-eše
- 
-Ãue
- 
-	`Zee
- (
-mei¡
- \
-bb
- 
-n
-è
-und
- 
-eš’
- 
-Ze’r
-Ã¼
-	`ck¥rung
- (meist \bb„)}
-
-593 %\
-Ãwglos§ry’Œy
-{
-EOF
-}{
-
-594 %
-Çme
-=
-End
- 
-of
- 
-Fe
-,
-
-595 %
-desütiÚ
-={
-M™
- \
-aüfuÎ
-{
-EOF
-} 
-wœd
- 
-das
- 
-Ende
- 
-eš”
- 
-D©ei
- 
-beschr›b’
-. 
-W›
- 
-d›£r
- 
-M¬k”
- 
-auss›ht
- 
-i¡
- 
-abh
-Ã¤
-ngig
- 
-vom
- 
-Prog¿mm
-, 
-w–ches
- 
-eše
- 
-sŞche
- 
-M¬k›rung
- 
-zum
- 
-Le£n
-ƒš” D©e˜
-b’
-Ã¶
-tigt
-.}
-
-597 %\
-Ãwglos§ry’Œy
-{
-Hash
-}{
-
-598 %
-Çme
-=
-Hash
-,
-
-599 %
-¶u¿l
-=
-Ha£s
-,
-
-600 %
-desütiÚ
-={
-Eš
- 
-Hash
- 
-i¡
- 
-eše
- 
-bezeichÃt
-ƒš
-V”k
-Ã¼
-rz‹
- 
-FÜm
- 
-vÚ
- 
-‘was
-. 
-Durch
-ƒš
-	`HashfunktiÚ
- (
-d”
- 
-VÜgªg
- 
-um
- 
-eš’
- Hash 
-zu
- 
-”¡–Ën
-è
-wœd
-ƒš
-Gro
-ÃŸ
-e
- 
-	`Ešgabe
- (
-z
-.
-B
-.ƒš
-D©ei
- 
-od”
- 
-eš
- 
-S©z
-è
-š
-ƒš
-kËše
- 
-Ausgabem’ge
- 
-	`umgewªd–t
-(
-abgebd‘
-). 
-Es
- 
-exi¡›»n
- 
-v”sch›d’e
- 
-V”çh»n
-, umƒš’ 
-	`Hash
- (od” 
-Hashw”t
-èzu 
-”zeug’
-. 
-D›
- 
-bekªÁe¡’
- 
-sšd
- \
-aüfuÎ
-{
-MD5
-} 
-und
- \aüfuÎ{
-SHA
-} iÀ
-V”siÚ
- 2 und 3. Eš Hashw”ˆwœd 
-h
-Ã¤
-ufig
- 
-®s
- 
-Pr
-Ã¼
-fsumme
- 
-v”w’d‘
- und wœd iÀ
-d›£m
- 
-F®l
- 
-auch
-‡l 
-Fšg”´št
- bezeichnet.}
-
-603 \
-Ãwglos§ry’Œy
-{
-ToŞ
-}{
-
-604 
-Çme
-=
-ToŞ
-, 
-desütiÚ
-={
-Eš
- 
-	`ToŞ
- (
-InfÜm©iÚ¡echnik
-, 
-zu
- 
-Deutsch
-
-
-605 \
-‹xt™
-{
-W”kzeug
-}è
-besch»ib
- 
-besch»ibt
- 
-eš
- 
-St
-Ã¼
-ck
- 
-Soáw¬e
- 
-das
-
-
-606 
-Hf§ufgab’
- 
-ausf
-Ã¼
-h¹
- 
-um
- 
-ešge£tzt
- 
-bei
- 
-ªd”’
- 
-Aufgab’
- 
-zu
- 
-uÁ”¡
-Ã¼
-tz’
-
-
-611 \
-ÃwaüÚym
-{
-SDKaü
-}{
-SDK
-}{
-Soáw¬e
- 
-Dev–İm’t
- 
-K™
-}
-
-612 \
-ÃwaüÚym
-{
-DTBaü
-}{
-DTB
-}{
-Deviû
- 
-T»e
- 
-Blob
-}
-
-613 \
-ÃwaüÚym
-{
-BSPaü
-}{
-BSP
-}{
-Bßrd
- 
-suµÜt
- 
-·ckage
-}
-
-614 \
-ÃwaüÚym
-{
-TFTPaü
-}{
-TFTP
-}{
-TrivŸl
- 
-Fe
- 
-T¿nsãr
- 
-PrÙocŞ
-}
-
-615 \
-ÃwaüÚym
-{
-NFSaü
-}{
-NFS
-}{
-N‘wÜk
- 
-Fe
- 
-Sy¡em
-}
-
-616 \
-ÃwaüÚym
-{
-FTPaü
-}{
-FTP
-}{
-Fe
- 
-T¿n¥Üt
- 
-PrÙocŞ
-}
-
-617 \
-ÃwaüÚym
-{
-CVSaü
-}{
-CVS
-}{
-CÚcu¼’t
- 
-V”siÚs
- 
-Sy¡em
-}
-
-618 \
-ÃwaüÚym
-{
-VCSaü
-}{
-VCS
-}{
-V”siÚs
- 
-Sy¡em
-}
-
-619 % \
-ÃwaüÚym
-{
-WYSIWYG
-}{
-Wh©
- 
-you
- 
-£e
- 
-is
- 
-wh©
- you 
-g‘
-}
-
-620 % \
-ÃwaüÚym
-{
-LBA
-} 
-Logiÿl
- 
-Block
- 
-Add»ssšg
-
-
-622 % \
-ÃwaüÚym
-{
-PDF
-}{
-PÜbË
- 
-Dokum’t
- 
-FÜm©
-}
-
-623 % \
-ÃwaüÚym
-{
-HFU
-}{
-HochschuË
- 
-Fu¹wªg’
-}
-
-624 % \
-ÃwaüÚym
-{
-ISO
-}{
-IÁ”ÇtiÚ®
- 
-Orgªiz©iÚ
- 
-Snd¬diz©iÚ
-}
-
-625 % \
-ÃwaüÚym
-{
-AES
-}{
-Advªûd
- 
-Enüy±iÚ
- 
-Snd¬d
-}
-
-626 % \
-ÃwaüÚym
-{
-RC4
-}{
-aüfour
-}
-
-627 % \
-ÃwaüÚym
-{
-ASCII
-}{
-Am”iÿn
- 
-Snd¬d
- 
-Code
- 
-InfÜm©iÚ
- 
-IÁ”chªge
-}
-
-628 % \
-ÃwaüÚym
-{
-XRef
-}{
-Cross
- 
-Reã»nz
-}
-
-629 % \
-ÃwaüÚym
-{
-HTTP
-}{
-Hy³¹ext
- 
-T¿nsãr
- 
-PrÙocŞ
-}
-
-630 % \
-ÃwaüÚym
-{
-OLE
-}{
-Objeù
- 
-Lškšg
- 
-ªd
- 
-Embeddšg
-}
-
-631 % \
-ÃwaüÚym
-{
-EOL
-}{
-End
- 
-of
- 
-Lše
-}
-
-632 % \
-ÃwaüÚym
-{
-EOF
-}{
-End
- 
-of
- 
-Fe
-}
-
-633 % \
-ÃwaüÚym
-{
-MD5
-}{
-Mes§ge
--
-Dige¡
- 
-AlgÜ™hm
- 
-V”siÚ
- 5}
-
-634 % \
-ÃwaüÚym
-{
-SHA
-}{
-Secu»
- 
-Hash
- 
-AlgÜ™hm
-}
-
-635 % \
-ÃwaüÚym
-{
-ES
-}{
-Esÿ±es
- 
-SÚd”zeich’
-}
-
-636 % \
-ÃwaüÚym
-{
-SZ
-}{
-SÚd”zeich’
-}
-
-637 % \
-ÃwaüÚym
-{
-FDF
-}{
-FÜms
- 
-D©a
- 
-FÜm©
-}
-
-638 % \
-ÃwaüÚym
-{
-PJDF
-}{
-PÜbË
- 
-Job
- 
-Tick‘
- 
-FÜm©
-}
-
-639 % \
-ÃwaüÚym
-{
-HTTP
-}{
-Hy³¹ext
- 
-T¿nsãr
- 
-PrÙocŞ
-}
-
-640 % \
-ÃwaüÚym
-{
-CMYK
-}{
-Cyª
-, 
-Mag’
-, 
-Y–low
- 
-und
- 
-d”
- 
-Schw¬zª‹
- 
-Kay
-}
-
-641 % \
-ÃwaüÚym
-{
-RGB
-}{
-RÙ
-, 
-Gr
-Ã¼
-n
- 
-und
- 
-BÏu
-}
-
-642 % \
-ÃwaüÚym
-{
-VDP
-}{
-V¬ŸbË
- 
-D©a
- 
-Prštšg
-}
-
-643 % \
-ÃwaüÚym
-{
-PAdES
-}{
-PDF
- 
-Advªûd
- 
-EËùrÚic
- 
-SigÇtu»s
-}
-
-644 % \
-ÃwaüÚym
-{
-SP
-}{
-S·û
- 
-Ch¬aù”
-}
-
-645 % \
-ÃwaüÚym
-{
-HT
-}{
-HÜizÚl
- 
-TabuÏtÜ
-}
-
-646 % \
-ÃwaüÚym
-{
-CR
-}{
-C¬rŸge
- }
-
-647 % \
-ÃwaüÚym
-{
-LF
-}{
-Lše
- 
-ãed
-}
-
-648 % \
-ÃwaüÚym
-{
-FF
-}{
-FÜm
- 
-ãed
-}
-
-649 % \
-ÃwaüÚym
-{
-NUL
-}{
-NuÎ
- 
-ch¬aù”
-}
-
-650 % \
-ÃwaüÚym
-{
-OID
-}{
-Objeù
- 
-Id’tif›r
-}
-
-651 % \
-ÃwaüÚym
-{
-ETSI
-}{
-Eurİ—n
- 
-T–ecommuniÿtiÚs
- 
-Snd¬ds
- 
-In¡™u‹
-}
-
-652 % \
-ÃwaüÚym
-{
-VM
-}{
-vœtu–Ë
- 
-Maschše
-}
-
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/grundlagen.tex
-
-1 \
-	gch­‹r
-{
-Basics
- 
-ªd
- 
-g’”®
- 
-	gšfÜm©iÚ
-}%
-
-2 \
-	gÏb–
-{
-	gcha
-:
-Basics_ªd_g’”®_šfÜm©iÚ
-}
-
-5 \
-£ùiÚ
-{
-In¡®l
- 
-PTXdi¡
- 
-ªd
- 
-how
- 
-to
- 
-u£
- 
-™
- - 
-Budšg
- 
-the
- 
-Lšux
- 
-di¡ributiÚ
-. }%
-
-6 \
-Ïb–
-{
-£c
-:
-lšux_di¡ributiÚ_bud
-}
-
-8 \
-begš
-{
-desütiÚ
-}
-
-9 \
-™em
-[
-To
- 
-bud
- 
-the
- 
-Lšux
- 
-di¡ributiÚ
-]h
-äamewÜk
- \
-‹xt™
-{
-PTXdi¡
-} 
-is
-
-
-10 
-u£d
-. 
-Reãr
- 
-to
- \
-c™e
-{
-PTXdi¡
-}Ø
-g‘
- 
-ª
- 
-šŒoduùiÚ
-o PTXdist.
-
-11 \
-™em
-[
-How
- 
-to
- 
-š¡®l
- 
-PTXdi¡
-] 
-ªd
- 
-g‘
- 
-the
- 
-äamewÜk
- 
-ruÂšg
-, 
-»ãr
- 
-	gto
-
-
-12 \
-	gc™e
-{
-	gš¡®l_±xdi¡
-}. 
-This
- 
-desüibes
- 
-how
- 
-to
- 
-š¡®l
- 
-	gthe
-
-
-13 \
-	g‹xtbf
-{
-right
- 
-üoss
- 
-comp”
- 
-	gv”siÚ
-} 
-as
- 
-w–l
-‡ 
-how
- 
-to
- 
-cÚfigu»
-
-
-14 
-PTXdi¡
- 
-ªd
- 
-the
- 
-	gBSP
-, 
-´ovided
- 
-by
- 
-	gTQ
- \
-	gc™e
-[
-TQ
- 
-BSP
-]{
-	gBSP_119
-}. 
-Its
-
-
-15 
-impÜÁ
- 
-th©
- 
-the
- 
-üoss
- 
-comp”
- 
-is
- 
-com·tibË
- 
-to
-h
-u£d
- 
-Lšux
- 
-k”Ãl
-
-
-16 
-as
- 
-w–l
-‡ 
-the
- 
-Ùh”
- 
-sourûs
- 
-´ovided
- 
-by
-h
-BSP
- 
-ªd
- 
-	gPTXdi¡
-
-
-17 \
-	g‹xt™
-{
-	gruËs
-} (
-some
- 
-kšd
- 
-	gof
- \
-	ggls
-{
-	gm‘ad©afes
-} 
-desüibšg
- 
-how
- 
-ªd
- 
-w”e
-
-
-18 
-to
- 
-dowÆßd
- 
-ªd
- 
-š¡®l
- 
-some
- 
-sourûs
-‡nd 
-	g·ck‘s
-).
-
-19 \
-	g™em
-[
-How
- 
-to
- 
-u£
- 
-PTXdi¡
-] 
-»ãr
- 
-	gto
- \
-	gc™e
-[PTXdi¡ 
-mªu®
-]{
-	g±xdi¡_mªu®
-}
-
-20 \
-	g’d
-{
-	gdesütiÚ
-}
-
-23 \
-	g£ùiÚ
-{
-	gG™
-}%
-
-24 \
-	gÏb–
-{
-	g£c
-:
-g™
-}
-
-25 
-G™
- 
-is
- 
-a
- 
-di¡ribu‹d
- 
-as
- 
-w–l
-‡ 
-ûÁ¿l
- 
-v”siÚ
- 
-cÚŒŞ
- 
-sy¡em
- 
-which
- 
-Úly
- 
-§ves
-
-
-26 
-chªges
- 
-to
- 
-a
- 
-fe
- 
-š¡—d
- 
-of
- 
-cİ›s
-. 
-Sw™chšg
- 
-b‘w“n
- 
-dev–İm’t
- 
-v”siÚs
- 
-is
-
-
-27 
-—sy
- 
-this
- 
-way
-. 
-Add™iÚ®
- 
-G™
- 
-has
- 
-a
- 
-lÙ
- 
-of
- 
-Ùh”
- 
-ã©u»s
- 
-com·»d
- 
-to
- other
-
-28 \
-gl¥l
-{
-VCS
-} 
-sy¡ems
-. 
-G™
- 
-was
- 
-dev–İed
- 2005 
-by
- 
-Lšus
- 
-TÜv®ds
-.
-
-30 
-FŞlowšg
- 
-¬e
- 
-lšks
- 
-to
- 
-tutÜŸls
- 
-ªd
- 
-desütiÚ
- 
-which
-
-
-31 
-desü›s
- 
-wh©
- 
-g™
- 
-is
-, wh© 
-™s
- 
-b’ef™s
- 
-¬e
- 
-ªd
- 
-how
- 
-you
- 
-ÿn
- 
-u£
- 
-	g™
-.
-
-34 \
-	gbegš
-{
-	gdesütiÚ
-}
-
-35 \
-	g™em
-[
-G™
- 
-commªd
- 
-»ã¿nû
-] \
-	gc™e
-{
-	gg™doc
-}
-
-36 \
-	g™em
-[
-O³n
- 
-PDF
- 
-book
-] 
-´ovided
- 
-by
- 
-the
- 
-g™
- 
-	ghom•age
-: \
-c™e
-{
-ChacÚ2014
-}. 
-I
- 
-®so
-
-
-37 
-hŞds
- 
-ª
- 
-commªd
- 
-šdex
- 
-Ú
- 
-the
- 
-Ï¡
- 
-side
- 
-like
-h
-Úlše
- 
-docum’tiÚ
-
-
-38 
-m’tiÚed
- 
-out
- 
-above
-. 
-Thªks
- 
-to
- 
-pdf
- 
-ªd
- 
-lškage
- 
-you
-
-
-39 
-ÿn
- 
-dœeùly
- 
-jump
- 
-to
- 
-the
- 
-desütiÚs
- 
-w™h
- 
-exam¶es
- 
-ªd
- 
-w–l
- 
-desigÃd
-
-
-40 
-piùu»s
-. 
-B–ow
- 
-is
- 
-a
- 
-video
- 
-£r›s
- 
-wich
- 
-shows
- 
-some
- 
-of
- 
-the
- 
-exam¶es
- 
-ªd
-
-
-41 
-piùu»s
- 
-šside
- 
-this
- 
-book
-.
-
-42 \
-™em
-[
-Video
- 
-tutÜŸl
- 
-£r›rs
-] 
-by
- 
-ª
- 
-English
- 
-¥—k”
-:
-
-43 \
-c™e
-{
-g™videÙutÜŸl_’
-}. 
-He
- 
-Ü›Ás
- 
-Ú
- 
-the
- 
-book
- 
-m’tiÚed
- 
-out
- 
-above
-
-
-44 
-ªd
- 
-gives
- 
-exam¶es
-‡nd 
-piùu»s
- 
-you
- 
-fšd
- 
-šside
- 
-this
- 
-books
-.
-
-45 \
-™em
-[
-Video
- 
-tutÜŸls
-] (
-English
-è
-by
- 
-ª
- 
-G”mª
- 
-¥—k”
-:
-
-46 \
-c™e
-{
-g™videÙutÜŸl_de_’
-}
-
-47 \
-™em
-[
-Ch—t
--
-Sh“t
-] 
-gives
- 
-ª
- 
-ov”v›w
- 
-w™h
- 
-a
- 
-desütiÚs
- 
-of
- 
-the
- 
-mo¡
-
-
-48 
-u£d
- 
-g™
- 
-commªds
- 
-ªd
- g™ commªd 
-æags
-: \
-c™e
-{
-g™_ch—t_sh“t
-}. 
-You
-
-
-49 
-ÿn
- 
-dowÆßd
- 
-™
- 
-as
- 
-PDF
-. 
-The
- 
-webs™e
- 
-®so
- 
-give
- 
-some
- 
-´aùiÿl
- 
-exam¶es
-
-
-50 
-w™h
- 
-commªd
- 
-lše
- 
-piùu»s
- 
-to
- 
-some
- 
-of
- 
-the
- 
-commªds
- 
-ªd
- 
-wÜkæows
-.
-
-51 \
-™em
-[
-Piùu»
- 
-of
- 
-¡©es
-] 
-gives
- 
-ª
- 
-ov”v›w
- oà
-the
- 
-loÿl
- 
-ªd
- 
-»mÙe
-
-
-52 
-»pos™Ü›s
- 
-phosİhic
- 
-behšd
- 
-g™
- 
-ªd
- 
-shows
- 
-which
- 
-commªds
- 
-¬e
-
-
-53 
-Ãeded
- 
-š
- 
-which
- :
-
-54 \
-c™e
-{
-g™_piùu»
-}
-
-55 \
-’d
-{
-desütiÚ
-}
-
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/locations.tex
-
-1 \
-	gch­‹r
-{
-	gLoÿtiÚs
- - 
-Wh”e
- 
-to
- 
-fšd
- 
-	gwh©
-}%
-
-2 \
-	gÏb–
-{
-	gcha
-:
-loÿtiÚs
-}
-
-5 
-H”e
- 
-is
- 
-b¿ve
- 
-ov”v›w
- 
-ov”
- 
-the
- 
-loÿtiÚs
- 
-wh”e
- 
-to
- 
-fšd
- 
-»ûÁ
- 
-fes
- 
-b–Úgs
-o
-
-6 
-this
- 
-´ojeù
- 
-ªd
- 
-the
- 
-T–aœ
- 
-IÁ”ÇtiÚ®
- 
-GmbH
- 
-šside
-h
-Vœtu®
- 
-Box
- 
-Lšux
-
-
-7 
-machše
- 
-ªd
- 
-šside
- 
-the
- 
-PTXdi¡
- 
-´ojeù
-.
-o
-
-
-9 \
-begš
-{
-desütiÚ
-}
-
-10 \
-™em
-[
-The
- 
-PTXdi¡
- 
-´ojeù
- 
-™£lve
-] 
-is
- 
-loÿ‹d
- 
-šside
- 
-the
- 
-vœtu®
- 
-box
- 
-VM
-
-
-11 
-und”
- \
-‹xt™
-{/
-±xdi¡
-/
-´ojeùs
-/
-ı790760
-}. \\
-
-12 \
-‹xtbf
-{
-This
- 
-loÿtiÚ
- 
-is
- 
-the
-
-
-13 \
-‹xt™
-{
-´ojeù
--
-roÙ
-}} 
-as
- 
-™
- 
-wl
- 
-be
- 
-ÿÎed
- 
-fu¹h”
- 
-Ú
- 
-šside
- 
-this
-
-
-14 
-docum’iÚ
-.
-
-16 \
-™em
-[
-Sourû
- 
-fes
- 
-dowÆßded
- 
-by
- 
-PTXdi¡
-] 
-like
- 
-the
- 
-Lšux
- 
-k”Ãl
- 
-Ü
- 
-soáw¬e
-
-
-17 
-·ck‘s
- 
-ÿn
- 
-be
- 
-found
- 
-š
- \
-‹xt™
-{/
-±xdi¡
-/
-sourûs
-}. \\
-
-19 
-This
- 
-fŞd”
- 
-could
- 
-be
-
-
-20 
-u£d
- 
-as
- 
-a
- 
-glob®
- 
-sourû
- 
-fŞd”
- 
-Ùh”
- 
-´ojeùs
- 
-you
- 
-¬e
- 
-usšg
- 
-this
-
-
-21 
-VM
- 
-agaš
-. 
-Its
- 
-®so
- 
-possibË
- 
-to
- 
-loÿ‹
- \
-‹xt™
-{
-Yoùo
-}Ø
-™
-.
-
-23 \
-™em
-[
-The
- 
-ı790760
- 
-soáw¬e
- 
-sourûs
-] 
-¬e
- 
-loÿ‹d
- 
-š
-
-
-24 \
-‹xt™
-{<
-´ojeù
--
-roÙ
->/
-loÿl
-\
-_sourûs
-/
-‹Ïœ
--
-ı
-\
-_790760
-\
-_1
-}. \\
-
-26 
-PTXdi¡
- 
-is
- 
-compšg
- 
-this
- 
-sourûs
- 
-duršg
- 
-the
- 
-bud
- 
-´ojeù
- 
-ªd
- 
-wl
-
-
-27 
-¶aû
- 
-™
- 
-što
- 
-the
- 
-SDC¬d
- 
-roÙfs
-.
-
-29 \
-™em
-[
-The
- 
-ı790760
- 
-d©a
- 
-fes
-] 
-like
- 
-piùu»s
- 
-Ü
- 
-cÚfigu¿tiÚ
- fes, 
-¬e
-
-
-30 
-loÿ‹d
- 
-	gš
-
-
-31 \
-	g‹xt™
-{<
-	g´ojeù
--
-	groÙ
->/
-	gloÿl
-\
-	g_sourûs
-/
-	g‹Ïœ
--
-	g·¹iÚ
-\
-	g_d©a
-\
-	g_fes
-}. 
-This
-
-
-32 
-¬e
- 
-the
- 
-fes
- 
-which
- 
-wl
- 
-be
- 
-¶aûd
- 
-š
-h
-so
- 
-	gÿÎed
- \
-	g‹xt™
-{
-	gd©a
-}
-
-33 
-·¹iÚ
- 
-Ú
- 
-the
- 
-	gSDC¬d
-.
-
-35 \
-	g™em
-[
-The
- 
-ı790760
- 
-log
- 
-fes
-] 
-¬e
- 
-loÿ‹d
- 
-	gš
-
-
-36 \
-	g‹xt™
-{<
-	g´ojeù
--
-	groÙ
->/
-	gloÿl
-\
-	g_sourûs
-/
-	g‹Ïœ
--
-	g·¹iÚ
-\
-	g_log
-\
-	g_fes
-}. 
-This
-
-
-37 
-fes
- 
-¬e
- 
-Şd
- 
-log
- 
-	gfes
-. 
-This
- 
-mechªism
- 
-to
- 
-cİy
- old†og fe 
-is
- 
-Úly
-
-
-38 
-you
- 
-like
- 
-to
- 
-upd©e
- 
-the
- 
-sy¡em
- 
-ªd
- 
-wªt
-Ø
-hŞd
-h
-Şd
- 
-	glogs
-.
-
-39 
-Oth”wi£
- 
-the
- 
-ruÂšg
- 
-sy¡em
- 
-wl
- 
-ü—‹
- 
-Ãw
- 
-fes
- 
-aá”
-h
-sy¡ems
-
-
-40 
-boÙs
- 
-the
- 
-fœ¡
- 
-	gtime
-.
-
-42 \
-	g™em
-[
-Oth”
- 
-roÙfs
- 
-fes
-] 
-like
- 
-süts
- 
-usšg
- 
-by
- 
-he
- 
-ı790760
- 
-soáw¬e
- 
-¬e
-
-
-43 
-loÿ‹d
- 
-	gš
-
-
-44 \
-	g‹xt™
-{<
-	g´ojeù
--
-	groÙ
->/
-	gloÿl
-\
-	g_sourûs
-/
-	g‹Ïœ
--
-	g·¹iÚ
-\
-	g_roÙfs
-\
-	g_fes
-}. 
-This
-
-
-45 
-fes
- 
-wl
- 
-be
- 
-æashed
- 
-to
- 
-the
- 
-SDC¬d
- 
-roÙfs
- 
-	g·¹iÚ
-.
-
-47 \
-	g™em
-[
-	$P©ched
- (
-upd©ed
-è
-fes
-] 
-ü—‹d
- 
-by
- 
-the
- 
-T–aœ
- 
-IÁ”ÇtiÚ®
- 
-GmbH
- 
-to
-
-
-48 
-the
- 
-soáw¬e
- 
-·ck‘s
-,h
-Lšux
- 
-k”Ãl
- 
-Ü
-h
-boÙlßd”
-, 
-ÿn
- 
-be
- 
-found
- 
-š
-
-
-49 \
-‹xt™
-{<
-´ojeù
--
-roÙ
->/
-loÿl
-\
-_sourûs
-/
-‹Ïœ
--
-·¹iÚ
-\
-_log
-\
-_fes
-}. H”you
-
-50 
-fšd
- 
-	gthe
- \
-	g‹xt™
-{
-	gŞd
-} 
-	gªd
- \‹xt™{
-	gÃw
-} 
-fes
- 
-šside
- 
-the
- 
-fŞd”s
- 
-Çmed
-
-
-51 
-cÜ»¥Údšg
- 
-to
- 
-the
- 
-soáw¬e
- 
-·ck‘s
-Ø
-	g·tch
-.
-
-52 \
-	g™em
-[
-The
- \
-‹xt™
-{
-·tches
-} 
-™£lã
-] 
-ü—‹d
- 
-by
- 
-the
- 
-T–aœ
- 
-IÁ”ÇtiÚ®
- 
-GmbH
-
-
-53 
-¬e
- 
-loÿ‹d
- 
-	gš
-
-
-54 \
-	g‹xt™
-{<
-	g´ojeù
--
-	groÙ
->/
-	g·tches
-/<
-	gsoáw¬e
--
-	g·ck‘
--
-	gto
--
-	g·tch
->/
-	g‹Ïœ
-/}. \\
-
-56 \
-	g‹xtbf
-{
-	gNÙe
-, 
-	gATTENTION
-}: 
-You
- 
-Ãed
- 
-to
- \
-‹xt™
-{
-aùiv©e
-} 
-the
- 
-·tches
- 
-š
-
-
-57 
-the
- 
-so
- 
-ÿÎed
- \
-‹xt™
-{
-”›s
-.
-MBa335x
-} 
-£r›s
- 
-fe
- 
-you
- 
-like
- 
-to
- 
-ü—‹
-
-
-58 
-Ãw
- 
-Úes
- 
-Ü
- 
-»Çme
- 
-the
- 
-exi¡šg
- ones.
-
-60 \
-™em
-[
-Fš®
- 
-images
-] 
-¬e
- 
-loÿ‹d
- 
-š
-
-
-61 \
-‹xt™
-{<
-´ojeù
--
-roÙl
-/
-¶©fÜm
--
-MBa335x
-/
-images
-}
-
-63 \
-™em
-[
-Süts
-] 
-like
- 
-to
- \
-‹xtbf
-{
-fÜm©
-} 
-ªd
- \‹xtbf{
-æash
-} 
-the
- 
-SDC¬d
- 
-¬e
-
-
-64 
-loÿ‹d
- 
-šside
- \
-‹xt™
-{<
-´ojeù
--
-roÙ
->/
-toŞs
-/
-‹Ïœ
-}. 
-Inside
-
-
-65 <
-´ojeù
--
-roÙ
-> 
-you
- 
-fšd
- 
-a
- 
-symlšk
- 
-poštšg
- 
-to
- 
-the
- 
-toŞs
-.
-
-67 \
-™em
-[
-Lšux
- 
-K”Ãl
- 
-ªd
- 
-PTX
- 
-´ojeù
- 
-cÚfigu¿tiÚs
-] 
-¬e
- 
-loÿ‹d
- 
-š
-
-
-68 \
-‹xt™
-{<
-´ojeù
--
-roÙ
->/
-cÚfigs
-/
-¶©fÜms
-/
-tqma335x
-/
-mba335x
-/}. 
-H”e
- 
-you
-
-
-69 
-fšd
- 
-the
- :
-
-70 \
-begš
-{
-desütiÚ
-}
-
-71 \
-™em
-[
-Lšux
- 
-K”ÃlcÚfig
-] 
-š
- 
-a
- 
-fe
- 
-ÿÎed
- \
-‹xt™
-{
-k”ÃlcÚfig
--4.4}
-
-72 \
-™em
-[
-PTX
- 
-BSP
- 
-¶©fÜm
- 
-cÚfigu¿tiÚ
-] 
-š
- 
-a
- 
-fe
- 
-ÿÎed
-
-
-73 \
-‹xt™
-{
-¶©fÜmcÚfig
-}. 
-This
- 
-is
- 
-the
- \
-‹xtbf
-{
-´ojeù
-
-
-74 
-cÚfigu¿tiÚ
-}.
-
-75 \
-’d
-{
-desütiÚ
-}
-
-77 
-The
- \
-‹xtbf
-{
-PTXdi¡
- 
-g’”®
- 
-cÚfigu¿tiÚ
-} 
-ÿn
- 
-be
- 
-found
- 
-š
- 
-a
- 
-fe
- 
-ÿÎed
-
-
-78 \
-‹xt™
-{<
-´ojeù
--
-roÙ
->/
-cÚfigs
-/
-sy¡ems
-/
-qt
-/
-±xcÚfig
-}.\\
-
-80 
-How
- 
-to
- 
-ed™
- 
-this
- 
-fes
- 
-by
- 
-a
- 
-ÿÎ
-Ø\
-‹xt™
-{
-±xdi¡
-} 
-is
- 
-docum’‹d
- 
-š
- 
-the
-
-
-81 \
-‹xt™
-{
-Fœ¡
- 
-¡•s
- 
-to
- 
-PTXdi¡
-} 
-ch­‹r
- 
-founded
- 
-š
- \
-c™e
-[
-PTXDi¡
- 
-Úlše
-
-
-82 
-docum’tiÚ
-]{
-±xdi¡_docu
-}. \\
-
-84 
-Yo
- 
-ÿn
- 
-®so
- 
-fšd
- 
-symlšks
- 
-poštšg
- 
-to
- 
-the
- 
-u£d
- 
-cÚfigu¿tiÚs
- 
-šside
-
-
-85 <
-´ojeù
--
-roÙ
->.
-
-87 \
-™em
-[
-Bash
-, 
-VIM
-, 
-G™
- 
-ªd
- 
-Ùh”
- 
-Lšux
- 
-bud
- 
-ho¡
- 
-cÚfigu¿tiÚ
-] 
-¬e
- 
-loÿ‹d
- 
-und”
-
-
-88 
-the
- 
-	gu£r
- \
-	g‹xt™
-{
-±xdi¡
- 
-	ghome
-} 
-dœeùÜy
- (~/). 
-Take
- 
-a
- 
-look
- 
-što
- 
-this
- 
-fes
- 
-to
- 
-g‘
-
-
-89 
-šfÜm©iÚ
- 
-how
- 
-the
- 
-vœtu®
- 
-Lšux
- 
-bud
- 
-ho¡
- 
-is
- 
-	gcÚfigu»d
-.
-
-91 \
-	g’d
-{
-	gdesütiÚ
-}
-
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/overview.tex
-
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/patches.tex
 
 1 \
 	gch­‹r
@@ -16828,13 +18184,7 @@ modif›d
 {
 	gcha
 :
-P©ched
- 
-ªd
- 
-modif›d
- 
-fes
+·tches
 }
 
 3 
@@ -18335,7 +19685,7 @@ l¡li¡šg
 desütiÚ
 }
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/scripts.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/prepare_sdcard.tex
 
 1 \
 	gch­‹r
@@ -18361,7 +19711,7 @@ fÜm©
 sdÿrd
 }
 
-4 
+5 
 To
  
 g‘
@@ -18385,7 +19735,7 @@ desüibed
 š
 he
 
-5 
+6 
 Ãxt
  
 sub
@@ -18393,13 +19743,13 @@ sub
 ch­‹rs
 .
 
-7 \
+8 \
 begš
 {
 ’um”©e
 }
 
-8 \
+9 \
 ™em
  
 C»©e
@@ -18411,7 +19761,7 @@ a
 Ïyout
 .
 
-9 \
+10 \
 ™em
  
 FÜm©
@@ -18423,7 +19773,7 @@ SDC¬d
 ·¹iÚs
 .
 
-10 \
+11 \
 ™em
  
 In¡®l
@@ -18437,13 +19787,13 @@ Fes
 P¬tiÚs
 
 
-11 \
+12 \
 ’d
 {
 ’um”©e
 }
 
-14 \
+15 \
 £ùiÚ
 {
 P¬tiÚ
@@ -18453,7 +19803,7 @@ P¬tiÚ
 ü—tiÚ
 }%
 
-15 \
+16 \
 Ïb–
 {
 sub
@@ -18461,7 +19811,7 @@ sub
 sdÿrd_Ïyout
 }
 
-16 
+17 
 The
  
 SDC¬d
@@ -18487,13 +19837,13 @@ is
 impÜÁ
 .
 
-18 \
+19 \
 begš
 {
 desütiÚ
 }
 
-19 \
+20 \
 ™em
 [1. 
 BoÙ
@@ -18515,7 +19865,7 @@ u
 MLO
 ),
 
-20 
+21 
 the
  
 zImage
@@ -18539,7 +19889,7 @@ k”Ãls
 Ãeded
 
 
-21 
+22 
 the
  
 u
@@ -18557,7 +19907,7 @@ deviû
 	gblob
 .
 
-22 \
+23 \
 	g™em
 [2. 
 RoÙFS
@@ -18581,13 +19931,13 @@ com¶‘e
 	gLšux
 
 
-23 \
+24 \
 	ggls
 {
-	groÙfs
+	gRoÙFS
 }.
 
-24 \
+25 \
 	g™em
 [3. 
 D©a
@@ -18613,7 +19963,7 @@ fes
 Ãeded
 
 
-25 
+26 
 by
  
 the
@@ -18631,7 +19981,7 @@ cÚfigu¿tiÚ
 	gfes
 .
 
-26 \
+27 \
 	g™em
 [4. 
 Log
@@ -18657,7 +20007,7 @@ log
 fes
 
 
-27 
+28 
 ü—‹d
  
 by
@@ -18675,13 +20025,13 @@ Lšux
 	gk”Ãl
 .
 
-28 \
+29 \
 	g’d
 {
 	gdesütiÚ
 }
 
-31 \
+32 \
 	g£ùiÚ
 {
 FÜm©tšg
@@ -18691,7 +20041,7 @@ the
 	gSDC¬d
 }%
 
-32 \
+33 \
 	gÏb–
 {
 	gsub
@@ -18699,7 +20049,7 @@ the
 sdÿrd_fÜm©
 }
 
-33 
+34 
 The
  
 SDC¬d
@@ -18727,54 +20077,38 @@ ty³s
 b–ow
 .
 
-35 \
+36 \
 begš
 {
 bË
 }
 
-36 \
+37 \
 ûÁ”šg
 
 
-37 {\
+38 {\
 rowcŞÜs
-{3}{
+{2}{
 blue
-!80!
+!70!
 wh™e
-!50}{blue!70!white!40}
+!40}{blue!60!white!30}
 
-38 \
+39 \
 begš
 {
 buÏr
-}{ | 
-c
- | 
-l
- | c | }
-
-39 \
-hlše
-
+}{
+şc
+}
 
 40 \
-rowcŞÜ
-{
-lightg¿y
-} \
-muÉicŞumn
-{3}{|
-c
-|}{
-P¬tiÚ
- 
-fÜm©s
-} \\
+tİruË
+
 
 41 \
-hlše
+midruË
 
 
 42 \
@@ -18792,7 +20126,7 @@ fÜm©
 } \\
 
 43 \
-hlše
+midruË
 
 
 44 1 & 
@@ -18803,9 +20137,13 @@ vF©
 
 45 2 & 
 RoÙFs
- & 
+ & \
+cfbox
+{
+»d
+}{
 ext4
- \\
+}\\
 
 46 3 & 
 D©a
@@ -18820,7 +20158,7 @@ vF©
  \\
 
 48 \
-hlše
+bÙtomruË
 
 
 49 \
@@ -18830,23 +20168,19 @@ hlše
 }
 
 51 \
-ÿ±iÚ
-{
-This
- 
-is
- 
-a
- 
-bË
-}
-
-52 \
 Ïb–
 {
 b
 :
 ·¹iÚ_fÜm©s
+}
+
+52 \
+ÿ±iÚ
+{
+P¬tiÚ
+ 
+fÜm©s
 }
 
 53 \
@@ -18897,7 +20231,7 @@ the
 ·¹iÚs
 .
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/setup_buildhost.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/setup_buildhost.tex
 
 1 \
 	gch­‹r
@@ -20457,7 +21791,7 @@ l¡li¡šg
 desütiÚ
 }
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/setup_uboot.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/setup_uboot.tex
 
 2 
 cÚfigu¿tiÚ
@@ -20635,7 +21969,959 @@ táp
 £rv”
 )
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/software_cp79070.tex
+
+1 \
+	gch­‹r
+{
+The
+ 
+CP790760
+ 
+	gSoáw¬e
+}%
+
+2 \
+	gÏb–
+{
+	gcha
+:
+soáw¬e
+}
+
+3 
+The
+ 
+QT4
+ 
+ba£d
+ 
+Soáw¬e
+ 
+ÿrgo
+ 
+cÚŒŞ
+ 
+soáw¬e
+ 
+by
+ 
+T–aœ
+ 
+IÁ”ÇtiÚ®
+ 
+GmbH
+ 
+was
+
+
+4 
+k’
+ 
+äom
+ 
+the
+ 
+Üigš®
+ 
+´evious
+ 
+´ojeù
+. 
+Beside
+ 
+some
+
+
+5 
+chªges
+~\
+»f
+{
+£c
+:
+soáw¬e_chªges
+} 
+the
+ 
+soáw¬e
+ 
+was
+ 
+Ëá
+ 
+uÁouched
+.
+
+7 \
+£ùiÚ
+{
+Soáw¬e
+ 
+docum’tiÚ
+}%
+
+8 \
+Ïb–
+{
+£c
+:
+Soáw¬e_docum’tiÚ
+}
+
+9 
+This
+ 
+docum’t
+ 
+hŞds
+ 
+no
+ 
+docum’tiÚ
+ 
+about
+ 
+the
+ 
+soáw¬e
+ 
+™£lf
+. 
+Docum’tiÚ
+
+
+10 
+was
+ 
+®»ady
+ 
+´efÜmed
+ 
+by
+ by 
+»quœem’t
+ 
+docum’tiÚ
+ 
+ªd
+ 
+is
+ 
+Œue
+ 
+®so
+ 
+the
+
+
+11 
+soáw¬e
+ 
+u£d
+ 
+š
+ 
+this
+ 
+´ojeù
+. 
+No
+ 
+fu¹h”
+ 
+docum’tiÚ
+ 
+is
+ 
+Ãeded
+ 
+beside
+ 
+the
+
+
+12 
+soáw¬e
+ 
+chªges
+ 
+š
+~\
+»f
+{
+£c
+:
+soáw¬e_chªges
+}.
+
+15 \
+£ùiÚ
+{
+Chªges
+ 
+to
+ 
+the
+ 
+Soáw¬e
+}%
+
+16 \
+Ïb–
+{
+£c
+:
+soáw¬e_chªges
+}
+
+17 
+Mo¡ly
+ 
+the
+ 
+QT4
+ 
+ba£d
+ 
+T–aœ
+ 
+C¬go
+ 
+CÚŒŞ
+ 
+Soáw¬e
+ 
+CP790760
+ 
+was
+ 
+Ëá
+ 
+uÁouched
+.
+
+18 
+Nev”th–ess
+ 
+some
+ 
+chªges
+ 
+w¬e
+ 
+Ãeded
+ 
+to
+ 
+mig¿‹
+ 
+h¬d
+ 
+coded
+ 
+Lšux
+ 3.\@
+
+19 
+d•’d’c›s
+ 
+to
+ 
+Lšux
+ 4.
+
+22 
+AÎ
+ 
+chªges
+ 
+¬e
+ 
+´efÜmed
+ 
+by
+ 
+u£
+ 
+of
+ 
+C
+ 
+maüos
+ 
+šside
+ 
+the
+ 
+Üigš®
+ 
+fes
+, 
+wh”—s
+
+
+23 
+™s
+ 
+cÜe¥Úd’t
+ 
+v®ues
+ 
+’ÿpsuÏ‹d
+ 
+što
+ 
+Ãw
+ 
+fe
+ 
+šside
+ 
+the
+ 
+soáw¬e
+ 
+	gfŞd”
+
+
+24 (\
+	gfuÎ»f
+{
+	g·¹
+:
+loÿtiÚ_ı790760_soáw¬e
+}).
+
+26 \
+begš
+{
+®Ét
+}
+
+27 \
+‹xtbf
+{<
+ı790760
+\
+_soáw¬”oÙ
+>/\‹xtbf{
+lšuxv”siÚ
+\
+_d•’d’c›s
+.
+h
+}}
+
+28 \
+’d
+{
+®Ét
+}
+
+30 \
+£ùiÚ
+{
+Com¶Ÿnû
+ 
+Check
+ 
+ªd
+ 
+Code
+ 
+AÇlyze
+}%
+
+31 \
+Ïb–
+{
+£c
+:
+soáw¬e_ªayl£
+}
+
+33 
+The
+ 
+soáw¬e
+ \
+‹xtbf
+{
+was
+} 
+‹¡ed
+ 
+agaš¡
+ 
+funùiÚ®™y
+. \‹xtbf{
+NÙe
+, 
+	gno
+}
+
+34 
+Ùh”
+ 
+checks
+ 
+w”e
+ 
+	g´efÜmed
+.
+
+36 \
+	gbegš
+{
+	g™emize
+}
+
+37 \
+™em
+ 
+The
+ 
+	gsoáw¬e
+ \
+	g‹xtbf
+{
+is
+ 
+	gnÙ
+} 
+checked
+ 
+by
+ 
+ªy
+ 
+code
+ 
+ª®yze
+ 
+toŞ
+ 
+	gagaš¡
+
+
+38 (
+	gpossibË
+è
+bugs
+ 
+Ü
+ 
+undefšed
+ 
+	gbehaviÜ
+. 
+FÜ
+ 
+exam¶e
+ 
+code
+ 
+	gª®yze
+.
+
+39 \
+™em
+ 
+The
+ 
+	gsoáw¬e
+ \
+	g‹xtbf
+{
+is
+ 
+	gnÙ
+} 
+checked
+ 
+by
+ 
+ªy
+ 
+soáw¬e
+ 
+com¶Ÿnû
+ 
+toŞ
+
+
+40 
+agaš¡
+ 
+commÚ
+ 
+codšg
+ codšg 
+ruËs
+ 
+ªd
+ 
+	gguid–šes
+. 
+FÜ
+ 
+exam¶e
+ 
+no
+ 
+MISRA
+
+
+41 
+Ü
+ 
+	gCERT
+.\@
+
+42 \
+	g™em
+ \
+	g‹xtbf
+{
+	gNo
+} 
+code
+ 
+»v›ws
+ 
+w”e
+ 
+	g´efÜmed
+. 
+FÜ
+ 
+exam¶e
+„ev›w 
+about
+
+
+43 
+Secur™y
+ 
+Ü
+ 
+	gSaãty
+.
+
+44 \
+	g’d
+{
+	g™emize
+}
+
+47 \
+	g£ùiÚ
+{
+How
+ 
+to
+ 
+chªge
+ 
+the
+ 
+	gSoáw¬e
+}%
+
+48 \
+	gÏb–
+{
+	g£c
+:
+soáw¬e_chªge
+}
+
+49 
+To
+ 
+ed™
+ 
+the
+ 
+soáw¬e
+ 
+sourûs
+, 
+chªge
+ 
+to
+hsoáw¬
+loÿtiÚ
+ 
+šside
+h
+PTXdi¡
+
+
+50 
+	g´ojeù
+. (\
+	gfuÎ»f
+{
+	g·¹
+:
+loÿtiÚ_ı790760_soáw¬e
+}). 
+Th”e
+ 
+you
+ 
+ÿn
+ 
+ed™
+ 
+the
+
+
+51 
+sourûs
+ 
+w™h
+ 
+your
+ 
+çvÜ™e
+ 
+ed™Ü
+ 
+Ü
+ \
+glsshÜtkey
+{
+IDE
+}. 
+The
+ 
+soáw¬e
+ 
+ÿn
+ 
+be
+
+
+52 
+comped
+ 
+by
+ 
+PTXdi¡
+.
+
+54 \
+sub£ùiÚ
+{
+Compe
+ 
+the
+ 
+CP790760
+ 
+Soáw¬e
+}%
+
+55 \
+Ïb–
+{
+sub
+:
+compe_CP790760
+}
+
+57 
+PTXDi¡
+ 
+dÛs
+ 
+nÙ
+ 
+check
+ 
+ev”y
+ 
+sšgË
+ 
+fe
+ 
+ªd
+ 
+fŞd”
+ 
+šside
+ 
+your
+ 
+´ojeù
+ 
+agaš¡
+
+
+58 
+š‹gr™y
+ 
+like
+ 
+mªu®
+ 
+chªges
+. 
+This
+ 
+would
+ 
+be
+ 
+much
+ 
+to
+ 
+time
+ 
+š‹nsive
+. 
+Th©
+ 
+is
+
+
+59 
+why
+ 
+you
+ 
+Ãed
+ 
+to
+ 
+šfÜm
+ 
+PTXDi¡
+ 
+your£lf
+ 
+about
+ 
+your
+ 
+chªges
+.
+
+61 
+Th”efÜ
+ 
+fœ¡
+ 
+chªge
+ 
+to
+ 
+you
+ <
+´ojeùroÙ
+> 
+dœeùÜy
+ 
+ªd
+ 
+run
+ 
+aá”w¬ds
+:
+
+62 (
+S“
+ \
+fuÎ»f
+{
+·¹
+:
+loÿtiÚ_ı790760_soáw¬e
+}).
+
+65 \
+bigb»ak
+%
+
+66 \
+begš
+{
+l¡li¡šg
+}[
+ÿ±iÚ
+=
+M¬k
+ 
+the
+ 
+CP790760
+ 
+soáw¬e
+ 
+as
+ 
+chªged
+]
+
+67 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+ş—n
+ 
+‹Ïœ
+-
+ı_790760_1
+
+
+68 \
+’d
+{
+l¡li¡šg
+}
+
+70 
+Now
+ 
+you
+ 
+ÿn
+ 
+run
+ 
+a
+ 
+soáw¬e
+ 
+bud
+ 
+mªu®
+ 
+Ü
+ 
+wa™
+ 
+tl
+ 
+PTXdi¡
+ 
+wl
+ 
+´efÜmed
+ 
+™
+
+
+71 
+autom©iÿÎy
+ 
+duršg
+ 
+Ãxt
+ 
+g’”©iÚ
+ 
+of
+ 
+howl
+ 
+sy¡em
+ 
+images
+. 
+To
+ 
+bud
+ 
+™
+ 
+mªu®
+
+
+72 
+run
+ 
+äom
+ 
+you
+ <
+´ojeùroÙ
+>
+
+74 \
+bigb»ak
+%
+
+75 \
+begš
+{
+l¡li¡šg
+}[
+ÿ±iÚ
+=
+Bud
+ 
+the
+ 
+T–aœ
+ 
+CP790760
+ 
+soáw¬e
+ 
+mªu®
+]
+
+76 
+u£r
+@
+machše
+: 
+±xdi¡
+ 
+rg‘š¡®l
+ 
+‹Ïœ
+-
+ı_790760_1
+
+
+77 \
+’d
+{
+l¡li¡šg
+}
+
+80 
+G’”©iÚ
+ 
+of
+ 
+howl
+ 
+images
+ 
+is
+ 
+desüibed
+ 
+š
+ \
+fuÎ»f
+{
+£c
+:
+fš®_images_g’”©iÚ
+}.
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/main.tex
 
 1 \
 	gdocum’tşass
@@ -20683,7 +22969,15 @@ noch­‹rg­
 	gsübook
 }
 
-16 \
+16 % 
+Schriá¬‹n
+ 
+und
+ 
+	gZeich’
+
+
+18 \
 	gu£·ckage
 [
 T1
@@ -20691,7 +22985,13 @@ T1
 	gfÚ‹nc
 }
 
-17 \
+19 \
+	gu£·ckage
+{
+	glmod”n
+}
+
+20 \
 	gu£·ckage
 [
 utf8
@@ -20699,7 +22999,7 @@ utf8
 	gšpu‹nc
 }
 
-18 \
+21 \
 	gu£·ckage
 [
 ´štÚlyu£d
@@ -20709,25 +23009,25 @@ foÙnÙe
 	gaüÚym
 }
 
-19 \
+22 \
 	gu£·ckage
 {
 	gbuÏrx
 }
 
-20 \
+23 \
 	gu£·ckage
 {
 	gli¡šgs
 }
 
-21 \
+24 \
 	gu£·ckage
 {
 	gquÙšg
 }
 
-23 \
+26 \
 	gšşude
 {
 	gcÚfigs
@@ -20735,13 +23035,13 @@ foÙnÙe
 	g´—mbË
 }
 
-25 \
+28 \
 	gbegš
 {
 	gdocum’t
 }
 
-28 % 
+31 % 
 Defš™iÚ’
  
 Ãu”
@@ -20749,7 +23049,7 @@ Defš™iÚ’
 	gBeãhË
 
 
-31 \
+34 \
 	gÃwcommªd
 {\
 	gbb
@@ -20761,17 +23061,17 @@ Defš™iÚ’
 	gBackshÏsh
 
 
-34 \
+37 \
 	g£tcouÁ”
 {
 	g£úumd•th
 }{3}
 
-37 % 
+40 % 
 	gT™–bÏ‰
 
 
-39 \
+42 %\
 	gšşude
 {
 	gcÚfigs
@@ -20779,19 +23079,19 @@ Defš™iÚ’
 	gt™Ë
 }
 
-40 \
+43 \
 	gş—rdoubËem±y·ge
+{}
 
-
-42 \
+45 \
 	gäÚtm©‹r
 
 
-46 % 
+49 % 
 	gAb¡¿ù
 
 
-48 %\
+51 %\
 	gšşude
 {
 	gcÚ‹Á
@@ -20799,19 +23099,19 @@ Defš™iÚ’
 	gab¡¿ù
 }
 
-49 \
+52 \
 	gş—rdoubËem±y·ge
+{}
 
-
-53 % 
+56 % 
 	gInh®tsv”zeichnis
 
 
-55 \
-	gbËofcÚ‹Ás
+58 \
+bËofcÚ‹Ás
 
 
-56 \
+59 
 	gaddcÚ‹Á¦še
 {
 	gtoc
@@ -20821,11 +23121,11 @@ Defš™iÚ’
 	gInh®tsv”zeichnis
 }
 
-57 \
+60 \
 	gş—rdoubËem±y·ge
+{}
 
-
-61 % 
+64 % 
 Abbdungsv”zeichnis
  
 ešbšd’
@@ -20837,7 +23137,7 @@ und
 	gInh®tsv”zeichnis
 
 
-63 % 
+66 % 
 	gWORKAROUND
 : 
 toşoá
@@ -20853,13 +23153,13 @@ zu§mm’
 nicht
 
 
-64 % 
+67 % 
 kÜ»kt
 \
 phªtom£ùiÚ
 
 
-65 \
+68 \
 addcÚ‹Á¦še
 {
 toc
@@ -20869,15 +23169,15 @@ ch­‹r
 li¡figu»Çme
 }
 
-66 \
+69 \
 li¡offigu»s
 
 
-67 \
+70 \
 ş—rdoubËem±y·ge
+{}
 
-
-71 % 
+74 % 
 Tab–Ënv”zeichnis
  
 ešbšd’
@@ -20889,7 +23189,7 @@ und
 Inh®tsv”zeichnis
 
 
-72 % 
+75 % 
 WORKAROUND
 : 
 toşoá
@@ -20905,17 +23205,17 @@ zu§mm’
 nicht
 
 
-73 % 
+76 % 
 kÜ»kt
 \
 phªtom£ùiÚ
 
 
-75 \
+78 \
 phªtom£ùiÚ
+{}
 
-
-76 \
+79 \
 addcÚ‹Á¦še
 {
 toc
@@ -20925,15 +23225,15 @@ ch­‹r
 li¡bËÇme
 }
 
-77 \
+80 \
 li¡oáabËs
 
 
-78 %\
+81 %\
 ş—rdoubËem±yp
 
 
-79 %\
+82 %\
 u£·ckage
 [
 ´štÚlyu£d
@@ -20941,13 +23241,13 @@ u£·ckage
 aüÚym
 }
 
-83 % 
+86 % 
 Abk
 Ã¼
 rzungsv”zeichnis
 
 
-85 \
+88 \
 šşude
 {
 cÚ‹Á
@@ -20955,7 +23255,7 @@ cÚ‹Á
 abb»vŸtiÚs
 }
 
-86 %\
+89 %\
 ´štglos§ry
 [
 ty³
@@ -20969,37 +23269,37 @@ AüÚyms
 ªd
 
 
-87 %
+90 %
 Abb»vŸtiÚs
 ,
 toù™Ë
 =Abbreviations]
 
-92 % 
+95 % 
 CÚ‹Á
 
 
-95 \
-mašm©‹r
-
-
-96 \
-šşude
-{
-cÚ‹Á
-/
-ešË™ung
-}
-
-97 \
-šşude
-{
-cÚ‹Á
-/
-grundÏg’
-}
-
 98 \
+mašm©‹r
+{}
+
+99 %\
+šşude
+{
+cÚ‹Á
+/
+šŒoduùiÚ
+}
+
+100 %\
+šşude
+{
+cÚ‹Á
+/
+basics
+}
+
+101 %\
 šşude
 {
 cÚ‹Á
@@ -21007,7 +23307,7 @@ cÚ‹Á
 loÿtiÚs
 }
 
-99 \
+102 %\
 šşude
 {
 cÚ‹Á
@@ -21015,31 +23315,55 @@ cÚ‹Á
 fš®_images
 }
 
-100 \
+103 %\
 šşude
 {
 cÚ‹Á
 /
-ausbck
+´•¬e_sdÿrd
 }
 
-101 \
+104 \
 šşude
 {
 cÚ‹Á
 /
-süts
+lcd_timšgs
 }
 
-106 % %
+105 %\
+šşude
+{
+cÚ‹Á
+/
+ouook
+}
+
+107 %\
+šşude
+{
+cÚ‹Á
+/
+soáw¬e_ı79070
+}
+
+111 % %
 Gos§ry
 
 
-108 \
+113 %\
 ´štglos§r›s
+[
+ty³
+=\
+glsdeçuÉty³
+]
 
+114 \
+´štglos§r›s
+{}
 
-109 \
+115 \
 addcÚ‹Á¦še
 {
 toc
@@ -21049,7 +23373,7 @@ ch­‹r
 Glos§r
 }
 
-110 \
+116 \
 addcÚ‹Á¦še
 {
 toc
@@ -21059,33 +23383,33 @@ ch­‹r
 AüÚyme
 }
 
-111 \
+117 \
 ş—rdoubËem±y·ge
+{}
 
-
-115 % 
+120 % 
 Sch®gwÜtv”zeichnis
  (
 Index
 )
 
-117 \
+122 \
 ´štšdex
+{}
 
-
-122 % 
+127 % 
 L™”©urv”zeichnis
 
 
-124 \
+129 \
 doubË¥acšg
+{}
 
-
-126 \
+131 \
 ´štbibh—dšg
+{}
 
-
-127 \
+132 %\
 ´štbibliog¿phy
 [
 h—dšg
@@ -21101,7 +23425,7 @@ t™Ë
 Books
 }]
 
-128 \
+133 %\
 ´štbibliog¿phy
 [
 h—dšg
@@ -21117,7 +23441,7 @@ t™Ë
 A¹işes
 }]
 
-129 \
+134 \
 ´štbibliog¿phy
 [
 h—dšg
@@ -21135,7 +23459,7 @@ OÆše
 »sÜûs
 }]
 
-130 \
+135 %\
 ´štbibliog¿phy
 [
 h—dšg
@@ -21153,7 +23477,7 @@ OÆše
 Web·ges
 }]
 
-131 %\
+137 %\
 ´štglos§ry
 [
 ty³
@@ -21165,7 +23489,7 @@ t™Ë
 Abb»vŸtiÚs
 ]
 
-134 % 
+139 % 
 Eides¡©iche
  
 Erkl
@@ -21173,7 +23497,7 @@ Erkl
 rung
 
 
-136 % \
+141 % \
 šşude
 {
 cÚ‹Á
@@ -21181,11 +23505,11 @@ cÚ‹Á
 affœm©iÚ
 }
 
-138 \
+143 %\
 ­³ndix
 
 
-139 % 
+144 % 
 H›r
  
 k
@@ -21199,35 +23523,2870 @@ Anh«nge
 w”d’
 
 
-141 \
+146 \
 ’d
 {
 docum’t
 }
 
-	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/usb.tex
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/main_vimtex_selected.tex
+
+1 \
+	gdocum’tşass
+[
+
+2 12
+±
+,
+
+3 
+a4·³r
+,
+
+4 
+bibtÙoc
+,
+
+5 
+ş—rdoubËem±y
+,
+
+6 
+idxtÙoc
+,
+
+7 %
+ng”mª
+,
+
+8 
+İ’right
+,
+
+9 
+fš®
+,
+
+10 
+li¡of
+=
+noch­‹rg­
+,
+
+11 ]{
+	gsübook
+}
+
+16 % 
+Schriá¬‹n
+ 
+und
+ 
+	gZeich’
+
+
+18 \
+	gu£·ckage
+[
+T1
+]{
+	gfÚ‹nc
+}
+
+19 \
+	gu£·ckage
+{
+	glmod”n
+}
+
+20 \
+	gu£·ckage
+[
+utf8
+]{
+	gšpu‹nc
+}
+
+21 \
+	gu£·ckage
+[
+´štÚlyu£d
+,
+foÙnÙe
+]{
+	gaüÚym
+}
+
+22 \
+	gu£·ckage
+{
+	gbuÏrx
+}
+
+23 \
+	gu£·ckage
+{
+	gli¡šgs
+}
+
+24 \
+	gu£·ckage
+{
+	gquÙšg
+}
+
+26 \
+	gšşude
+{
+	gcÚfigs
+/
+	g´—mbË
+}
+
+28 % 
+UÁ”¡u‘zung
+ 
+fu”
+ 
+d›
+ 
+deutsche
+ 
+	gS´ache
+
+
+30 %\
+	gu£·ckage
+{
+	gng”mª
+}
+
+31 %\
+	gu£·ckage
+[
+ng”mª
+]{
+	gbab–
+}
+
+34 % 
+	gDokum’tv¬ŸbËn
+
+
+37 % 
+P”sÛÆiche
+ 
+	gD©’
+
+
+38 \
+	gÃwcommªd
+{\
+	gdocNachÇme
+}{
+	gI¤«l
+}
+
+39 \
+	gÃwcommªd
+{\
+	gdocVÜÇme
+}{
+	gM¬co
+}
+
+40 \
+	gÃwcommªd
+{\
+	gdocSŒas£
+}{
+Am
+ 
+	gWick’kamp
+ 38}
+
+41 \
+	gÃwcommªd
+{\
+	gdocO¹
+}{
+	gS‹mwede
+}
+
+42 \
+	gÃwcommªd
+{\
+	gdocPlz
+}{32351}
+
+43 \
+	gÃwcommªd
+{\
+	gdocEma
+}{
+	gM¬co
+-
+	gI¤«l
+@
+	gÚlše
+.
+	gde
+}
+
+44 %\
+	gÃwcommªd
+{\
+	gdocM©rik–numm”
+}{}
+
+46 % 
+	gDokum’td©’
+
+
+47 \
+	gÃwcommªd
+{\
+	gdocT™Ë
+}{
+CÚŒŞ
+ 
+	g·Ãl
+ - 
+T–aœ
+ 
+¦idšg
+ 
+ÿ½‘
+ 
+lßdšg
+ 
+	gsy¡em
+ }
+
+48 \
+	gÃwcommªd
+{\
+	gdocUÁ”t™Ë
+}{
+Embeded
+ 
+	gLšux
+ 4.4. 
+‹chniÿl
+ 
+	gdocum’tiÚ
+}
+
+49 %\
+	gÃwcommªd
+{\
+	gdocUÁ”t™Ë
+}{} % 
+Keš
+ 
+	gUÁ”t™–
+
+
+50 % 
+A¹’
+ 
+d”
+ 
+	gArbe™
+: 
+Bach–Üthesis
+, 
+	gMa¡”thesis
+, 
+	gSemš¬¬be™
+, 
+	gDlom¬be™
+
+
+51 \
+	gÃwcommªd
+{\
+	gdocA¹D”Arbe™
+}{}
+
+52 %
+	gStud›ng«nge
+: 
+AÎgemeše
+ 
+InfÜm©ik
+ 
+Bach–Ü
+, 
+Compu‹r
+ 
+N‘wÜkšg
+ 
+	gBach–Ü
+,
+
+53 % 
+	gSoáw¬e
+-
+Produktmªagem’t
+ 
+	gBach–Ü
+, 
+Advªûd
+ 
+Compu‹r
+ 
+Scšeû
+ 
+	gMa¡”
+
+
+54 \
+	gÃwcommªd
+{\
+	gdocStud›ngªg
+}{}
+
+55 \
+	gÃwcommªd
+{\
+	gdocAbgabed©um
+}{
+	gA´
+ 2020}
+
+56 \
+	gÃwcommªd
+{\
+	gdocEr¡”Reã»Á
+}{}
+
+57 %\
+	gÃwcommªd
+{\
+	gdocZwe™”Reã»Á
+}{-} % 
+W’n
+ 
+es
+ 
+nur
+ 
+eš’
+ 
+B‘»u”
+ 
+	ggibt
+
+
+58 %\
+	gÃwcommªd
+{\
+	gdocZwe™”Reã»Á
+}{
+ZWEITER
+ 
+	gREFERENT
+}
+
+61 % 
+AÎgemeše
+ 
+	gPak‘e
+
+
+64 % 
+Abbdung’
+ 
+	gešbšd’
+
+
+65 \
+	gu£·ckage
+{
+	gg¿phicx
+}
+
+67 % 
+Zu§‘¦iche
+ 
+	gSÚd”zeich’
+
+
+68 \
+	gu£·ckage
+{
+	gdšgb©
+}
+
+70 % 
+	gF¬b’
+
+
+71 \
+	gu£·ckage
+[
+u£Çmes
+,
+dv¢ames
+,
+svgÇmes
+,
+bË
+]{
+	gxcŞÜ
+}
+
+73 % 
+Mask›rung
+ 
+vÚ
+ 
+URLs
+ 
+und
+ 
+	gD©eçd’
+
+
+74 \
+	gu£·ckage
+[
+hyph’s
+]{
+	gu¾
+}
+
+75 \
+	gu£·ckage
+[
+shÜtcuts
+]{
+	gextdash
+} %
+	gAÎow
+ -,ğ
+as
+ 
+hyph’s
+
+
+77 %
+This
+ 
+Deutsche
+ 
+Anfuehrungszeich’
+
+
+78 %\
+u£·ckage
+[
+bab–
+, 
+g”mª
+=
+quÙes
+]{
+csquÙes
+}
+
+79 \
+u£·ckage
+[]{
+csquÙes
+}
+
+81 % 
+Pak‹
+ 
+zur
+ 
+Index
+-
+Er¡–lung
+ (
+SchÏgwÜtv”zeichnis
+)
+
+82 \
+u£·ckage
+{
+šdex
+}
+
+83 \
+makešdex
+
+
+84 %\
+u£·ckage
+[
+xšdy
+]{
+imakeidx
+}
+
+86 % 
+Ipsum
+ 
+LÜem
+
+
+87 % 
+Pak‘
+ 
+wœd
+ 
+nur
+ 
+f
+Ã¼
+r
+ 
+das
+ 
+Bei¥›l
+ 
+geb¿ucht
+ 
+und
+ 
+kªn
+ 
+g–
+Ã¶
+scht
+ 
+w”d’
+
+
+88 \
+u£·ckage
+{
+lsum
+}
+
+90 \
+u£·ckage
+{
+äamed
+}
+
+93 % 
+Se™’fÜm©›rung
+
+
+95 \
+u£·ckage
+[
+
+96 
+pÜŒa™
+,
+
+97 
+bšdšgoff£t
+=1.5c
+m
+,
+
+98 
+šÃr
+=2.5c
+m
+,
+
+99 
+ou‹r
+=2.5c
+m
+,
+
+100 
+tİ
+=3c
+m
+,
+
+101 
+bÙtom
+=2c
+m
+,
+
+102 
+šşudeh—dfoÙ
+
+
+103 ]{
+	ggeom‘ry
+}
+
+105 \
+	gmak—‘‹r
+
+
+106 \
+	g»Ãwcommªd
+\
+	g£ùiÚ
+{\@
+	g¡¬t£ùiÚ
+
+
+107 {
+	g£ùiÚ
+}{1}{0
+	gmm
+}% % 
+	gÇme
+, 
+	geb’e
+, 
+	gešzug
+
+
+108 {2\
+	gba£lšesk
+}% % 
+	gvÜ
+-
+	gab¡ªd
+
+
+109 {1\
+	gba£lšesk
+}% % 
+	gÇch
+-
+	gab¡ªd
+
+
+110 {\
+	gbf£r›s
+\
+	gsfçmy
+}% % 
+	gÏyout
+
+
+112 \
+	gmak—tÙh”
+
+
+113 \
+	gmak—‘‹r
+
+
+114 \
+	g»Ãwcommªd
+\
+	gsub£ùiÚ
+{\@
+	g¡¬t£ùiÚ
+
+
+115 {
+	gsub£ùiÚ
+}{2}{0
+	gmm
+}% % 
+	gÇme
+, 
+	geb’e
+, 
+	gešzug
+
+
+116 {2\
+	gba£lšesk
+}% % 
+	gvÜ
+-
+	gab¡ªd
+
+
+117 {1\
+	gba£lšesk
+}% % 
+	gÇch
+-
+	gab¡ªd
+
+
+118 {\
+	gbf£r›s
+\
+	gsfçmy
+\
+	gnÜm®size
+} % 
+	gÏyout
+
+
+120 \
+	gmak—tÙh”
+
+
+123 % 
+	gKİf
+- 
+und
+ 
+	gFusszee
+
+
+126 \
+	gu£·ckage
+{
+	gçncyhdr
+}
+
+128 \
+	g·ge¡yË
+{
+	gçncy
+}
+
+129 \
+	gçncyhf
+{}
+
+130 \
+	gçncyh—d
+[
+EL
+,
+OR
+]{\
+	gsfçmy
+\
+	gth•age
+}
+
+131 \
+	gçncyh—d
+[
+ER
+,
+OL
+]{\
+	gsfçmy
+\
+	gËám¬k
+}
+
+133 \
+	gçncy·ge¡yË
+{
+	gh—dšgs
+}{}
+
+135 \
+	gçncy·ge¡yË
+{
+	g¶aš
+}{}
+
+137 \
+	gçncy·ge¡yË
+{
+	gem±y
+}{
+
+138 \
+	gçncyhf
+{}
+
+139 \
+	g»Ãwcommªd
+{\
+	gh—druËwidth
+}{0
+	g±
+}
+
+142 %
+	gKeš
+ "K­™– # NAME" 
+š
+ 
+d”
+ 
+	gKİfzee
+
+
+143 \
+	g»Ãwcommªd
+{\
+	gch­‹rm¬k
+}[1]{
+
+144 \
+	gm¬kbÙh
+{#1}{}
+
+145 \
+	gm¬kbÙh
+{\
+	gthech­‹r
+.\ #1}{}
+
+149 % 
+	gSchriá’
+
+
+152 % 
+Stdªd¬dschriá
+ 
+	gã¡Ëg’
+
+
+153 \
+	g»Ãwcommªd
+{\
+	gçmydeçuÉ
+}{\
+	gsfdeçuÉ
+}
+
+155 % 
+Snd¬d
+ 
+	gZe’ab¡ªd
+: 1,5 
+	gzeig
+
+
+156 \
+	gu£·ckage
+{
+	g£t¥aû
+}
+
+157 \
+	gÚeh®f¥acšg
+
+
+159 % 
+SchriágrÛs£n
+ 
+	gã¡Ëg’
+
+
+160 \
+	gaddtokomafÚt
+{
+	gch­‹r
+}{\
+	gsfçmy
+\
+	gÏrge
+\
+	gbf£r›s
+}
+
+161 \
+	gaddtokomafÚt
+{
+	g£ùiÚ
+}{\
+	gsfçmy
+\
+	gnÜm®size
+\
+	gbf£r›s
+}
+
+162 \
+	gaddtokomafÚt
+{
+	gsub£ùiÚ
+}{\
+	gsfçmy
+\
+	gnÜm®size
+\
+	gmd£r›s
+}
+
+163 \
+	gaddtokomafÚt
+{
+	gÿ±iÚ
+}{\
+	gsfçmy
+\
+	gnÜm®size
+\
+	gmd£r›s
+}
+
+166 % 
+	gInh®tsv”zeichnis
+ / 
+AÎgemeše
+ 
+	gV”zeichni£š¡–lung’
+
+
+169 % 
+CÚŒŞ
+ 
+bË
+ 
+of
+ 
+	gcÚ‹Ás
+, 
+	gfigu»s
+, 
+	gli¡šgs
+, 
+	g‘c
+
+
+170 \
+	gu£·ckage
+{
+	gtoşoá
+}
+
+172 % 
+Punk‹
+ 
+auch
+ 
+bei
+ 
+	gK­™–n
+
+
+173 \
+	g»Ãwcommªd
+{\
+	gcách­dÙ£p
+}{3}
+
+174 \
+	g»Ãwcommªd
+{\
+	gcádÙ£p
+}{3}
+
+176 % 
+Schriá¬t
+ 
+	gund
+ -
+grÛs£
+ 
+im
+ 
+Inh®tsv”zeichnis
+ 
+	gª·s£n
+
+
+177 \
+	g»Ãwcommªd
+{\
+	gcách­fÚt
+}{\
+	gsfçmy
+\
+	gnÜm®size
+}
+
+178 \
+	g»Ãwcommªd
+{\
+	gcá£cfÚt
+}{\
+	gsfçmy
+\
+	gnÜm®size
+}
+
+179 \
+	g»Ãwcommªd
+{\
+	gcásub£cfÚt
+}{\
+	gsfçmy
+\
+	gnÜm®size
+}
+
+180 \
+	g»Ãwcommªd
+{\
+	gcách­·gefÚt
+}{\
+	gsfçmy
+\
+	gnÜm®size
+}
+
+181 \
+	g»Ãwcommªd
+{\
+	gcá£ıagefÚt
+}{\
+	gsfçmy
+\
+	gnÜm®size
+}
+
+182 \
+	g»Ãwcommªd
+{\
+	gcásub£ıagefÚt
+}{\
+	gsfçmy
+\
+	gnÜm®size
+}
+
+184 %
+Ze’ab¡ªd
+ 
+š
+ 
+d’
+ 
+V”zeichnis£n
+ 
+	geš¡–Ën
+
+
+185 \
+	g£’gth
+{\
+	gcá·rsk
+}{.5\
+	gba£lšesk
+}
+
+186 \
+	g£’gth
+{\
+	gcábefÜech­sk
+}{.1\
+	gba£lšesk
+}
+
+189 % 
+Abbdungsv”zeichnis
+ 
+und
+ 
+	gAbbdung’
+
+
+192 \
+	gu£·ckage
+{
+	gÿ±iÚ
+}
+
+194 \
+	gu£·ckage
+{
+	gw¿pfig
+}
+
+196 % 
+Numm”›rung
+ 
+vÚ
+ 
+	gAbbdung’
+
+
+197 \
+	g»Ãwcommªd
+{\
+	gthefigu»
+}{\
+	g¬abic
+{
+	gfigu»
+}}
+
+199 % 
+Abbdungsv”zeichnis
+ 
+	gª·s£n
+
+
+200 \
+	g»Ãwcommªd
+{\
+	gcáfig´e¢um
+}{
+	gAbbdung
+ }
+
+201 \
+	g»Ãwcommªd
+{\
+	gcáfigaá”¢um
+}{:}
+
+203 % 
+B»™e
+ 
+des
+ 
+Numm”›rungsb”eiches
+ [
+Abbdung
+ 1:]
+
+204 \
+ÃwËngth
+{\
+figu»L’gth
+}
+
+205 \
+£‰owidth
+{\
+figu»L’gth
+}{\
+bf£r›s
+\
+cáfig´e¢um
+\
+cáfigaá”¢um
+}
+
+206 \
+£’gth
+{\
+cáfignumwidth
+}{\
+figu»L’gth
+}
+
+207 \
+£’gth
+{\
+cáfigšd’t
+}{0c
+m
+}
+
+209 % 
+Schriá¬t
+ 
+ª·s£n
+
+
+210 \
+»Ãwcommªd
+\
+cáfigfÚt
+{\
+sfçmy
+}
+
+211 \
+»Ãwcommªd
+\
+cáfig·gefÚt
+{\
+sfçmy
+}
+
+214 % 
+Tab–Ënv”zeichnis
+ 
+und
+ 
+Tab–Ën
+
+
+217 % 
+Numm”›rung
+ 
+vÚ
+ 
+Tab–Ën
+
+
+218 \
+»Ãwcommªd
+{\
+th‘abË
+}{\
+¬abic
+{
+bË
+}}
+
+220 % 
+Tab–Ënv”zeichnis
+ 
+ª·s£n
+
+
+221 \
+»Ãwcommªd
+{\
+cáb´e¢um
+}{
+Tab–Ë
+ }
+
+222 \
+»Ãwcommªd
+{\
+cábaá”¢um
+}{:}
+
+224 % 
+B»™e
+ 
+des
+ 
+Numm”›rungsb”eiches
+ [
+Abbdung
+ 1:]
+
+225 \
+ÃwËngth
+{\
+bËL’gth
+}
+
+226 \
+£‰owidth
+{\
+bËL’gth
+}{\
+bf£r›s
+\
+cáb´e¢um
+\
+cábaá”¢um
+}
+
+227 \
+£’gth
+{\
+cábnumwidth
+}{\
+bËL’gth
+}
+
+228 \
+£’gth
+{\
+cábšd’t
+}{0c
+m
+}
+
+230 %
+Schriá¬t
+ 
+ª·s£n
+
+
+231 \
+»Ãwcommªd
+\
+cábfÚt
+{\
+sfçmy
+}
+
+232 \
+»Ãwcommªd
+\
+cáb·gefÚt
+{\
+sfçmy
+}
+
+234 % 
+UÁ”drueckung
+ 
+vÚ
+ 
+v”tik®’
+ 
+Lš›n
+
+
+235 \
+u£·ckage
+{
+bookbs
+}
+
+238 % 
+Li¡šgs
+ (
+Qu–lcode
+)
+
+241 \
+u£·ckage
+{
+li¡šgs
+}
+
+242 \
+l¡lßdÏnguages
+{
+bash
+,
+	gPythÚ
+,
+	gC
+,C++,
+	gmake
+}
+
+244 %\
+	gÃwcommªd
+{\
+	gšşudesourû
+}[2][
+c
+]{\
+	gl¡špui¡šg
+[
+ÿ±iÚ
+=#2, 
+esÿ³ch¬
+=, 
+¡yË
+=
+cu¡om
+#1]{#2}<!---->}
+
+246 % 
+Lªguage
+ 
+defše
+ 
+	gšput
+
+
+247 \
+	gšput
+{
+	gcÚfigs
+/
+	gl¡¡yË
+.
+	gl¡def
+}
+
+248 \
+	gl¡defše¡yË
+{
+	gbash
+} {
+
+249 
+	gÏnguage
+=
+bash
+,
+
+250 
+	gbackgroundcŞÜ
+=\
+cŞÜ
+{
+G»y
+!10},
+
+251 
+	gkeywÜd¡yË
+=\
+cŞÜ
+{
+BlueViŞ‘
+}\
+bf£r›s
+,
+
+252 
+	gcomm’t¡yË
+=\
+cŞÜ
+{
+D¬kG»y
+},
+
+253 
+	g¡ršg¡yË
+=\
+cŞÜ
+{
+»d
+},
+
+254 
+	gshow¡ršg¥aûs
+=
+çl£
+,
+
+255 
+	gbasic¡yË
+=\
+sm®l
+\
+cŞÜ
+{
+BÏck
+},
+
+256 
+	gnumb”s
+=
+nÚe
+,
+
+257 
+	gÿ±iÚpos
+=
+b
+,
+
+258 
+	gbsize
+=2,
+
+259 
+	gb»aklšes
+=
+Œue
+,
+
+260 
+	gpo¡b»ak
+=\
+mbox
+{\
+‹xtcŞÜ
+{
+»d
+}{
+$
+\
+hookrigh¼ow$
+}\
+¥aû
+},
+
+261 
+	gäame
+=
+sšgË
+,
+
+262 
+	gäamexrightm¬gš
+=16
+±
+
+
+265 \
+	gdefšecŞÜ
+{
+	gcodeg»’
+}{
+	grgb
+}{0,0.6,0}
+
+266 \
+	gdefšecŞÜ
+{
+	gcodeg¿y
+}{
+	grgb
+}{0.5,0.5,0.5}
+
+267 \
+	gdefšecŞÜ
+{
+	gcod•u½Ë
+}{
+	grgb
+}{0.58,0,0.82}
+
+268 \
+	gdefšecŞÜ
+{
+	gbackcŞour
+}{
+	grgb
+}{0.95,0.95,0.92}
+
+270 \
+	gl¡defše¡yË
+{
+	gsourû
+}{
+
+271 
+	gbackgroundcŞÜ
+=\
+cŞÜ
+{
+backcŞour
+},
+
+272 
+	gcomm’t¡yË
+=\
+cŞÜ
+{
+codeg»’
+},
+
+273 
+	gkeywÜd¡yË
+=\
+cŞÜ
+{
+mag’
+},
+
+274 
+	gnumb”¡yË
+=\
+tšy
+\
+cŞÜ
+{
+codeg¿y
+},
+
+275 
+	g¡ršg¡yË
+=\
+cŞÜ
+{
+cod•u½Ë
+},
+
+276 
+	gbasic¡yË
+=\
+‰çmy
+\
+foÙnÙesize
+,
+
+277 
+	gb»ak©wh™e¥aû
+=
+çl£
+,
+
+278 
+	gb»aklšes
+=
+Œue
+,
+
+279 
+	gÿ±iÚpos
+=
+b
+,
+
+280 
+	gk“p¥aûs
+=
+Œue
+,
+
+281 
+	gnumb”s
+=
+Ëá
+,
+
+282 
+	gnumb”£p
+=5
+±
+,
+
+283 
+	gshow¥aûs
+=
+çl£
+,
+
+284 
+	gshow¡ršg¥aûs
+=
+çl£
+,
+
+285 
+	gshowbs
+=
+çl£
+,
+
+286 
+	gbsize
+=2,
+
+287 
+	gb»aklšes
+=
+Œue
+,
+
+288 
+	gpo¡b»ak
+=\
+mbox
+{\
+‹xtcŞÜ
+{
+»d
+}{
+$
+\
+hookrigh¼ow$
+}\
+¥aû
+},
+
+289 
+	gäame
+=
+sšgË
+,
+
+290 
+	gäamexrightm¬gš
+=16
+±
+
+
+293 \
+	gl¡£t
+{
+	g¡yË
+=
+bash
+}
+
+301 %\
+	gl¡£t
+{
+
+302 % 
+	gÏnguage
+=
+Bash
+, % 
+The
+ 
+Ïnguage
+ 
+ªd
+ 
+®so
+ 
+És£t
+ 
+	gÇme
+
+
+303 % 
+	gbackgroundcŞÜ
+=\
+cŞÜ
+{
+wh™e
+}, % 
+choo£
+ 
+the
+ 
+background
+ 
+	gcŞÜ
+; 
+you
+ 
+mu¡
+ 
+	gadd
+ \
+	gu£·ckage
+{cŞÜ} 
+	gÜ
+ \u£·ckage{
+	gxcŞÜ
+}; 
+should
+ 
+come
+ 
+as
+ 
+Ï¡
+ 
+	g¬gum’t
+
+
+304 % 
+	gcomm’t¡yË
+=\
+cŞÜ
+{
+g»’
+}, % 
+comm’t
+ 
+	g¡yË
+
+
+305 % 
+	g¡ršg¡yË
+=\
+cŞÜ
+{
+bÏck
+}, % 
+¡ršg
+ 
+l™”®
+ 
+	g¡yË
+
+
+306 % 
+	gnumb”¡yË
+=\
+tšy
+\
+cŞÜ
+{
+g¿y
+}, % 
+the
+ 
+¡yË
+ 
+th©
+ 
+is
+ 
+u£d
+ th
+	glše
+-
+	gnumb”s
+
+
+307 % 
+	gkeywÜd¡yË
+=\
+cŞÜ
+{
+blue
+}, % 
+¡yË
+ 
+of
+ 
+keywÜds
+ 
+š
+ 
+sourû
+ 
+Ïnguage
+ (
+e
+.
+g
+. 
+keywÜd¡yË
+=\cŞÜ{
+»d
+})
+
+308 % 
+»£tm¬gšs
+=
+çl£
+,%
+
+309 % 
+	gruË£pcŞÜ
+=\
+cŞÜ
+{
+bÏck
+},%
+
+310 % 
+	gbasic¡yË
+=\
+foÙnÙesize
+, % 
+the
+ 
+size
+ 
+of
+h
+fÚts
+ 
+th©
+ 
+¬e
+ 
+u£d
+ th
+code
+ (
+e
+.
+g
+. 
+basic¡yË
+=\
+‰çmy
+\
+sm®l
+)
+
+311 % 
+b»ak©wh™e¥aû
+=
+çl£
+, % 
+£ts
+ 
+autom©ic
+ 
+b»aks
+ 
+should
+ 
+Úly
+ 
+h­³n
+ 
+©
+ 
+	gwh™e¥aû
+
+
+312 % 
+	gb»aklšes
+=
+Œue
+, % 
+£ts
+ 
+autom©ic
+ 
+lše
+ 
+	gb»akšg
+
+
+313 % 
+	gpo¡b»ak
+=\
+mbox
+{\
+‹xtcŞÜ
+{
+»d
+}{
+$
+\
+hookrigh¼ow$
+}\
+¥aû
+},
+
+314 % 
+	gÿ±iÚpos
+=
+b
+, % 
+pos™iÚ
+ 
+of
+ 
+ÿ±iÚ
+ (
+t
+/b). 
+S‘s
+ 
+the
+ 
+	gÿ±iÚ
+-pos™iÚ 
+to
+ 
+	gbÙtom
+
+
+315 % 
+	gmÜekeywÜds
+={*,<
+somekeywÜd
+>}, % 
+you
+ 
+wªt
+ 
+to
+ 
+add
+ 
+mÜe
+ 
+keywÜds
+Ø
+the
+ 
+	g£t
+
+
+316 % 
+	gd–‘ekeywÜds
+={<
+somekeywÜd
+>}, % 
+you
+ 
+wªt
+ 
+to
+ 
+d–‘e
+ 
+keywÜds
+ 
+äom
+ 
+the
+ 
+giv’
+ 
+	gÏnguage
+
+
+317 % 
+	gesÿ³šside
+={\%*}{*)}, % 
+you
+ 
+wªt
+ 
+to
+ 
+add
+ 
+LaTeX
+ 
+w™hš
+ 
+your
+ 
+	gcode
+
+
+318 % 
+	gex‹ndedch¬s
+=
+Œue
+, % 
+Ëts
+ 
+you
+ 
+u£
+ 
+	gnÚ
+-
+ASCII
+ 
+	gch¬aù”s
+; 8-
+b™s
+ 
+’codšgs
+ 
+	gÚly
+, 
+dÛs
+ 
+nÙ
+ 
+wÜk
+ 
+w™h
+ 
+	gUTF
+-8
+
+319 % 
+	gfœ¡numb”
+=1000, % 
+¡¬t
+ 
+lše
+ 
+’um”©iÚ
+ 
+w™h
+ 
+	glše
+ 1000
+
+320 % 
+	gk“p¥aûs
+=
+Œue
+, % 
+k“ps
+ 
+¥aûs
+ 
+š
+ 
+	g‹xt
+, 
+u£ful
+ 
+k“pšg
+ 
+šd’tiÚ
+ 
+of
+ 
+code
+ (
+possibly
+ 
+Ãeds
+ 
+cŞumns
+=
+æexibË
+)
+
+321 % 
+numb”s
+=
+Ëá
+, % 
+wh”e
+ 
+to
+ 
+put
+ 
+the
+ 
+	glše
+-
+	gnumb”s
+; 
+possibË
+ 
+v®ues
+ 
+¬e
+ (
+nÚe
+,†eá, 
+right
+)
+
+322 % 
+	gshow¥aûs
+=
+çl£
+, % 
+show
+ 
+¥aûs
+ 
+ev”ywh”e
+ 
+addšg
+ 
+·¹icuÏr
+ 
+	gund”scÜes
+; 
+™
+ 
+	gov”rides
+ 'showstringspaces'
+
+323 % 
+	gshow¡ršg¥aûs
+=
+çl£
+, % 
+und”lše
+ 
+¥aûs
+ 
+w™hš
+ 
+¡ršgs
+ 
+	gÚly
+
+
+324 % 
+	gshowbs
+=
+çl£
+, % 
+show
+ 
+bs
+ 
+w™hš
+ 
+¡ršgs
+ 
+addšg
+ 
+·¹icuÏr
+ 
+	gund”scÜes
+
+
+325 % 
+	gbsize
+=2, % 
+£ts
+  
+bsize
+ 
+	gto
+ 2 
+	g¥aûs
+
+
+326 % 
+	gt™Ë
+=\
+l¡Çme
+ % 
+show
+ 
+the
+ 
+f’ame
+ 
+of
+ 
+fes
+ 
+šşuded
+ 
+w™h
+ \
+l¡špui¡šg
+; 
+®so
+ 
+Œy
+ 
+ÿ±iÚ
+ 
+š¡—d
+ ofitle
+
+327 % 
+	gnumb”£p
+ % 
+di¡ªû
+ 
+of
+ 
+	glše
+-
+numb”s
+ 
+äom
+ 
+the
+ 
+	gcode
+
+
+328 % 
+	g´eb»ak
+ % 
+di¥Ïyšg
+ 
+m¬k
+ 
+Ú
+ 
+the
+ 
+’d
+ 
+of
+ 
+b»akšg
+ 
+lše
+ (
+e
+.
+g
+. 
+´eb»ak
+=\
+¿i£box
+{0ex}[0ex][0ex]{\
+’su»m©h
+{\
+hookËá¬row
+}})
+
+329 % 
+äame
+=
+shadowbox
+ % 
+showšg
+ f¿m
+outside
+ 
+code
+ (
+nÚe
+/
+Ëálše
+/
+tİlše
+/
+bÙtomlše
+/
+lšes
+/
+sšgË
+/shadowbox)
+
+330 % 
+b»akwh™e¥aû
+ % 
+£ts
+ 
+autom©ic
+ 
+b»aks
+ 
+should
+ 
+Úly
+ 
+h­³n
+ 
+©
+ 
+wh™e¥aûs
+
+
+331 % 
+bsize
+ % absize
+
+332 % 
+esÿ³šside
+ % 
+¥ecify
+ 
+ch¬aù”s
+ 
+to
+ 
+esÿ³
+ 
+äom
+ 
+sourû
+ 
+code
+Ø
+LaTeX
+ (
+e
+.
+g
+.ƒscapeinside={\%*}{*)})
+
+333 % 
+ruËcŞÜ
+ 5 
+S³cify
+ 
+the
+ 
+cŞour
+ 
+of
+h
+äame
+-
+box
+
+
+334 % 
+äamexrightm¬gš
+=4
+±
+
+
+335 % 
+äamexËám¬gš
+=4
+±
+
+
+340 % 
+Bes£»
+ 
+V”b©im
+ 
+umgebung
+ 
+durch
+ 
+®Ét
+ umgebung 
+m™
+ 
+¡eu”zeich’
+ 
+w›
+ \
+‹xtbf
+.
+
+341 \
+u£·ckage
+{
+®Ét
+}
+
+345 % 
+TheÜeme
+
+
+348 % 
+Umgebung
+ 
+fu”
+ 
+Bei¥›Ë
+
+
+349 \
+ÃwtheÜem
+{
+bei¥›l
+}{
+Bei¥›l
+}
+
+351 % 
+Umgebung
+ 
+fu”
+ 
+The£
+
+
+352 \
+ÃwtheÜem
+{
+the£
+}{
+The£
+}
+
+354 % 
+Umgebung
+ 
+fu”
+ 
+Defš™iÚ’
+
+
+355 \
+ÃwtheÜem
+{
+defš™iÚ
+}{
+Defš™iÚ
+}
+
+358 % 
+L™”©urv”zeichnis
+
+
+361 %\
+u£·ckage
+[
+
+362 %]{
+bibg”m
+}
+
+364 \
+u£·ckage
+[
+back’d
+=
+bib”
+, %% 
+Hf¥rog¿mm
+ "bib”" (
+¡©t
+ "bibÏ‹x" 
+od”
+ "bibtex")
+
+365 %
+¡yË
+=
+authÜy—r
+, %% 
+Z™›r¡
+ (
+s›he
+ 
+Dokum’tiÚ
+)
+
+366 
+¡yË
+=
+®phab‘ic
+,
+
+367 %
+¡yË
+=
+num”ic
+,
+
+368 %
+¡yË
+=
+›“
+,
+
+369 
+Çtbib
+=
+Œue
+, %% 
+B”e™¡–Ën
+ 
+vÚ
+‚©bib-
+kom·tibËn
+ 
+Z™›rkommªdos
+
+
+370 
+hy³¼ef
+=
+Œue
+, %% hy³¼ef-
+Pak‘
+ 
+v”w’d’
+, 
+um
+ 
+Lšks
+ 
+zu
+ 
+”¡–Ën
+
+
+371 ]{
+bibÏ‹x
+}
+
+373 \
+addbib»sourû
+{
+bib‹x
+} %% 
+Ešbšd’
+ 
+d”
+ 
+bib
+-
+D©ei
+
+
+376 % 
+PDF
+ / 
+Dokum’‹nš‹º–šks
+
+
+379 \
+u£·ckage
+[
+
+380 
+cŞÜlšks
+=
+çl£
+,
+
+381 
+lškcŞÜ
+=
+»d
+,
+
+382 
+c™ecŞÜ
+=
+g»’
+,
+
+383 
+fecŞÜ
+=
+mag’
+,
+
+384 
+u¾cŞÜ
+=
+cyª
+,
+
+385 
+bookm¬ks
+=
+Œue
+,
+
+386 
+bookm¬ksİ’
+=
+Œue
+,
+
+387 
+bookm¬ksİ’Ëv–
+=3,
+
+388 
+bookm¬k¢umb”ed
+,
+
+389 
+¶aš·ges
+=
+çl£
+,
+
+390 
+pdåag–ab–s
+=
+Œue
+,
+
+391 
+hy³rfoÙnÙes
+,
+
+392 
+b»aklšks
+=
+Œue
+,
+
+393 
+pdá™Ë
+ ={\
+docT™Ë
+},
+
+394 
+pdçuthÜ
+={\
+docVÜÇme
+ \
+docNachÇme
+},
+
+395 
+pdfü—tÜ
+={
+M¬co
+ 
+I¤«l
+}
+
+396 ]{
+hy³¼ef
+}
+
+400 % 
+Glos¤ry
+
+
+402 \
+u£·ckage
+[
+aüÚym
+]{
+glos§r›s
+}
+
+403 \
+£tglos§ry¡yË
+{
+li¡hy³rgroup
+}
+
+404 \
+makeglos§r›s
+
+
+405 \
+lßdgl£Ár›s
+{
+cÚ‹Á
+/
+glos§ry
+} %
+Glos§ry
+ 
+š
+ 
+ex‹º”
+ 
+D©ei
+...
+
+409 % 
+New
+ 
+commªds
+
+
+411 \
+Ãwcommªd
+*{\
+fuÎ»f
+}[1]{\
+hy³¼ef
+[{#1}]{\
+autÜef
+*{#1} {
+Ú
+ 
+·ge
+}~\
+·g”ef
+*{#1}{;}
+
+412 \
+Çm”ef
+*{#1} }}
+
+413 %\
+Ãwcommªd
+*{\
+Çm•ag”ef
+}[1]{\
+hy³¼ef
+[{#1}]{\
+Çm”ef
+*{#1} \
+·g”ef
+*{#1} }}
+
+415 \
+»Ãwcommªd
+\
+desütiÚÏb–
+[1]{
+$
+\
+buÎ‘
+ $\
+‹xt™
+{\
+‹xtbf
+{#1}}}
+
+416 \
+»Ãwcommªd
+\
+desütiÚÏb–
+[1]{\
+‹xt™
+{\
+‹xtbf
+{#1}}}
+
+417 %\
+»Ãwcommªd
+\
+desütiÚÏb–
+[1]{
+$
+\
+buÎ‘
+ $\
+‹xt™
+{\
+‹xtbf
+{#1}}}
+
+420 \
+£tcouÁ”
+{
+bibu¾lı’®ty
+}{5000}
+
+421 \
+£tcouÁ”
+{
+bibu¾uı’®ty
+}{6000}
+
+423 \
+Ãwcommªd
+{\
+cfbox
+}[2]{%
+
+424 \
+cŞÜËt
+{
+cu¼’tcŞÜ
+}{.}%
+
+425 {\
+cŞÜ
+{#1}%
+
+426 \
+fbox
+{\
+cŞÜ
+{
+cu¼’tcŞÜ
+}#2}}%
+
+430 \
+begš
+{
+docum’t
+}
+
+431 \
+Ïb–
+{
+cha
+:
+soáw¬e
+}
+
+432 
+The
+ 
+QT4
+ 
+ba£d
+ 
+Soáw¬e
+ 
+ÿrgo
+ 
+cÚŒŞ
+ 
+soáw¬e
+ 
+by
+ 
+T–aœ
+ 
+IÁ”ÇtiÚ®
+ 
+GmbH
+ 
+was
+
+
+433 \
+’d
+{
+docum’t
+}
+
+	@/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/usb.tex
 
 	@
 1
 .
 1
 /usr/include
-17
-1820
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/bibtex.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/preamble.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/configs/title.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/abbreviations.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/ausbilck.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/einleitung.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/final_images.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/glossary.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/grundlagen.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/locations.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/overview.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/patches.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/scripts.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/setup_buildhost.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/content/setup_uboot.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/main.tex
-/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/cp706790/usb.tex
+20
+2303
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/bibtex.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/configs/preamble.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/configs/title.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/abbreviations.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/basics.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/final_images.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/glossary.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/introduction.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/lcd_timings.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/locations.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/outlook.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/overview.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/patches.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/prepare_sdcard.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/setup_buildhost.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/setup_uboot.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/content/software_cp79070.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/main.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/main_vimtex_selected.tex
+/ptxdist/projects/TQMaxx.BSP.SW.REV.0119/TQMaxx.BSP.SW.SRC.0119/documentation/telair_cp790760/usb.tex

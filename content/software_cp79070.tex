@@ -20,8 +20,8 @@ dependencies to Linux 4.
 
 
 All changes are preformed by use of C macros inside the original files, whereas
-its corespondent values encapsulated into new file inside the software folder
-(\fullref{part:location_cp790760_software}).
+its corespondent values encapsulated into new file inside the software folder.
+\footnotemark[1]
 
 \begin{alltt}
     \textbf{<cp790760\_softwareroot>/\textbf{linuxversion\_dependencies.h}}
@@ -47,7 +47,7 @@ other checks were preformed.
 \section{How to change the Software}%
 \label{sec:software_change}
 To edit the software sources, change to the software location inside the PTXdist
-project. (\fullref{part:location_cp790760_software}). There you can edit the
+project. \footnotemark[1]. There you can edit the
 sources with your favorite editor or \glsshortkey{IDE}. The software can be
 compiled by PTXdist.
 
@@ -58,8 +58,9 @@ PTXDist does not check every single file and folder inside your project against
 integrity like manual changes. This would be much to time intensive. That is
 why you need to inform PTXDist yourself about your changes.
 
-Therefor first change to you <projectroot> directory and run afterwards:
-(See \fullref{part:location_cp790760_software}).
+Therefor first change to you <projectroot> directory and run afterwards
+\footnotemark[1]:
+
 
 
 \bigbreak%
@@ -80,3 +81,5 @@ user@machine:  ptxdist targetinstall telair-cp_790760_1
 Generation of howl images is described in \fullref{sec:final_images_generation}.
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\footnotetext[1]{See \fullref{part:location_cp790760_software}}

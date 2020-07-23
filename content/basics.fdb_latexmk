@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1592592453 "basics.tex" "basics.pdf" "basics" 1592592453
+  "/etc/texmf/web2c/texmf.cnf" 1591365171 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503347518 31075 dbb81bd39d798acf14cc121a151f7fe7 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1503347518 31075 dbb81bd39d798acf14cc121a151f7fe7 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1591457922 1006173 a1aae087c4d39992a64a44c820d46d1c ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1591452210 1342095 7433bd1364a08a435f5bc07d6cf3e725 ""
+  "basics.aux" 1592592453 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "basics.tex" 1592555823 9466 94b24010ce7f8fe05098c63a203ac250 ""
+  (generated)
+  "basics.pdf"
+  "basics.log"

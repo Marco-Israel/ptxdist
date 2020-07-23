@@ -307,5 +307,11 @@ hyperref=true, %% hyperref-Paket verwenden, um Links zu erstellen
     \colorlet{currentcolor}{.}%
     {\color{#1}%
     \fbox{\color{currentcolor}#2}}%
+
+%Alphanumerische Zahl als Römische Zahl ausgeben.
+\newcommand{\uroman}[1]{\uppercase\expandafter{\romannumeral#1}}
+\newcommand{\lroman}[1]{\romannumeral#1\relax}
+
 }
-% ### EOF ##########################################
+% ## #EOF ##########################################
+

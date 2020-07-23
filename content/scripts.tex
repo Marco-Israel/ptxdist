@@ -1,57 +1,72 @@
-\chapter{SDCard partion layout, format and installation}%
-\label{cha:sdcard}
+\chapter{Scripts by Telair}%
+\label{cha:scripts}
 
-To get the SDCard running following steps are required described in the
-next sub chapters.
+\footnotetext[1]{\fullref{part:location_scripts}}
+\footnotetext[2]{\fullref{part:location_finalimage}}
 
-\begin{enumerate}
-    \item Create a partion layout.
-    \item Format the SDCard partions.
-    \item Install the Files into the Partions
-\end{enumerate}
+Some helper scripts exists, written by Telair International GmbH to make working
+with PTXDist and usage easier for the user in kind of building kernel and
+software as also to build up a bootable sdCard. All the scripts you will find in
+the tools telair folder~\footnotemark[1].
 
+\section{Build a bootable image }%
+\label{sec:build_image_script}
+To build a howl --- ready to use --- image with predefined partions and pre
+installed software and content use the script.
 
-\section{Partion layout creation}%
-\label{sub:sdcard_layout}
-The SDCard needs to have the following four partions. The ordering is important.
+\begin{itemize}
+    \item   sdCard\_generateFlashableImagefile.sh
+\end{itemize}
+
+It will generate an image into the image directory~\footnotemark[2].
+
+This image can be copied directly to the SDCard. You can therefore the
+script below or an other tool which is able to copy block wise bootable images
+to devices. For example like:
 
 \begin{description}
-    \item[1. Boot] The first partion. Holding the Bootloaders (u-Boot, MLO),
-        the zImage and uImage (both are compressed Linux kernels, ones needed
-        for the u-boot) and the Linux device tree blob.
-    \item[2. RootFS] The second partion. This is holding the complete Linux
-        \gls{rootfs}.
-    \item[3. Data] The third partion. This holds the cp790760 data files needed
-        by the application. Like pictures or configuration files.
-    \item[4. Log] The fourth partion. This partion is holding all log files
-        created by the cp790760 application and the Linux kernel.
+    \item[Linux] Linux standard Tool dd. See \textit{man 1 dd}. For example
+        dd if=<youImage> of=<yourDevice> bs=1M status=progress
+\item[Windows] Use WinImage. See~\cite{win32DiskImager}
 \end{description}
 
 
-\section{Formatting the SDCard}%
-\label{sub:sdcard_format}
-The SDCard partions need to have the follow format types in the table below.
+\section{Copy an Image from/to SD Cards}%
+\label{sec:sdCard_flashImage}
+An script is available~\footnotemark[1] to copie (flashes) an Image file to an
+SD Card.
 
-\begin{table}
-\centering
-{\rowcolors{3}{blue!80!white!50}{blue!70!white!40}
-    \begin{tabular}{ | c | l | c | }
-        \hline
-        \rowcolor{lightgray} \multicolumn{3}{|c|}{Partion formats} \\
-        \hline
-        \textbf{ID} & {\bfseries Partion name} & {\bfseries Partion format} \\
-        \hline
-         1 & Boot & vFat \\
-         2 & RootFs & ext4 \\
-         3 & Data & vFat \\
-         4 & Log & vFat \\
-        \hline
-    \end{tabular}
-}
-\caption{This is a table}
-\label{tab:partion_formats}
-\end{table}
+\begin{itemize}
+    \item sdCard\_installImage.sh
+\end{itemize}
 
-\section{Installing the application}%
-\label{sec:sdcard_appinstall}
-There have to be installed (copy) different files to to the different partions.
+
+\section{Partion am SD Card}%\label{cha:partion_script}
+To build a empty bootable SDCard with four partions (boot, rootFS, data, log).
+This is only needed if you like to build the SDCard from scratch. Use the
+therefor the script located in telair tools directory~\footnotemark[1] called:
+\begin{itemize}
+    \item   sdCard\_createPartions.sh
+\end{itemize}
+
+If you can afterwards fill up the partions by a script below.
+
+
+\section{Fill up the SD Card}%\label{part:copyfiles_script}
+    To add (install) all needed files to the right partions and locations
+    on a preformated bootable sdCard (applications, kernel, bootloaer, data,
+    others) use the script~\footnotemark[1]:
+\begin{itemize}
+    \item sdCard\_fillupPartions.sh
+\end{itemize}
+
+\section{Build All}%
+\label{sec:build_all}
+An script (wrapper to PTXDist and telair scripts) exists, which recompiles the
+CP\_760790 Software for you and builds finally an ready to flash image file
+\footnotemark[1].
+\begin{itemize}
+    \item telair\_buildAll.sh
+\end{itemize}
+
+Optional this script can copy also the image on an SDCard if exists.
